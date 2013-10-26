@@ -1,0 +1,59 @@
+<!-- vim: set indentexpr=:   -->
+<div class="entry" title="2007-11-17: Re: Networking problem">
+
+<p>
+Hi srlamb! Thanks for your response. Now here to the answers.
+</p>
+
+<ol>
+<li>
+I don't know if I can ping the host, because it doesn't normally answer to
+pings, either.
+</li>
+<li>
+I have <a href="http://freehackers.org/~shlomif/files/files/www.sf.org-conn-problem/">two 
+"good" and "bad" packet captures</a>, which I've recorded using Ethereal.
+Hope it helps.
+</li>
+<li>
+Regarding the hub - I'll need to get a hub first. At the moment all
+I have is a small switch.
+</li>
+<li>
+Regarding the last packet - see my Ethereal dumps.
+</li>
+<li>
+I haven't tried UDP, but I don't think there's a UDP service running on the
+host. I can try asking my hostmaster to run a simple UDP server there.
+</li>
+<li>
+Regarding iptables:<br />
+<pre>
+[root@telaviv1 ~]# iptables -L
+Chain INPUT (policy ACCEPT)
+target     prot opt source               destination
+
+Chain FORWARD (policy ACCEPT)
+target     prot opt source               destination
+
+Chain OUTPUT (policy ACCEPT)
+target     prot opt source               destination
+</pre>
+</li>
+<li>
+What is Explicit Congestion Notification?
+</li>
+<li>
+I haven't tried "going straight to the Internet". I'm connected vis ADSL
+and PPPoE. In any case, I don't think I can connect my computer to the Internet
+this way for long enough in order to exhibit the problem, without neutralising
+the Internet usage of the rest of my household.
+</li>
+<li>
+I haven't tried upgrading the NAT box's firmware. However, now that I checked
+<a href="http://www.sweex.com/producten.php?sectie=&amp;subsectie=&amp;item=80&amp;artikel=892&amp;detail=d">there
+don't seem to be any updates for it</a>, yet.
+</li>
+</ol>
+</div>
+
