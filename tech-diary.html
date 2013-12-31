@@ -3536,6 +3536,64 @@ GNU Guile into the Linux kernel.
 
 </div>
 
+<div class="entry" id="tech-tip-merging-bookmarks-from-a-different-Firefox-Profile">
+
+<!-- Tags: tech tip, tech, tip, firefox
+-->
+
+<h2>2013-12-31: Tech Tip: Combining/Merging Bookmarks From a Different Firefox Profile</h2>
+
+<p>
+Happy New Civil Year!
+Let’s suppose you collected some bookmarks in a different <a
+href="http://getfirefox.com/">Firefox</a> profile (possibly on a different
+computer or system, or in a different profile), and wish to place them
+somewhere under your current or main profile’s bookmark tree - how can it
+be done? I had a need for that and in this entry, I describe a solution that worked for me.
+</p>
+
+<ol>
+
+<li>
+<p>
+First of all export your bookmarks from the source profile to a JSON
+file (“Bookmarks → Show All Bookmarks → Import and Backup → Backup…”)
+</p>
+</li>
+
+<li>
+<p>
+Create a new Firefox profile in the machine of the target profile.
+(see <a href="https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data?redirectlocale=en-US&redirectslug=Profiles">this page</a>
+for more information about Firefox profiles.).
+</p>
+</li>
+
+<li>
+<p>
+Import the bookmarks from the JSON file to it (while overriding the default
+bookmarks).
+</p>
+</li>
+
+<li>
+<p>
+Copy all the folders you want to merge to the system clipboard
+(<code>Ctrl+C</code> or equivalent).
+</p>
+</li>
+
+<li>
+<p>
+Paste them into the default profile’s bookmark manager.
+</p>
+</li>
+</ol>
+
+<p>
+Then all you need to do is sort them. Cheers!
+</p>
+</div>
 <script type="text/javascript"> $("div[id]").each(function(i){ $(this).prepend(
 ' <span class="selfl">[<a href="#' + this.id + '">link</a>]</span>' ) })
 </script>
