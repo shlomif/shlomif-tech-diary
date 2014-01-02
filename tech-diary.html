@@ -3596,6 +3596,51 @@ Then all you need to do is sort them. Cheers!
 
 </div>
 
+<div class="entry" id="tech-tip-rsync-to-help-mitigate-long-git-clones">
+
+<!-- Tags: tech tip, tech, tip
+-->
+
+<h2>2013-12-31: Tech Tip: Mitigating “git clone”’s inability to be resumed using rsync</h2>
+
+<p>
+Happy new civil year, everyone. As you may know
+<a href="https://en.wikipedia.org/wiki/Git_%28software%29">Git</a> is
+a distributed version control system, but its often time-consuming (if the
+repository’s history is large) “git clone” operation cannot be resumed, which
+is a problem with bad Internet connections. There was a service that did
+“git clone” and then allowed people to download using HTTPS Called “Git
+bundler” but it has been down for sometime now. However, I found a different
+solution to the problem.
+</p>
+
+<p>
+What can be done is use
+<a href="https://en.wikipedia.org/wiki/Secure_Shell"><b>ssh</b></a>
+to log in to a remote host, where the “git clone” is performed (preferably,
+but not absolutely necessarily, when running on top of a session of
+<a href="https://en.wikipedia.org/wiki/Tmux">tmux</a>,
+<a href="https://en.wikipedia.org/wiki/GNU_Screen">GNU Screen</a> or
+similar). After that, you can use
+<a href="https://en.wikipedia.org/wiki/Rsync">rsync</a> over ssh to download
+the .git directory to the local workstation (I like to use
+the invocation <code>rsync -a --progress -v --inplace</code> for that).
+</p>
+
+<p>
+Following that all you have to do is run git clone to a different directory
+to the one where you put the <code>.git</code> and set “git remote” appropriately.
+</p>
+
+<p>
+Hope that helps, and the same can be done with other distributed version
+control systems such as
+<a href="https://en.wikipedia.org/wiki/Mercurial">Mercurial</a>,
+or <a href="https://en.wikipedia.org/wiki/Bazaar_%28software%29">Bzr</a>.
+</p>
+
+</div>
+
 <script type="text/javascript"> $("div[id]").each(function(i){ $(this).prepend(
 ' <span class="selfl">[<a href="#' + this.id + '">link</a>]</span>' ) })
 </script>
