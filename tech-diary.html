@@ -3641,6 +3641,34 @@ or <a href="https://en.wikipedia.org/wiki/Bazaar_%28software%29">Bzr</a>.
 
 </div>
 
+<div class="entry" id="tech-tip-empty-div-in-XHTML-served-as-text-slash-html">
+
+<!-- Tags: tech tip, tech, tip, web
+-->
+
+<h2>2014-01-02: Tech Tip: Empty &lt;div&gt; tag in XHTML served as text/html</h2>
+
+<p>
+If you serve <a href="https://en.wikipedia.org/wiki/XHTML">XHTML</a> (= HTML
+written using XML grammar and conventions) as
+<code>Content-Type: text/html</code>, you may be tempted to write an empty
+<code>&lt;div&gt;</code> tag as a standalone XML tag with a trailing
+slash using <code>&lt;div id="my_anchor" /&gt;</code>. Don’t do that, and
+instead write a pair of opening and closing tags, e.g:
+<code>&lt;div id="my_anchor"&gt;&lt;/div&gt;</code>.
+</p>
+
+<p>
+Using the first form confused both Firefox (24.2.x in my case) and Google
+Chromium (whatever shipped with Mageia at the time), and made them misrender
+my page, despite the fact that it validated as valid XHTML. Perhaps I should
+have considered putting the <code>id=".."</code> inside a meaningful
+sub-section of the document, but I implemented something for skipping a
+section navigation menu.
+</p>
+
+</div>
+
 <script type="text/javascript"> $("div[id]").each(function(i){ $(this).prepend(
 ' <span class="selfl">[<a href="#' + this.id + '">link</a>]</span>' ) })
 </script>
