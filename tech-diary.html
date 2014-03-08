@@ -3669,6 +3669,68 @@ section navigation menu.
 
 </div>
 
+<div class="entry" id="tech-tip-resetting-glib-gtk-default-apps">
+
+<!-- Tags: tech tip, tech, tip, linux, firefox
+-->
+
+<h2>2014-03-08: Tech Tip: Resetting the GLib/Gtk+ Default Apps on Linux (e.g: the Default Browser)</h2>
+
+<p>
+In this tip, I would like to describe how to reset the default apps, and
+especially the default browser, for
+<a href="https://en.wikipedia.org/wiki/GLib">GLib</a> and
+<a href="https://en.wikipedia.org/wiki/GTK%2B">GTK+</a>. These
+are used by the desktops like GNOME and XFCE, and by GTK+ applications
+such as HexChat or claws-mail. My problem originally was that I accidentally
+pressed the "Yes" button when Firefox Nightly (installed under a prefix
+under <code>/opt</code>) asked me whether I should set it as the default
+browser, which caused HexChat and Claws-Mail to open links using it by
+default.
+</p>
+
+<p>
+Anyway, to resolve this problem do this:
+</p>
+
+<ol>
+<li>
+<p>
+Go to <code>~/.local/share/applications</code>.
+</p>
+</li>
+<li>
+<p>
+Backup this directory somewhere safe.
+</p>
+</li>
+<li>
+<p>
+The <code>mimeapps.list</code> file contains the reference to use the offending
+apps under the <code>*.desktop</code> files there which you can search
+for the reference to the apps.
+</p>
+</li>
+
+<li>
+<p>
+Remove these line or their portions from <code>mimeapps.list</code>.
+</p>
+</li>
+
+</ol>
+
+<p>
+Now you may need to restart the desktop apps or the desktop environment (not
+sure).
+</p>
+
+<p>
+Hope it helps.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 </body>
 </html>
