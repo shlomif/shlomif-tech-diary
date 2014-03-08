@@ -3729,6 +3729,15 @@ sure).
 Hope it helps.
 </p>
 
+<p>
+Here’s how I found it: after some false leads of either
+trying to recursively search my home directory for occurrences of
+<code>/opt/firefox</code> and reading the source code of HexChat, GLib
+and gtk+ to see where this happens (there were too many levels of indirection
+there), I ended up doing “strace -f -o hexchat.strace hexchat” and inspecting
+the strace file for hints.
+</p>
+
 </div>
 
 <script type="text/javascript" src="anchors.js"></script>
