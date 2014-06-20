@@ -2,7 +2,7 @@ Hi all,
 
 Abstract: This document details a plan for how [Summer Glau](http://en.wikipedia.org/wiki/Summer_Glau) can interact with her fans online in a mostly safe and secure manner.
 
-On the Internet, making sure you can interact on social media outlets is a hard problem. For Summer Glau, it proved to be difficult difficult. Nevertheless, there are some effective strategies she (and other public figures) could take to be able to interact with her fans, and still remain secure.
+On the Internet, making sure you can interact on social media outlets is a hard problem. For Summer Glau, it proved to be difficult. Nevertheless, there are some effective strategies she (and other public figures) could take to be able to interact with her fans, and still remain secure.
 
 (19:23:47) shlomif@gmail.com/5B747E64: Ok.
 
