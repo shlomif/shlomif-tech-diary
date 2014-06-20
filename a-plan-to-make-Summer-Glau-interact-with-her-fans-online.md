@@ -18,4 +18,6 @@ Here are my points:
 
 4. Regarding handling online criticism which may be the hardest part for a person. We can learn a little from the story of [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord), a young (1992-born) YouTube singer and performer, and a very inspiring person, who, while being a complete extrovert on camera and on stage, testified that she is shy in real life and lack the confidence to join a conversation. So she has an opposite problem from Summer’s.
 
-What is the solution? Take a deep breath and go for it. Expect to fail at first, but remember [Samuel Beckett’s words](https://en.wikiquote.org/wiki/Samuel_Beckett#Worstward_Ho_.281983.29)
+What is the solution? Take a deep breath and go for it. Expect to fail at first, but remember [Samuel Beckett’s words](https://en.wikiquote.org/wiki/Samuel_Beckett#Worstward_Ho_.281983.29) that “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” and that practice makes perfect and that you are allowed to “fail” and make a bad impression.
+
+Another useful piece of advice is to study [the Cognitive Therapy approach to handling criticism](http://unarmed.shlomifish.org/909.html) (also see the comments and the discussion on that page), which helps a lot.
