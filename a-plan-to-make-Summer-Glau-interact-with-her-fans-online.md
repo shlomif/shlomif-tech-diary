@@ -10,7 +10,7 @@ Here are my points:
 
 1. Summer should definitely avoid Facebook, because its scope is too big, it is too buggy (including some strange bugs that occur and disappear at random), and its APIs keep getting broken. Google-Plus should provide a useful alternative along with [reddit](http://reddit.com/), Twitter, [Freenode](http://freenode.net/), YouTube, etc.
 
-2. Summer can ask or even hire a resident computer/software/hardware geek to help her with the technicalities of interacting on such mediums. Being independent does not mean that one does not ask for help or even pays for it, or ask or pays for advice. This is not https://en.wikipedia.org/wiki/Feudalism taken to its natural extreme. Instead, what independence means is that one makes their own decisions and takes responsibility for their actions.
+2. Summer can ask or even hire a resident computer/software/hardware geek to help her with the technicalities of interacting on such mediums. Being independent does not mean that one does not ask for help or even pays for it, or ask or pays for advice. This is not [Feudalism](https://en.wikipedia.org/wiki/Feudalism) taken to its natural extreme. Instead, what independence means is that one makes their own decisions and takes responsibility for their actions.
 
 Note that I’m not trying to imply that Summer is necessarily still lacking the technical know-how. I’m almost sure she can, after overcoming some amount of initial difficulty, or has already become inclined in using such computer technology. The vast majority of people can with the right attitude.
 
