@@ -12,12 +12,18 @@ Here are my points:
 
 2. Summer can ask or even hire a resident computer/software/hardware geek to help her with the technicalities of interacting on such mediums. Being independent does not mean that one does not ask for help or even pays for it, or ask or pays for advice. This is not https://en.wikipedia.org/wiki/Feudalism taken to its natural extreme. Instead, what independence means is that one makes their own decisions and takes responsibility for their actions.
 
+Note that I’m not trying to imply that Summer is necessarily still lacking technical know-how. I’m almost sure she can or has already become inclined in using technology, after overcoming some amount of initial difficulty. The vast majority of people can with the right attitude.
+
 3. I suggest that Summer will use a mostly secure, popular and mainstream, Linux distribution such as [Linux Mint](https://en.wikipedia.org/wiki/Linux_Mint), to be more cautious. Many Linux distributions are relatively easy to use and I heard of some grandmothers past their 70th birthday, who are using them, because they have the right attitude. And one can always [get help online](http://www.shlomifish.org/philosophy/computers/how-to-get-help-online/) or ask or hire a resident technical guru for help.
 
 (Note: I am using Mageia Linux, and while I like it and enjoy contributing to it, it is currently suffering from a lack of contributors and mainstream popularity and acceptance, and so I’d rather recommend something else in this case.)
 
 4. Regarding handling online criticism which may be the hardest part for a person. We can learn a little from the story of [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord), a young (1992-born) YouTube singer and performer, and a very inspiring person, who, while being a complete extrovert on camera and on stage, testified that she is shy in real life and lack the confidence to join a conversation. So she has an opposite problem from Summer’s.
 
-What is the solution? Take a deep breath and go for it. Expect to fail at first, but remember [Samuel Beckett’s words](https://en.wikiquote.org/wiki/Samuel_Beckett#Worstward_Ho_.281983.29) that “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” and that practice makes perfect and that you are allowed to “fail” and make a bad impression.
+What is the solution? Take a deep breath and go for it. Expect to fail at first, but remember [Samuel Beckett’s words](https://en.wikiquote.org/wiki/Samuel_Beckett#Worstward_Ho_.281983.29) that “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.”
+
+Practice makes perfect, and you are allowed to “fail” and make a bad impression, and “Rome was not built in a day”. Furthermore, one should never let one’s fear of being hurt emotionally paralyzes them, because it prevents future growth.
 
 Another useful piece of advice is to study [the Cognitive Therapy approach to handling criticism](http://unarmed.shlomifish.org/909.html) (also see the comments and the discussion on that page), which helps a lot.
+
+5. Finally, I should note that I and most of the other fans of Summer will like her and love her, no matter what she does, as long as it’s not something really crazy like murdering someone, or driving while being drunk, which she is extremely unlikely to do. As the old fable of [“The miller, his son, and the donkey”](https://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey) shows, it is impossible to please everybody at any given moment, so you shouldn’t even try. Even if Summer stars in a hardcore pornographic film (I know - extremely farfetched), I will accept her, and won’t think less of her, because it’s her body, and her life, and she’s still going to remain a wonderful lady. See my [tweet about treating all women as ladies](https://twitter.com/shlomif/status/478025441983213569) .
