@@ -2,7 +2,9 @@ Hi all,
 
 Abstract: This document details a plan for how [Summer Glau](http://en.wikipedia.org/wiki/Summer_Glau) can interact with her fans online in a mostly safe and secure manner.
 
-This is a mostly technical plan for how Summer Glau, the Hollywood actress, will be able to effectively interact with her fans online on various social media outlets, for her benefit and for ours as her fans and supporters.
+On the Internet, making sure you can interact on social media outlets is a hard problem. For Summer Glau, it proved to be difficult difficult. Nevertheless, there are some effective strategies she (and other public figures) could take to be able to interact with her fans, and still remain secure.
+
+(19:23:47) shlomif@gmail.com/5B747E64: Ok.
 
 From what I heard about Summer in previous discussions on /r/SummerGlau , she used to have a private Facebook account which was repetitively compromised, and also that she used to have a site that is now offline (possibly with forums), and also that as a former [Ballerina](https://en.wikipedia.org/wiki/Ballet) she found it hard to take such harsh criticism online. So I’ll try to deal with each problem in turn.
 
@@ -30,4 +32,5 @@ Another useful piece of advice is to study [the Cognitive Therapy approach to ha
 
 ----
 
-In any case, in this day and age, having a good online presence is extremely helpful for publicity, success, and for one’s inspiration and competence, and I wish the best for Summer, so I think she should consider taking most or all of this advice.
+It’s not 100% straightforward, but not too hard either, and I hope I have explained how it can be done. In this day and age, having a good online presence is extremely helpful for publicity, success, and for one’s inspiration and competence, and I wish the best for Summer, so I think she should consider taking most or all of this advice.
+
