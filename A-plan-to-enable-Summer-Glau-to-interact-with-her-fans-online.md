@@ -6,7 +6,7 @@ On the Internet, making sure you can interact on social media outlets is a hard 
 
 (19:23:47) shlomif@gmail.com/5B747E64: Ok.
 
-From what I heard about Summer in previous discussions on /r/SummerGlau , she used to have a private Facebook account which was repetitively compromised, and also that she used to have a site that is now offline (possibly with forums), and also that as a former [Ballerina](https://en.wikipedia.org/wiki/Ballet) she found it hard to take such harsh criticism online. So I’ll try to deal with each problem in turn.
+From what I heard about Summer in previous discussions on /r/SummerGlau , she used to have a private Facebook account which was repetitively compromised, and also that she used to have a site that is now offline (possibly with forums), and also that she found it hard to cope with such harsh criticism on Internet venues. Thus, I’ll try to deal with each problem in turn.
 
 Here are my points:
 
