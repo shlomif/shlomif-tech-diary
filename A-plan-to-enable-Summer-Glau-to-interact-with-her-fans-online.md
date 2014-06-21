@@ -20,7 +20,11 @@ Note that I’m not trying to imply that Summer is necessarily still lacking the
 
 (Note: I am using Mageia Linux, and while I like it and enjoy contributing to it, it is currently suffering from a lack of contributors and mainstream popularity and acceptance, and so I’d rather recommend something else in this case.)
 
-4. Regarding handling online criticism which may be the hardest part for a person to do. We can learn a little from the story of [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord), a young (1992-born) YouTube singer and performer, and a very inspiring person, who, while being a complete extrovert on camera and on stage, testified that she is shy in real life and that she lacks the confidence to join a conversation. So she has an opposite problem from Summer’s.
+4. Summer should use a different password for every site. One option would be to use a password management service (see https://en.wikipedia.org/wiki/Password_manager ), and as noted in [this xkcd issue](http://xkcd.com/936/) one can easily use long and mostly meaningful passwords instead of short and obscure ones, but Summer should make sure to use a radically different one for each site.
+
+I wouldn’t worry about the NSA spying on you or Summer or whoever, because even if they can, they are practically a black hole of information. See my [NSA factoids page](http://www.shlomifish.org/humour/bits/facts/NSA/) and the [“#SummerNSA” hashtag](https://twitter.com/search?src=typd&q=%23SummerNSA) (originally short for “Summerschool at the NSA”) for some more insights, and as is well understood a person who is too paranoid about security is miserable, and a miserable person is insecure.
+
+5. Regarding handling online criticism which may be the hardest part for a person to do. We can learn a little from the story of [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord), a young (1992-born) YouTube singer and performer, and a very inspiring person, who, while being a complete extrovert on camera and on stage, testified that she is shy in real life and that she lacks the confidence to join a conversation. So she has an opposite problem from Summer’s.
 
 What is the solution? Take a deep breath and go for it. Expect to fail at first, or expect to fail sometimes always, but remember [Samuel Beckett’s words](https://en.wikiquote.org/wiki/Samuel_Beckett#Worstward_Ho_.281983.29) that “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.”
 
@@ -28,7 +32,7 @@ Practice makes perfect, and you are allowed to “fail” and make a bad impress
 
 Another useful piece of advice is to study [the Cognitive Therapy approach to handling criticism](http://unarmed.shlomifish.org/909.html) (also see the comments and the discussion on that page), which helps a lot.
 
-5. Finally, I should note that I and most of the other fans of Summer will like her and love her, no matter what she does, as long as it’s not something really crazy like murdering someone, or driving while being drunk, which she is extremely unlikely to do. As the old fable of [“The miller, his son, and the donkey”](https://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey) shows, it is impossible to please everybody at any given moment, so you should not even try. I will always accept her, and won’t think less of her, because it’s her choices, and her life, and she’s still going to remain a wonderful lady. Also see my [tweet about treating all women as ladies](https://twitter.com/shlomif/status/478025441983213569) .
+6. Finally, I should note that I and most of the other fans of Summer will like her and love her, no matter what she does, as long as it’s not something really crazy like murdering someone, or driving while being drunk, which she is extremely unlikely to do. As the old fable of [“The miller, his son, and the donkey”](https://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey) shows, it is impossible to please everybody at any given moment, so you should not even try. I will always accept her, and won’t think less of her, because it’s her choices, and her life, and she’s still going to remain a wonderful lady. Also see my [tweet about treating all women as ladies](https://twitter.com/shlomif/status/478025441983213569) .
 
 ----
 
