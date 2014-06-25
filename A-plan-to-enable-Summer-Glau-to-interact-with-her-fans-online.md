@@ -14,7 +14,7 @@ Here are my points:
 
 2. Summer can ask or even hire a resident computer/software/hardware geek to help her with the technicalities of interacting on such mediums. Being independent does not mean that one does not ask for help or even pays for it, or ask or pays for advice. This is not [Feudalism](https://en.wikipedia.org/wiki/Feudalism) taken to its natural extreme. Instead, what independence means is that one makes their own decisions and takes responsibility for their actions.
 
-Note that I’m not trying to imply that Summer is necessarily still lacking the technical know-how. I’m almost sure she can, after overcoming some amount of initial difficulty, or has already become inclined in using such computer technology. The vast majority of people can with the right attitude.
+Note that I’m not trying to imply that Summer is necessarily still lacking the technical know-how. I’m almost sure she can handle it, after overcoming some amount of initial difficulty, or has already become inclined in using such computer technology. The vast majority of people can with the right attitude.
 
 3. I suggest that Summer will use a mostly secure, popular and mainstream, Linux distribution such as [Linux Mint](https://en.wikipedia.org/wiki/Linux_Mint), to be extra careful. Many Linux distributions are relatively easy to use and I heard of some grandmothers past their 70th birthday, who are using them, because they have the right attitude. And one can always [get help online](http://www.shlomifish.org/philosophy/computers/how-to-get-help-online/), or ask a resident technical guru for help, or even pay them for the privilege.
 
@@ -24,7 +24,7 @@ Note that I’m not trying to imply that Summer is necessarily still lacking the
 
 I wouldn’t worry about the NSA spying on you or Summer or whoever, because even if they can, they are practically a black hole of information. See my [NSA factoids page](http://www.shlomifish.org/humour/bits/facts/NSA/) and the [“#SummerNSA” hashtag](https://twitter.com/search?src=typd&q=%23SummerNSA) (originally short for “Summerschool at the NSA”) for some more insights, and as is well understood a person who is too paranoid about security is miserable, and a miserable person is insecure.
 
-5. Regarding handling online criticism which may be the hardest part for a person to do. We can learn a little from the story of [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord), a young (1992-born) YouTube singer and performer, and a very inspiring person, who, while being a complete extrovert on camera and on stage, testified that she is shy in real life and that she lacks the confidence to join a conversation. So she has an opposite problem from Summer’s.
+5. Regarding handling online criticism which may be the hardest part for a person to do. We can learn a little from the story of [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord), a young (1992-born) YouTube singer and performer, and a very inspiring person, who, while being a complete extrovert on camera and on stage, testified that she is shy in real life and that she lacks the confidence to join a conversation. So she has a problem which Summer lacks.
 
 What is the solution? Take a deep breath and go for it. Expect to fail at first, or expect to fail sometimes always, but remember [Samuel Beckett’s words](https://en.wikiquote.org/wiki/Samuel_Beckett#Worstward_Ho_.281983.29) that “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.”
 
