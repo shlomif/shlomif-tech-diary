@@ -32,6 +32,8 @@ Practice makes perfect, and you are allowed to “fail” and make a bad impress
 
 Another useful piece of advice is to study [the Cognitive Therapy approach to handling criticism](http://unarmed.shlomifish.org/909.html) (also see the comments and the discussion on that page), which helps a lot.
 
+Finally, Summer may wish to get hold of Tiffany (who is also based in southern California) so the two of them can learn and help each other.
+
 6. Finally, I should note that I and most of the other fans of Summer will like her and love her, no matter what she does, as long as it’s not something really crazy like murdering someone, or driving while being drunk, which she is extremely unlikely to do. As the old fable of [“The miller, his son, and the donkey”](https://en.wikipedia.org/wiki/The_miller,_his_son_and_the_donkey) shows, it is impossible to please everybody at any given moment, so you should not even try. I will always accept her, and won’t think less of her, because it’s her choices, and her life, and she’s still going to remain a wonderful lady. Also see my [tweet about treating all women as ladies](https://twitter.com/shlomif/status/478025441983213569) .
 
 ----
