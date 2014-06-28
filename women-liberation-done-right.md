@@ -78,6 +78,22 @@ lesser extent - present damage.
 ( I’m not implying cynical feminists are as bad as Hitler, just that it is
 derived from the same core - cynicism. )
 
+7.b) As opposed to popular belief, a woman (or a man) need not fit the
+current stereotype of an object of attraction to be competent attractive. Two
+big, somewhat fat, and mostly physically unattractive women, told me that
+various men keep wanting them for themselves, and that similar things happen
+to many other women they know, because they are competent women, who are
+independent and strong and radiate confidence and sexiness.
+
+A great deal of the most respected and most coveted Hollywood actors and
+actresses and even models have not been overly physically attractive and
+some of them were even underage, e.g:
+http://en.wikipedia.org/wiki/Shirley_Temple ;
+https://en.wikipedia.org/wiki/Macaulay_Culkin ;
+https://en.wikipedia.org/wiki/Miley_Cyrus .
+Samantha Smith ( http://en.wikipedia.org/wiki/Samantha_Smith ) helped change
+the fate of the cold war forever while being a 10 years old girl.
+
 -------------------------
 
 Feel free to forward my message to the list. I’d like to put what i wrote on
