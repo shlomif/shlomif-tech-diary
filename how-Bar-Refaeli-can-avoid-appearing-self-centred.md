@@ -1,13 +1,14 @@
 Title: How to avoid appearing self-centred (w.r.t @BarRefaeli)
 ==============================================================
 
-Today I'm going to talk about how to avoid looking self-centred. And I'm
-going to focus on @BarRefaeli ( http://en.wikipedia.org/wiki/Bar_Refaeli ;
+Today I'm going to talk about how to avoid looking self-centred. Moreover,
+I'm going to focus on @BarRefaeli ( http://en.wikipedia.org/wiki/Bar_Refaeli ;
 http://twitter.com/BarRefaeli ), who is the wonderful "alpha female"
 of Israel, and is not really self-centred, but certainly appears to be so.
 
 First of all, there is the golem effect between Refaeli and the rest of
-Israel (see the opening paragraphs of https://en.wikipedia.org/wiki/Pygmalion_effect ) where people expect her
+Israel (see the opening paragraphs of the Pygmalion effect wikipedia article:
+https://en.wikipedia.org/wiki/Pygmalion_effect ) where people expect her
 to be self-centred and underperform and she thinks people think so in
 a malicious cycle. It is up to her to break it.
 
