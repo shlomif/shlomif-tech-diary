@@ -115,7 +115,7 @@ an irrational paranoia of being brave, confident, sloppy and - awesome.
 
 As you may know, my mobile phone number, my E-mail (which has become a disaster
 area recently so I'd recommend you avoid it for now), my instant messaging
-credentials, my Reddit, Twitter, Gooogle+ account, etc. are publicly mentioned
+credentials, my Reddit, Twitter, Google+ account, etc. are publicly mentioned
 on my home site, people contact me very rarely.
 
 Why? Because I don't want any random riff-raff to bother me. When someone
