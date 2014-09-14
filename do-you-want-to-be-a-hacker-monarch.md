@@ -38,6 +38,8 @@ of association with hacker monarchs emeriti:
 
 * http://en.wikipedia.org/wiki/Eric_S._Raymond
 
+* http://en.wikipedia.org/wiki/Randall_Munroe
+
 But we could use more of them.
 
 ------------
