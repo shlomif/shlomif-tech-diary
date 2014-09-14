@@ -7,9 +7,10 @@ A Saladin / A Qoheleth / A John Galt / A King Messiah / A master vampire
 / etc. To quote what Quark from the Star Trek franchise said about the Grand Nagus, he/she: «has the greatest business mind… always thinking ten, sometimes twenty steps ahead of everyone else.» and the kind of person who has the same ideas as everyone else only five years earlier and thus is named a lunatic.
 
 Up to a few days ago, it was believed that only a selected group of few people can be Hacker monarchs for a time. My tenative list of the
-known *The* Hacker monarchs is:
+known *The* Hacker monarchs is, since Saladin who was the first exemplar
+The Hacker Monarch:
 
-Saladin, Leonardo da-Vinci, Isaac Newton, Cardinal Richelieu, George Washington, Alexandre Dumas Pere, Jules Verne, Walt Disney, The Beatles, Jim Henson, Samantha Smith, Larry Wall, the fictional Capt. Jean-Luc Picard from "Star Trek: TNG", the fictional Buffy Summers from the show "Buffy the Vampire Slayer", and Shlomi Fish (= me), and finally - Summer Glau ( http://www.shlomifish.org/humour/bits/facts/Summer-Glau/ )
+Saladin, Leonardo da-Vinci, Isaac Newton, Cardinal Richelieu, George Washington, Alexandre Dumas Pere, Jules Verne, Walt Disney, Ayn Rand, The Beatles, Jim Henson, Samantha Smith, Larry Wall, the fictional Capt. Jean-Luc Picard from "Star Trek: TNG", the fictional Buffy Summers from the show "Buffy the Vampire Slayer", and Shlomi Fish (= me), and finally - Summer Glau ( http://www.shlomifish.org/humour/bits/facts/Summer-Glau/ )
 
 What happened with Summer Glau? As you know, she is a terminator, and as
 terminators go she “terminated” the whole obssession with **The** Hacker Monarch
