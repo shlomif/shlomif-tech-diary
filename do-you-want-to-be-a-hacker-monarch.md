@@ -10,11 +10,11 @@ Up to a few days ago, it was believed that only a selected group of few people c
 known *The* Hacker monarchs is, since Saladin who was the first exemplar
 The Hacker Monarch:
 
-Saladin, Leonardo da-Vinci, Isaac Newton, Cardinal Richelieu, George Washington, Alexandre Dumas Pere, Jules Verne, Walt Disney, Ayn Rand, The Beatles, Jim Henson, Samantha Smith, Larry Wall, the fictional Capt. Jean-Luc Picard from "Star Trek: TNG", the fictional Buffy Summers from the show "Buffy the Vampire Slayer", and Shlomi Fish (= me), and finally - Summer Glau ( http://www.shlomifish.org/humour/bits/facts/Summer-Glau/ )
+Saladin, Leonardo da-Vinci, Isaac Newton, Cardinal Richelieu, George Washington, Alexandre Dumas Pere, Jules Verne, Walt Disney, Ayn Rand, The Beatles, Jim Henson, Samantha Smith, Larry Wall, the fictional Capt. Jean-Luc Picard from "Star Trek: TNG", the fictional Buffy Summers from the show "Buffy the Vampire Slayer", Shlomi Fish (= me), and finally - Summer Glau ( http://www.shlomifish.org/humour/bits/facts/Summer-Glau/ )
 
 What happened with Summer Glau? As you know, she is a terminator, and as
-terminators go she “terminated” the whole obssession with **The** Hacker Monarch
-and opened the role of **A** Hacker monarch for grabs.
+terminators go she “terminated” the whole obsession with the “The” in **The**
+Hacker Monarch and opened the role of **A** Hacker monarch up for grabs.
 
 So the current known Hacker Monarchs are:
 
@@ -23,7 +23,7 @@ So the current known Hacker Monarchs are:
 * Shlomi Fish (= me)
 
 Some potential people who can immediately become hacker monarchs by virtue
-of association with hacker monarchs emeriti:
+of association with the hacker monarchs emeriti:
 
 * Larry Wall
 
@@ -45,13 +45,13 @@ But we could use more of them.
 
 ------------
 
-How do I become a hacker? A hacker, or an action hero, is someone who like
-the myth of David vs. Goliath illustrates - http://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.html - does not accept his fate, and bends or
+How do I become a hacker? A hacker, or an action hero, is someone who, like
+the myth of David vs. Goliath illustrates - http://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.html , does not accept his fate, and bends or
 even breaks the rules to earn his victory. This is while a tragic hero is
 bound by many invisible or even written rules, and accepts his fate, which
 is almost certainly death, stagnation and destruction.
 
-To further understand the point see:
+To further understand the point, see:
 
 * https://www.youtube.com/watch?v=anEuw8F8cpE - modernisation of David vs.
 Goliath from the the first Indiana Jones film.
@@ -60,14 +60,14 @@ Goliath from the the first Indiana Jones film.
 Arnold Schwarzenegger.
 
 And just for the record, even http://bigbangtheory.wikia.com/wiki/Penny from
-The Big Bang Theory, the contemporary archtypical “anti-geek” “dumb blonde”,
+The Big Bang Theory, the contemporary archtypical “anti-geeky” “dumb blonde”,
 is a wonderful and superb hacker and action heroine, as was
 http://en.wikipedia.org/wiki/List_of_Clueless_characters#Cher_Horowitz before
 her.
 
 While it’s up to a person to choose whether to be a hacker or not, the
-alternative of being a tragic hero, is to become cynical and miserable and
-to slowly stagnate and die, so I wouldn't recommend it to anyone.
+alternative of it is being a tragic hero, which means to become cynical and
+miserable and to slowly stagnate and die, so I wouldn't recommend it to anyone.
 
 ------------
 
