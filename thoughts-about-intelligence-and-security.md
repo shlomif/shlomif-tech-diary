@@ -26,5 +26,5 @@ their identity.
 
 Another thing that should be understood is: 1. That there’s a lot of “Intel”
 (= Intelligence data/information) out there. 2. That a lot of it is out-of-date
-, or even - false.
+, or even - false. 3. The hard thing is to get the global picture.
 
