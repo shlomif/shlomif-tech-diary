@@ -7,8 +7,10 @@ We may feel frustrated that the U.S. government will “neither confirm nor deny
 Another conclusion I reached is that when protecting intelligence data or intelligence information, the important objective is not to hide a particular item of them from someone who really really really (!) wants to know it, because they will likely know it anyway. The main objective is that at any time, one should keep most of the important intelligence information from the prying eyes of the general public, where it may cause panic or truly be abused.
 
 * Lax and good security is better than paranoid security.
-** Yoda - http://www.youtube.com/watch?v=kFnFr-DOPf8
-** Saladin vs. The Knights Templar - https://en.wikipedia.org/wiki/User:Shlomif/Saladin_Style
+
+* Yoda - http://www.youtube.com/watch?v=kFnFr-DOPf8
+
+* Saladin vs. The Knights Templar - https://en.wikipedia.org/wiki/User:Shlomif/Saladin_Style
 
 In the film [Mission: Impossible](http://en.wikipedia.org/wiki/Mission:_Impossible_%28film%29),
 the protagonists go to great lengths to steal the file containing the identities
