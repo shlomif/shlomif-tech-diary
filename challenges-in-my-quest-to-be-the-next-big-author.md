@@ -30,4 +30,22 @@ American Religious Jew, who is much more Talmud-oriented, and certainly is
 very different from the Christian-flavoured cultural background on most
 American cinema.
 
-6) Giving legitimacy 
+6) Battling a contemporary moral fashion against "self-promotion" and linking
+to your own resources (or even giving any links whatsoever). See:
+https://twitter.com/shlomif/status/511009178647683073
+
+7) Giving legitimacy to portraying geeks, and especially female geeks, as
+chic, intelligent, rational, sexy and attractive, competent and able, sexually
+assertive, and socially capable — avoiding whatever possible dichotomy. As I
+noted in https://twitter.com/shlomif/status/491689917919936513 : «To be an
+attractive guy or girl, you need to radiate confidence and sexiness, and
+this means being geeky [someone who likes what he does - an amateur], and
+a hacker/action-hero. Therefore: hot people are geeks.».
+
+See 
+[my definition](http://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath)
+of a hacker or an action hero, and why I believe even
+http://bigbangtheory.wikia.com/wiki/Penny from The Big Bang Theory is a
+wonderful hacker and action heroine.
+
+8) 
