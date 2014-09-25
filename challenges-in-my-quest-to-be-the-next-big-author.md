@@ -20,7 +20,7 @@ errorprone, is poorly supported by computer programs, and in generally - sucks.
 See: http://alistapart.com/article/unwebbable .
 
 4) Giving legitimacy to redistributable and hackable works under
-https://en.wikipedia.org/wiki/Creative_Commons_license 
+https://en.wikipedia.org/wiki/Creative_Commons_license
 under Creative Commons licences, which I use to licence my fanfic, and are not
 "all-rights-reserved".
 
@@ -42,14 +42,14 @@ attractive guy or girl, you need to radiate confidence and sexiness, and
 this means being geeky [someone who likes what he does - an amateur], and
 a hacker/action-hero. Therefore: hot people are geeks.».
 
-See 
+See
 [my definition](http://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath)
 of a hacker or an action hero, and why I believe even
 http://bigbangtheory.wikia.com/wiki/Penny from The Big Bang Theory is a
 wonderful hacker and action heroine.
 
 8) Struggling against petty, intellectually immature minds, who cannot handle
-my confidence or honesty and sincerity and as a result boycott/ban/dequiet/etc.
+my confidence or honesty and sincerity and as a result boycott/ban/devoiced/etc.
 me instead of looking to themselves to see why they are hurt and which truth
 they should admit - http://shlomif.wikia.com/wiki/Encourage_criticism_and_try_to_get_offended .
 
