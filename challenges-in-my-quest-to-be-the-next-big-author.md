@@ -48,4 +48,32 @@ of a hacker or an action hero, and why I believe even
 http://bigbangtheory.wikia.com/wiki/Penny from The Big Bang Theory is a
 wonderful hacker and action heroine.
 
-8) 
+8) Struggling against petty, intellectually immature minds, who cannot handle
+my confidence or honesty and sincerity and as a result boycott/ban/dequiet/etc.
+me instead of looking to themselves to see why they are hurt and which truth
+they should admit - http://shlomif.wikia.com/wiki/Encourage_criticism_and_try_to_get_offended .
+
+9) Overcoming other more minor prejudice such as the fact that I'm an Israeli
+secular Jew, who lives in Tel Aviv, a straight male, tends to be sexualised
+which many cynical people perceive as sexist, can be a little socially awkward,
+have bad diction, and tend to stutter a little.
+
+I still believe that I should just deal with it and not complain because the
+following people started as much less fortunate than I am, and still ended up
+as superheroes:
+
+* https://en.wikipedia.org/wiki/Helen_Keller
+
+* https://en.wikipedia.org/wiki/Maya_Angelou
+
+* https://en.wikipedia.org/wiki/Mark_Twain
+
+See https://plus.google.com/+ShlomiFish/posts/dDJwvtcGE5N .
+
+-------------
+
+I'm probably forgetting other challenges I face. However, I am not the man to
+be afraid to try to succeed just because of these challenges. So I'm not going
+to quit and will never give up. Goliath - meet David, I say. You shouldn't give
+up on your dreams too.
+
