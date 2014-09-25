@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE
+    html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<title>Web Development Has Become Too Hard</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Shlomi Fish" />
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+<link rel="next" href="me/" title="" />
+<link rel="alternate" type="application/rss+xml" title="Shlomi Fish's Homepage RSS Feed" href="http://www.livejournal.com/community/shlomif_hsite/data/rss" />
+<link rel="alternate" type="application/atom+xml" title="Shlomi Fish's Atom Feed" href="http://www.livejournal.com/community/shlomif_hsite/data/atom" />
+</head>
+<body>
+
+<h1>Web Development Has Become Too Hard</h1>
+
+<p>
+Web development has become too hard. It's not nostalgia - it's been a while
+since it has been easy, and I'm not sure it ever was. But in any case, the
+past does not matter - it is very very hard.
+</p>
+
+<p>
+<a href="http://lwn.net/Articles/266313/">Linus Torvalds commented that:</a>
+<q>User space developers are weenies. One of the most fun parts of
+    <a href="http://en.wikipedia.org/wiki/Git_%28software%29">git</a>
+    development for me has been how easy everything is.</q>. Well, git confuses
+me and many other people who starts with it; often emits obscure error messages
+and refuses to do many operations that require me to consult other people
+on how to proceed; it tends to emit over-verbose error messages; it lacks
+a good external or internal API ; and it has been the topic of an excessive
+amount of blog posts explaining obscure ways to do various processes in
+the "Grand Unified Theory of Version Control Using Git", a potential thesis
+subject of some Ph.D. diplomas. (that was sarcasm.). So I'm not sure Torvalds
+did a very good job.
+</p>
+
+<p>
+However, designing command line applications is easy, as I can testify (though
+some people fail to do it too), and designing APIs is not much harder. But
+what about web development? I once attended a supper after a Linux-Herzeliya
+meeting where an open source contractor said something along these lines:
+"Some people think that web-development is easier than kernel development, but
+it's really not true. It's actually harder. Just getting everything to work
+with Internet Explorer 6 is excruciatingly difficult.". Of course, the more I
+thought about it recently, the more I concluded that supporting Internet
+Explorer 6 (which some web-sites including my own have decided to avoid
+recently) is just the tip of the iceberg of how hard contemporary
+web-development is.
+</p>
+
+<h2>The Past</h2>
+
+<p>
+<b>The Internet</b>.
+</p>
+
+<p>
+<b>"The Net is the Computer"</b>
+</p>
+
+<p>
+<b>HTTP and HTML</b> - <b>Hypertext</b> Transfer Protocol and Markup Language.
+</p>
+
+<p>
+<b>The Web Becomes a "General" Application Platform</b>
+</p>
+
+<p>
+<b>New daily buzzwords</b>
+</p>
+
+<h2>Case study: www.shlomifish.org</h2>
+
+<p>
+I maintain a <a href="http://www.shlomifish.org/">personal web-site on
+    www.shlomifish.org</a>. It is large and contains essays, articles, stories,
+aphorisms and quotes, presentation materials, information about myself, links
+to open-source software I've worked on and many other resources. I enjoy
+working on it, and many people who stumbled upon it or I referred them to it
+have complimented me on it and said that they enjoyed some of it.
+</p>
+
+<p>
+Here are some factors that facilitate my work on the site:
+</p>
+
+<ol>
+
+    <li>
+
+    <p>
+    The site is <b>almost completely static data</b> and the server just
+    serves the
+    files as is. In order to have a common look and feel, I generate the pages
+    from templates, text and other data using my own <b>off-line</b>
+    CMS, which I invoke from the command line on my local computer, it
+    generates the final site and I then update it on the server.
+    <a href="http://web-cpan.berlios.de/latemp/">The off-line CMS is
+        open-source</a>, but it's besides the point.
+    </p>
+
+    </li>
+
+    <li>
+
+    <p>
+    I recently <b>dropped support for MSIE 6</b>and may
+    not support MSIE 7 either. My pages broke with IE 6 and I could not bother
+    to hack around it and I have
+    <a href="http://www.shlomifish.org/no-ie/">an
+        anti-IE page</a>.
+    </p>
+
+    </li>
+</ol>
+
+<p>
+Despite all that, the site has the following problems:
+</p>
+
+<ol>
+
+    <li>
+
+    <p>
+    It fails to render properly when the font sizes are increased too much
+    (somewhere past 20pt IIRC). While this is quite unusual, some people -
+    especially those who have a poor eyesight may opt to use it and thus
+    the site is less usable for them. Someone on webdesign-L who pointed
+    me to it, has given me some fixed CSS but he didn't test it and I didn't
+    know where to put it and whether it will work at all, so I didn't pursue
+    this direction.
+    </p>
+
+    </li>
+
+    <li>
+
+    <p>
+    Some people have complained about the site's width being either too
+    narrow or too wide. The site uses a fixed-width layout (because that is
+    what the original WordPress design that I based my efforts on used),
+    and so there's no one-size-fits-all.
+    </p>
+
+    </li>
+
+    <li>
+
+    <p>
+    The separators between the links in the bottom are not properly middle
+    aligned and I don't know how to fix it. (Very minor problem but it is
+    still annoying.)
+    </p>
+
+    </li>
+
+    <li>
+
+    <p>
+    Like I said, the site does not work properly in MSIE 6, which in a perfect
+    world would be easy to do.
+    </p>
+
+    </li>
+
+
+    <li>
+
+    <p>
+    One cannot comment on the pages. I added Disqus JavaScript-based comments
+    once,
+    but I believed they made the site much slower, and the fact that they
+    started loading Google Analytics, which I want to avoid was the last
+    straw and I removed them. Now if I wanted to add comments, I'll need
+    to either find a different JavaScript-comments provider, or alternatively
+    implement comments myself using a server-side scripting solution.
+    </p>
+
+    </li>
+
+    <li>
+
+    <p>
+    Despite that, my site still requires Google Analytics due to the
+    <a href="http://sharethis.com/">ShareThis button</a> I placed there.
+    While I like the functionality that ShareThis provides to people who
+    visit my site, I'm unhappy with its Analytics requirement. When I
+    contacted ShareThis about this they told me "At this time, there is no way
+    to disable our widget from accessing Google Analytics.", so I need to
+    hack something in Perl or whatever to render the link sharing buttons
+    in order to avoid ShareThis and subsequently Google Analytics. I haven't
+    done it yet.
+    </p>
+
+    </li>
+
+    <li>
+
+    <p>
+    The colours of the background layout images are a little off on my
+    stationary computer's LCD screen and completely off on my laptop's screen.
+    I intend to fix it, but didn't yet get to it.
+    </p>
+
+    </li>
+
+
+    <li>
+
+    <p>
+    </p>
+
+    </li>
+
+
+    <li>
+
+    <p>
+
+    </p>
+
+    </li>
+
+    <li>
+
+    <p>
+
+    </p>
+
+    </li>
+
+
+</ol>
+
+<p>
+<a href="http://en.wikiquote.org/wiki/Benjamin_Franklin">Benjamin Frankling</a>
+is misquoted as saying that "To find out a girl's faults, praise her to her
+girl friends." (he did say something similar more verbosely). Similarly, at the
+two times I have published revisions of
+<a href="http://www.shlomifish.org/philosophy/computers/web/create-a-great-personal-homesite/rev2.html">my
+    essay "Create a Great Personal Homesite"</a>, people took the opportunity
+to criticise my home site, in order to demonstrate how smart they were in
+demonstrating how much I didn't practise what I preached, instead of what
+I said in the essay itself. So if you want to discover problems with your site,
+then publishing such an essay would be a sure-fire way to see
+what people think of it, despite the fact that their own sites may have
+a fraction of the useful content of your site (or mine for that matter).
+</p>
+
+<p>
+Naturally, all the problems I mention here are just the current state of the
+site. Many more were solved along the way, and the time I invest in solving
+such problems, could be invested in adding more content to the site, which is
+what actually attracts people to it. I am a mostly one-man team in maintaining
+www.shlomifish.org and do not have a lot of monetary resources at my disposal
+to invest in it (so I cannot afford to hire a good CSS designer, for example).
+</p>
+
+<p>
+Don't get me wrong: many people have complimented me or thanked me for the
+many resources they found on the site and I'm happy to hear from them. But
+I always have the nagging feeling that not everyone are happy, or that I can
+never please everyone, or that people like complaining for the sake of
+complaining to show how smart they are and are never happy. Luckily, I'm not
+a perfectionist, but still the point is that it would take too much effort
+to create a site that functions perfectly.
+</p>
+
+<h2>The Problem with The Web Today</h2>
+
+<p>
+In order to do good web design today, you need to first learn HTML/XHTML,
+CSS and most probably JavaScript as well. While the situation is much better
+than a few years ago, different browsers still have different quirks and
+different problems with implementing the standards for them (especially
+Internet Explorer 6, which many sites still need to support). Then you'll need
+to design an attractive site that will be look adequately everywhere. Some
+designers only give you a big image (PSD, etc.) of the web-site's layout that
+they expect you to slice and dice and convert to XHTML+CSS yourself, and
+there are services (such as <a href="http://www.psd2html.com/">PSD2HTML</a>)
+that will do it for you ("Starting at $159."), or you can do it yourself. If
+you're a good designer, you might be able to do the CSS and images work
+yourself.
+</p>
+
+<p>
+A few problems along the way are: 1. CSS positioning being the hard, quirky
+and counter-intuitive monster that it is. 2. Browser incompatibilities. 3.
+Having to learn a good JavaScript abstraction library, such as
+<a href="http://jquery.com/">jQuery</a>, and hope that you won't have to
+learn another one when working on a different project.
+</p>
+
+<p>
+Now once we are done with the client-side code (which is much easier on
+paper), we are going to the server-side. Here you have to deal with the
+HTTP protocol, with various potential holes such as
+<a href="http://en.wikipedia.org/wiki/SQL_injection">SQL injection</a>
+<a href="http://en.wikipedia.org/wiki/Cross-site_scripting">Cross-site scripting
+    (a.k.a "HTML injection" or XSS)</a>
+<a href="http://en.wikipedia.org/wiki/Cross-site_request_forgery">Cross-site
+    request forgery (CSRF)</a> and simple design bugs that may escalate into
+security problems. Even if your web application is perfectly secure, it still
+does not mean that it doesn't have usability bugs or general usability
+issues.
+</p>
+
+<p>
+And then naturally, there's the choice of server-side technology: Perl,
+Python, PHP, Ruby, ASP, ASP.NET, Java/JSP, ColdFusion, Erlang, Haskell, C++,
+server-side JavaScript, Squeak Smalltalk and many more obscure
+technologies. And after you've done choosing a technology, you still need
+to choose the
+<a href="http://en.wikipedia.org/wiki/Web_application_framework">
+    web-development framework</a> or content-management system. In Perl alone
+the choice of web-development frameworks includes CGI-Application
+(and Titanium), CGI-Application-Plus, CGI-Builder, CGI-Prototype, Jifty,
+Catalyst (and Reaction), Mojo, SweetPea, Dancer, Gantry, AxKit, WebGUI
+and I've heard of some new ones under development. Each such
+framework comes with its own APIs to learn, bugs and mis-features to be aware
+of, new surprises and a whole lot of stuff to learn as you go.
+</p>
+
+<p>
+When I worked on a web-based mailing list software for an Israeli company,
+it was decided to convert the existing PHP codebase to
+<a href="http://www.symfony-project.org/">the Symfony web framework</a>. It
+took me a while to get the demo application to work, and afterwards I had
+problems with the database abstraction layer there
+leaking memory (which made me have to resort to using the old mysql interface).
+Moreover, the recent versions of PHP (in a minor third digit release) broke
+compatibility with the testing framework that Symfony standardised on,
+which made it harder for us to write tests, unless we would have upgraded the
+test framework to its non-officially-released beta.
+</p>
+
+<p>
+The motivation for converting the code to Symfony was to improve
+its quality, but one day I glimpsed at some code that my co-workers were
+working on, and while it has been using the framework conventions, was still
+clearly horrible code. So using a web-development framework was not sufficient
+for having elegant code.
+</p>
+
+<p>
+
+</p>
+
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!-- vim: set indentexpr=:   -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE
+    html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<title>Shlomif.org - shlomif_tech community beta</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+div.entry
+{
+    border: darkgreen solid medium;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+a:hover { background-color: palegreen; }
+</style>
+<script type="text/javascript" src="../js/jq.js"></script>
+
+</head>
+<body>
+
+
+<div class="entry" id="cpanhq-and-response-to-Limbic-Region">
+
+<h2>2009-06-29: Introducing CPANHQ</h2>
+
+<p>
+Most people who are actively developing using Perl are familiar with 
+sites for searching CPAN (the Comprehensive Perl Archive Network)
+such as <a href="http://search.cpan.org/">search.cpan.org</a>
+and <a href="http://kobesearch.cpan.org/">kobesearch.cpan.org</a>.
+These sites provide a simple search bar where users can search for keywords
+or key phrases, and find a list of results. These sites also feature
+pages for the various CPAN distributions, the various authors, and the
+individual pages of documentation inside the modules.
+</p>
+
+<p>
+Recently, Andy Lester started the 
+<a href="http://groups.google.com/group/rethinking-cpan">"Rethinking 
+CPAN" mailing list</a> and wrote <a 
+href="http://perlbuzz.com/2008/04/rethinking-the-interface-to-cpan.html">a
+Perlbuzz post titled "Rethinking the interface to CPAN"</a>, where he gave
+the case that the current resources may be inadequate for the process
+of selecting a module on CPAN. For a long time, there was an intermittent
+discussion and some brain-storming, but very little code (if any) has been
+written. This has all changed with 
+<a href="http://github.com/bricas/cpanhq/tree/master">CPANHQ</a>.
+</p>
+
+<p>
+So what is CPANHQ? As documented in 
+<a href="http://wiki.github.com/bricas/cpanhq">the first
+and only wiki page it has so far</a> (which I wrote a few days ago), 
+"CPANHQ aims to be a community-driven, meta-data-enhanced alternative to
+such sites as <a href="http://search.cpan.org/">http://search.cpan.org/</a>
+and <a href="http://kobesearch.cpan.org/">http://kobesearch.cpan.org/</a>.
+Currently, the functionality is very basic, but we have great ambitions."
+</p>
+
+<p>
+I learned about CPANHQ by overhearing a conversation on Freenode's #perl
+channel. I joined the effort, and made several enhancements to the
+<a href="http://www.catalystframework.org/">Catalyst</a> and
+<a href="http://www.perlfoundation.org/perl5/index.cgi?dbix_class">DBIx-Class</a>-based 
+code. The functionality is still very basic.
+</p>
+
+<p>
+Some of the plans and ideas we have for CPANHQ, which may be translated into
+code in the future are:
+</p>
+
+<ol>
+
+<li>
+<p>
+The code is and will remain open-source, which makes it easy for people to
+contribute to. 
+</p>
+</li>
+
+
+<li>
+<p>
+We plan to have most of the current features of search.cpan.org and 
+kobesearch.cpan.org including pages for authors, distributions, and individual
+modules and their documentation.
+</p>
+</li>
+
+<li>
+<p>
+CPANHQ was already enhanced with some <a href="http://jquery.com/">jQuery</a> 
+and <a href="http://jqueryui.com/">jQuery UI</a> JavaScript 
+goodness, and we plan to add more of it to make the user experience better.  
+</p>
+</li>
+
+<li>
+<p>
+The site aims to be more integrated than the many separate CPAN-related
+sites today: search.cpan.org, CPAN Forum, AnnoCPAN, CPAN Ratings, CPANTS,
+CPAN Dependencies, etc. By putting everything under one roof, we can provide
+a better user experience than the many sites with very loose integration.
+</p>
+</li>
+
+<li>
+<p>
+We plan to enhance the site based on meta-data as provided by both the module
+authors (in the <tt>META.yml</tt> file and the users of the site.
+</p>
+
+<p>
+For example, we have already added support for the <a 
+href="http://module-build.sourceforge.net/META-spec.html#keywords">META.yml's
+keywords</a> which allow authors to tag modules, and we plan to support 
+user-tags too.
+</p>
+</li>
+
+<li>
+<p>
+CPANHQ will be very community-driven. People would be able to open user
+accounts there, which will allow them to contribute content to the site,
+such as tags/labels, comments, wiki pages, chatter, etc.
+</p>
+</li>
+
+</ol>
+
+<p>
+The <a href="http://wiki.github.com/bricas/cpanhq">CPANHQ wiki page</a>
+contains more ideas and insights. Like I said, the current functionality is
+incredibly basic, but we hope that with enough help, time and dedication,
+we can create an attractive and engaging interface to CPAN, to make
+finding a module on CPAN faster, easier and more fun.
+</p>
+
+<p>
+In the meantime, you can look at the 
+<a href="http://www.shlomifish.org/open-source/projects/CPANHQ/screenshots/">screenshots</a>
+we have of the interface so far, or clone the <a 
+href="http://github.com/bricas/cpanhq/tree/master">github repositories</a>,
+and set up a local web-interface.
+</p>
+
+</div>
+
+<script type="text/javascript">
+$("div[id]").each(function(i){ $(this).prepend( ' <span class="selfl">[<a href="#' + this.id + '">link</a>]</span>' ) })
+</script>
+</body>
+</html>
