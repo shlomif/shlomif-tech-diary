@@ -1,5 +1,8 @@
 There are quite a few challenges that I'm facing in my quest to become the next big author.
-Here are some of them:
+For the record, I wish to become the next J.K. Rowling, only as you'll see my approach
+and methodology are very different than her original approach.
+
+Anyway, here are some of the challenges I face:
 
 1) Giving legitimacy to fan fiction ( https://en.wikipedia.org/wiki/Fan_fiction ),
 crossovers ( https://en.wikipedia.org/wiki/Fan_fiction#Crossovers )/mashups , Real
