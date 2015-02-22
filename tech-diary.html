@@ -3839,6 +3839,44 @@ of how to comply with it.
 
 </div>
 
+<div class="entry" id="optimisation-tip-avoid-excessive-forks-and-execve">
+
+<!-- Tags: tech tip, tech, tip, linux, optimize
+-->
+
+<h2>2015-02-22: Optimisation Tip: Avoid Excessive Forks+EXECVEs to Processes</h2>
+
+<p>
+This will come as a surprise to few, but performing a separate
+<a href="https://en.wikipedia.org/wiki/Fork_%28system_call%29">fork()</a>
+and <a href="https://en.wikipedia.org/wiki/Exec_%28computing%29">EXECVE</a>
+system calls (e.g: for <code>`factor "$n"`</code> in Perl or <code>popen</code>
+in C), on each iteration of a loop can really kill performance. One option
+to reduce that would be to read individual lines from a
+<code>seq 2 999999 | xargs factor</code> loop, or avoid forking altogether.
+</p>
+
+<p>
+I discovered this issue while working on
+<a href="https://projecteuler.net/problem=141">Project
+Euler problem #141</a>, and I should have realised that the sub-100%
+CPU utilisation of the program was caused by the excessive spawning of new
+processes.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 </body>
 </html>
