@@ -1,0 +1,58 @@
+<p><b>Freecell Solver</b></p>
+
+<p>
+I ran into a few problems with DocBook/XML. The db2pdf, db2html, etc.
+utilities (that use jade as a backend) barfed on me. I spent a lot
+of time trying to resolve it and eventually was able to find a flag
+(<tt>-c /etc/sgml/catalog</tt>) that resolves it with the help
+of a certain camille who is a Mandrake Linux developer. Now they all
+work flawlessly, and Camille said he'll find a workaround for them
+for the next Mandrake release. Note that rendering DocBook/XML using
+XSL stylesheets worked all the time.
+</p>
+
+<p>
+I thus went into a frenzy of converting the architecture document to
+DocBook, while fixing some of the errors in the original text document
+in the process, and adding some DocBook kitch-factors such as hyperlinks,
+tags, and stuff like that. It is pretty much finalized now. Check the results 
+<a href="http://fc-solve.berlios.de/arch_doc/">here</a>.
+</p>
+
+<p>
+While looking at an intermediate PDF I discovered that the Acrobat bookmarks
+were quite flat. I posted a question about it to the DocBook-Apps mailing list
+(a very useful resource), and received an answer in private that the new
+DSSSL stylesheets contained a broken file, and that a fix was available
+on SourceForge. After I replaced the file, the PDF came out extra-fine.
+I <b>love</b> DocBook!
+</p>
+
+<p>
+Naturally, the main downside to DocBook is that it is very verbose. Very very
+verbose. I eventually apted to use some gvim tricks to make my life easier. 
+</p>
+
+<p><b>Other Hacktivity</b></p>
+
+<p>
+I've been heavily working on my homepage, and now it's in a sensible state
+and functions across both t2 and vipe with the original URLs. If and when
+I lose my t2 account and will have to set up a homepage on a different
+host somewhere (possibly with my own domain - like shlomif.il.eu.org) then
+I'll probably cause Google and friends a shock and move everything to one
+domain. Right now, I care too much about broken URLs, and don't mind the extra
+WebMetaLanguage effort.
+</p>
+
+<p>
+I've been giving a lot of thinking about what I want to do with Quad-Pres, but
+there has been no actual coding. I think some programmers (and engineers in 
+general) make the mistake of coding too much and thinking too little, so I
+don't think it so bad. Better to start programming when you have a goal that
+is well-defined and scrutinized to death than to hack something, and then 
+rewrite it time and time again. A stitch in time saves nine. A good design
+can save you a lot of keying/running/testing/debugging time.
+</p>
+
+

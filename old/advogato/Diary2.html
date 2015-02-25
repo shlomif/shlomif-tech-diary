@@ -1,0 +1,134 @@
+<h2>21-Sep-02</h2>
+
+<p><b>Aegis - Full Throttle</b>
+
+<p>
+<i>"Don't whine unless you are going to contribute"</i> - first rule of 
+open-source programming. That's why I'd like to suggest the following
+to the good Aegis people and hopefully I will implement it myself:
+
+<p>
+<ol>
+    <li>
+    The Logo is too dowpy and sexless. You need a similar wheel only smaller,
+    with the light behind it and with cool lights and shades games. 
+    <person>ladypine</person>, would you be so kind as to ask your friend
+    Smackware to do it. I can spare some time hacking with the gimp or with
+    Corel-Draw, but I'm sure she'll do a better job.
+    </li>
+    <li>
+    You need a built-in permissions system. Relying on UNIX' one is a bad 
+    idea. It should not be too hard to isolate it in one place and then
+    subclass it accordingly.
+    </li>
+    <li>
+    You need a native Win32 port, that does not require cygwin.
+    </li>
+    <li>
+    You need to take every good BitKeeper feature there and duplicate it.
+    </li>
+    <li>
+    You need to convert to the [MAJOR].[MINOR].[BUGFIX] scheme and release
+    a version that only adds a few critical features.
+    </li>
+    <li>
+    You need a server with a dedicated connection.
+    </li>
+    <li>
+    You need a better homepage. I volunteer to design one with WebMetaLanguage. ( and needless to say volunteer to do everything else in time)
+    </li>
+    <li>
+    You need integration with Emacs and MS Dev Studio, gvim and what not.
+    </li>
+    <li>
+    You need an Aegis Kernel Cousin or an Aegis Weekly Report, etc.
+    </li>
+    <li>
+    You need to be more Bazaar-style (a la CatB)
+    </li>
+</ol>
+
+<p><b>Programming is Done in the GUI...</b>
+
+<p>
+A real conversation with two fellow students in Com-Net who are working
+on a front-end to IP-Tables.
+
+<p>
+<b>Shlomi</b>: Why are you using Kylix?<br />
+<b>Other</b>: Why not?<br />
+<b>Shlomi</b>: It is not standard.<br />
+<b>Other</b>: But it's the best there is out there.<br />
+<b>Shlomi</b>: There's glade and kdevelop and Anjuta...<br />
+<b>Other</b>: They don't come close to Kylix' level.<br />
+<b>Shlomi</b>: You'll have a much easier time using Perl/Tk or Perl/Gtk
+or Tkinter or Tcl/Tk, or PyGtk or whatever.<br />
+<b>Other</b>: Yes, but instead of writing a lot of code we just drag a button
+to here... Much Simpler.<br />
+
+<p>
+That reminded me of what Gil'ad Ben-Yossef said about programmers who know that
+programming happens in their head and not in the IDE, and why <b>they</b>
+are still needed.
+
+
+
+<p><b>The Ultimate SCM</b>
+
+<p>
+First, right a SPEC, so here goes:
+</p>
+
+<p>
+<pre>
+* Support Patchsets
+* Support Cancelling Patchsets
+* Support Distributed Respositories
+* Support Branching and Tags as well as CVS
+* Support distributing patchsets across branches.
+* Has nice GUIs and nice gdb/bash-like CLIs for doing anything
+* Nice integration with bash/zsh/emacs/MS DevStudio/KDevelop/
+  Borland's Stuff/etc.
+* Fully Free Software. Preferably LGPL or lighter.
+* Easy to use - can be learnt in a day.
+* Work on several patchsets simultaneously
+* Repository can be reset to any state at any time
+* Has its own internal permissions system which would be very flexible.
+* Copy and rename of entire directories or files.
+* Merge two or more files together.
+* Split a patchset into several patchsets.
+* Openlogging. However, such with the ability to cache intermediate logs
+and then compress them and send them in one bulk.
+* Atomic repository-wide commits.
+* clone/push/pull including ones using UI.
+* a default "parent" repository so no need to remember which one to
+do a push or pull to.
+* Ability to work on a copy of the files, instead of a copy of a repository.
+* Work flawlessly on Windows - a native Win32 port. (VMS and MVS - also a 
+good idea, but of lesser priority)
+* Fast to work with. (no waiting for ages over an ADSL line for the
+ "changeset" to get to BerliOS)
+* Files spread across the filesystem, so a corrupted file will not ruin
+everything. (unless of course, the format has error correction and is stable)
+* Grabbing a certain portion of a file into another one, and magically
+maintaining them both together. ( a bad idea programmatically but could prove
+of use).
+* Magic sub-branches: A diff that would be applied against a certain file upon
+downloading. (change "#!/usr/bin/perl -w" to "#!/usr/bin/perl").
+* Import/Export from all others
+</pre>
+</p>
+
+<p>
+Let me know if I missed anything.
+</p>
+
+<p><b>Rindolf</b>
+
+<p>
+Worked a bit on its perl.com feature. Progressing slowly but steadily.
+</p>
+
+
+
+
