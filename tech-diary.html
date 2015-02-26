@@ -3952,7 +3952,7 @@ As you can notice eventually, the problem was that in the <code>p_idx</code>
 loop, <code>NUM_MODS</code> should have been the larger <code>NUM_PRIMES</code>.
 This caused the test for primality to finish faster, but to sometimes return
 true instead of false. As a result, I noticed that some numbers were erroneously
-reported as good, but the program finished much faster.
+reported as suitable, but the program finished much faster.
 </p>
 
 <p>
@@ -3964,11 +3964,6 @@ eliminate some numbers. As a result, I did this:
 
 <pre>
 #define NUM_PRIMES__PRE_FILTER 24024
-
-int primes[NUM_PRIMES];
-int mods[NUM_MODS];
-
-typedef long long LL;
 
 static inline bool is_prime__pre_filter(LL n)
 {
