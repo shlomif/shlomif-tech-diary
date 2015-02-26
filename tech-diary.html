@@ -3877,6 +3877,171 @@ of how to comply with it.
 
 </div>
 
+<div class="entry" id="bug-that-lead-to-useful-optimisation">
+
+<!-- Tags: tech tip, tech, tip, linux, optimize, bug
+-->
+
+<h2>2015-02-26: “Out of the Strong, Something Sweet” - How a Bug Led to a Useful Optimisation</h2>
+
+<p>
+The book <a href="http://www.amazon.com/Fortune-Failure-Missed-Opportunities-Discoveries/dp/0631160876/ref=sr_1_2?ie=UTF8&amp;qid=1424966727&amp;sr=8-2&amp;keywords=fortune+or+failure"><i>Fortune
+or Failure: Missed Opportunities and Chance Discoveries</i></a> (which my family
+used to own, but I did not read) gives the case to
+the important role of luck and chance in scientific discoveries. Recently,
+when working on <a href="https://projecteuler.net/problem=146">Project Euler
+Problem No. 146</a> I came up with a case of an accidental bug, that in turn
+led to an idea for a significant optimisation.
+</p>
+
+<p>
+The C code with the bug (which was in turn translated from some Perl code)
+looked something like that:
+</p>
+
+<pre>
+#define DIV 9699690
+#define NUM_MODS 24024
+#define NUM_PRIMES 8497392
+
+int primes[NUM_PRIMES];
+int mods[NUM_MODS];
+
+typedef long long LL;
+
+static inline bool is_prime(LL n)
+{
+    LL lim = (LL)(sqrt(n));
+
+    for (int p_idx=0; p_idx &lt; NUM_MODS ; p_idx++)
+    {
+        typeof (primes[p_idx]) p = primes[p_idx];
+        if (p &gt; lim)
+        {
+            return true;
+        }
+        if (n % p == 0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+.
+.
+.
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int n_idx=0;n_idx&lt;sizeof(n_off)/sizeof(n_off[0]);n_idx++)
+            {
+                if (is_prime(sq + n_off[n_idx]))
+                {
+                    goto fail;
+                }
+            }
+</pre>
+
+<p>
+As you can notice eventually, the problem was that in the <code>p_idx</code>
+loop, <code>NUM_MODS</code> should have been the larger <code>NUM_PRIMES</code>.
+This caused the test for primality to finish faster, but to sometimes return
+true instead of false. As a result, I noticed that some numbers were erroneously
+reported as good, but the program finished much faster.
+</p>
+
+<p>
+I corrected it and reran the program which was now much slower, but this led me
+to think that maybe the lower limit to the count of primes can be a pre-filter
+for primality for the “y_idx”/“y_off” numbers, that will run quicker and
+eliminate some numbers. As a result, I did this:
+</p>
+
+<pre>
+#define NUM_PRIMES__PRE_FILTER 24024
+
+int primes[NUM_PRIMES];
+int mods[NUM_MODS];
+
+typedef long long LL;
+
+static inline bool is_prime__pre_filter(LL n)
+{
+    LL lim = (LL)(sqrt(n));
+
+    for (int p_idx=0; p_idx &lt; NUM_PRIMES__PRE_FILTER ; p_idx++)
+    {
+        typeof (primes[p_idx]) p = primes[p_idx];
+        if (p &gt; lim)
+        {
+            return true;
+        }
+        if (n % p == 0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+.
+.
+.
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime__pre_filter(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int n_idx=0;n_idx&lt;sizeof(n_off)/sizeof(n_off[0]);n_idx++)
+            {
+                if (is_prime(sq + n_off[n_idx]))
+                {
+                    goto fail;
+                }
+            }
+</pre>
+
+<p>
+This made the program finish in under a minute, while yielding the correct
+solution. The original program, with the bug fix, was still running after
+several minutes.
+</p>
+
+<p>
+So the bug proved to be useful and insightful. One possible future direction
+is to merge the two “y_idx” loops into a single function that will accept an
+array of numbers, and will check them all for primality using the same divisors
+simultaneously, so as soon as one of them is found to be non-prime, a
+verdict will be reached.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by-nc/3.0/">the Creative Commons
+Attribution Noncommercial 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 </body>
 </html>
