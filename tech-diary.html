@@ -4037,6 +4037,73 @@ of how to comply with it.
 
 </div>
 
+<div class="entry" id="tech-tip-configure-Qt5-behaviour-when-running-on-KDE4">
+
+<!-- Tags: tech tip, tech, tip, linux, kde
+-->
+
+<h2>2015-02-28: Tech Tip: How to Configure Qt 5 Behaviour When Running on KDE4</h2>
+
+<p>
+Recently, I noticed that when running the VLC-2.2.0 prerelease, which
+is based on Qt 5 for its GUI, on my
+<a href="http://www.mageia.org/en/">Mageia</a>
+Linux 5 system on top of KDE 4, then in the playlist a single-click immediately
+played a file instead of selecting it, while reserving a double click for
+activation. After a long amount of research and thought, I figured out a way
+to configure Qt 5 on top of KDE.
+</p>
+
+<p>
+To do so:
+</p>
+
+<ol>
+
+<li>
+<p>
+Install lxqt-config and the “lxqt-qtplugin”.
+</p>
+</li>
+
+<li>
+<p>
+Add the line “<code>export QT_QPA_PLATFORMTHEME=lxqt</code>” somewhere before
+the desktop startup in your “.Xclients” or “.xinitrc” file (or in your
+“.bashrc”).
+</p>
+</li>
+
+<li>
+<p>
+Restart the X/KDE environment.
+</p>
+</li>
+
+<li>
+<p>
+Run “lxqt-config” to configure the appropriate behaviour.
+</p>
+</li>
+
+</ol>
+
+<p>
+This way one can use the Qt5 customisations of lxqt in KDE 4. Enjoy!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
 <script type="text/javascript" src="anchors.js"></script>
 </body>
 </html>
