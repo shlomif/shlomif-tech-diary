@@ -4158,6 +4158,50 @@ of how to comply with it.
 
 </div>
 
+<div class="entry" id="git-tip--git-bisect-requires-bad-and-good-revisions">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2015-06-06: git Tip: How to Call “git bisect start”</h2>
+
+<p>
+“git” is an open-source distributed version control system that has recently
+gained a lot of popularity. The “git bisect start” synopsis in “git help
+bisect” is somewhat misleading:
+</p>
+
+<pre>
+git bisect start [--no-checkout] [&lt;bad&gt; [&lt;good&gt;...]] [--] [&lt;paths&gt;...]
+</pre>
+
+<p>
+One has to specify both the “bad” and the “good” revisions explicitly or else
+“git bisect” will wait for the missing ones to be specified, which will be
+confusing. So specify them immediately at the “git bisect start” invocation.
+</p>
+
+<p>
+Incidentally,
+<a href="http://www.nntp.perl.org/group/perl.perl5.porters/2015/06/msg228300.html">perl-5.22.0</a>
+was released a few days ago. Grab it while it’s hot!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
+
 </body>
 </html>
