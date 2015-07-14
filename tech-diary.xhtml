@@ -4260,6 +4260,72 @@ of how to comply with it.
 
 </div>
 
+<div class="entry" id="tech-tip--skip-tests-in-RPM-spec-files-based-on-version">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, mageia, rpm
+-->
+
+<h2>2015-07-14: Tech Tip: Skip Tests in RPM .spec Files conditionally-to-version</h2>
+
+<p>
+Let’s suppose you are packaging a software application using
+<a href="https://en.wikipedia.org/wiki/RPM_Package_Manager">RPM</a> or a similar
+packaging system, and this application contains some automated tests that
+can be run using “make test”, “make check” or similar. You may opt to put them
+inside a “%check” section, but the problem now is that they may fail.
+</p>
+
+<p>
+The solution I used in this case (assuming fixing the tests was out of scope
+of my work as a packager) was to comment out the command that ran the tests,
+but this is not ideal because that way the tests will also be disabled in
+subsequent versions of the application, unless the packager remembers to
+reenable them.
+</p>
+
+<p>
+Recently, I discovered a better way to do that, after inspecting the source
+of a <a href="http://www.mageia.org/en/">Mageia Linux</a> package. One needs
+do something like that:
+</p>
+
+<pre>
+%define known_to_fail_version 1.82
+
+%check
+
+if test "%{version}" = "%{known_to_fail_version}" ; then
+    true
+else
+    # Run the tests.
+    make check
+fi
+</pre>
+
+<p>
+This way, the tests will get run again for subsequent versions of the packaged
+application, and if they fail again one can set “known_to_fail_version” to
+a new value.
+</p>
+
+<p>
+I hope you also find it a cool trick. Cheers!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
