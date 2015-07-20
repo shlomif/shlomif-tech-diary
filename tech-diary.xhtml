@@ -4326,6 +4326,78 @@ of how to comply with it.
 
 </div>
 
+<div class="entry" id="tech-tip--trimming-old-releases-from-minicpan-dirs">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, perl, cpan
+-->
+
+<h2>2015-07-20: Tech Tip: Trimming Old Releases from minicpan Directories</h2>
+
+<p>
+<a href="https://metacpan.org/pod/distribution/CPAN-Mini/bin/minicpan">minicpan</a>
+is a tool to create or update a minimal local mirror of CPAN (= the
+“Comprehensive Perl Archive Network”) that contains only the latest releases
+of CPAN distributions. Now, one problem I ran into when using it is that
+“minicpan” did not seem to delete the older downloaded releases after they were
+superseded by newer ones. A few days ago I found a solution to this problem.
+</p>
+
+<p>
+What you can do is:
+</p>
+
+<ol>
+
+<li>
+<p>
+Move away the minicpan’s mirror’s top directory (<b>do not delete it!</b>)
+</p>
+</li>
+
+<li>
+<p>
+Set up a localhost HTTP service for the moved minicpan directory
+on a high port. For that you can use
+<a href="http://www.garyrobinson.net/2004/03/one_line_python.html">the
+one line Python HTTP service script</a> or
+<a href="http://opensource.dyc.edu/sthttpd">shttpd</a>’s “thttpd -p $PORT”
+invocation or whatever.
+</p>
+</li>
+
+<li>
+<p>
+Run the “minicpan” command while pointing the remote to the localhost mirror
+of the old minicpan mirror, using the “-r” flag or by temporarily editing the
+“~/.minicpanrc” file.
+</p>
+</li>
+
+</ol>
+
+<p>
+Voila! Now the mirror will only contain the new releases, and you can remove
+the old, moved-away, minicpan directory, and cancel the HTTP service.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
