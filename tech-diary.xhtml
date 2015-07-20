@@ -4336,7 +4336,7 @@ of how to comply with it.
 <p>
 <a href="https://metacpan.org/pod/distribution/CPAN-Mini/bin/minicpan">minicpan</a>
 is a tool to create or update a minimal local mirror of CPAN (= the
-“Comprehensive Perl Archive Network”) that contains only the latest releases
+“Comprehensive Perl Archive Network”), that contains only the latest releases
 of CPAN distributions. Now, one problem I ran into when using it is that
 “minicpan” did not seem to delete the older downloaded releases after they were
 superseded by newer ones. A few days ago I found a solution to this problem.
@@ -4356,8 +4356,8 @@ Move away the minicpan’s mirror’s top directory (<b>do not delete it!</b>)
 
 <li>
 <p>
-Set up a localhost HTTP service for the moved minicpan directory
-on a high port. For that you can use
+Set up a localhost HTTP service on a high TCP port for the moved minicpan
+directory. For that you can use
 <a href="http://www.garyrobinson.net/2004/03/one_line_python.html">the
 one line Python HTTP service script</a> or
 <a href="http://opensource.dyc.edu/sthttpd">shttpd</a>’s “thttpd -p $PORT”
@@ -4376,7 +4376,7 @@ of the old minicpan mirror, using the “-r” flag or by temporarily editing th
 </ol>
 
 <p>
-Voila! Now the mirror will only contain the new releases, and you can remove
+Voila! Now the mirror will only contain the latest releases, and you can remove
 the old, moved-away, minicpan directory, and cancel the HTTP service.
 </p>
 
