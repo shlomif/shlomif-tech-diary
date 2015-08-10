@@ -6,8 +6,8 @@
 <h2>2009-06-26: What you can do with File-Find-Object (that you can't with File::Find)</h2>
 
 <p>
-I've written about 
-<a href="http://www.shlomifish.org/open-source/projects/File-Find-Object/">File-Find-Object</a> 
+I've written about
+<a href="http://www.shlomifish.org/open-source/projects/File-Find-Object/">File-Find-Object</a>
 before, but I've intended to write an entry demonstrating its philosophical
 advantages over the core File::Find module. Today, I'd like to get to it.
 </p>
@@ -19,7 +19,7 @@ As opposed to File::Find, File-Find-Object is:
 <ol>
 
 <li>
-Has an iterative interface, and a is capable of being interrupted in the 
+Has an iterative interface, and a is capable of being interrupted in the
 middle.
 </li>
 
@@ -44,7 +44,7 @@ I'd like to demonstrate some of these advantages now.
 Let's suppose you have a huge directory tree containing many directories
 and files, and you're looking for only one result (or a few ones). Once you
 found that result you wish to stop. This question was raised in
-<a href="http://stackoverflow.com/questions/381395/how-can-i-break-out-of-recursive-find-function-once-a-specific-file-is-found">this Stack Overflow 
+<a href="http://stackoverflow.com/questions/381395/how-can-i-break-out-of-recursive-find-function-once-a-specific-file-is-found">this Stack Overflow
 post.</a>
 </p>
 
@@ -67,7 +67,7 @@ eval {
 
 if ( $@ ) {
     my $result = $@;
-    if ( (ref($result) eq "HASH") &amp;&amp; 
+    if ( (ref($result) eq "HASH") &amp;&amp;
          ($result-&gt;{type} eq "file-found")
        )
     {
@@ -184,7 +184,7 @@ shlomi:~$
 <p>
 Let's suppose an evil djinni has removed the <tt>-r</tt> flag from your
 <a href="http://en.wikipedia.org/wiki/Diff">diff</a> program, making you
-unable to recursively find the differences between files in two directory 
+unable to recursively find the differences between files in two directory
 tree. As a result, you now need to write a <tt>recursive-diff</tt> program in
 Perl that will run <tt>diff -u</tt> on the two copies of each equivalent path
 in the two directorie.
@@ -313,11 +313,11 @@ So what does the future holds? I recently ported File-Find-Rule to
 File-Find-Object and called the result File-Find-Object-Rule . As a result,
 "-&gt;start" and "-&gt;match" are now truly iterative, and I believe
 you can iterate with them on several objects at once. As I discovered by
-porting <a 
+porting <a
     href="http://search.cpan.org/dist/File-Find-Object-Rule-MMagic/">File-Find-Object-Rule-MMagic</a>,
-I unfortunately cannot maintain full backwards compatibility with the plugin 
-API of File-Find-Rule, because the latter exposes some of behaviour of 
-File::Find (in 
+I unfortunately cannot maintain full backwards compatibility with the plugin
+API of File-Find-Rule, because the latter exposes some of behaviour of
+File::Find (in
 <a href="http://www.joelonsoftware.com/articles/LeakyAbstractions.html">a
     leaky abstraction</a> fashion).
 </p>

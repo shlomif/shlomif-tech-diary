@@ -17,13 +17,13 @@ Content-Disposition: inline
 Message-Id: <200703231922.44576.shlomif@iglu.org.il>
 Status: RO
 X-Status: RSC
-X-KMail-EncryptionState:  
-X-KMail-SignatureState:  
-X-KMail-MDN-Sent:  
+X-KMail-EncryptionState:
+X-KMail-SignatureState:
+X-KMail-MDN-Sent:
 
 Hello Peter and everybody,
 
-Chuck Norris kicked my signature's ass, and no longer appears there. Check my 
+Chuck Norris kicked my signature's ass, and no longer appears there. Check my
 new one - which wasn't originally said by me.
 
 On Friday 23 March 2007, Peter wrote:
@@ -73,30 +73,30 @@ On Friday 23 March 2007, Peter wrote:
 
 Thanks for the tip.
 
-I disagreee - I think that even if there wasn't x86 but a poly-architecture 
-world, we would still need OSS. That's because programs written in portable 
-C, a C derived language, or any other high-level (read above assembly) 
-language that is portable, still need to be ported to different 
-architectures. Using the GNU toolchain is the best way to do it. NetBSD 
-supports over 20 different architectures, and Linux now supports even more. 
-Achieving it with a complete operating system that's not FOSS is not going to 
-work. 
+I disagreee - I think that even if there wasn't x86 but a poly-architecture
+world, we would still need OSS. That's because programs written in portable
+C, a C derived language, or any other high-level (read above assembly)
+language that is portable, still need to be ported to different
+architectures. Using the GNU toolchain is the best way to do it. NetBSD
+supports over 20 different architectures, and Linux now supports even more.
+Achieving it with a complete operating system that's not FOSS is not going to
+work.
 
-Once people said that "All the world is a VAX". I think it still applies in 
-the fact that all modern architectures are based on it, and obscure 
-non-C-compatible CPU architectures like the PDP-10 or the Lisp Machine are 
-dead. However, not every machine is a Pentium machine - there are ARMs, 
+Once people said that "All the world is a VAX". I think it still applies in
+the fact that all modern architectures are based on it, and obscure
+non-C-compatible CPU architectures like the PDP-10 or the Lisp Machine are
+dead. However, not every machine is a Pentium machine - there are ARMs,
 SPARCs, UltraSPARCs, PA-RISCs, Alphas, S/390s, PPCs, MIPS and more:
 
 http://en.wikipedia.org/wiki/Category:Microprocessors
 
-Can you imagine a closed source operating system running on as many CPUs as 
-NetBSD or Linux? Hell no. Furthermore, the reason Unix survived was because 
-of C, in which it was written. There were many operating systems for PDP-11's 
-and PDP-10's but they written in Assembly, and didn't survive the transition 
-to the VAX. UNIX, OTOH, was mostly written in C, and while being very slow on 
-the PDP-11 could be ported to the VAX to the S/360 and to other architectures 
-as they emerged. ANSI C and OSS are a cause of the proliferation of 
+Can you imagine a closed source operating system running on as many CPUs as
+NetBSD or Linux? Hell no. Furthermore, the reason Unix survived was because
+of C, in which it was written. There were many operating systems for PDP-11's
+and PDP-10's but they written in Assembly, and didn't survive the transition
+to the VAX. UNIX, OTOH, was mostly written in C, and while being very slow on
+the PDP-11 could be ported to the VAX to the S/360 and to other architectures
+as they emerged. ANSI C and OSS are a cause of the proliferation of
 architectures in the post-PDP age.
 
 > > will make them non-free-software and not open source as a FOSS must be
@@ -109,16 +109,16 @@ architectures in the post-PDP age.
 > by porting desirable OSS applications to it you are supporting Windows,
 > not OSS.
 
-What does the EULA say? I'm not good at reading long legal documents, much 
-less understanding them. Even after I read the GPL v2 in English, I did not 
+What does the EULA say? I'm not good at reading long legal documents, much
+less understanding them. Even after I read the GPL v2 in English, I did not
 understand it, so I don't expect much more luck with Vista's EULA.
 
-By porting desirable FOSS applications to Windows, I am supporting FOSS 
-because the issue is Free Software-vs. Proprietary One, not Linux vs. 
-Windows. It's the same as running GNU software, X11, etc. on AIX or HP-UX. 
-They are not free, and I'd rather people use an operating system with 
-everything open except the kernel, possibly the libc, and a few stuff that 
-came with it, than a fully proprietary one. One bird in the hand is better 
+By porting desirable FOSS applications to Windows, I am supporting FOSS
+because the issue is Free Software-vs. Proprietary One, not Linux vs.
+Windows. It's the same as running GNU software, X11, etc. on AIX or HP-UX.
+They are not free, and I'd rather people use an operating system with
+everything open except the kernel, possibly the libc, and a few stuff that
+came with it, than a fully proprietary one. One bird in the hand is better
 than two in the bush.
 
 >
@@ -128,22 +128,22 @@ than two in the bush.
 >
 > Read the GPL3 and what it means. It is possible than an interpretation
 > of the GPL3 will be that it may be illegal (or at least a gray zone) to
-> port GPL3 OSS to closed systems, like Windows. 
+> port GPL3 OSS to closed systems, like Windows.
 
-I find it hard to believe that that's the case. Maybe it is a possible 
-interpretation but the FSF is not going to support it. GNU software ran on 
-proprietary software for more than two decades now. And many GNU packages 
-contain special code to be compiled under Windows (see GNU make for 
-instance). There's cygwin, there's MinGW, there's MSYS and you can run many 
-things just fine on the OpenNT/Interix/MS Unix Services. To say nothing of 
+I find it hard to believe that that's the case. Maybe it is a possible
+interpretation but the FSF is not going to support it. GNU software ran on
+proprietary software for more than two decades now. And many GNU packages
+contain special code to be compiled under Windows (see GNU make for
+instance). There's cygwin, there's MinGW, there's MSYS and you can run many
+things just fine on the OpenNT/Interix/MS Unix Services. To say nothing of
 running the GNU applications on modern proprietary UNIXes including Mac OS X.
 
-I'm pretty sure Stallman supports writing or porting GPL-licenced software for 
-Windows and other proprietary operating system. Adding such a restriction to 
-GPL3 will cause all hell to break loose, and won't hold in court. I'm pretty 
+I'm pretty sure Stallman supports writing or porting GPL-licenced software for
+Windows and other proprietary operating system. Adding such a restriction to
+GPL3 will cause all hell to break loose, and won't hold in court. I'm pretty
 sure it won't be added or isn't there.
 
-> I do not agree with a lot 
+> I do not agree with a lot
 > of things in GPL3 but I regard this particular element as a desirable
 > feature.
 >
@@ -171,15 +171,15 @@ sure it won't be added or isn't there.
 > platform after a short time). This sums up more than 10 years of
 > doing this.
 
-OK, so they're still using Windows. At least they're using FOSS. If this open 
-source piece of software did not exist for Windows, they wouldn't have used 
-any FOSS. 
+OK, so they're still using Windows. At least they're using FOSS. If this open
+source piece of software did not exist for Windows, they wouldn't have used
+any FOSS.
 
-Transitioning to a new operating system or any new software is hard. A lot of 
-old and deprecated software can still be found in many places. I believe 
-there are even many PDP-11 software running inside emulators (which can run 
-the software much faster than it originally ran) in lots of places, albeit 
-never witnessed that. (Can someone enlighten me?) But I've seen DOS and 
+Transitioning to a new operating system or any new software is hard. A lot of
+old and deprecated software can still be found in many places. I believe
+there are even many PDP-11 software running inside emulators (which can run
+the software much faster than it originally ran) in lots of places, albeit
+never witnessed that. (Can someone enlighten me?) But I've seen DOS and
 NetWare still used. Or see:
 
 http://www.joelonsoftware.com/news/20020918.html
@@ -210,9 +210,9 @@ http://www.joelonsoftware.com/news/20020918.html
 > competition is polluting my water heavily and deliberately anyway, and
 > you may have to point a gun at my head for me to dig in the first place.
 
-So you're saying it's not "All or nothing" thinking? Well, as I pointed out I 
-believe porting as much software as possible to Windows is a good thing. So 
-I'd rather 1,000 developers work on it than a 100, but even 100 is good and 
+So you're saying it's not "All or nothing" thinking? Well, as I pointed out I
+believe porting as much software as possible to Windows is a good thing. So
+I'd rather 1,000 developers work on it than a 100, but even 100 is good and
 often enough.
 
 >
@@ -234,13 +234,13 @@ often enough.
 > much consumer marketing and psychology as you understand coding.
 >
 
-So he uses all FOSS on Windows? That's great! I'd rather have 9 birds in the 
-hand than 10 in the bush. The issue is not Linux vs. Windows it's FOSS vs. 
-proprietary software. And I believe an all-or-nothing approach that no FOSS 
-should be available for Windows, is not going to be effective, nor is 
-healthy. I also sometimes have to use Windows, but at least I can use 
-high-quality FOSS there. And I appreciate the fact that I can fix bugs there, 
-and compile it on Windows (although with more difficulty than on Linux), or 
+So he uses all FOSS on Windows? That's great! I'd rather have 9 birds in the
+hand than 10 in the bush. The issue is not Linux vs. Windows it's FOSS vs.
+proprietary software. And I believe an all-or-nothing approach that no FOSS
+should be available for Windows, is not going to be effective, nor is
+healthy. I also sometimes have to use Windows, but at least I can use
+high-quality FOSS there. And I appreciate the fact that I can fix bugs there,
+and compile it on Windows (although with more difficulty than on Linux), or
 learn from its source. So it's not all bad.
 
 > >> Every time someone ports an OSS application to Windows, the life of the
@@ -251,34 +251,34 @@ learn from its source. So it's not all bad.
 > Prove me wrong, after carefully reading what I wrote above.
 >
 
-You have to also prove your claim. But since I was challenged with a burden of 
+You have to also prove your claim. But since I was challenged with a burden of
 proof as well:
 
-Almost everyone now are using open source now either directly (Linux, Firefox, 
-etc.) or indirectly by using web-sites, gadgets, or other services that make 
-use of FOSS etc. This makes the world a much better place, and is good. If 
-people hear that Google, Amazon, Yahoo, Wikpedia, LiveJournal, etc. use FOSS 
+Almost everyone now are using open source now either directly (Linux, Firefox,
+etc.) or indirectly by using web-sites, gadgets, or other services that make
+use of FOSS etc. This makes the world a much better place, and is good. If
+people hear that Google, Amazon, Yahoo, Wikpedia, LiveJournal, etc. use FOSS
 extensively, they want to try more.
 
-Obviously, if you use Windows it's not as ideal as using an open source Linux 
-or BSD distribution like Mandriva, Debian, Ubuntu, Fedora, etc. But I'd 
-rather Windows be a platform for running Firefox, OpenOffice, GIMP, etc. than 
+Obviously, if you use Windows it's not as ideal as using an open source Linux
+or BSD distribution like Mandriva, Debian, Ubuntu, Fedora, etc. But I'd
+rather Windows be a platform for running Firefox, OpenOffice, GIMP, etc. than
 it be a platform for running MSIE, MS Office, PhotoShop and IIS.
 
-As much as I find the Windows operating system sub-standard, non-standard and 
-poorly designed and executed, (Don't get me started on it) I appreciate the 
-fact that it hosts a lot of high-quality software, including some 
-high-quality software by Microsoft. I don't hate Microsoft, because I have 
-better entities who are actually Evil (such as governments, politicians, 
-massive liars and deceiters,[1] and plain old criminals) to hate. Microsoft 
-are a business that's been making money. It may be a monopoly (not entirely 
-accurate as there's Apple and Linux), but monopolies are not necessarily evil 
-either. IBM was once as hated as Microsoft is today, and now they are 
+As much as I find the Windows operating system sub-standard, non-standard and
+poorly designed and executed, (Don't get me started on it) I appreciate the
+fact that it hosts a lot of high-quality software, including some
+high-quality software by Microsoft. I don't hate Microsoft, because I have
+better entities who are actually Evil (such as governments, politicians,
+massive liars and deceiters,[1] and plain old criminals) to hate. Microsoft
+are a business that's been making money. It may be a monopoly (not entirely
+accurate as there's Apple and Linux), but monopolies are not necessarily evil
+either. IBM was once as hated as Microsoft is today, and now they are
 suddenly the friendly giant that everyone likes.
 
-Don't waste your time trying to harm Microsoft. Don't waste your time on 
-jealousy, envy and revenge. Instead, try to improve Linux and other free 
-software. That will make the world a better place, and may convert more 
+Don't waste your time trying to harm Microsoft. Don't waste your time on
+jealousy, envy and revenge. Instead, try to improve Linux and other free
+software. That will make the world a better place, and may convert more
 people to free software.
 
 > >> OSS developers who do that are working directly against OSS. Every
@@ -300,7 +300,7 @@ people to free software.
 > an incentive to UPGRADE TO FULL OSS. This is EXACTLY what everyone does
 > when writing software for Windows.
 
-Please don't shout. It's hard for me to read all-Caps. And I don't understand 
+Please don't shout. It's hard for me to read all-Caps. And I don't understand
 this last paragraph.
 
 >
@@ -316,9 +316,9 @@ this last paragraph.
 > secondary goal of the developer is to increase OSS native platform
 > users.
 
-My goal, as a FOSS devloper, user, essayist, and advocate, is to increase the 
-amount and quality of FOSS being used. While I'd love to see a world with 
-Windows no longer prevalent on the desktop, my goal is to promote FOSS not 
+My goal, as a FOSS devloper, user, essayist, and advocate, is to increase the
+amount and quality of FOSS being used. While I'd love to see a world with
+Windows no longer prevalent on the desktop, my goal is to promote FOSS not
 Linux.
 
 [ SNIPPED ]
@@ -327,18 +327,18 @@ Regards,
 
 	Shlomi Fish
 
-[1] - Ayn Rand has claimed that Immanuel Kant is the most evil man in history. 
-While this is probably over-stating the case, we need to understand that 
-deceit can appear to be benevolent and innocent. The soviet Russians (under 
-Stalin) and the Communist Chinese (under Mao) appeared to be innocent and 
-benevolent to many people, including their citizens, while in fact killing 
+[1] - Ayn Rand has claimed that Immanuel Kant is the most evil man in history.
+While this is probably over-stating the case, we need to understand that
+deceit can appear to be benevolent and innocent. The soviet Russians (under
+Stalin) and the Communist Chinese (under Mao) appeared to be innocent and
+benevolent to many people, including their citizens, while in fact killing
 100 million people:
 
 http://www.mindszenty.org/report/1998/feb98/feb98.html
 
-This is the negative power of deceit and what Neo-Tech likes to 
-call "Neocheating". Such deceit is often used everywhere, including in our 
-dialy personal lives. Even businessmen and many (otherwise benevolent) FOSS 
+This is the negative power of deceit and what Neo-Tech likes to
+call "Neocheating". Such deceit is often used everywhere, including in our
+dialy personal lives. Even businessmen and many (otherwise benevolent) FOSS
 leaders, do it often on a certain scale.
 
 ---------------------------------------------------------------------

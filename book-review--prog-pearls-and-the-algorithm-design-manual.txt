@@ -25,7 +25,7 @@ http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880
 
 I've heard this book mentioned in several places before buying it and reading
 it and it did not disappoint me. This book is absolutely great, with
-interesting coverage of interesting programming and computer-science related 
+interesting coverage of interesting programming and computer-science related
 topics. It has an extensive discussion of optimising code, which I could
 appreciate, being very interested in it (see:
 http://en.wikibooks.org/wiki/Optimizing_Code_for_Speed ), and lots of other
@@ -57,7 +57,7 @@ http://www.amazon.com/More-Programming-Pearls-Confessions-Coder/dp/0201118890
 * 1st and only edition published on 1988.
 [/info]
 
-A fellow Perl programmer bought me this book as a birthday present from my 
+A fellow Perl programmer bought me this book as a birthday present from my
 Amazon.com wishlist because I put it there out of wishing to read the followup
 to the previous book in the series which I enjoyed. However, this book failed
 to meet my expectations, and I found it disappointing.
@@ -92,7 +92,7 @@ I did not recall ordering it. But eventually I realised what happened.
 
 Based on the cover of the book, and its title, I got a somewhat different
 idea of what it would be about than what it really was, and thought it would
-be very technical and formal. However, this preconception was dis-spelled 
+be very technical and formal. However, this preconception was dis-spelled
 shortly after I started reading it. In fact, the book is quite offbeat, without
 too many rigorous proofs.
 

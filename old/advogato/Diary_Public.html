@@ -14,7 +14,7 @@
 
 <p>
 The Technion's connectivity is fine now, but has been a bit sporadic lately. (sometimes it congests). What does
-not work is my CVS repository at BerliOS. It seems that 
+not work is my CVS repository at BerliOS. It seems that
 I can't even login into the CVS server, even from shell.berlios.de. And the new CVS instructions on the project's page are lacking.
 </p>
 
@@ -39,13 +39,13 @@ I received a user account on a Co-Op server and am going to set up a globally ac
 </p>
 
 <p>
-./configure and the compilation of C modules is very fast on this machine, so it must be a pretty spiffy one. I remember timing the Freecell Solver scans ran so much faster on the Pentium 4 1.7 gHz at the Com-Net Lab than it did on my P3 667 MHz workstations. Working on my home P3 600 MHz is also pretty nice and fast, but greater speed still makes you a bit less frustrated. 
+./configure and the compilation of C modules is very fast on this machine, so it must be a pretty spiffy one. I remember timing the Freecell Solver scans ran so much faster on the Pentium 4 1.7 gHz at the Com-Net Lab than it did on my P3 667 MHz workstations. Working on my home P3 600 MHz is also pretty nice and fast, but greater speed still makes you a bit less frustrated.
 </p>
 
 <p><b>Life</b></p>
 
 <p>
-It's Hanukah now, so I light up the candles every evening, and we eat latkes. The weather has become quite cold at night. The Technion was closed yesterday and today, so I'll have to postpone doing my arrangements on Tuesday. 
+It's Hanukah now, so I light up the candles every evening, and we eat latkes. The weather has become quite cold at night. The Technion was closed yesterday and today, so I'll have to postpone doing my arrangements on Tuesday.
 </p>
 
 <p>
@@ -85,16 +85,16 @@ Lastly and very importantly, I implmemented the "{long_test_name}" notation for 
 <p><b>Camel Book</b></p>
 
 <p>
-I'm progressing nicely with it. I have just finished the chapter about 
-modules, and am on page 308. By skipping to the history part, I found out it 
+I'm progressing nicely with it. I have just finished the chapter about
+modules, and am on page 308. By skipping to the history part, I found out it
 was Perl's birthday today by coinicidence. Happy Birthday, Perl!
 </p>
 
 <p><b>Graham's Function Program</b></p>
 
 <p>
-By profiling Perl using the Devel::DProf module, I found out that the 
-<tt>multiple_squaring_factors</tt> function takes out %40 of the run-time. 
+By profiling Perl using the Devel::DProf module, I found out that the
+<tt>multiple_squaring_factors</tt> function takes out %40 of the run-time.
 I tried to optimize it in several ways but they all proved to be worse
 than the original. Then I tried to code it in C, so I can give a lower
 bound to its CPU requirements. By using the Inline::C module I was able
@@ -122,7 +122,7 @@ SV * multiply_squaring_factors(SV * n_ref, SV * m_ref) {
 
         m_elem_proto = av_fetch(m, m_idx, 0);
         m_elem = SvIV(*m_elem_proto);
-                
+
         if (n_elem == m_elem)
         {
             n_idx++;
@@ -136,7 +136,7 @@ SV * multiply_squaring_factors(SV * n_ref, SV * m_ref) {
         else
         {
             av_push(ret, newSViv(m_elem));
-            m_idx++;            
+            m_idx++;
         }
     }
     while (n_idx &lt; n_len)
@@ -151,41 +151,41 @@ SV * multiply_squaring_factors(SV * n_ref, SV * m_ref) {
         av_push(ret, newSViv(SvIV(*m_elem_proto)));
         m_idx++;
     }
-    
+
     return newRV_noinc((SV *)ret);
 }
 </pre>
 
 <p>
-This required a lot of consulting from the perlguts man page and the 
+This required a lot of consulting from the perlguts man page and the
 Inline::C-Cookbook one. After I ran the script using it, I found out its
-CPU usage was reduced to %10, which means the Perl implementation slows it 
+CPU usage was reduced to %10, which means the Perl implementation slows it
 down a bit. Using a C extension is cheating, but I still wanted to identify
 some bottlenceks.
 </p>
 
 <p>
-Aside from that I also implemented <a href="http://perl.plover.com/~alias/list.cgi?1:mss:1145:200212:mpejiicmbgakocfabgog">code 
-    to generate the sequence that compose the perfect squares.</a> Then I 
+Aside from that I also implemented <a href="http://perl.plover.com/~alias/list.cgi?1:mss:1145:200212:mpejiicmbgakocfabgog">code
+    to generate the sequence that compose the perfect squares.</a> Then I
 decided to see if I can generate the linear base of n+1 based on that of n,
-but I realized that the base generated was lossy, and so it will not give 
+but I realized that the base generated was lossy, and so it will not give
 good results.
 </p>
 
 <p>
-I go into an awful lot of trouble for this limited task. I'm positively 
-obsessed with it. I can't wait for Mark Jason Dominus to publish the 
+I go into an awful lot of trouble for this limited task. I'm positively
+obsessed with it. I can't wait for Mark Jason Dominus to publish the
 official solution so my mind will be relieved of it.
 </p>
 
 <p><b>Gimp Bug</b></p>
 
 <p>
-I tried to hack on the CVS Gimp code to get gradient scriptability to work 
+I tried to hack on the CVS Gimp code to get gradient scriptability to work
 there. I looked at the gradients code a little, and sort of understood where
-it falls apart. Then, when playing with the gradient editor I discovered 
-<a href="http://bugzilla.gnome.org/show_bug.cgi?id=101521">a bug</a> which I 
-reported to the <a href="http://bugzilla.gnome.org/">GNOME Bugzilla</a>. It 
+it falls apart. Then, when playing with the gradient editor I discovered
+<a href="http://bugzilla.gnome.org/show_bug.cgi?id=101521">a bug</a> which I
+reported to the <a href="http://bugzilla.gnome.org/">GNOME Bugzilla</a>. It
 turned out to be a bug in glib (!) and is now resolved.
 </p>
 
@@ -196,13 +196,13 @@ turned out to be a bug in glib (!) and is now resolved.
 <p>
 I left's Graham function alone today... ;-) Instead I began with some work on
 Quad-Pres (my presentation tool) which involved some minor cleanups. After
-breakfast, I discovered it started to rain so I could not go out to bike 
+breakfast, I discovered it started to rain so I could not go out to bike
 today. Instead, I spent some time working on a <a href="http://cvs.berlios.de/cgi-bin/viewcvs.cgi/haifux/haifux/lectures_man/">lecture management system</a>
 for the Haifa Linux Club Home-Site.
 </p>
 
 <p>
-As of today, the situation is, that every lecture has to be placed and 
+As of today, the situation is, that every lecture has to be placed and
 maintained in several pages. I wrote a Perl script and module that will render
 everything based on a set of tables that are updated at one place. Here's what
 sloccount has to say about it:
@@ -238,11 +238,11 @@ Please credit this data as "generated using 'SLOCCount' by David A. Wheeler."
 </p>
 
 <p>
-Afterwards, I spent the late afternoon, vainly trying to re-design the 
+Afterwards, I spent the late afternoon, vainly trying to re-design the
 <a href="http://syscalltrack.sf.net/">Syscalltrack Homepage</a> the
-way I want it while using only &lt;div&gt;'s and CSS 2 for layout. If I 
+way I want it while using only &lt;div&gt;'s and CSS 2 for layout. If I
 had been able to use table tags, I would have finished it in no time. After
-I visited the #html channel on EF-Net I found a site that accomplishes what 
+I visited the #html channel on EF-Net I found a site that accomplishes what
 I wanted to do, but was not able to fully duplicate its functionality. I'll try again later tomorrow, or simply fall back on tables.
 </p>
 
@@ -250,7 +250,7 @@ I wanted to do, but was not able to fully duplicate its functionality. I'll try 
 
 <p>
 I made some progress with "Programming Perl", reading part of the chapter
-about Objects. By reading it, I become familiar with a lot of new tricks 
+about Objects. By reading it, I become familiar with a lot of new tricks
 and new Perl nuances.
 </p>
 
@@ -259,9 +259,9 @@ and new Perl nuances.
 <p><b>Hacktivity</b></p>
 
 <p>
-Yesterday, I started the morning with giving some final touches to the 
+Yesterday, I started the morning with giving some final touches to the
 lectures' management code, and adding an extra future lecture. Then I went on
-to handle the Syscalltrack homepage, converting everything to table based 
+to handle the Syscalltrack homepage, converting everything to table based
 layout, and handling the various issues <person>ladypine</person> had with
 it. It took me sometime to understand where things went wrong, but I was
 finally able to.
@@ -270,10 +270,10 @@ finally able to.
 <p>
 Finally, I did some work on Quad-Pres. I encountered a <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg24052.html">Permissions conflict</a>,
 where I wanted files to be created with a certain group, so they can be
-handled by both the user and the httpd-ran process. Two kind Linux-ILers 
+handled by both the user and the httpd-ran process. Two kind Linux-ILers
 answered to me how I can do that (with two different methods), and one method
-I tried worked so far. (using a <tt>chgrp</tt>-like system call). The 
-<a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg24054.html">other 
+I tried worked so far. (using a <tt>chgrp</tt>-like system call). The
+<a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg24054.html">other
     method</a> seems even nicer, and I'll have to check if it works.
 </p>
 
@@ -287,7 +287,7 @@ and finished the one about Operator Overloading. That's it, I think.
 <p><b>Life</b></p>
 
 <p>
-There was a strong wind and some raining yesterday, so I could not go out 
+There was a strong wind and some raining yesterday, so I could not go out
 biking again. I stayed at home most of the time, either reading or working
 on the computer. At the evening, I watched "Whose Line is it Anyways?",
 "Just Shoot Me" and "Third Rock from the Sun", which are given on Friday
@@ -299,31 +299,31 @@ nights.
 <p><b>Hacktivity</b></p>
 
 <p>
-The newer method using SGID for directories, and a 02775 mode worked 
+The newer method using SGID for directories, and a 02775 mode worked
 beautifully so I switched Quad-Pres to using. Afterwards, I spent most of
 the day cleaning up Quad-Pres and adding some new functionality. I still
-did not got to implementing the global installation of the executable, Perl 
-code, and the common base WML template yet, but it was still a lot of 
+did not got to implementing the global installation of the executable, Perl
+code, and the common base WML template yet, but it was still a lot of
 important work.
 </p>
 
 <p>
-<person>ladypine</person> applied most of my changes to syscalltrack's 
-home-site. I wrote <a href="http://sourceforge.net/mailarchive/forum.php?thread_id=1445409&amp;forum_id=714">a message to its mailing list</a> 
-with some other observations. I'll have to see what the other web-masters 
+<person>ladypine</person> applied most of my changes to syscalltrack's
+home-site. I wrote <a href="http://sourceforge.net/mailarchive/forum.php?thread_id=1445409&amp;forum_id=714">a message to its mailing list</a>
+with some other observations. I'll have to see what the other web-masters
 think about them.
 </p>
 
 <p>
-At the evening, I added the ability to generate a raw list of the future 
-lectures to the lectures manager. This required cleaning up the code a 
+At the evening, I added the ability to generate a raw list of the future
+lectures to the lectures manager. This required cleaning up the code a
 little, but I intended to do it anyway.
 </p>
 
 <p><b>Life</b></p>
 
 <p>
-The sun came out at the late morning, so I went out for a walk (taking an 
+The sun came out at the late morning, so I went out for a walk (taking an
 advice from my mother). Michal was busy all day preparing a Linear Algebra
 assignment she got from school, and I helped her out a little.
 </p>
@@ -334,7 +334,7 @@ assignment she got from school, and I helped her out a little.
 
 <p>
 Throughout the last couple of days, I settled out on cleaning the
-"Configuration Management : Tools" dmoz category. Now I'm left with 17 
+"Configuration Management : Tools" dmoz category. Now I'm left with 17
 pending links. Man, this takes a lot of time, but I'm almost finished with
 it.
 </p>
@@ -359,12 +359,12 @@ branch.
 <p>
 While looking at the KDE archives, I found out that packages of KDE 3.1-RC5 for
 Mandrake 9.0 were prepared. I decided to install it. The installation went
-quite OK, and my new system is stable. Some bugs were eliminated from 3.0.x 
+quite OK, and my new system is stable. Some bugs were eliminated from 3.0.x
 and some were added (as usual).
 </p>
 
 <p>
-Strangely enough, I found old bug reports of the same bugs in the 
+Strangely enough, I found old bug reports of the same bugs in the
 <a href="http://bugs.kde.org/">KDE bugs tracker</a>, but then realized
 they were very old. So I reported them again.
 </p>
@@ -374,23 +374,23 @@ they were very old. So I reported them again.
 <p>
 Having KDE 3.1 installed made it possible to compile the HEAD branch of kdegames
 from the CVS. Took a bit to install, and the out-of-date makefiles (which I had
-to run automake with) gave me some trouble. Then the DocBook documents 
+to run automake with) gave me some trouble. Then the DocBook documents
 absolutely refused to compile, so I removed their directory from the SUBDIRS
 of the makefile. And naturally, it takes a <b>long</b> time for g++ to compile
 KDE code. At the end of the day, however, I had it built and installed.
 </p>
 
 <p>
-This enabled me to work on kpat and integrate the changes I wanted their. I 
-removed the limitation for game numbers only up to 32,000, and integrated the 
-new Freecell Solver their. gcc was ran with a lot of extra flags (-ansi, 
+This enabled me to work on kpat and integrate the changes I wanted their. I
+removed the limitation for game numbers only up to 32,000, and integrated the
+new Freecell Solver their. gcc was ran with a lot of extra flags (-ansi,
 -pedantic, -Wundef, etc.) and it spewed a lot of warnings and complained about
 many things. Eventually, however, I was able to resolve them.
 </p>
 
 <p>
-Then, while trying to solve a game, I discovered <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/449">a bug in Freecell Solver</a> which forced me to release the 2.8.3 version of it. I fixed it in both CVS branches, and in 
-the KDE integration, and now I'm back on track. What's left to do is to 
+Then, while trying to solve a game, I discovered <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/449">a bug in Freecell Solver</a> which forced me to release the 2.8.3 version of it. I fixed it in both CVS branches, and in
+the KDE integration, and now I'm back on track. What's left to do is to
 hard-code a nice command line preset into kpat, so it will have less unsolvable
 games reports.
 </p>
@@ -405,12 +405,12 @@ and biked in the afternoon. Today seems sunny as well so far.
 
 <p>
 My sister Noa and Dad returned from their trip to England and the States. Noa
-had a surgery which was supposed to handle her over-perspiration problem. 
-They brought a lot of toys, food, books and other stuff. 
+had a surgery which was supposed to handle her over-perspiration problem.
+They brought a lot of toys, food, books and other stuff.
 </p>
 
 <p>
-Michal (my other sister) meanwhile has homework to do. In her "Intro to 
+Michal (my other sister) meanwhile has homework to do. In her "Intro to
 Programming" class, she had to write an C function, that removes a specified
 character from a string. It can be done in O(n) time by keeping two pointers.
 Today, she worked on her Linear Algebra exercises and I also helped her
@@ -444,8 +444,8 @@ a good idea I change the relevant places to <tt>const char *</tt>.
 
 <p>
 Since I last updated you, I read several Camel Book chapters. I'm now in the
-middle of Security. Besides that I also started reading the 
-<a href="http://www.namesys.com/whitepaper.html">Namesys Future Vision</a> 
+middle of Security. Besides that I also started reading the
+<a href="http://www.namesys.com/whitepaper.html">Namesys Future Vision</a>
 paper which I've been referred to by several people. I admit that I did not
 fully understand it. And now I also read the latest Linux Weekly News edition,
 and several documents that were referred there.
@@ -472,7 +472,7 @@ the current air pump I use is very good, and I have troubles using it.
 <p>
 Freecell Solver-wise, I <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/450">busted the warnings</a>
 I encountered in the KDE compilation inside the CVS development version. Then
-I worked a bit on <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/451">Kpat 
+I worked a bit on <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/451">Kpat
     Integration</a>, and made sure the solver instances are recycled.
 </p>
 
@@ -480,7 +480,7 @@ I worked a bit on <a href="http://groups.yahoo.com/group/fc-solve-discuss/messag
 I also worked on the Syscalltrack home-site. I sent a message to a web-design
 mailing list I am a member of to find out if the various versions of Microsoft
 Internet Explorer, view it with the proper top vertical alignment. I already
-received several inputs that they did, so I assumed the report I got was 
+received several inputs that they did, so I assumed the report I got was
 singular.
 </p>
 
@@ -488,15 +488,15 @@ singular.
 After that, I got a green light to merge my CVS branch into the HEAD, but was
 told to watch for a change that <person>mulix</person> did to the HEAD involving
 the logo. I applied his change, and then used the <tt>cvs update -j</tt> command
-to integrate my changes. There were some conflicts there, which I resolved 
+to integrate my changes. There were some conflicts there, which I resolved
 manually. And then I re-built and uploaded the site.
 </p>
 
-<p><b>Reading</b></p> 
+<p><b>Reading</b></p>
 
 <p>
 In "Programming Perl" I finished the chapter about Security, and am now
-in the middle of the chapter about idiomatic programming, which is very 
+in the middle of the chapter about idiomatic programming, which is very
 interesting.
 </p>
 
@@ -510,7 +510,7 @@ trick was screwing them till the end, and pumping very hard and till the end.
 </p>
 
 <p>
-I did manage to walk at quarter to four. In any case, since I jogged the day 
+I did manage to walk at quarter to four. In any case, since I jogged the day
 before yesterday, then yesterday my feet muscles became sore, and they might be sore today as well.
 </p>
 
@@ -529,14 +529,14 @@ here's what happened so far.
 <p><b>Syscalltrack Home-site</b></p>
 
 <p>
-I posted a request-for-comments for the Syscalltrack web-site on 
-<a href="http://www.webdesign-l.com/">webdesign-l</a> and received 
+I posted a request-for-comments for the Syscalltrack web-site on
+<a href="http://www.webdesign-l.com/">webdesign-l</a> and received
 some <a href="http://sourceforge.net/mailarchive/forum.php?thread_id=1479532&amp;forum_id=714">useful comments</a>. The web-design people are really professional,
 and the posts there are of very good quality.
 </p>
 
 <p>
-Once thing I noted there is that they are recently littered with posts about 
+Once thing I noted there is that they are recently littered with posts about
 trying to get CSS2-based layout to work. This makes me happy that I'm using
 table-based layout for all my site.
 </p>
@@ -554,23 +554,23 @@ promise anything as I have many other things to do.
 I also worked on a detailed and elaborated <a href="http://vipe.technion.ac.il/~shlomif/freecell-solver/to-do.html">to-do-list for Freecell Solver</a>.
 The original TODO list found in the main distribution and in the CVS is very
 brief and may only be understood by myself. The reason I did was in accordance
-with what <a href="http://www.tuxedo.org/~esr/writings/cathedral-bazaar/homesteading/ar01s11.html">ESR says in Homesteading the Noosphere</a>: "If one does 
+with what <a href="http://www.tuxedo.org/~esr/writings/cathedral-bazaar/homesteading/ar01s11.html">ESR says in Homesteading the Noosphere</a>: "If one does
 one's braggin through the code, and then says 'Well shucks, it doesn't do x, y, and z, so it can't be that good", patches for x,y, and z will often switfly follow."
 </p>
 
 <p>
-Whether it will indeed happen with Freecell Solver remains to be seen. A 
+Whether it will indeed happen with Freecell Solver remains to be seen. A
 problem is that I feel that Freecell Solver is a fairly complete package that
 satisfies the need of most "hobbyist" and "professional" Freecell gamers. It
-will remain satisfactory even if no added-features development takes place 
+will remain satisfactory even if no added-features development takes place
 (just like Perl, gcc, gvim, Mozilla or many other "complete" packages).
 </p>
 
 <p>
 Many times when developing it and releasing a release version, I felt that
 "damn, after I release x.y.0, all I'd like to do with it is purely speculative,
-so I can just leave it at that." But I kept discovering more and more things 
-to implement. I guess a project never ends, but I still can't see anything 
+so I can just leave it at that." But I kept discovering more and more things
+to implement. I guess a project never ends, but I still can't see anything
 pertinent I'd like to add to FCS after I integrate Patsolve's state ordering.
 Except maybe Patsolve's mixed bfs-dfs scan and what Bill Raymond wrote for his
 solver (should he agree to convert it to the new Freecell Solver architecture).
@@ -580,8 +580,8 @@ solver (should he agree to convert it to the new Freecell Solver architecture).
 
 <p>
 Not to much in this direction. The autoconf-based installer is working and
-functional, but the functionality is still limited and the user documentation 
-is non-existent. I think I'll now begin to write some lectures and use the 
+functional, but the functionality is still limited and the user documentation
+is non-existent. I think I'll now begin to write some lectures and use the
 <tt>quadp</tt> command line interface exclusively (in accordance with the
 using your own dog-food principle). That may give me motivation to improve
 it further.
@@ -590,9 +590,9 @@ it further.
 <p>
 I also have some craving to write my lectures using PerlPoint, because it
 is very brief. Maybe I should find a nice way to integrate it into Quad-Pres
-to create an hierarchy of pages. It has an API, but what could be a problem is 
-that the HTML it creates is quite non-standard and does not match my 
-conventions, and it places all the slides in one directory with names like 
+to create an hierarchy of pages. It has an API, but what could be a problem is
+that the HTML it creates is quite non-standard and does not match my
+conventions, and it places all the slides in one directory with names like
 "slide0003.html" regardless of their organization. But when there is a will,
 there is a way. The worse-case scenario is that I'll fork the code, or update
 the new version in CPAN.
@@ -600,7 +600,7 @@ the new version in CPAN.
 
 <p>
 I should also check other presentation tools (there are dozens of them around)
-and rob good ideas out of them to integrate into Quad-Pres. But first, I'd 
+and rob good ideas out of them to integrate into Quad-Pres. But first, I'd
 better release Quad-Pres 0.8.0 and then make other changes I have in mind.
 </p>
 
@@ -631,11 +631,11 @@ POD for man-pages and such small-scope documents.
 </p>
 
 <p>
-I also saw that there is a module in CPAN to convert POD to DocBook 
+I also saw that there is a module in CPAN to convert POD to DocBook
 (and the other way around). This is very cool, and should prove useful.
 </p>
 
-<p><b>Life</b></p> 
+<p><b>Life</b></p>
 
 <p>
 Our united-states friend Ron and Carol Sekura sent us their new years greeting
@@ -648,24 +648,24 @@ do it in Israel, but I wonder what I would write in mine:
 &lt;&lt;&lt;<br />
 At January 1, I was hard at work finishing the winter semester, and also tying
 the lose end-points with Roy Glasberg's and mine IP-Noise Simulator project. We
-eventually were able to finish on time, and our project got a perfect 100 
-score, and it was considered to represent the Com-Net lab in the Technion-wide 
+eventually were able to finish on time, and our project got a perfect 100
+score, and it was considered to represent the Com-Net lab in the Technion-wide
 project excellence contest. (eventually another project was chosen and it won)
 </p>
 <p>
 The spring semester came with many interesting computer-related subjects, that
-I constructed especially. They all turned out to be very interesting. Also, 
+I constructed especially. They all turned out to be very interesting. Also,
 nother project of creating a web-interface for managing seminars Technion-wide.
-Roy and I did not have a lot of time to work on the project during the 
+Roy and I did not have a lot of time to work on the project during the
 semester. After my tests were finished (which I did pretty well in them), we
-set out to work on the project together, thus "ruining" the summer vacation 
+set out to work on the project together, thus "ruining" the summer vacation
 once again.
 </p>
 
 <p>
-The project was finished, and we eventually were graded 94. Now started the 
-winter semester, with many courses. My problem was that I kept changing my 
-schedule, and eventually decided that I'd better take a year off because I've 
+The project was finished, and we eventually were graded 94. Now started the
+winter semester, with many courses. My problem was that I kept changing my
+schedule, and eventually decided that I'd better take a year off because I've
 been studying consecutively for too long. After spending some time without
 scholastic responsibilites, I felt freshened up again to resume my studies,
 and so notified that I will return next semester.<br />
@@ -673,16 +673,16 @@ and so notified that I will return next semester.<br />
 </p>
 
 <p>
-Hah! and their cards are filled with trips and family visits, and other 
+Hah! and their cards are filled with trips and family visits, and other
 entirely recreational stuff. But this is the life of a Technion student, who
-is a computer nerd and does not have a dime for himself besides what his 
+is a computer nerd and does not have a dime for himself besides what his
 parents give him. Not that I think my life aren't exciting: by all means what
 I do in the Internet, and with my computer is very enlightening to me. I don't
 think you have to travel a lot in order to accomplish a lot.
 </p>
 
 <p>
-Besides, I did not mention the numerous Haifux meetings, the Welcome-to-Linux 
+Besides, I did not mention the numerous Haifux meetings, the Welcome-to-Linux
 series, my hacks and endeavours, etc. I don't know how many people who are not
 computer geeks would find them interesting.
 </p>
@@ -691,9 +691,9 @@ computer geeks would find them interesting.
 
 <p>
 There were a few good days which I took to bike in the afternoon and possible
-take a walk in the morning. It rained very heavily yesterday, though. Still, 
+take a walk in the morning. It rained very heavily yesterday, though. Still,
 in the early afternoon it stopped and there was some sunshine, so I biked to the
-end of the University road and back. 
+end of the University road and back.
 </p>
 
 <h2>6-Jav-2003</h2>
@@ -711,9 +711,9 @@ and I sent it to him.
 
 <p>
 I did not hear from him since until I E-mailed him yesterday. He immediately
-replied that he had received my page, and modified it a bit since. He gave me 
+replied that he had received my page, and modified it a bit since. He gave me
 the URL and I placed it in Dmoz. Moen used quite a lot of Hebrew phrases in his
-messages, and I found out from him that he's been studying in the Hebrew 
+messages, and I found out from him that he's been studying in the Hebrew
 university campus and also volunteered in a kibuttz. :-) From his homepage and
 a Google search I understood he was quite a Linux hot-shot. Man, I'm honoured.
 </p>
@@ -729,23 +729,23 @@ and when it back-tracked, it undo the move.
 </p>
 
 <p>
-This could have been quite smart, but there is one problem. To be solved 
-effectively Freecell and most game AI programs in general, need to keep track 
-of the previously encountered state, to determine (preferably with a good 
+This could have been quite smart, but there is one problem. To be solved
+effectively Freecell and most game AI programs in general, need to keep track
+of the previously encountered state, to determine (preferably with a good
 complexity) if a state has been visited or not. His architecture did not have
 a state collection, and so did not work properly.
 </p>
 
 <p>
 I gave him this advice, and referred him to some Freecell Solver documentation
-where he can learn about it, which is a fairly complete Freecell solving 
-package. As much as I support re-inventing your own wheel for fun, it is 
+where he can learn about it, which is a fairly complete Freecell solving
+package. As much as I support re-inventing your own wheel for fun, it is
 usually faster to improve an existing wheel. He said he'll have some reading
 to do, and maybe will have the mood to contribute to Freecell Solver.
 </p>
 
 <p>
-On a slightly different note, I should say that I had a chat with 
+On a slightly different note, I should say that I had a chat with
 <person>rms</person> about making Freecell Solver a GNU package. He dispelled
 some myths I acquired regarding it, but eventually concluded that it may not
 be of wide-spread usefulness enough to justify GNUing it. Hopefully, I'll be
@@ -761,7 +761,7 @@ to start a separate mailing list - syscalltrack-website.
 </p>
 
 <p>
-After everything, there was finally some hacking. I changed the stylesheet a 
+After everything, there was finally some hacking. I changed the stylesheet a
 bit to agree more with other browsers beside Mozilla. It seems that Konq 3.1.x
 and MSIE 6.0 have buggy CSS 2 support. The new stylesheet is still valid CSS 2,
 but is simple enough to be processed correctly there. Maybe I should install
@@ -770,11 +770,11 @@ Opera to have yet another browser to check on.
 
 <p>
 I had lesser luck with the screenshot of the console. Since it was compressed
-as jpeg it now has some compression noise in it, and I had a bad time 
+as jpeg it now has some compression noise in it, and I had a bad time
 compressing it as a 256-bit png. Reducing the jpeg quality made it look much
-worse in natural size. I hope the original loss-less image exists somewhere or 
-that Muli can quickly produce another one. I suggested taking the text, 
-putting it in a &lt;pre&gt; block and using some CSS styles to make it 
+worse in natural size. I hope the original loss-less image exists somewhere or
+that Muli can quickly produce another one. I suggested taking the text,
+putting it in a &lt;pre&gt; block and using some CSS styles to make it
 resemeble a console Window. I'm still not sure it's a good idea.
 </p>
 
@@ -782,16 +782,16 @@ resemeble a console Window. I'm still not sure it's a good idea.
 
 <p>
 I decided I did not like "Emily of New Moon" so far, and began to read Daniel
-Handler's "The Basic Eight" instead. It's a very funny book, which tells about 
-a gang of teenagers in San-Fransisco, and one girl who decides to write a 
+Handler's "The Basic Eight" instead. It's a very funny book, which tells about
+a gang of teenagers in San-Fransisco, and one girl who decides to write a
 book out of her diary. (or so I understood). Very amusing, so far.
 </p>
 
 <p>
-Daniel Handler also uses the pseudonym "Lemoney Snicket" when writing the 
+Daniel Handler also uses the pseudonym "Lemoney Snicket" when writing the
 "Series of Unfortunate Events". I read the first one which was quite OK, but
 a bit depressing. I decided I won't go on, because the rest of the book are
-pretty much of the same vain, (sad ending, and this Count Olaf character 
+pretty much of the same vain, (sad ending, and this Count Olaf character
 terrorizing the protagonists).
 </p>
 
@@ -800,8 +800,8 @@ terrorizing the protagonists).
 <p>
 I have already replied to <person>kilmo</person>'s response to my comment on the
 HOWTO in private. Maybe he misunderstood what I meant to say, or maybe takes
-a completely different opinion. I still, however, take the stand that the 
-HOWTO's proposed strategy was deficient despite the fact that some parts of it 
+a completely different opinion. I still, however, take the stand that the
+HOWTO's proposed strategy was deficient despite the fact that some parts of it
 were good and enlightening.
 </p>
 
@@ -810,10 +810,10 @@ were good and enlightening.
 <p><b>Biking</b></p>
 
 <p>
-After a long of time of not seeing here I encountered the girl^H^H^H^Hyoung 
+After a long of time of not seeing here I encountered the girl^H^H^H^Hyoung
 woman jogger whom I encountered for many times. As usual she was listening using
 some ear-phones to a CD or mp3 player, and as usual she crossed at red lights.
-When we reached the standard friday Flower-stand on the pavement, she began 
+When we reached the standard friday Flower-stand on the pavement, she began
 walking and did not resume running. She is a very fast runner.
 </p>
 
@@ -821,22 +821,22 @@ walking and did not resume running. She is a very fast runner.
 
 <p>
 First of all regarding my status in the Linux club: it is safe and sound, and
-no-one is going to outcast me as I gathered. People just find my opinions 
-unusual which is true. As someone whose philosophy consists of 
+no-one is going to outcast me as I gathered. People just find my opinions
+unusual which is true. As someone whose philosophy consists of
 <a href="http://www.neo-tech.com/">Neo-Tech</a>, <a href="http://directory.google.com/Top/Society/Philosophy/Current_Movements/Objectivism/">Objectivism</a>,
-what ESR said in the Catherdral and the Bazaar series, and many extensions of 
-my own and others, I hold quite unorthodox opinions. I try not to preach 
-them intensively (that's entirely contradictory to general conventions), but I 
-often expresses them.  Then, people complain: "what the hell are you talking 
+what ESR said in the Catherdral and the Bazaar series, and many extensions of
+my own and others, I hold quite unorthodox opinions. I try not to preach
+them intensively (that's entirely contradictory to general conventions), but I
+often expresses them.  Then, people complain: "what the hell are you talking
 about? This does not <b>make sense</b> at all!" And then I can show that they
 are logically deducible from more basic premises.
 </p>
 
 <p>
-I don't see conformism as something which is necessarily beneficial. 
+I don't see conformism as something which is necessarily beneficial.
 Everybody around me use Windows, while I use Linux almost exclusively. This is
 just an example. So, to quote what I said, and is now in <person>mulix</person>
-'s new signature: "My opinions may seem crazy. But they all make sense. 
+'s new signature: "My opinions may seem crazy. But they all make sense.
 Insane sense, but sense nontheless".
 </p>
 
@@ -851,40 +851,40 @@ issues mailing list, the following conclusions were reached:
     not intended for women. As such it is OK.
     </li>
     <li>
-    A first draft of a similar guide for women, on how to cope with abuse from 
-    their male peers, is now being written by a distinguished LinuxChix member 
+    A first draft of a similar guide for women, on how to cope with abuse from
+    their male peers, is now being written by a distinguished LinuxChix member
     by the name of Poppy (it is her first name and please don't misspell it).
     </li>
     <li>
-    I still have some problems with the HOWTO, but they are relatively minor. 
-    Namely, I think it was not made clear enough that a similar document for 
-    Women on how to cope with abuse would be written, and that it is intended 
+    I still have some problems with the HOWTO, but they are relatively minor.
+    Namely, I think it was not made clear enough that a similar document for
+    Women on how to cope with abuse would be written, and that it is intended
     for men. Furthermore, it gives too many guidelines, and you can easily not
-    see the forest for the trees. Finally, the claim that a minority of 
-    "abusive" members can reject members from an otherwise perfectly 
+    see the forest for the trees. Finally, the claim that a minority of
+    "abusive" members can reject members from an otherwise perfectly
     enlightened LUG was not something I liked very much. And the only real
     solution is for Women themselves to stay away, ignore, penetrate or
     otherwise cope with the abuse of such minority. After all, despite telling
     blond jokes, a Linux hacker can be a fully capable and sexually enlightened
     person. One member of Haifux externalizes a lot of obsession with sex, but
-    I don't think he is chauvinistic. And he is a very old, knowledgable and 
+    I don't think he is chauvinistic. And he is a very old, knowledgable and
     capable hacker.
     </li>
 </ol>
 
 <p>
-I am sorry if I criticized the HOWTO too harshly, but it was just an opinion I 
-expressed here. Things I say in my diary are subject to change, as everything 
-as I say. (I change my opinions sometimes). I hope no-one was too offended by 
+I am sorry if I criticized the HOWTO too harshly, but it was just an opinion I
+expressed here. Things I say in my diary are subject to change, as everything
+as I say. (I change my opinions sometimes). I hope no-one was too offended by
 it, and I hope the conclusions I reached now are even more enlightening.
 </p>
 
 <p><b>Some other anecdotes from the "encouragin women" fiasco</b></p>
 
 <p>
-What happened was that I wasn't subscribed to the mailing list, and the 
+What happened was that I wasn't subscribed to the mailing list, and the
 moderator had to acknowledge each of my reply. Eventually she got tired of
-it altogether, and asked to subscribe without actually receiving messages 
+it altogether, and asked to subscribe without actually receiving messages
 (which was possible using the Mailman interface), I did just that. (from now
 on I'll know to do it in the future). I'll stay being able to post because this
 may come in useful
@@ -893,19 +893,19 @@ may come in useful
 <p>
 One woman kept insisting that she dislikes men trying to hit on her, because it
 happens way too often, and has become annoying. She later said that she hated
-her body, and wish she were not attractive at all and that many women felt the 
-same. This is opposed to me who like my body very much (even though I need to 
+her body, and wish she were not attractive at all and that many women felt the
+same. This is opposed to me who like my body very much (even though I need to
 lose some weight), and feel an ego-boost whenever a woman makes a pass on me, or
 flirts with me. (which does not happen much)
 </p>
 
 <p>
-I claimed that women should be more sexually liberated, be proud of their 
-attractiveness, try to be as attractive to the MOTOS (or the MOTSS, for PC-ness sake), as possible. While they cannot change the fact that men hit on every 
+I claimed that women should be more sexually liberated, be proud of their
+attractiveness, try to be as attractive to the MOTOS (or the MOTSS, for PC-ness sake), as possible. While they cannot change the fact that men hit on every
 female that moves, they can at least treat it like criticism: you receive a lot
 of criticism daily, but most of it is quite useless. However, sometimes it is
-enlightening and causes a shift in opinions or behaviour. If an exceptionally 
-attractive (not necessarily only physically) man hit on them, they should 
+enlightening and causes a shift in opinions or behaviour. If an exceptionally
+attractive (not necessarily only physically) man hit on them, they should
 still be proud. But this is all speculation.
 </p>
 
@@ -915,10 +915,10 @@ still be proud. But this is all speculation.
 
 <p>
 One thing we could not agreed on was this: I said that hitting on a woman on
-the first time she appears at a club meeting was not a nice thing to do. 
+the first time she appears at a club meeting was not a nice thing to do.
 However, I believed that after 5-10 meetings when she gets to know everybody,
 it is perfectly OK for a fellow LUG member to ask her on a date. (not making a
-pass on by any means. A simply suggestion). She claimed this too was 
+pass on by any means. A simply suggestion). She claimed this too was
 illegitimate. I responded like this:
 </p>
 
@@ -932,37 +932,37 @@ date? (reductio ad absordum, if you did not notice)<br />
 </p>
 
 <p>
-I think she was taking it too far. I hope that there will soon be a roughly 
+I think she was taking it too far. I hope that there will soon be a roughly
 equal number of men and women on LUG meetings and they will become a good an
-event to ask somebody out as any. But as she noted, there were appropriate 
+event to ask somebody out as any. But as she noted, there were appropriate
 places and appopriate times.
 </p>
 
 <p>
-Another issue was the etymology of the word "girl". I referred to 
+Another issue was the etymology of the word "girl". I referred to
 <a href="http://www.advogato.org/person/Xantia">Chen Shapira</a> as a girl,
-and was immidiately flamed for using this word, which they claimed was 
+and was immidiately flamed for using this word, which they claimed was
 derogatory. I went on by analyzing every posssible alternative (damsel, maiden, chick, lass, lassie, and even consulted M-W for maid, quail and wench) and
 found none of them to be as good. And "young woman" and "young lady" are two
-words. Ironically, in Hebrew there is a perfectly good word for it - "Bahura", 
-which is the feminine version of "Bahur" (= a guy) with no derogatory 
+words. Ironically, in Hebrew there is a perfectly good word for it - "Bahura",
+which is the feminine version of "Bahur" (= a guy) with no derogatory
 cronations at all.
 </p>
 
 <p>
-Ironically, Chen snapped it me when I told her that I referred to her as girl. 
-"Do I call you Boy by any chance?" (which was what the LinuxChix girl told me). 
+Ironically, Chen snapped it me when I told her that I referred to her as girl.
+"Do I call you Boy by any chance?" (which was what the LinuxChix girl told me).
 Then I said, there wasn't really any appropriate word and we started discussing
 derogatory origins of words in Hebrew and English. I finally asked her if I
-can call her "Hatikha" (a word for female babe in Hebrew, which was not very 
+can call her "Hatikha" (a word for female babe in Hebrew, which was not very
 derogatory). And she said, "if you really think so - fine.". ;-)
 </p>
 
 <p>
 I asked my sister Michal (who is 23 years old) if she is willing that someone
-refer to her as "girl" and she said that it would be perectly OK. Maybe it's 
+refer to her as "girl" and she said that it would be perectly OK. Maybe it's
 because Chen used to be a feminist (or some other women-lib activist) and so
-was still a bit edgy. Michal, OTOH, was never obsessed with women 
+was still a bit edgy. Michal, OTOH, was never obsessed with women
 discrimination, but is still very intelligent and competent.
 </p>
 
@@ -973,26 +973,26 @@ gave me her phone number." Etymology is fascinating. Seriously.
 </p>
 
 <p>
-There was one point where I noted I'll just listen and not contribute much 
+There was one point where I noted I'll just listen and not contribute much
 because it was spending too much of my time and I had plenty of other things to do. I noted that it was nice of my original post in the first place and to
-respond to their comments. But I was not responsible to do it in any way. 
+respond to their comments. But I was not responsible to do it in any way.
 (it was their privilege, not their right).
 </p>
 
 <p><b>The IBM Event and the RMS Dinner</b></p>
 
 <p>
-Hmmm. So much to tell, but I already spent too much time on this dictionary. 
-I'll tell it some other time. Just a quick note to <person>mulix</person>: I 
-deliberately introduced myself to Ted Ts'O as "Hi! My name is Shlomi Fish. I'm 
-a Linux user and developer who developed Freecell Solver, a program that 
-attempts to solve games of Freecell and occasionaly makes a good job at it" 
-(and that's it). The reason I preferred it over "Hi! Shlomi Fish! &lt;shaking 
-hands /&gt;" is because I knew Shlomi Fish would be just another random name 
+Hmmm. So much to tell, but I already spent too much time on this dictionary.
+I'll tell it some other time. Just a quick note to <person>mulix</person>: I
+deliberately introduced myself to Ted Ts'O as "Hi! My name is Shlomi Fish. I'm
+a Linux user and developer who developed Freecell Solver, a program that
+attempts to solve games of Freecell and occasionaly makes a good job at it"
+(and that's it). The reason I preferred it over "Hi! Shlomi Fish! &lt;shaking
+hands /&gt;" is because I knew Shlomi Fish would be just another random name
 for him which he probably would not remember (I know I wouldn't), and with
 this introduction he can at least associate me with a relatively successful
-open-source project. A purely strategical choice. I'm sure you could have 
-introduced yourself as "Hi! I'm Muli Ben-Yehuda! I work in IBM as well here in 
+open-source project. A purely strategical choice. I'm sure you could have
+introduced yourself as "Hi! I'm Muli Ben-Yehuda! I work in IBM as well here in
 Haifa. You may know me as the Syscalltrack Guy" Nothing wrong with that.
 </p>
 
@@ -1000,7 +1000,7 @@ Haifa. You may know me as the Syscalltrack Guy" Nothing wrong with that.
 Later on, I met Mr. Ts'o outside and we discussed the possible adoption
 of my "IP-Noise Project" (which is specifically Linux-based), The Ken Thompson
 "Reflections on Trusting Trust" effect, and GNU/Linux on PDAs, home computes
-and stuff. You can ask him for what he thought of me, but he did not seem one 
+and stuff. You can ask him for what he thought of me, but he did not seem one
 bit annoyed by me.
 </p>
 
@@ -1020,11 +1020,11 @@ You can see what I did <a href="http://syscalltrack.sourceforge.net/beta/">here<
 <p><b>CLAN - The Comprehensive Linux Archive Network</b></p>
 
 <p>
-I pondered an idea for this for some time. Yesterday I went to 
+I pondered an idea for this for some time. Yesterday I went to
 irc.kernelnewbies.org there, found <person>riel</person> and some other
-people and discussed it with it. He liked it so I wrote 
+people and discussed it with it. He liked it so I wrote
 <a href="http://fc-solve.berlios.de/clan/clan.html">whitepaper</a> and posted
-it to the Linux Kernel Mailing List. Tzafrir Cohen gave me some useful 
+it to the Linux Kernel Mailing List. Tzafrir Cohen gave me some useful
 commentary. What it does basically is allow to download, compile and install
 kernel modules incrementally while resolving dependencies. Something
 like Perl's CPAN or Debian Apt meets the Linux Kernel.
@@ -1032,15 +1032,15 @@ like Perl's CPAN or Debian Apt meets the Linux Kernel.
 
 <p>
 Right now, I'm pondering how to implement it in a robust enough way, and maybe
-should start hacking on a SPEC. riel said hosting should not be a problem, 
+should start hacking on a SPEC. riel said hosting should not be a problem,
 but that I'll need to make sure I'm serious about it. If anyone wishes to do
 it instead of me, (or bring out ideas, SPEC portions, etc.) feel free to.
 </p>
 
 <p>
-On the IRC, riel and some other guys also discussed Perl modules and objects 
-and what you should use them, and also a system they wrote at Connective (where 
-Rik-van-riel) works that is something like dmoz meets Slashdot, and he claims 
+On the IRC, riel and some other guys also discussed Perl modules and objects
+and what you should use them, and also a system they wrote at Connective (where
+Rik-van-riel) works that is something like dmoz meets Slashdot, and he claims
 makes the support guys job much easier. He said something about the code being
 in Portugese (variables, function names, comments and all) and that they wish
 to clean it up before they releas it. I've seen a Freecell implementation (with
@@ -1054,130 +1054,130 @@ to understand. <tt>use English;</tt>!
 The lectures in the IBM Event where cum-si cum-sa. The Israeli Organization
 of Information Engineers guy told a nice joke, and made a useful comment
 about open-source in the government. Basically, the government should not be
-forced to use OSS because it can stand on its own merits technically and 
-philosophically. However, I do think the government should make sure its 
+forced to use OSS because it can stand on its own merits technically and
+philosophically. However, I do think the government should make sure its
 users will not be forced to use proprietary software which they'll have to
 pay for.
 </p>
 
 <p>
 An IIS and Oracle site that outputs valid HTML and looks fine in Mozilla, Konq
-, Opera, etc. is acceptable. MS Word documents for download (without PDFs or 
+, Opera, etc. is acceptable. MS Word documents for download (without PDFs or
 HTML) are not.
 </p>
 
 <p>
 Next came Moshe Bar's lecture which confused the hell out of the terms "free
-software" and "open source software". Generally Moshe Bar's lecture are pretty 
+software" and "open source software". Generally Moshe Bar's lecture are pretty
 good, but this time I was very disappointed. I tried to correct him sometimes,
 and he dismissed me and there's a discussion of it in the Linux-IL archives.
 </p>
 
 <p>
-Next came Theodor Ts'o lecture. He is not head of the IBM Linux Development 
-Center (or something like that) and talked about everything IBM is doing with 
-Linux and Open-Source. I hope Mr. Ts'o won't take it the wrong way but the 
+Next came Theodor Ts'o lecture. He is not head of the IBM Linux Development
+Center (or something like that) and talked about everything IBM is doing with
+Linux and Open-Source. I hope Mr. Ts'o won't take it the wrong way but the
 lecture was too long and there were too many names and numbers and not enough
 meat. I left it a couple of times. (but note my impression from Ted below)
 </p>
 
 <p>
-Next was a brief but to the point lecture about PHP and Zend Inc. which was 
+Next was a brief but to the point lecture about PHP and Zend Inc. which was
 very interesting. I did not learn anything too new but it was interesting.
 </p>
 
 <p>
-Next came a lecture about the Eclipse IDE project. The project has an 
+Next came a lecture about the Eclipse IDE project. The project has an
 interesting design and goals and is widely deployed, but since I'm not an avid
-IDE user (give me konsole, gvim, gcc, make, gdb, perl, perl -d, Subversion, etc.everyday) and found Eclipse exteremely unconventional to what I was used to, I 
+IDE user (give me konsole, gvim, gcc, make, gdb, perl, perl -d, Subversion, etc.everyday) and found Eclipse exteremely unconventional to what I was used to, I
 went away. I think the lecture was interesting, though.
 </p>
 
 <p>
 I met Ts'o outside, and we had a few chats. In one he explained to me that ext2
-uses the standard direct, indirect, indirect-&gt;indirect, etc. convention that 
-is common on the UFS, which I learned at at the course Structure of OS in the 
-Technion. We also talked about my IP-Noise project and if he can recommend 
+uses the standard direct, indirect, indirect-&gt;indirect, etc. convention that
+is common on the UFS, which I learned at at the course Structure of OS in the
+Technion. We also talked about my IP-Noise project and if he can recommend
 anyone who knows where I can forward a "call for adoption" notice. He instructed
-me to E-mail him which I did. Another chat (between him, me and several other people) was on Linux for the masses, Linux on PDAs, Life, the Universe and 
+me to E-mail him which I did. Another chat (between him, me and several other people) was on Linux for the masses, Linux on PDAs, Life, the Universe and
 Everything.
 </p>
 
 <p>
 He calls Linux "liynex" but otherwise is one hell of a nice guy from my first
-impression, and a good speaker. Ted, next time, please include concrete 
-examples in your lecture. All those graphs, facts, figures, etc. bored the 
+impression, and a good speaker. Ted, next time, please include concrete
+examples in your lecture. All those graphs, facts, figures, etc. bored the
 hell out of me.
 </p>
 
 <p>
-Right afterwards was a Linux dinner which we decided to do with RMS or without 
+Right afterwards was a Linux dinner which we decided to do with RMS or without
 it. (he did eventually came straight from the airport). I was disappointed from
-the RMS-part of the dinner, because I did not get to talk to him too much, and 
+the RMS-part of the dinner, because I did not get to talk to him too much, and
 was pre-empted. Other people were disappointed from me because I did not behave
 very well. What was interesting was the company.
 </p>
 
 <p>
 I met two Hebrew University students who work on the MOSIX team. I talked with
-one of them about open-source and then mentioned the Cathedral and the Bazaar. 
-He said he printed it the same day, and intended to read it. I hope 
-"Amnon Barak" reads it as well, and MOSIX will become a true open-source 
+one of them about open-source and then mentioned the Cathedral and the Bazaar.
+He said he printed it the same day, and intended to read it. I hope
+"Amnon Barak" reads it as well, and MOSIX will become a true open-source
 project and not just one of those projects with a free software license. Taking
-Freecell Solver - I did more than 95% of the work on the code. But it would 
-have advanced nowhere, if it were not for the users' feedback, motivation, 
+Freecell Solver - I did more than 95% of the work on the code. But it would
+have advanced nowhere, if it were not for the users' feedback, motivation,
 encouragement, ideas, compliments and even the occasional contribution. I'm not
-sure it was 100% Bazaar-style, but it was quite close. And even in most 
+sure it was 100% Bazaar-style, but it was quite close. And even in most
 Bazaar style projects the core group is very small - usually one or two people.
 </p>
 
 <p>
 openMOSIX was supposed to be a MOSIX fork that was done bazaar-style. Now Prof.
-Barak is a bit possessive about the source, and so shined away from it. I do 
-hope these projects merge in a certain point into one Bazaar-style project 
-headed by Barak (or an anarchy-style project like KDE). But at the time being 
+Barak is a bit possessive about the source, and so shined away from it. I do
+hope these projects merge in a certain point into one Bazaar-style project
+headed by Barak (or an anarchy-style project like KDE). But at the time being
 Prof. Barak won't accept patches to the code even if they are perfectly fine.
 </p>
 
 <p>
 I then met Mark Veltzer and few people I did not know, and started talking. We
 began discusssing the "Microsoft - Good or Evil" endless-discussion. I maintain
-that Microsoft should be left alone and suffer from their own mistakes and 
+that Microsoft should be left alone and suffer from their own mistakes and
 dogma. I also believe Microsoft is smarter than many think it is, and eventually
-port stuff to Linux, and adopt a more bazaar-like development style of its 
+port stuff to Linux, and adopt a more bazaar-like development style of its
 software. I don't think they will ever go entirely open-source, but I think they
 can survive to one extent or the other in an open-source dominated world.
 </p>
 
 <p>
 Making free software is not about getting rid of Microsoft. It's about changing
-the rules of the game and making people more free to choose their software, 
-and better be aware of their freedom. As was noted in the conference IBM is the 
-god-mother of proprietary software, distributed such a long time before 
+the rules of the game and making people more free to choose their software,
+and better be aware of their freedom. As was noted in the conference IBM is the
+god-mother of proprietary software, distributed such a long time before
 Microsoft, and still does. It is now one of the largest open-source developers.
-I think Microsoft can adapt as well as IBM can. It dumped DOS in favour of 
+I think Microsoft can adapt as well as IBM can. It dumped DOS in favour of
 Windows and MacOS, and can dump both in favour of Linux and MacOS X. This will
 give them all other UNIXes for free. (just re-compile) And Windows has become
-so over-engineered, over-complicated, over-x86-specific, over 
-backwards-compatible, over-bloated, and over-un-understood, that they have 
+so over-engineered, over-complicated, over-x86-specific, over
+backwards-compatible, over-bloated, and over-un-understood, that they have
 more profitable pathes to do with the elite group that is supposed to maintain
-the Windows XP code. (which is the Linux equivalent of the kernel, glibc, X, gtk+, half of GNOME, bash and a lot of the GNU fileutils etc., Mozilla (IE within),atd, CORBA, and maybe other things I forgot). 
+the Windows XP code. (which is the Linux equivalent of the kernel, glibc, X, gtk+, half of GNOME, bash and a lot of the GNU fileutils etc., Mozilla (IE within),atd, CORBA, and maybe other things I forgot).
 </p>
 
 <p>
 Granted, some things are nicer in Windows. Multi-threading for instance. But it
-would take less time to tweak gdb to better support threads, than it would be 
-to fix all the Windows brain-damage around. I once preferred using Win98 over 
-Linux for doing non-development stuff. Now I simply can't stand Windows, not 
-even Windows XP. My Mandrake system with KDE 3.x and everything on it gives me 
+would take less time to tweak gdb to better support threads, than it would be
+to fix all the Windows brain-damage around. I once preferred using Win98 over
+Linux for doing non-development stuff. Now I simply can't stand Windows, not
+even Windows XP. My Mandrake system with KDE 3.x and everything on it gives me
 so much more opportunities and is so much more comfortable. I can easily show
 that there are things that are trivial in Linux which are not possible in the
 Windows XP as it ships from Redmond. Many things.
 </p>
 
 <p>
-If Microsoft wants to beat Linux they would have to seriously hack on the 
-already bloated code. But sometimes, if you can't beat them - join them, and I 
+If Microsoft wants to beat Linux they would have to seriously hack on the
+already bloated code. But sometimes, if you can't beat them - join them, and I
 think that's what they'll eventually do.
 </p>
 
@@ -1187,15 +1187,15 @@ think that's what they'll eventually do.
 
 <p>
 I wrote <a href="http://fc-solve.berlios.de/oss-fs/">an essay aims to introduce
-open source, and free software to beginners</a>. It covers the history, the 
-meaning of the terms and some issues and myths. It's a bit longish (14 A4 
+open source, and free software to beginners</a>. It covers the history, the
+meaning of the terms and some issues and myths. It's a bit longish (14 A4
 pages), but otherwise aims to be encompassing enough.
 </p>
 
 <p>
-Chen Shapira has reviewed the early versions of the document, and gave some 
-very essential commentary (including how to trim them - they were even 
-longer than now). <person>nyh</person> summarized the history of early UNIX 
+Chen Shapira has reviewed the early versions of the document, and gave some
+very essential commentary (including how to trim them - they were even
+longer than now). <person>nyh</person> summarized the history of early UNIX
 and the BSDs for me, so I'm grateful for him as well as I was able to use
 it and link to it.
 </p>
@@ -1210,8 +1210,8 @@ it would benefit both consumers and content owners (large and small).
 <p><b>IRC Chatting</b></p>
 
 <p>
-I spend quite a lot of time recently chatting on the IRC. I use the 
-irc.kernelnewbies.org network, and usually hang on on the #offtopic channel. 
+I spend quite a lot of time recently chatting on the IRC. I use the
+irc.kernelnewbies.org network, and usually hang on on the #offtopic channel.
 It's a cozy little channel with a good SNR, and some very enlightened and
 interesting people. It's a way to procrastinate I suppose, but then again,
 I don't have anything critical to do until I start studying.
@@ -1220,11 +1220,11 @@ I don't have anything critical to do until I start studying.
 <p>
 <person>wli</person> and I have actually fought about our keyboard preferences
 (Sun vs. PC). wli seems to be very knowledgable and interesting. It turned out
-that as opposed to me he started working on computers from UNIX workstations, 
+that as opposed to me he started working on computers from UNIX workstations,
 and later switched to Linux on PCs. I, OTOH, actually worked with DOS, Windows
 3.1, and various Win32 variants. I think that you appreciate UNIX much more
 after you work on some really sucky OSes like that. I kept knowing they were
-bad, but not knowing why, until I started working on UNIX, where I saw a 
+bad, but not knowing why, until I started working on UNIX, where I saw a
 sensible system for the first time in my life. :-)
 </p>
 
@@ -1234,7 +1234,7 @@ sensible system for the first time in my life. :-)
 It's still raining on and off. Yesterday, I was able to bike twice, but today's
 its raining. I'm going to start studying a week from now on Monday. I eventually
 decided to take a semester off instead of a year off. At one point I believed
-I had enough recreation, but now it seems that I'll miss having all this 
+I had enough recreation, but now it seems that I'll miss having all this
 free time. Oh well, the Summer vacation is not far away, and there are some
 holidays and weekends as well.
 </p>
@@ -1249,7 +1249,7 @@ since I've been outdoors.
 <p><b>Life</b></p>
 
 <p>
-Still raining on and off, so not much biking for me. I'm spending a lot of 
+Still raining on and off, so not much biking for me. I'm spending a lot of
 time on the IRC lately, but still can get some useful work. Besides, when
 I start studying again this Monday, IRC would not be as accessible and much
 less recommended. So I'd better make the best use of it now. And even wasting
@@ -1258,9 +1258,9 @@ time is good if you're enjoying it. ;-)
 
 <p>
 My father and I went to buy a new desk lamp for my Haifa apartment, right
-before he went to England. The light bulb holder there is broken, and so 
+before he went to England. The light bulb holder there is broken, and so
 the room would be completely dark without it. Mom and I are going to set
-things up in the Haifa Apartment this weekend. At the time being, I don't 
+things up in the Haifa Apartment this weekend. At the time being, I don't
 spend too much time thinking about studying, but I suppose it will occupy
 quite a lot of my time, soon. Hopefully, this semester, should not be too
 hard.
@@ -1269,28 +1269,28 @@ hard.
 <p><b>Hacktivity</b></p>
 
 <p>
-Worked a bit on <a href="http://www.iglu.org.il/shlomif/perl-begin/">my 
+Worked a bit on <a href="http://www.iglu.org.il/shlomif/perl-begin/">my
     version of the Perl beginners portal</a>, a bit on revamping the perl 5
-perl*.pod man pages, and some on 
-<a href="http://fc-solve.berlios.de/oss-fs/docbook/">DocBookifying 
+perl*.pod man pages, and some on
+<a href="http://fc-solve.berlios.de/oss-fs/docbook/">DocBookifying
     the OSS/FS document</a>. I ran into a few problems with the PDF generation
-of DocBook (namely that Hyperlinks and footnotes are not functional), and I 
+of DocBook (namely that Hyperlinks and footnotes are not functional), and I
 hope the good people of the DocBook-apps mailing list would help me soon.
 </p>
 
 <p><b>Some IRC, E-mail, etc. Musings</b></p>
 
 <p>
-<person>riel</person> is <a href="http://surriel.com/nh.shtml">moving out to 
-    New Hampshire</a>, while being in Brazil at the moment. The link is quite 
-informative, so I suggest you read it if you are wondering about this issue. He also confirmed the fact that the core Connectiva distribution was open-source, 
-much like RedHat, Mandrake or Debian. According to LWN, some non-free 
-distributions proved to be a bit risky after they become defunct. Suse and 
-Caldera are doing fine, but I still would not trust them. 
+<person>riel</person> is <a href="http://surriel.com/nh.shtml">moving out to
+    New Hampshire</a>, while being in Brazil at the moment. The link is quite
+informative, so I suggest you read it if you are wondering about this issue. He also confirmed the fact that the core Connectiva distribution was open-source,
+much like RedHat, Mandrake or Debian. According to LWN, some non-free
+distributions proved to be a bit risky after they become defunct. Suse and
+Caldera are doing fine, but I still would not trust them.
 </p>
 
 <p>
-I noticed a certain pattern with the #perl channels on the IRC. In EF-Net, 
+I noticed a certain pattern with the #perl channels on the IRC. In EF-Net,
 #perl is reserved for expert talk and no CGI/Web/Net::IRC/newbie questions
 are allowed. That is reserved for #perlhelp. Of course, a lot of newbies
 log on to the IRC seeking perl help, and go to #perl, and without reading
@@ -1316,12 +1316,12 @@ regard.
 
 <p>
 I visited #iglu at EF-net as well, which is the channel of the Israeli Group
-of Linux Users. I had a pleasant chat there. Someone asked me about Perl's 
+of Linux Users. I had a pleasant chat there. Someone asked me about Perl's
 XML writing capabilites, and I asked him what was wrong with <tt>print</tt>.
 Eventually it turned out he was used to a Visual Basic API that made sure
 the written file was a valid XML at each point. I.e: by appending all the
-closed tags to the end of the file. This requires an extra overhead, and I'm 
-not sure is a good idea. (in a worst case scenario, it can increase writing 
+closed tags to the end of the file. This requires an extra overhead, and I'm
+not sure is a good idea. (in a worst case scenario, it can increase writing
 from O(n) to O(n^2) for a UNIX file-system) Even so, implementing such an
 object should not be too hard.
 </p>
@@ -1333,8 +1333,8 @@ file. It eventually turned out he was an Israeli, and we ended up chatting some
 more.  </p>
 
 <p>
-Finally, a <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg26163.html">flame-war broke out in Linux-IL</a> 
-regarding whether we as Linux developers should be considerate of the needs 
+Finally, a <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg26163.html">flame-war broke out in Linux-IL</a>
+regarding whether we as Linux developers should be considerate of the needs
 of Windows users as well. (e.g: use PDF instead of PostScript, maintain a port
 of the software to Windows). I'll let you be the judge.
 </p>
@@ -1346,10 +1346,10 @@ of the software to Windows). I'll let you be the judge.
 <p>
 Technion studies have began. I'm taking four courses this semester. Three
 of them were taken out of understanding that they would probably be easy to me
-and the other one (Micro-computers) interested me, and was also taken by a 
+and the other one (Micro-computers) interested me, and was also taken by a
 fellow Haifuxer. So far, I have quite a lot of homework assignments, but I
 still have a lot of free time. (maybe too much for my own good). I no longer
-have the Com-Net workstation due to the fact I no longer study there, and 
+have the Com-Net workstation due to the fact I no longer study there, and
 could not get a work there. This leaves me with the Technion facilities, which
 are inadequate for my needs at best. :-(
 </p>
@@ -1357,8 +1357,8 @@ are inadequate for my needs at best. :-(
 <p><b>Perl Golf</b></p>
 
 <p>
-I've been playing quite a lot of <a href="http://terje.perlgolf.org/">Perl 
-    Mini Golf</a> lately. Perl Golf is a contest in which the participants 
+I've been playing quite a lot of <a href="http://terje.perlgolf.org/">Perl
+    Mini Golf</a> lately. Perl Golf is a contest in which the participants
 try to write the shortest (character-wise) Perl program to achieve a certain
 end. This creates highly compressed and obfuscated programs, with some very
 unorthodox tricks, and lack of attention to conventions.
@@ -1377,7 +1377,7 @@ frustrating. Oh well.
 
 <p>
 I spent most of yesterday hanging on the IRC. (despite the fact that I have
-a Micro-Computers exercise that I'd like to prepare by myself this weekend). 
+a Micro-Computers exercise that I'd like to prepare by myself this weekend).
 I was able to help an Apache newbie (who actually uses Slackware and knows
 his way around Linux), with the Alias and ScriptAlias directives. I also
 discussed E-mail MTAs with a couple of people on the Perl channel. Then
@@ -1393,7 +1393,7 @@ and Everything. Off-topic indeed.
 <p>
 I certified <person>wli</person> as Journeyer, because of his work on the
 Linux kernel, and his vast knowledge. (I also taken into account the fact
-he writes his scripts in Haskell). He is already certified as a Master, 
+he writes his scripts in Haskell). He is already certified as a Master,
 but I'll have to know him better than my superficial familiarity with
 him to do so.
 </p>
@@ -1406,15 +1406,15 @@ useless stuff. Been working on my Haifux Lectures Manager a bit. And then
 I wrote google.pl, a CGI (or mod_perl and friends) Perl script that acts
 as a mirror for Google. (I did not release it yet). I also made a coverage
 of the bugzilla bugs I reported, and found out most of them could be
-overcome or have been resolved. Kudos to the Mozilla team for the great 
-work. 
+overcome or have been resolved. Kudos to the Mozilla team for the great
+work.
 </p>
 
 <p>
-Per request of my Debian package maintainer, I updated the Freecell Solver 
-config.guess and config.sub files to the latest avaialable from the 
-<a href="ftp://ftp.gnu.org/pub/gnu/config/">GNU site</a>. It took me quite 
-some time to find out how to get them properly, and someone on the 
+Per request of my Debian package maintainer, I updated the Freecell Solver
+config.guess and config.sub files to the latest avaialable from the
+<a href="ftp://ftp.gnu.org/pub/gnu/config/">GNU site</a>. It took me quite
+some time to find out how to get them properly, and someone on the
 Autoconf mailing list helped with that. It is strange that libtool 1.4.3
 which is quite recent does not contain them, but rather very old ones. Who
 can tell the ways of the GNU?
@@ -1426,17 +1426,17 @@ can tell the ways of the GNU?
 A recent Slashdot feature pointed to an Enlightening article about the TCO
 of a system with one central server and several X terminals. I've seen this
 X terminals, which can only be used to connect to a server over the network,
-and realize they require almost zero maintenance in comparison to 
-full-fledged workstations. As far as a university is concerned, by using a 
+and realize they require almost zero maintenance in comparison to
+full-fledged workstations. As far as a university is concerned, by using a
 server, one can install things in only one computer and allow everyone else
 to enjoy it, while a corresponding client-server architecture, would require
-installing packages on several different workstations somehow. 
+installing packages on several different workstations somehow.
 </p>
 
 <p>
 Now in a workplace where everybody administers his own workstation, the second
 option may actually make sense. But a university has farms with unpriviliged
-access. In the Technion we have many farms with such client-server 
+access. In the Technion we have many farms with such client-server
 configurations, and the software installed on it, is inadequate for the needs
 of many (if not all) students. And naturally, it is impossible to install
 new one, because it requires a system-wide installation. Strangely enough,
@@ -1452,25 +1452,25 @@ Technion did not deploy it widely.
 
 <p>
 A conference for promoting Linux in Israel took place in the Hilton Hotel some
-days ago. There had been a lot of buzz about it beforehand, and a lot of 
+days ago. There had been a lot of buzz about it beforehand, and a lot of
 prepartions. I believed I was going to study throughout the entire today, so
 I did not took a very active part. I eventually attended the event from about
 midday, after attending a class in the morning. I must say it went extremely
 well and everybody seemed to think so as well. Hackers and Suits integrated
-nicely to give an exciting yet accurate depiction of the Linux world and 
-potential. The conference was financed by People and Computers and many 
+nicely to give an exciting yet accurate depiction of the Linux world and
+potential. The conference was financed by People and Computers and many
 industrial companies.
 </p>
 
 <p>
 I came mostly to talk to people I know, but also attended a presentation, the
 free software developers panel and the Perl-IL meeting. I bought a Perl in
-Israel T-shirt for 50 NIS, but forgot it there when I exchanged some books. 
+Israel T-shirt for 50 NIS, but forgot it there when I exchanged some books.
 (the Israeli Perl Master have taken it, so I'll get it eventually).
 </p>
 
 <p>
-Refer to the <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/04/threads.html">Linux-IL mailing list archive for April</a> and 
+Refer to the <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/04/threads.html">Linux-IL mailing list archive for April</a> and
 <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/04/msg00319.html">
 my record of it</a>.
 </p>
@@ -1478,10 +1478,10 @@ my record of it</a>.
 <p><b>Perl Beginners Site</b></p>
 
 <p>
-My Perl beginners site moved to a more 
+My Perl beginners site moved to a more
 <a href="http://perl-begin.berlios.de/">Permanent Location</a>. As for the
 standard rant+suggestions regarding the suitability of the Perl online world
-for newcomers: I was not happy from most of the comments I received in the 
+for newcomers: I was not happy from most of the comments I received in the
 Advogato post. Most of them beat around the bust in one way or another.
 </p>
 
@@ -1496,7 +1496,7 @@ claimed by too few entities. I'd like the situation to improve.
 <p><b>Perl Beginners</b></p>
 
 <p>
-I eventually posted a link to the essay to the 
+I eventually posted a link to the essay to the
 <a href="http://archive.develooper.com/advocacy@perl.org/">
     perl advocacy mailing list</a>.
 There I finally received a <a href="http://archive.develooper.com/advocacy@perl.org/msg01903.html">useful discussion</a> of it. I'm not sure if I was
@@ -1505,20 +1505,20 @@ was to the point and of high quality.
 </p>
 
 <p>
-I also added quite a lot of new things to the 
+I also added quite a lot of new things to the
 <a href="http://perl-begin.berlios.de/">Perl Beginners site</a>. I posted
 a link to it on a web-design mailng list I am a member of, and received
 a useful comment with a lot of suggestions for modifying the style and content.
-I applied most of them, and planning to apply another one in a different 
+I applied most of them, and planning to apply another one in a different
 variation. (dedicating parts of the site for the various common uses of Perl
-like CGI, QA, Bio-info, Sys Admin). 
+like CGI, QA, Bio-info, Sys Admin).
 </p>
 
 <p><b>Homework</b></p>
 
 <p>
-My Software Systems partner drove to my Tel-Aviv home to sit on the home 
-exercise. We had to write a rudimentary spell checker in VAX-11 assembler. 
+My Software Systems partner drove to my Tel-Aviv home to sit on the home
+exercise. We had to write a rudimentary spell checker in VAX-11 assembler.
 It took us all day, but OTOH we ended up talking a lot about various things,
 and also took a long lunch break, to grab a byte in the commercial center, and
 to recreate. At the end of the day, it worked and we were very happy.
@@ -1526,7 +1526,7 @@ to recreate. At the end of the day, it worked and we were very happy.
 
 <p>
 The simulator we work with is written in Turbo-Pascal with the old Borland
-style look, only a much worse behaviour and some exotic bugs and 
+style look, only a much worse behaviour and some exotic bugs and
 misbehaviours. I was told that a pair of students was assigned to rewrite it
 for Win32 using MFC, but they are not finished yet. What I could really use
 is a UNIX-style gdb-like application, with a basic scriptability and an ability
@@ -1539,7 +1539,7 @@ Since the vacation involved a lot of Jewish holidays, my partner for Intro
 to Software Systems (a different course with a similar name, mind you) and I
 decided that we solve the exercise independently and then compare them. So
 in the recent days, I say on implementing the implementation of a linked list,
-as well as a stupid dating service management that uses it. The various 
+as well as a stupid dating service management that uses it. The various
 operations, all have sub-optimal complexity if you ask me, but we were not
 requested to do otherwise. "Oh ANSI C, ANSI C! If only you were Perl..."
 </p>
@@ -1555,7 +1555,7 @@ behind the scenes. So far, I can wholeheartedly recommend it.
 <p><b>Impressions from the Mozilla Culture</b></p>
 
 <p>
-It turns out Mozilla has spawned a great deal of culture and add-ons. I 
+It turns out Mozilla has spawned a great deal of culture and add-ons. I
 installed the Mozilla Google Bar, which is the Mozilla equivalent of the
 same offering from Google Inc. to MSIE. It's really nice and handy. I also
 downloaded a web-developers toolbar from somewhere, which is also very good.
@@ -1564,19 +1564,19 @@ downloaded a web-developers toolbar from somewhere, which is also very good.
 <p>
 Finally, I took a look at Cascades, a CSS editor for Mozilla. As it turned out,
 the page was an old leftover and its functionality was already integrated into
-the core Mozilla. The CSS editor is handy and gives a nice dynamic 
-functionality. My only problems with it is are that it: (1) bloats the CSS 
+the core Mozilla. The CSS editor is handy and gives a nice dynamic
+functionality. My only problems with it is are that it: (1) bloats the CSS
 stylesheet, (2) does not preserve its indendation, (3) has no decent HSV colour
-picker. Still, I could rip the styles I edited and apply them manually to my 
+picker. Still, I could rip the styles I edited and apply them manually to my
 stylesheet, so it's better than nothing.
 </p>
 
 <p>
 I am very glad that Mozilla spawned such rich culture, and I think what I
-discovered is just the tip of the iceberg. Is there a similar case with 
+discovered is just the tip of the iceberg. Is there a similar case with
 Konqueror/KHTML? Is it possible to program plug-ins and extensions for it
 in Python or in Perl or will C++ have to do? With Mozilla, many of the things
-were programmed in XUL and JavaScript, which is a much better idea as far as 
+were programmed in XUL and JavaScript, which is a much better idea as far as
 the programmer is concerned than messing with C++.
 </p>
 
@@ -1614,14 +1614,14 @@ I also wrote a DTD for it, and prepared an XSLT stylesheet.
 <p>
 When I tried to view the XML in Mozilla, I got a blank page. I spent the better
 part of yesterday trying to get it to work. The problem turned out to be
-in the "Content-Type" HTTP header that the browser sent for the .xsl file, 
-which wasn't "text/xml" as it should have been. After I fixed it using a short 
+in the "Content-Type" HTTP header that the browser sent for the .xsl file,
+which wasn't "text/xml" as it should have been. After I fixed it using a short
 .htaccess file, it worked perfectly. &lt;sigh /&gt;
 </p>
 
 <p>
-So I filed a <a href="http://bugzilla.mozilla.org/show_bug.cgi?id=204748">bug report for it</a> 
-in the Mozilla Bugzilla but it was closed, because that's what should happen. 
+So I filed a <a href="http://bugzilla.mozilla.org/show_bug.cgi?id=204748">bug report for it</a>
+in the Mozilla Bugzilla but it was closed, because that's what should happen.
 &lt;sigh /&gt; again.
 </p>
 
@@ -1637,9 +1637,9 @@ partner on Monday to work on the next exercise in that subject.
 </p>
 
 <p>
-On Sunday, I'll meet Ran to work on the "Software Systems" exercise and 
+On Sunday, I'll meet Ran to work on the "Software Systems" exercise and
 project. Last time, we ran into problems and after I talked with the T.A. it
-turned out that we did not enable the interrupts functionality in the 
+turned out that we did not enable the interrupts functionality in the
 simulator. After it was enabled everything worked fine. &lt;sigh /&gt;
 </p>
 
@@ -1648,14 +1648,14 @@ simulator. After it was enabled everything worked fine. &lt;sigh /&gt;
 <p>
 I was able to get several things done. First I created <a href="http://search.cpan.org/search?mode=all&amp;query=bundle%20quadpres">
     a QuadPres Bundle on CPAN</a> to install the modules it requires. It turns
-out the dependencies of the bundle, are specified in the CONTENTS POD section 
+out the dependencies of the bundle, are specified in the CONTENTS POD section
 in the module, and it took me some time to figure it out.
 </p>
 
 <p>
-I also worked on "use strict"ing the main script of 
-<a href="http://chiqchaq.sourceforge.net/">the Chiq-Chaq Wiki 
-    Implementation</a>. I finished doing this and now I'm going 
+I also worked on "use strict"ing the main script of
+<a href="http://chiqchaq.sourceforge.net/">the Chiq-Chaq Wiki
+    Implementation</a>. I finished doing this and now I'm going
 to fix the HTML to make it validate.
 </p>
 
@@ -1691,7 +1691,7 @@ but did not hear from him since.
 </p>
 
 <p>
-Right now I have homework pending in Financial Management, and in 
+Right now I have homework pending in Financial Management, and in
 Micro-computers. The latter I only have 20% of the score left to do as I
 alredy did the wet part.
 </p>
@@ -1708,15 +1708,15 @@ information)
 
 <p>
 I gave some touches to the list of mailing lists manager. I had to fix the
-build, and integrated building an RPM Spec. I also worked on Quad-Pres a 
+build, and integrated building an RPM Spec. I also worked on Quad-Pres a
 little. Since I needed to render the presentations into HTML that is
 viewable on the hard-disk, I created a script that does just that. All
 it does is append <tt>index.html</tt> to links to directories. At home
-, I extracted it into a module, and placed it on CPAN. 
+, I extracted it into a module, and placed it on CPAN.
 </p>
 
 <p>
-I called it HTML::Hard::Disk. However, I received a reply to the namespace 
+I called it HTML::Hard::Disk. However, I received a reply to the namespace
 request that was sent to the CPAN module maintainers list, in which someone
 claimed it was not a good name. He suggested HTML::LocalizeLinks, and
 I think I'll go with HTML::Links::Localize.
@@ -1732,7 +1732,7 @@ probably release a new development version, and announce it on Freshmeat.
 <p><b>Studies</b></p>
 
 <p>
-I had the test of Financial Management yesterday. I did not understand the 
+I had the test of Financial Management yesterday. I did not understand the
 first part at first so I decided to move to the second part, which was easier.
 Then I returned to the first part and this time understood it and was able
 to solve most of it. Now I have some vacation until the next test on July 14.
@@ -1794,8 +1794,8 @@ of the WebDAV library solved the problem.
 
 <p>
 The problem I encountered afterwards was that Subversion kept rejecting my
-repository's certificate. In order to solve it I had to add a pointer to the 
-server's .pem file to the Subversion configuration file. I mistakengly used 
+repository's certificate. In order to solve it I had to add a pointer to the
+server's .pem file to the Subversion configuration file. I mistakengly used
 the wrong configuration file, but eventaully Ben Collins-Sussman corrected
 me on the IRC. Then I discovered my certificate got expired, so I created
 a new one that will be good for the next 30 years, and re-tried.
@@ -1813,7 +1813,7 @@ What kept me busy yesterday was an entirely different problem. It turned out
 that the <a href="http://www.iglu.org.il/">Israeli Group of Linux Users</a>'s
 web-server version of <a href="http://www.squishdot.org/">Squishdot</a> had
 a cross-server scripting problem. Upgrading it requires a lot of manual steps,
-and we got sick of Zope anyhow. So I had to install a new content management 
+and we got sick of Zope anyhow. So I had to install a new content management
 system. I first tried phpBB, but could not get it to look more or less like the
 original Slashdot-like way. So I switched to PostNuke, and managed to configure
 most of it yesterday and today.
@@ -1822,7 +1822,7 @@ most of it yesterday and today.
 <p><b>Studies</b></p>
 
 <p>
-I finished the last "Intro to Software Systems" exercise today (yay!). I'm 
+I finished the last "Intro to Software Systems" exercise today (yay!). I'm
 enjoying the vacation before the next test.
 </p>
 
@@ -1839,15 +1839,15 @@ all the air to come out. Aaarrggh!
 
 <p>
 The one who contacted me about Knoppix, called again, and he gave me a life
-to his apartment. I brought my Knoppix CD and the Mandrake CDs with me. It 
+to his apartment. I brought my Knoppix CD and the Mandrake CDs with me. It
 turned out his computer was constructed out of "components he found in the
 garbage". Thus, we could not get either Knoppix or the Mandrake installation
-CD to load, no matter what we tried. 
+CD to load, no matter what we tried.
 </p>
 
 <p>
 I invited him home to see my Linux system in action. When he left he was quite
-impressed from it. I'm still disappointed that we could not get Linux to 
+impressed from it. I'm still disappointed that we could not get Linux to
 install there.
 </p>
 
@@ -1880,9 +1880,9 @@ that's the end of the phantom problems with it.
 This and that. I've been trying to find some Subversion bugs to resolve, and
 so far have been only bugging with it the Subversion development list. I also
 wrote a Perl script to submit a site to <a href="http://dmoz.org/">dmoz</a>,
-seeing how my browser gets stuck doing that. The script seems to submit 
+seeing how my browser gets stuck doing that. The script seems to submit
 everything, but the site does not arrive at dmoz (checked it with my own
-category). Then I discovered there is a better way for me as an editor 
+category). Then I discovered there is a better way for me as an editor
 to submit sites.
 </p>
 
@@ -1891,9 +1891,9 @@ to submit sites.
 <p><b>Studies</b></p>
 
 <p>
-I got 93 as the final score of Financial Management. (yay!). OTOH, I did not 
+I got 93 as the final score of Financial Management. (yay!). OTOH, I did not
 do too well in the last exercise of Micro-computers. I'll have to see the
-T.A. about it. I also solved some exams for the "Intro to Software Systems" 
+T.A. about it. I also solved some exams for the "Intro to Software Systems"
 test and prepared part of the next Micro-computers exercise.
 </p>
 
@@ -1932,7 +1932,7 @@ If I like it, I'll install it on the Perl Beginners' site.
 <p><b>Kernel 2.5.75</b></p>
 
 <p>
-Persuaded by an IRC conversation with <person>mulix</person>, I set out to 
+Persuaded by an IRC conversation with <person>mulix</person>, I set out to
 install the Linux kernel 2.5.75 on my system. The first problem I encountered
 was that the some of the kernel's modules would not compile. To solve it,
 I removed them from the configuration, but they were still enabled by default,
@@ -1941,7 +1941,7 @@ so it wasn't my fault.
 
 <p>
 Then, after I had the kernel compiled, I tried to boot it only to find a blank
-screen, and some hard-disk activity. It turned out I had to enable some 
+screen, and some hard-disk activity. It turned out I had to enable some
 configuration options that enable the console and stuff. (check
 Dave Jones' <a href="http://www.codemonkey.org.uk/post-halloween-2.5.txt">
     Post Halloween Document</a> for details). Then, the keyboard did not work,
@@ -1953,14 +1953,14 @@ well.
 Afterwards, I was able to boot it, and use the network and the sound card. But,
 then when invoking the full boot process, I encountered a problem that the
 system won't start. I traced the problem to /etc/rc.sysinit, and by adding a lot
-of echo messages, fixed it for the kernel. Then my system was operational, 
-albeit some of the startup modules did not load and had to be loaded 
+of echo messages, fixed it for the kernel. Then my system was operational,
+albeit some of the startup modules did not load and had to be loaded
 explicitly by me.
 </p>
 
 <p>
-So, X worked, the sound card worked, and the network worked, but I could not 
-get the Nvidia kernel drivers to compile with the new kernel. So I switched 
+So, X worked, the sound card worked, and the network worked, but I could not
+get the Nvidia kernel drivers to compile with the new kernel. So I switched
 back to kernel 2.4.x. I can still boot 2.5.75 if I like, but I don't see much
 reason to.
 </p>
@@ -1968,8 +1968,8 @@ reason to.
 <p><b>Subversion Hosting</b></p>
 
 <p>
-I discovered that I could save more space on <a href="http://stalker.iguide.co.il:8080/">stalker.iguide.co.il</a> by deleting the subversion <tt>.a</tt> 
-libraries, and stripping the <tt>.so</tt> ones. 
+I discovered that I could save more space on <a href="http://stalker.iguide.co.il:8080/">stalker.iguide.co.il</a> by deleting the subversion <tt>.a</tt>
+libraries, and stripping the <tt>.so</tt> ones.
 </p>
 
 <p>
@@ -1981,10 +1981,10 @@ of it.
 <p><b>Studies</b></p>
 
 <p>
-I took the exam of "Intro to Software Systems" today. It went pretty well and 
+I took the exam of "Intro to Software Systems" today. It went pretty well and
 wasn't very hard. I also handed in the assignment for this subject. Other
 than that, I only have the Micro-computers exam, and the last exercise in it
-to hand. 
+to hand.
 </p>
 
 <h2>20-Jul-2003</h2>
@@ -1992,16 +1992,16 @@ to hand.
 <p><b>Hacktivity</b></p>
 
 <p>
-My Fix for Subversion Issue #1311 turned out to be faulty, and I discussed 
+My Fix for Subversion Issue #1311 turned out to be faulty, and I discussed
 the best to really resolve it with one of the Subversion developers. Next,
 I provided a <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1322.shtml">fix for Issue #1267</a>
-(have to say "no" several times to reject SSL certificate), which I had to 
+(have to say "no" several times to reject SSL certificate), which I had to
 <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1390.shtml">update</a> after a modification in the Subversion code.
 </p>
 
 <p>
-Next I talked, yesterday, with Ben Collins-Sussman on the IRC about an issue I 
-found in the bugtracker, and he suggested a way to resolve it. So I 
+Next I talked, yesterday, with Ben Collins-Sussman on the IRC about an issue I
+found in the bugtracker, and he suggested a way to resolve it. So I
 <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1407.shtml">
     implemented it and added a new feature</a>.
 </p>
@@ -2016,7 +2016,7 @@ a core Subversion developer will find the time to review and accept my patches.
 <p>
 I met with my Micro-computers partner on Thursday, and we compared the
 two versions of the exercise that we solved. We shortly came to a combined
-version. Then there was the issue of handing it out which was resolved 
+version. Then there was the issue of handing it out which was resolved
 by me doing so on Saturday, when my parents and I travelled to move things
 out of the apartment (see below).
 </p>
@@ -2024,7 +2024,7 @@ out of the apartment (see below).
 <p>
 Since I only study on two days in the next semester, and it should be my last
 , we decided to stop keeping the apartment lease in Haifa. So we went there,
-and took our things, and moved them back to Tel Aviv. We took quite a lot 
+and took our things, and moved them back to Tel Aviv. We took quite a lot
 of things and needed a few hours and several transactions to move everything.
 </p>
 
@@ -2041,7 +2041,7 @@ resolve. Subversion kept rejecting my SSL certificate and asking for
 confirmation. By talking on the IRC with some people, I was finally able to
 resolve this.  Apparently, the problem was that I rsynced the SSL certificates
 from my localhost back to the server, and so ran it over, and invalidated what
-I had in the Subversion configuration.  
+I had in the Subversion configuration.
 </p>
 
 <p>
@@ -2060,7 +2060,7 @@ Another problem solved!
 
 <p>
 This Thursday the Israeli Perl Mongers had a meeting where Stas Bekman gave
-a several hours talk about mod_perl 2.0. Many people attended the meeting 
+a several hours talk about mod_perl 2.0. Many people attended the meeting
 (about 20-25), and we had a lot of fun. The lecture was very instructive,
 and taught a lot about what can be done with mod_perl besides writing
 simple CGI scripts.
@@ -2068,7 +2068,7 @@ simple CGI scripts.
 
 <p>
 After the meeting was over, I explained to someone about Subversion as he
-said he had problems with CVS and was looking for a good alternative. (I 
+said he had problems with CVS and was looking for a good alternative. (I
 eventually wrote an <a href="http://perl.org.il/pipermail/perl/2003-July/002634.html">E-mail to the mailing list</a> about it). Oron Peled gave me and Kfir
 Lavy a ride home as he was returning home to Haifa. We asked him about his
 past experience with UNIX and what he does now, and we had a very interesting
@@ -2078,14 +2078,14 @@ conversation on the way home.
 <p><b>Project Introductions at the TAU OSS Course</b></p>
 
 <p>
-Yesterday, I went to a lecture of the Tel-Aviv University Open Source 
+Yesterday, I went to a lecture of the Tel-Aviv University Open Source
 development course. There was a lecture there about CVS, which I interrupted
 with some corrections and additions. After the lecture several people and I
 introduced our projects to the students.
 </p>
 
 <p>
-I gave a <a href="http://vipe.technion.ac.il/~shlomif/lecture/Freecell-Solver/project-intro/">10 minute introduction about Freecell Solver</a> (that was 
+I gave a <a href="http://vipe.technion.ac.il/~shlomif/lecture/Freecell-Solver/project-intro/">10 minute introduction about Freecell Solver</a> (that was
 accompanied by a demonstration of kpat solving Freecell). One of the
 <a href="http://xparam.sourceforge.net/">Xparam</a> developers gave an overview
 of his Xparam project. Shachar Shemesh said some words about Hamakor NPO, and
@@ -2096,8 +2096,8 @@ then introduced the WINE project to the students.
 The students in the course are expected to choose a project to work on and to
 perform about 300 hours of work each on it. The Xparam guy got three students
 who were interested in the project and gave him their details. When I returned
-home, and checked my E-mail, I found out from the course initiator that two 
-students expressed interest in Freecell Solver as well, and would probably 
+home, and checked my E-mail, I found out from the course initiator that two
+students expressed interest in Freecell Solver as well, and would probably
 contact me. I did not hear from them yet, but I'm looking forward to it.
 </p>
 
@@ -2108,11 +2108,11 @@ I now started to maintain LM-Solve using Subversion. However, after importing
 the project into Subversion, I encountered a problem that I remembered
 from Linux::Kernel::Module::Builder: the Makefile.PL also did something with
 all the files under the .svn/ files. (and in my case even corrupted the working
-copy). 
+copy).
 </p>
 
 <p>
-A quick Googling made me realize that the solution was to install the 
+A quick Googling made me realize that the solution was to install the
 development snapshot of <a href="http://makemaker.org/">ExtUtils::MakeMaker</a>
 and use it instead. This has worked, and the Subversion resident Perl guru
 told me the same thing on the IRC.
@@ -2130,8 +2130,8 @@ library) wrong.
 </p>
 
 <p>
-I inspected the code of Neon and found it does indeed return a plain 
-NE_ERROR error if the certificate's authenticity failed. This makes it 
+I inspected the code of Neon and found it does indeed return a plain
+NE_ERROR error if the certificate's authenticity failed. This makes it
 impossible to tell if we failed due to that or due to something else
 altogether. We decided to wait for the Neon project head to tell us
 what he makes of it, and what we should do.
@@ -2167,7 +2167,7 @@ filled the quota of projects he can give, and so I cannot. :-(.
 
 <p>
 At the end, the Subversion maintainer told us we can use the HTTP error code
-to distinguish between the different kind of errors Neon is returning. So I 
+to distinguish between the different kind of errors Neon is returning. So I
 wrote an <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1500.shtml">updated patch</a> and Ben Collins-Sussman commited it. (thanks, Ben!). Now,
 there's a part of me in the Subversion core.
 </p>
@@ -2176,7 +2176,7 @@ there's a part of me in the Subversion core.
 
 <p>
 I spent part of the last couple of days reworking <proj>LM-Solve</proj>. I
-started out <a href="http://stalker.iguide.co.il:8080/svn/lm-solve/">a 
+started out <a href="http://stalker.iguide.co.il:8080/svn/lm-solve/">a
     Subversion repository for it</a>, changed its namespace to "Games::LMSolve",
 added a lot of documentation, etc. It's also in CPAN now.
 </p>
@@ -2186,7 +2186,7 @@ added a lot of documentation, etc. It's also in CPAN now.
 <p>
 I took the test of Micro-computers on Wednesday. It went pretty well. I was
 first worried that I won't have enough time to finish it, but then it turned
-out I did have, even without the time extension. I still don't know what 
+out I did have, even without the time extension. I still don't know what
 my score is. This is my last test for this semester, so now I'm <b>free</b>!.
 </p>
 
@@ -2195,9 +2195,9 @@ my score is. This is my last test for this semester, so now I'm <b>free</b>!.
 <p>
 I submitted a patch to add a <tt>--config-dir</tt> option to the subversion
 command line clients to specify an alternate directory for the configuration
-files. The first incarnation became out of date after a change in the code. 
-The <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1666.shtml">second 
-    one</a> was also more encompassing, and modified more configuration 
+files. The first incarnation became out of date after a change in the code.
+The <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1666.shtml">second
+    one</a> was also more encompassing, and modified more configuration
 commands. I still have a small queue of patches that did not get accepted yet.
 </p>
 
@@ -2218,7 +2218,7 @@ commands. I still have a small queue of patches that did not get accepted yet.
 I attended the August Penguin II event yesterday. It was very nice and
 I met many people I knew there. At first Shachar Shemesh gave an instructive
 presentation about the Linux activities in Israel the past year. Then, there
-was a lecture about MOSIX by one of its Hebrew University workers. It was 
+was a lecture about MOSIX by one of its Hebrew University workers. It was
 very nice as well. Afterwards, <person>moshez</person> gave a lecture about
 PyPy, instead of the Python internals lecture that appeared in the agenda.
 Moshe is a very entertaining lecturer and the lecture went very well.
@@ -2231,17 +2231,17 @@ against each other. It was very fun. And finally, came the key signing party
 </p>
 
 <p>
-There were a few glitches there, as far as I was concerned. First of all, I 
-discovered the building did not have any coolers and I had to drink water from 
+There were a few glitches there, as far as I was concerned. First of all, I
+discovered the building did not have any coolers and I had to drink water from
 the taps of the restroom. Then, it was too cold in the lecture hall, and I
 had to leave once or twice to regain my senses. Finally, my ride back to home,
-disappeared during the key-signing party, which caused me to have to take the 
+disappeared during the key-signing party, which caused me to have to take the
 bus again. But all in all, they did not spoil the fun.
 </p>
 
 <p>
 After the event was over, I went back home, ate, and went to sign everybody's
-key. It turned out <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg28626.html">some 
+key. It turned out <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg28626.html">some
     of the key could not be checked out of the servers I tried</a>. (read the
 thread for more information). However, it turned out <person>mulix</person>
 who organized the key signing party, prepared a keyring with all the keys,
@@ -2252,8 +2252,8 @@ the rest of the keys.
 <p><b>Freecell Solver</b></p>
 
 <p>
-I discovered a game of Simple Simon that could be solved by hand, but not 
-by Freecell Solver (which gave up after checking only the initial state). So 
+I discovered a game of Simple Simon that could be solved by hand, but not
+by Freecell Solver (which gave up after checking only the initial state). So
 I set out to discover why. Apparently there was a function there which was
 responsible for performing the initial move, only it had a bug. I only had
 to remove one = from an <tt>&lt;=</tt> operator and the bug was fixed and
@@ -2263,9 +2263,9 @@ the game was solvable. Hah!
 <p><b>Reading</b></p>
 
 <p>
-I finished a large part (most?) of "Games, Diversions and Perl Culture : 
+I finished a large part (most?) of "Games, Diversions and Perl Culture :
 Best of the Perl Journal". I also read the Freshmeat GUI Toolkits feature
-and started reading ESR's "The Art of Unix Programming" which is very 
+and started reading ESR's "The Art of Unix Programming" which is very
 interesting so far.
 </p>
 
@@ -2280,11 +2280,11 @@ because it does not handle some working copy parameters correctly.
 <p><b>LM-Solve</b></p>
 
 <p>
-After releasing version 0.8.0 I discovered a bug and released version 0.8.1. 
+After releasing version 0.8.0 I discovered a bug and released version 0.8.1.
 Now I think I did not document the Hexagonal Planks ID in the man page of
 the executable so I'll need to release 0.8.2... :-). In any case, I also
-revamped the <a href="http://vipe.technion.ac.il/~shlomif/lm-solve/">LM-Solve 
-    homepage</a> and now maintain it separately from my homepage. 
+revamped the <a href="http://vipe.technion.ac.il/~shlomif/lm-solve/">LM-Solve
+    homepage</a> and now maintain it separately from my homepage.
 </p>
 
 <p>
@@ -2297,16 +2297,16 @@ Finally, I announced LM-Solve on Freshmeat.
 I finally got permission to edit the Perl "FAQs, Help and Tutorials" category
 on dmoz.org. I created a tutorials sub-category and will move all the
 tutorials there. I might create other sub-categories there if I feel the
-main one becomes too crowded. Let me know if there's anything you'd like to see 
+main one becomes too crowded. Let me know if there's anything you'd like to see
 there.
 </p>
 
 <p><b>Lectures</b></p>
 
 <p>
-I prepared <a href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Graham-Function/">a lecture about my solution to the Graham Function 
+I prepared <a href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Graham-Function/">a lecture about my solution to the Graham Function
     Perl Quiz of the Week</a>. This time I used PerlPoint, which enabled me
-to quickly translate the summary into the lecture itself. Here's 
+to quickly translate the summary into the lecture itself. Here's
 <a href="http://groups.yahoo.com/group/hackers-il/message/3349">a discussion
     of it on Hackers-IL</a>.
 </p>
@@ -2321,7 +2321,7 @@ LM-Solve. Both are intended for the next Israeli Perl Mongers meeting.
 <p><b>Hacktivity</b></p>
 
 <p>
-I finished preparing <a href="http://vipe.technion.ac.il/~shlomif/lecture/LM-Solve/slides/">a lecture about LM-Solve</a>. 
+I finished preparing <a href="http://vipe.technion.ac.il/~shlomif/lecture/LM-Solve/slides/">a lecture about LM-Solve</a>.
 Then I worked on Subversion, and formed <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0309.shtml">an updated patch to Issue #1297</a>.
 This took a really long time (almost an entire day), but I'm really
 happy that it's complete now. The fix had a small bug-let which was easy
@@ -2342,9 +2342,9 @@ the usual tradition with <person>esr</person>'s writings.
 <p>
 Gabor Szabo, who is the Israeli Perl Mongers leader is abroad, and as
 it turned out Shlomo Yona, who was appointed to organize the meeting
-instead is busy moving to a new apartment. Thus, <a href="http://perl.org.il/pipermail/perl/2003-August/002765.html">I took the lead</a> 
+instead is busy moving to a new apartment. Thus, <a href="http://perl.org.il/pipermail/perl/2003-August/002765.html">I took the lead</a>
 and decided on how to resolve the date, place, etc. issues for the next
-meeting. 
+meeting.
 </p>
 
 <p><b>Translucent Cursor</b></p>
@@ -2363,11 +2363,11 @@ try out.
 <p><b>Subversion</b></p>
 
 <p>
-It turned out my updated patch was not <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0403.shtml">acting according to the Subversion conventions</a>. 
-What I did wrong was not create temporary files, and not use the run log 
+It turned out my updated patch was not <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0403.shtml">acting according to the Subversion conventions</a>.
+What I did wrong was not create temporary files, and not use the run log
 mechanism to perform the operations that could be performed with it. So,
 I sat on it on Friday, and wrote an <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0420.shtml">updated patch (revision 5)</a>. This <a
-    href="http://www.contactor.se/~dast/svn/archive-2003-08/0471.shtml">was 
+    href="http://www.contactor.se/~dast/svn/archive-2003-08/0471.shtml">was
     applied</a>, and so I'm happy.
 </p>
 
@@ -2402,7 +2402,7 @@ lecture online soon. Other than that - not much.
 <p>
 A few days ago, I got the same faulty noises when booting the hard disk. A
 reboot did not help, but after I started Knoppix and mounted it, everything was
-fine. Today, the same noises also happened, but this time the system could 
+fine. Today, the same noises also happened, but this time the system could
 load. Hmmm... I think I'll try to buy a new hard disk as soon as I can.
 </p>
 
@@ -2420,15 +2420,15 @@ time to work on it.
 
 <p>
 I also made progress in translating "Homesteading the Noosphere". A couple
-of people contacted me with corrections to it, and I'm grateful for them. 
-Then, I made the data for my version of the Haifux lectures manager 
+of people contacted me with corrections to it, and I'm grateful for them.
+Then, I made the data for my version of the Haifux lectures manager
 up-to-date with recent lectures.
 </p>
 
 <p>
 Finally I edited the <a href="http://www.wikipedia.org/wiki/FreeCell">Wikipedia
    entry of Freecell</a> to make it less lame and more accurate than it was. I
-   actually woke up in the morning thinking about Wikipedia and whether it 
+   actually woke up in the morning thinking about Wikipedia and whether it
    mentions Freecell, checked it a bit afterwards, and in the evening changed
    it. ;-)
 </p>
@@ -2436,7 +2436,7 @@ Finally I edited the <a href="http://www.wikipedia.org/wiki/FreeCell">Wikipedia
 <p><b>Reading</b></p>
 
 <p>
-I read part of the book about Statistical Physics and Thermodynamics I have 
+I read part of the book about Statistical Physics and Thermodynamics I have
 (I'm studying Thermo next semester). I also read the first two chapters
 of "The House of Arden", after being reluctant to read it for a while.
 </p>
@@ -2447,7 +2447,7 @@ of "The House of Arden", after being reluctant to read it for a while.
 <person>jlouis</person>, I don't really see free software "monopolies" as
 a bad thing. It takes a lot of time and effort to create quality software,
 and so it make sense one or a few packages will rise above the rest, and
-concentrate most of the effort around them. If we take gcc, for example, 
+concentrate most of the effort around them. If we take gcc, for example,
 then everybody use it because it's a great and trustworthy compiler.
 </p>
 
@@ -2471,7 +2471,7 @@ other stuff I found on his homepage.
 <p><b>Perl Meeting</b></p>
 
 <p>
-Here's <a href="http://perl.org.il/pipermail/perl/2003-August/002851.html">a report I wrote</a> on the latest Israeli Perl Mongers, that took place on 
+Here's <a href="http://perl.org.il/pipermail/perl/2003-August/002851.html">a report I wrote</a> on the latest Israeli Perl Mongers, that took place on
 Thursday. My father drove me to the meeting, and at first I bought some Burekas
 in the nearby bakery. Then was the meeting. After the meeting Ronen Kfir drove
 me and Kfir Lavy home. Kfir and I chatted for a long time and ate supper
@@ -2482,18 +2482,18 @@ projects.
 <p><b>Python Bindings</b></p>
 
 <p>
-I've been toying up with the idea of integrating Freecell Solver into PySol. 
+I've been toying up with the idea of integrating Freecell Solver into PySol.
 Since Freecell Solver is written in C, and PySol is a Python program, I had
 to create bindings for it. At first I started using SWIG. This created very
-C'ish APIs without much trace of a native language behaviour. Then I 
+C'ish APIs without much trace of a native language behaviour. Then I
 realized it does not handle arrays well. So I set out
-to write Python in the native bindings language. I consulted the Python 
-tutorial, the Python extensions writing manual, and the people at the #python 
+to write Python in the native bindings language. I consulted the Python
+tutorial, the Python extensions writing manual, and the people at the #python
 channel on FreeNode and eventually got things to work nicely enough.
 </p>
 
 <p>
-I'm still a bit worried about memory leaks, but I suppose that Valgrind will 
+I'm still a bit worried about memory leaks, but I suppose that Valgrind will
 help me detect if they exist.
 </p>
 
@@ -2507,7 +2507,7 @@ the translation is done without an entry existing in the .svn/entries file.
 </p>
 
 <p>
-Ben Collins-Sussman and I discussed the best way to resolve it on IRC. 
+Ben Collins-Sussman and I discussed the best way to resolve it on IRC.
 Our conclusion was that we should probably create another post-process routine
 that will do the translation after the entry is created (which is already the
 case, just that the translation is done beforehand). However, Ben thought

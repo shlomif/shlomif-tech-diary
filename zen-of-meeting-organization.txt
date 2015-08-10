@@ -1,4 +1,4 @@
-A new month is upon us, and we need to set up a new meeting. So I'd like to 
+A new month is upon us, and we need to set up a new meeting. So I'd like to
 give a step by step guide to organizing a new meeting:
 
 -------------------------------
@@ -10,32 +10,32 @@ the date in which the meeting will take place needs to be coordinated with
 Aduva in advance. The rules as set up by Lior Kesos from Aduva are:
 
 <<<<<<<<<
-First of all I'd like to set down the rules for meetings taking place in 
+First of all I'd like to set down the rules for meetings taking place in
 aduva.
 
-1. In each meeting an aduva representative must be present. (Probably me 
+1. In each meeting an aduva representative must be present. (Probably me
 or Chen).
-2. Time table must be coordinated with aduva (actually me) before you 
-decide what date we can meet at. Maybe there is a scheduled meeting at 
+2. Time table must be coordinated with aduva (actually me) before you
+decide what date we can meet at. Maybe there is a scheduled meeting at
 aduva at the same time etc...
-3. I need to ok it in advance and secure the room and then we get our 
+3. I need to ok it in advance and secure the room and then we get our
 meeting.
-4. I'll be in charge of the coordination both with us and the perl group 
+4. I'll be in charge of the coordination both with us and the perl group
 which hinted it may appreciate the same hospitality.
-5. I believe we need to coordinate our meeting with the perl group 
+5. I believe we need to coordinate our meeting with the perl group
 meaning we require to alternate the meetings.
-    something like perl has first week in month python has third - this 
-is being done so we do not give aduva an over dose of community activist 
+    something like perl has first week in month python has third - this
+is being done so we do not give aduva an over dose of community activist
 roaming it's   corridors... :)
 
-Please coordinate with me either through the list or privately 
+Please coordinate with me either through the list or privately
 (0524305252 or by mail)  when you want to set up meetings in the future.
 
-We'd like to make this a long term relationship (between aduva and the 
+We'd like to make this a long term relationship (between aduva and the
 OSS community).
-Aduva recognizes the value and the need to "give back" and to help OSS 
+Aduva recognizes the value and the need to "give back" and to help OSS
 in Israel in whatever means it has.
-I'd like to add that it's very important we do this in an orderly 
+I'd like to add that it's very important we do this in an orderly
 fashion if we want this arrangement to be more then temporary.
 
 best regards
@@ -52,7 +52,7 @@ Then you have to wait until the date is acknowledged.
 2. Create a page for the meeting in the Wiki
 --------------------------------------------
 
-Once the date is set up, you need to create a meeting page for it in the 
+Once the date is set up, you need to create a meeting page for it in the
 wiki. The events page is:
 
 http://www.python.org.il/mediawiki/index.php/Events
@@ -73,7 +73,7 @@ page of the stale link.
 3. Notify the mailing list about the meeting
 --------------------------------------------
 
-Once the page has been set up (even in a rudimentary way), you notify the 
+Once the page has been set up (even in a rudimentary way), you notify the
 mailing list about the meeting. Include the following information:
 
 1) Date.
@@ -96,11 +96,11 @@ possible.
 -----------------------------------
 
 The meeting has to be publicized in whatsup.org.il about a week before it
-takes place. The title should include the date and day-of-week. The body 
-should include date, location, link to the Wiki page, and possibly also 
+takes place. The title should include the date and day-of-week. The body
+should include date, location, link to the Wiki page, and possibly also
 what presentations would be given.
 
-At the same time an announcement can also be sent to the Linux-IL mailing 
+At the same time an announcement can also be sent to the Linux-IL mailing
 list. (in English).
 
 Note: Shlomi Fish can be notified by E-mail or cell-phone about this so

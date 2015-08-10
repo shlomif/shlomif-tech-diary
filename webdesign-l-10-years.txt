@@ -44,7 +44,7 @@ or semi-theoretical Computer Science, and the philosophy of computers. As such,
 I believe I am a bit over-qualified to be a common web worker, but still
 find a lot of value in working on my sites, blogging, editing wikis, etc.
 Even if I'm a philosopher ^W essayist ^W blogger and a writer of stories,
-and funny bits, I still need to stay current with current trends. 
+and funny bits, I still need to stay current with current trends.
 
 I find the Internet and the Web to have been very exciting revolutions. The
 bubble burst made people rethink the "Web 1.0"/"Web 0.9" internet of that time,
@@ -59,21 +59,21 @@ I believe that despite a lot of hype about XML, AJAX, web-based applications
 etc., the desktop as we know it is not going to disappear completely. Many
 people when seeing cutting-edge GNU/Linux desktop applications (Windows' ones
 tend to suck, and I have little experience with Mac OS X), are so impressed
-that they never want to switch back. For example, KDE's KMail is still much 
-better  than gmail.com which sucks pretty badly. And naturally not everything 
-gives way to the web very easily: embedded software, server software, in-house 
+that they never want to switch back. For example, KDE's KMail is still much
+better  than gmail.com which sucks pretty badly. And naturally not everything
+gives way to the web very easily: embedded software, server software, in-house
 software, system administration scripts and systems.
 
 Recently I've become a bit annoyed by people who are clueless to some extent,
 with some dogmas who tend to feel rather than know. Here are some examples:
 
-1. One programmer I talked with believed that all the pages she outputs 
+1. One programmer I talked with believed that all the pages she outputs
 should be properly indented (with tabs, nonetheless) so people can view the
 source and learn. With all due respect, while I don't put all my pages on
 one line, I don't care too much for that, because it bloats the size, and
 generally is the wrong way to learn HTML. People should start with a good
 tutorial (like http://www.htmldog.com/ ), and then proceed by building simple
-sites, reading books and asking questions. 
+sites, reading books and asking questions.
 
 They can eventually use "view source" on sites they trust, but if so should
 be clueful enough to pipe them through indent, or use the Firefox developer
@@ -96,7 +96,7 @@ requires a common look and feel.
 4. There are too many "Everything-except-Java/PHP/Python/Ruby-whatever-sucks",
 "Perl is dying", "Perl is line-noise", "MySQL cannot scale", "PHP/Perl/Python
 cannot scale", "Perl/PHP/whatever is slow", "You're sure to fail if you're
-using Perl" etc. people. Lots of attitude, lots of myths, too few facts and 
+using Perl" etc. people. Lots of attitude, lots of myths, too few facts and
 often a lot of counter evidence.
 
 -----------------
@@ -116,40 +116,40 @@ interest, but very diverse ones. Most of the videos on YouTube are junk,
 but I've been referred and was able to find some very nice ones, including
 many original ones.
 
-As you may well know, some trends "threat" the Net: the "Digital Millenium 
+As you may well know, some trends "threat" the Net: the "Digital Millenium
 Copyright Act" and friends, lawsuits, net neutrality, bad security, spam,
 censorship, patents, etc. However, I believe they all have very good and simple
-solutions, and there's no way the good guys are not going to win, while the 
+solutions, and there's no way the good guys are not going to win, while the
 bad guys either convert to good guys, or else find that they actually like
 the new Internet order just as well, or even better.
 
 In a way, I'm still a bit distressed that I haven't become as famous,
 as I believe I deserve to be. I am well-known in some circles, at least to the
-people who familiarise themselves with the community, but otherwise a 
+people who familiarise themselves with the community, but otherwise a
 relatively obscure hacker/essayist/writer. There are some reasons due to
 which I believe I have not become as well known as I could have been, so
-there are some things I'd like to change. 
+there are some things I'd like to change.
 
 Using Website Meta Language and Latemp, and Perl 5 are still my preferred
 technologies after all these years. I know Perl 5 is not perfect, but
 it's still one of the best tools for this job (if not the very best due to
 CPAN, its portability, etc.), I love it, I love its community and culture,
 and I also invested a lot of time in learning it. And despite all the
-Web 2.0-craze, I'm still a big fan of static HTML (but dynamically-generated) 
+Web 2.0-craze, I'm still a big fan of static HTML (but dynamically-generated)
 sites. This is because I find them to require the least maintenance hassle,
 while still looking and behaving great.
 
 So it's been a fun 11 or 12 years since I first started using the web (and
 more when I started using the Internet). I feel I and other people around me
 have learned a lot. In a way, I feel that some people, even some with
-aspirations to be hackers (in the 
+aspirations to be hackers (in the
 http://www.catb.org/~esr/faqs/hacker-howto.html sense) did not learn as much
 as they could because they lacked the right attitude or were too
 closed-minded about many things.
 
 --------------
 
-Sorry for the long message - I hope you enjoyed it in any case. I didn't have 
+Sorry for the long message - I hope you enjoyed it in any case. I didn't have
 the time to write a shorter one.
 
 Cheers,

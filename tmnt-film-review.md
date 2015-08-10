@@ -14,7 +14,7 @@ The film is full of action heroism, whose modern synonym is one of the many mean
 
 Anyway, some of the most intense action scenes almost made me want to rise up my chair from excitement.
 
-I also loved the slight Japanese culture tangent to the story, whether or not it accurately reflected the true Japanese culture, because it is also important to mix and match cultures to avoid cultural stagnation - http://www.shlomifish.org/humour/fortunes/show.cgi?id=larry-wall-all-truth-is-gods-truh 
+I also loved the slight Japanese culture tangent to the story, whether or not it accurately reflected the true Japanese culture, because it is also important to mix and match cultures to avoid cultural stagnation - http://www.shlomifish.org/humour/fortunes/show.cgi?id=larry-wall-all-truth-is-gods-truh
 
 ---------------
 
@@ -32,4 +32,4 @@ Speaking of Sic Transit Gloria Mundi (STGM), it is my hope that following the fi
 
 Anyway, I'm not giving up on all that, and realise that as long as I continue fighting for it, I will earn my victory. And contrary to common thought, such struggling is fun, enlightening and rewarding. I hope to get SummerNSA filmed in one way or another, and however lame and unprofessional it will or will seem to critics (I would even be happy with some 16 years olds producing and voicing it as Pony-art), it will likely be awesome.
 
-Summer Glau jehovah Qoheleth! [= judeo-Objectivism for "Summer Glau will be the new Hacker Monarch"] ! Hackers of the world - unite! 
+Summer Glau jehovah Qoheleth! [= judeo-Objectivism for "Summer Glau will be the new Hacker Monarch"] ! Hackers of the world - unite!

@@ -11,7 +11,7 @@ And you thought Perl was bad.
 2. More brief than Perl - J (and APL):
 --------------------------------------
 
-    - 
+    -
     - "Makes Perl look like Python"
         - Jason Elbaum
 
@@ -76,7 +76,7 @@ map <F5> :sleep 1m<CR>
 map _6 <F6>
 " The main function
 map <F6> `pj"sylj"oylj"dyl<S-F8>`pj"sylj"dyl<F7>`pj"oylj"dylj"syl<S-F8>
-"        <---------------> - Assign new_src=src, new_dest=other, 
+"        <---------------> - Assign new_src=src, new_dest=other,
 "                            new_other=dest
 "                         <----> - Recurse
 "                               <--------------> - Move the disk from source

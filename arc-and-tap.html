@@ -2,20 +2,20 @@
 <a href="http://www.paulgraham.com/arc.html">Arc</a> is a new dialect
 of <a href="http://en.wikipedia.org/wiki/Lisp_programming_language">Lisp</a>
 by <a href="http://www.paulgraham.com/">Paul Graham</a> and others. Recently,
-Graham has released a working codebase for Arc, which started a small 
+Graham has released a working codebase for Arc, which started a small
 community of people who play with it and improve it. As part of it, there's
 <a href="http://arcfn.com/2008/02/git-and-anarki-arc-repository-brief.html">a
     world-writable version control repository for Arc called "Anarki"</a>.
 </p>
 
 <p>
-Seeing that a comprehensive test suite was absent, I decided to start writing 
-one. I decided to use the <a href="http://testanything.org/">Test 
-    Anything Protocol</a> (or TAP for short), which is a simple-to-implement 
-STDOUT and STDERR based mechanism for test scripts to emit results of 
+Seeing that a comprehensive test suite was absent, I decided to start writing
+one. I decided to use the <a href="http://testanything.org/">Test
+    Anything Protocol</a> (or TAP for short), which is a simple-to-implement
+STDOUT and STDERR based mechanism for test scripts to emit results of
 their test assertions to the TAP harness. This was partly because I expected
-the Arc test suite to be written in more than one language, and partly 
-because I have been involved with the development of 
+the Arc test suite to be written in more than one language, and partly
+because I have been involved with the development of
 <a href="http://web-cpan.berlios.de/modules/Test-Run/">Test::Run</a>,
 which is a test harness for TAP, and other TAP efforts, and so wanted
 to <a href="http://en.wikipedia.org/wiki/Eat_one's_own_dog_food">eat my own
@@ -23,32 +23,32 @@ to <a href="http://en.wikipedia.org/wiki/Eat_one's_own_dog_food">eat my own
 </p>
 
 <p>
-So I've written (and later on enhanced) a rudimentary implementation of a 
+So I've written (and later on enhanced) a rudimentary implementation of a
 TAP emitter in Arc. This TAP emitting module can be found in <tt>arctap.arc</tt>
 in the repository, and is used by the Arc tests. Some tests were written
 in Perl, primarily to test and fix bugs in the Arc TAP implementation.
-The Perl tests use 
+The Perl tests use
 <a href="http://search.cpan.org/perldoc?Test::More">Test::More</a>, which
-is a TAP-emitting module for Perl, and 
-<a href="http://search.cpan.org/perldoc?Test::Trap">Test::Trap</a>. 
+is a TAP-emitting module for Perl, and
+<a href="http://search.cpan.org/perldoc?Test::Trap">Test::Trap</a>.
 The latter is used to trap the STDOUT and STDERR of Arc programs that are
-run by the Perl scripts. This is done to test the sanity of the Arc 
+run by the Perl scripts. This is done to test the sanity of the Arc
 interpreter and the Arc-TAP implementation.
 </p>
 
 <p>
-So far the work on the test suite uncovered several bugs in Arc and one bug in 
-Test::Run, and also resulted in some enhancements to Arc. Plus, I was able to 
-better familiarise myself with Arc, and naturally to write test suite code 
+So far the work on the test suite uncovered several bugs in Arc and one bug in
+Test::Run, and also resulted in some enhancements to Arc. Plus, I was able to
+better familiarise myself with Arc, and naturally to write test suite code
 which helps in preventing future regressions.
 </p>
 
 <p>
-One feature of Test::Run that helped here was its 
+One feature of Test::Run that helped here was its
 <a href="http://search.cpan.org/dist/Test-Run-Plugin-AlternateInterpreters/">AlternateInterpreters
-    plugin</a> (which is an idea I originally derived from 
+    plugin</a> (which is an idea I originally derived from
 something <a href="http://search.cpan.org/~ovid/">Curtis "Ovid" Poe</a> (also
-a TAP worker) had blogged about). Currently, my <tt>interpreters.conf.yml</tt> 
+a TAP worker) had blogged about). Currently, my <tt>interpreters.conf.yml</tt>
 file reads:
 </p>
 
@@ -61,21 +61,21 @@ file reads:
 
 <p>
 This uses <tt>./arc.sh</tt> to run the tests by default. The exact configuration
-is a bit more complicated 
+is a bit more complicated
 than that (see <tt>Test.sh</tt>), but still the prove utility that
 is part of Test-Harness-2.xx, which is the older TAP harness,
 would not do. This is because it is impossible to assign a she-bang at the
-start of the Arc files, because it seems it confuses the Arc interpreter. 
+start of the Arc files, because it seems it confuses the Arc interpreter.
 </p>
 
 <p>
-Currently 66 assertions in 7 files were written so there's still a long way 
-for a decent coverage of the Arc features. But so far it seems that using TAP 
-for the Arc test suite has been a sound choice, and I'm happy with it, and it 
-probably facilitated putting the test suite together. 
+Currently 66 assertions in 7 files were written so there's still a long way
+for a decent coverage of the Arc features. But so far it seems that using TAP
+for the Arc test suite has been a sound choice, and I'm happy with it, and it
+probably facilitated putting the test suite together.
 </p>
 
 <p>
-(Thanks to infi, mauke and simcop for reviewing earlier drafts of this 
+(Thanks to infi, mauke and simcop for reviewing earlier drafts of this
 post.)
 </p>

@@ -1,6 +1,6 @@
 shlomif:~/Docs/Diary/tech$ cd
 shlomif:~$ cd t
-test.board    test.txt      test.txt.bak  tmp/          
+test.board    test.txt      test.txt.bak  tmp/
 shlomif:~$ cd tmp/
 shlomif:~/tmp$ ls
 akonadi-shlomif.ZcoI3K  ipp.EZDhp6  ipp.qsC3mJ
@@ -258,7 +258,7 @@ ipp.eVM2ER              ipp.Qgd5tT  ssh-lUrwepOz3538
 ipp.eVovOm              ipp.QLU5Ot  v1HEK3f
 ipp.ewRkp2              ipp.qOvT8J  vCW8l5w
 ipp.Ez0w0j              ipp.Qs5JcS  vShnwO3
-shlomif:~/tmp$ cd 
+shlomif:~/tmp$ cd
 shlomif:~$ ls
 apps    Desktop      hamakor-conf.txt  Music      quicklisp   test.txt.bak
 Arcs    docbook.xsl  konsole.txt       perl.log   T           tmp
@@ -281,11 +281,11 @@ HTTP request sent, awaiting response... 200 OK
 Length: 18408 (18K) [application/x-gzip]
 Saving to: `Games-ABC_Path-Solver-v0.0.3.tar.gz'
 
-100%[======================================>] 18,408      11.2K/s   in 1.6s    
+100%[======================================>] 18,408      11.2K/s   in 1.6s
 
 2011-02-08 19:45:10 (11.2 KB/s) - `Games-ABC_Path-Solver-v0.0.3.tar.gz' saved [18408/18408]
 
-shlomif:~/abc-path$ tar -xvf Games-ABC_Path-Solver-v0.0.3.tar.gz 
+shlomif:~/abc-path$ tar -xvf Games-ABC_Path-Solver-v0.0.3.tar.gz
 Games-ABC_Path-Solver-v0.0.3
 Games-ABC_Path-Solver-v0.0.3/Changes
 Games-ABC_Path-Solver-v0.0.3/MANIFEST
@@ -342,7 +342,7 @@ shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cp t/layouts/
 brain-bashers.2010-12-21.abc-path  brain-bashers.2010-12-22.abc-path
 shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cp t/layouts/brain-bashers.2010-12-22.abc-path ./brain-bashers.2011-02-08.abc-path
 shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ gvim ./brain-bashers.2011-02-08.abc-path^C
-shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cat ./brain-bashers.2011-02-08.abc-path 
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cat ./brain-bashers.2011-02-08.abc-path
 ABC Path Solver Layout Version 1:
 PEIRQXK
 D     S
@@ -483,5 +483,5 @@ The only letter that can be at (3,1) is M. Invalidating it for all other cells.
 |   S   |   V   |   X   |   C   |   G   |
 
 |   U   |   T   |   D   |   E   |   F   |
-shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ 
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$
 
