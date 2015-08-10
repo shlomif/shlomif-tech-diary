@@ -5,7 +5,7 @@
 <h2>2009-02-21: How I Recovered Data from a Hosed SVK Repository</h2>
 
 <p>
-Many months ago, I noticed that 
+Many months ago, I noticed that
 <a href="http://en.wikipedia.org/wiki/SVK">SVK</a>, a version control
 system based on Subversion, stopped propagating changesets to the remote
 Subversion repositories. Furthermore, I was unable to mirror other remote
@@ -17,7 +17,7 @@ repositories. I wrote about it here, asking for help:
 <a href="http://lists.bestpractical.com/pipermail/svk-users/2008-November/000380.html">Post to the svk-users mailing list</a>
 </li>
 <li>
-<a href="http://community.livejournal.com/shlomif_tech/19585.html">My 
+<a href="http://community.livejournal.com/shlomif_tech/19585.html">My
 "Problems with SVK" entry on this blog</a>
 </li>
 </ul>
@@ -35,7 +35,7 @@ caused it to report an error, but was also unable to.
 Then I joined the <a href="http://freenode.net/">Freenode IRC network</a>
 and went to the #svk channel. There was only one person there who tried
 to help me, and he was intermittent in helping. Then I joined #perl and casually
-mentioned that I thought SVK sucked (just to lose some steam), which prompted 
+mentioned that I thought SVK sucked (just to lose some steam), which prompted
 <a href="http://www.trout.me.uk/">mst</a> to try to help me. After
 interrogating me he suggested that in order to recover the changesets from SVK,
 I should follow the following steps:
@@ -44,22 +44,22 @@ I should follow the following steps:
 <ol>
 
 <li>
-Find out what is the last SVK revision which still propagated changesets to 
+Find out what is the last SVK revision which still propagated changesets to
 the Subversion repository. This can be found using the commit message in the
 svn log.
 </li>
 
 <li>
 Revert (using a selective <tt>svnadmin dump</tt> and then an
-<tt>svnadmin create</tt> ; and <tt>svnadmin load</tt>) to the older version of 
+<tt>svnadmin create</tt> ; and <tt>svnadmin load</tt>) to the older version of
 <tt>~/.svk/local</tt> that corresponds with the revision number
-of the commit. (While naturally keeping a copy of <tt>~/.svk/local/</tt> and 
+of the commit. (While naturally keeping a copy of <tt>~/.svk/local/</tt> and
 its dump in a safe place.)
 </li>
 
 <li>
-See that a simple change in the svk checkout (like 
-<tt>svk mkdir to-delete-`date +%s`</tt>) will propagate to the remote 
+See that a simple change in the svk checkout (like
+<tt>svk mkdir to-delete-`date +%s`</tt>) will propagate to the remote
 repository.
 </li>
 
@@ -88,7 +88,7 @@ until I got to something working. Facts I've discovered:
 <ol>
 
 <li>
-<a href="http://creatingwithcode.com/howto/extracting-projects-from-shared-svn/">svndumpfilter needs a dump that was generated without the 
+<a href="http://creatingwithcode.com/howto/extracting-projects-from-shared-svn/">svndumpfilter needs a dump that was generated without the
 <tt>--deltas</tt> flag</a> (and possibly without <tt>--incremental</tt> either.
 Otherwise it will complain.
 </li>
@@ -99,7 +99,7 @@ and instead ended up using <tt>svndumpfilter include local</tt>
 </li>
 
 <li>
-The <tt>--drop-empty-revs</tt> and <tt>--renumber-revs</tt> flags to 
+The <tt>--drop-empty-revs</tt> and <tt>--renumber-revs</tt> flags to
 svndumpfilter which seemed like a good idea confused <tt>svnadmin load</tt>,
 and everything worked after I removed them.
 </li>
@@ -133,8 +133,8 @@ and am mostly ready to ditching SVK.
 
 <p>
 Again, I'd like to thank <a href="http://www.trout.me.uk/">mst</a> for
-suggesting this ultra-cool idea for recovering my data from SVK. It 
-took me the whole of one day, but now I'm finally free, and my data is out 
+suggesting this ultra-cool idea for recovering my data from SVK. It
+took me the whole of one day, but now I'm finally free, and my data is out
 there and safe. I'm going to use plain-old-Subversion to work
 against it, until and assuming I'll get the hang of hg/bzr/git/whatever.
 But at least I no longer have to use a mostly-unusable SVK.

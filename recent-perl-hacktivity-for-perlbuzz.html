@@ -28,83 +28,83 @@ a:hover { background-color: palegreen; }
 
 <p>
 One of the advantages of being unemployed is that I can afford to work
-on open-source projects a lot. Lately, I've been working on quite a few Perl 
-projects. The first one worth mentioning is 
-<a href="http://perlbuzz.com/2009/07/introducing-cpanhq.html">CPANHQ</a>. 
+on open-source projects a lot. Lately, I've been working on quite a few Perl
+projects. The first one worth mentioning is
+<a href="http://perlbuzz.com/2009/07/introducing-cpanhq.html">CPANHQ</a>.
 </p>
 
 <p>
-Essentially CPANHQ aims to be an open-source, unified, meta-data-enhanced, and 
-community-driven interface to CPAN. At the moment, we have little to show for, 
-but we've been making progress. CPANHQ was my chance to finally get my feet 
-wet with <a href="http://www.catalystframework.org/">Catalyst</a> and 
+Essentially CPANHQ aims to be an open-source, unified, meta-data-enhanced, and
+community-driven interface to CPAN. At the moment, we have little to show for,
+but we've been making progress. CPANHQ was my chance to finally get my feet
+wet with <a href="http://www.catalystframework.org/">Catalyst</a> and
 <a href="http://www.perlfoundation.org/perl5/index.cgi?dbix_class">DBIx-Class</a>,
 and they both seem pretty nice so far.
 </p>
 
 <p>
 I also did some work on <a href="http://www.shlomifish.org/open-source/projects/File-Find-Object/">File-Find-Object and File-Find-Object-Rule</a>.
-In case, you don't know, File-Find-Object is an object-oriented alternative to 
-the core File::Find module that can be instantiated, has an 
-iterative/incremental interface and can return result objects. 
+In case, you don't know, File-Find-Object is an object-oriented alternative to
+the core File::Find module that can be instantiated, has an
+iterative/incremental interface and can return result objects.
 File-Find-Object-Rule is a port of File-Find-Rule to use File-Find-Object
-instead of File::Find, and lately, I've made its <tt>-&gt;start()</tt> and 
-<tt>-&gt;match()</tt> methods truly iterative instead of using 
-<tt>-&gt;in()</tt> which just collected all the results into one humongous 
-array and kept shifting stuff from it. This was a severe misfeature of 
+instead of File::Find, and lately, I've made its <tt>-&gt;start()</tt> and
+<tt>-&gt;match()</tt> methods truly iterative instead of using
+<tt>-&gt;in()</tt> which just collected all the results into one humongous
+array and kept shifting stuff from it. This was a severe misfeature of
 File-Find-Rule, IMO, and was caused by the limitations of File::Find.
 </p>
 
 <p>
-Lately, in order to test the extension mechanism, I ported 
-File-Find-Rule-MMagic to File-Find-Object-Rule as 
+Lately, in order to test the extension mechanism, I ported
+File-Find-Rule-MMagic to File-Find-Object-Rule as
 <a href="http://search.cpan.org/dist/File-Find-Object-Rule-MMagic/">File-Find-Object-Rule-MMagic</a>.
 The porting turned out an incompatibility in the handling of the <tt>$_</tt>
-variable in F-F-O-R and F-F-R. This is caused by the fact that 
-File-Find-Object does not change the working directory to the inner 
-directories in the tree like File::Find does. As a result, an internal 
-behaviour of File::Find 
+variable in F-F-O-R and F-F-R. This is caused by the fact that
+File-Find-Object does not change the working directory to the inner
+directories in the tree like File::Find does. As a result, an internal
+behaviour of File::Find
 <a href="http://www.joelonsoftware.com/articles/LeakyAbstractions.html">leaked</a>
 to File-Find-Rule and forced an incompatibility.
 </p>
 
 <p>
-Another thing I've done was some cosmetic work on the Build.PL files of 
-some my CPAN distributions. Namely, I added some links to resources and 
-keywords (that can also be thought of as tags or labels) as specified in 
-<a href="http://module-build.sourceforge.net/META-spec.html">the 
+Another thing I've done was some cosmetic work on the Build.PL files of
+some my CPAN distributions. Namely, I added some links to resources and
+keywords (that can also be thought of as tags or labels) as specified in
+<a href="http://module-build.sourceforge.net/META-spec.html">the
 META.yml spec</a>.
 </p>
 
 <p>
-Resources are displayed in the distributions' pages on search.cpan.org and 
-other sites. Author keywords (when they exist, and very few have been defined) 
-are currently under-utilised. However, I recently added some rudimentary 
-support for them in CPANHQ (see above), and I hope that they will soon become 
+Resources are displayed in the distributions' pages on search.cpan.org and
+other sites. Author keywords (when they exist, and very few have been defined)
+are currently under-utilised. However, I recently added some rudimentary
+support for them in CPANHQ (see above), and I hope that they will soon become
 more popular.
 </p>
 
 <p>
-A different aspect of my cleanup was clarifying the licensing terms of the 
-distributions. My original distributions are under the 
-<a href="http://en.wikipedia.org/wiki/MIT_License">MIT/X11 licence</a>, 
-but I wrote "All rights reserved" there as well, which I was told was 
-incompatible with it (or with <a 
-href="http://perlbuzz.com/2008/04/the-problem-with-same-terms-as-perl-licensing.html">"the 
-same terms as Perl" licensing</a> for that matter). I 
+A different aspect of my cleanup was clarifying the licensing terms of the
+distributions. My original distributions are under the
+<a href="http://en.wikipedia.org/wiki/MIT_License">MIT/X11 licence</a>,
+but I wrote "All rights reserved" there as well, which I was told was
+incompatible with it (or with <a
+href="http://perlbuzz.com/2008/04/the-problem-with-same-terms-as-perl-licensing.html">"the
+same terms as Perl" licensing</a> for that matter). I
 also added a COPYING file where appropriate.
 </p>
 
 <p>
-I've finished reading <a href="http://oreilly.com/catalog/9780596527242/">Mastering 
-Perl by brian d foy</a>. I read it by "fork"ing its GitHub repository, 
+I've finished reading <a href="http://oreilly.com/catalog/9780596527242/">Mastering
+Perl by brian d foy</a>. I read it by "fork"ing its GitHub repository,
 reading the PODs and making some corrections in the process.
 After I pushed my changes to my GitHub repository, and made a pull
-request, brian d foy pulled the changes. 
+request, brian d foy pulled the changes.
 </p>
 
 <p>
-I wrote <a href="http://www.shlomifish.org/philosophy/books-recommends/#mastering_perl">a 
+I wrote <a href="http://www.shlomifish.org/philosophy/books-recommends/#mastering_perl">a
 review of the book on my homepage</a>. Like I said there, the book did not
 teach me too many new things, but I felt it was nonetheless accurate,
 interesting and a good read for less experienced programmers. Maybe it means
@@ -114,23 +114,23 @@ I have already mostly "mastered" Perl 5.
 <p>
 I did some other work on the CPAN modules that I maintain. See
 <a href="http://search.cpan.org/~shlomif/?R=D">the CPAN listing of my
-modules ordered by date</a> for more information. 
+modules ordered by date</a> for more information.
 </p>
 
 <p>
 Recently an IRC friend of mine and I started working on our own project
 from scratch, also using Catalyst and DBIx::Class. As a result, I'm learning
 even more about them now. The project is currently in its infancy, but we
-both agreed we are going to license it under the MIT/X11 Licence because we 
+both agreed we are going to license it under the MIT/X11 Licence because we
 both like it.
 </p>
 
 <p>
-As a result of experimenting with various Perl-based technologies, I've 
-been building many <a 
-href="http://www.shlomifish.org/open-source/packages/Mandriva/Cooker/SRPMS/">CPAN 
-distributions as RPM packages</a> on my 
-<a href="http://www2.mandriva.com/">Mandriva Linux</a> system. I found 
+As a result of experimenting with various Perl-based technologies, I've
+been building many <a
+href="http://www.shlomifish.org/open-source/packages/Mandriva/Cooker/SRPMS/">CPAN
+distributions as RPM packages</a> on my
+<a href="http://www2.mandriva.com/">Mandriva Linux</a> system. I found
 this small Bash function useful:
 </p>
 <pre>
@@ -143,16 +143,16 @@ containing the Perl package "MyModule::Sub".
 </p>
 
 <p>
-Sometimes, building the packages was straightforward, but often I needed to 
-apply some patches to the build's .spec or the module's tests. You can find 
+Sometimes, building the packages was straightforward, but often I needed to
+apply some patches to the build's .spec or the module's tests. You can find
 <a href="http://www.shlomifish.org/open-source/packages/Mandriva/Cooker/SRPMS/">the results on my homepage</a>
 </p>
 
 <p>
-On the non-Perl related (but still open-source) front, I've been working on 
+On the non-Perl related (but still open-source) front, I've been working on
 <a href="http://fc-solve.berlios.de/">Freecell Solver</a>,
-which is an ANSI C library to solve certain variants of card solitaire. I 
-released a stable version only to discover its build process was severely 
+which is an ANSI C library to solve certain variants of card solitaire. I
+released a stable version only to discover its build process was severely
 broken (especially on Windows), so I had to release a x.y.1 release. Since
 then, the Subversion trunk has acquired some other changes, and I'm trying
 to see when I could get some time to work on two substantial changes that

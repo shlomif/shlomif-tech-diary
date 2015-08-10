@@ -32,7 +32,7 @@ We are already seeing various social stigma about #sexuality getting broken. Rec
 
 (There's a slight semantic difference between a "slut" and a polyamorous person but you get the idea.)
 
-Thing is as long as you don't get yourself killed or badly injured (which is within your right to do but is incredibly stupid) or exhibit force, threat of force, or fraud against someone or their personal and/or private property, you can do or say whatever you want. 
+Thing is as long as you don't get yourself killed or badly injured (which is within your right to do but is incredibly stupid) or exhibit force, threat of force, or fraud against someone or their personal and/or private property, you can do or say whatever you want.
 
 Love and kisses, -- Shlomi Fish
 
