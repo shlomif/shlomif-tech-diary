@@ -6,19 +6,19 @@
 <h2>2009-01-14: Shavin' Another Second</h2>
 
 <p>
-I've been working on <a 
-href="http://www.shlomifish.org/open-source/projects/File-Find-Object/">File-Find-Object</a> 
+I've been working on <a
+href="http://www.shlomifish.org/open-source/projects/File-Find-Object/">File-Find-Object</a>
 for quite some time now. File-Find-Object provides an alternative to
 File::Find, which is a built-in module in the perl 5 distribution, with
 several major philosophical limitations. What both modules do is traverse
 a directory tree and allow the programmer to do something with all the
-results, similar to <a href="http://en.wikipedia.org/wiki/Find">the Unix shell 
+results, similar to <a href="http://en.wikipedia.org/wiki/Find">the Unix shell
 "find" command</a>.
 </p>
 
 <p>
-My obsession with working on File-Find-Object started 
-<a href="http://www.nntp.perl.org/group/perl.perl5.porters/2006/03/msg110263.html">in 
+My obsession with working on File-Find-Object started
+<a href="http://www.nntp.perl.org/group/perl.perl5.porters/2006/03/msg110263.html">in
 this perl5-porters thread</a>, where I also claimed that File::Find was
 probably IO-Bound, and so making it iterative and capable of instantiation
 (which is partially what File-Find-Object is all about), will not harm
@@ -31,12 +31,12 @@ original motivation for this was a small change I did and perceived as an
 optimisation in which I reduced the number of hard-disk-reading system calls
 that it used to a minimum. I wrote a few shell scripts that timed the
 old version of F-F-O versus the new one on my <tt>~/progs</tt> sub-directory (which
-is contains many sub-directories), after it was in turn traversed by the 
+is contains many sub-directories), after it was in turn traversed by the
 "find" command.
 </p>
 
 <p>
-Both version took somewhat over 2 minutes to complete the scan, which seemed 
+Both version took somewhat over 2 minutes to complete the scan, which seemed
 pretty good to me. However, when I benchmarked a similar script using
 File::Find, I found out that it finished the scan in under 5 seconds, making
 it 24 times faster than File-Find-Object. I didn't want F-F-O to be so much
@@ -61,10 +61,10 @@ Among the notable changes I performed were:
 <li>
 <p>
 The first thing I noticed was that a lot of time was spent in Class::Accessor
-code. To remedy this, I switched to 
+code. To remedy this, I switched to
 <a href="http://search.cpan.org/dist/Class-XSAccessor/">Class-XSAccessor</a>,
 which resulted in saving 40 seconds of runtime. The other changes I made
-were less substantial individually in terms of run-time saving. 
+were less substantial individually in terms of run-time saving.
 </p>
 </li>
 
@@ -77,7 +77,7 @@ delegate to top and non-top versions.
 </p>
 
 <p>
-To save some extra speed, the flag is checked using 
+To save some extra speed, the flag is checked using
 <a href="http://perldoc.perl.org/functions/exists.html">exists</a> which
 should be a bit faster.
 </p>
@@ -88,7 +88,7 @@ should be a bit faster.
 Saved 2.5 seconds of run-time by implementing a commonly used function
 (that was reported to consume a lot of time) in a direct manner, instead
 of the top/non-top delegation, and using some judicious optimisation using
-the "||" operator. 
+the "||" operator.
 </p>
 </li>
 
@@ -102,15 +102,15 @@ copying was not needed at all.
 
 <li>
 <p>
-Eliminated excessive calls to 
-<a href="http://perldoc.perl.org/File/Spec.html">File::Spec</a>'s 
+Eliminated excessive calls to
+<a href="http://perldoc.perl.org/File/Spec.html">File::Spec</a>'s
 functions by caching the results.
 </p>
 </li>
 
 <li>
 <p>
-For each node, File-Find-Object performs two actions in a specific order 
+For each node, File-Find-Object performs two actions in a specific order
 depending on the "depth" instance-wide parameter. Previously, handling them
 involved weird returns of arrays, and indexes-mangling (which I admit that
 I originally implemented in my endless refactoring). This was changed
@@ -120,8 +120,8 @@ to a simple array of method names, from which values are extracted.
 
 <li>
 <p>
-Re-arranged the order of operations to prevent an 
-<tt>if (_is_top()) { ... }</tt> conditional, that was done in every iteration. 
+Re-arranged the order of operations to prevent an
+<tt>if (_is_top()) { ... }</tt> conditional, that was done in every iteration.
 </p>
 </li>
 
@@ -132,12 +132,12 @@ directory, and <tt>dir_stack-&gt;[0]</tt> was the directory below it. So
 when checking for fatherhood of a directory, one had to return the main
 object for the father of <tt>dir_stack-&gt;[0]</tt>. In a series of commits, I
 moved it to be a separate object, as well as occupying the first step
-in the directory stack. 
+in the directory stack.
 </p>
 
 <p>
 As a result, I was able to cache the "_current" object inside an accessor,
-because doing so in for the main object before would have resulted in a 
+because doing so in for the main object before would have resulted in a
 circular reference, which would have caused a memory leak.
 </p>
 </li>
@@ -166,11 +166,11 @@ are not used.
 
 <li>
 Extracting methods excessively can incur a heavy penalty on performance of
-Perl programs. 
+Perl programs.
 </li>
 
 <li>
-Traversing a directory in Perl can be very CPU-bound. 
+Traversing a directory in Perl can be very CPU-bound.
 </li>
 
 <li>
@@ -190,7 +190,7 @@ it's still much better than it used to be, and I can be proud of it.
 </p>
 
 <p>
-The title of this post was inspired by Ido Trivizki's 
+The title of this post was inspired by Ido Trivizki's
 <a href="http://www.perl.org.il/YAPC/2004/talk.html?id=23">"Shavin' another
 bit" presentation</a> given at YAPC::Israel::2004, and which I attended
 and enjoyed.

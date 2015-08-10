@@ -5,7 +5,7 @@ as qsort() or bsearch(), or for use in binary tree implementations such as
 <a href="http://adtinfo.org/">libavl</a>. This is more useful than just
 returning 1 on success and 0 on failure.
 
-Perl has the similar operators "cmp" and "&lt;=&gt;" which can be 
+Perl has the similar operators "cmp" and "&lt;=&gt;" which can be
 <a href="http://www.shlomifish.org/lecture/Perl/Newbies/lecture4/and_or/sort.html">precedence chained</a> using the "or" operator, which is less elegant
 to do in C.
 

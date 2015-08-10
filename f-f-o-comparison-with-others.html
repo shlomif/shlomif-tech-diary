@@ -1,12 +1,12 @@
 <div class="entry" id="">
 
-<!-- Tags: 
+<!-- Tags:
 -->
 
 <h2>2009-10-23: Comparison of Directory Tree Traversers in Various Languages</h2>
 
 <p>
-This is another installment in my series of articles about 
+This is another installment in my series of articles about
 <a href="http://www.shlomifish.org/open-source/projects/File-Find-Object/">File-Find-Object</a>.
 This time what I'll do is look at the APIs provided by other languages for
 recursively traversing directory trees to see if we can gain any future
@@ -25,7 +25,7 @@ several severe design limitations</a>, including not having an iterative
 interface, and as a result not being capable of interrupted in the middle
 very easily, it cannot be instantiated and used to traverse an arbitrary
 number of directory trees in one process (due to its use of global variables)
-and only gives three variables - <tt>$File::Find::name</tt>, 
+and only gives three variables - <tt>$File::Find::name</tt>,
 <tt>$File::Find::dir</tt> and <tt>$_</tt> as arguments (whose meaning
 depend on the value of the <tt>no_chdir</tt> parameter).
 </p>
@@ -35,14 +35,14 @@ This brings us to no_chdir which controls whether or not it changes to
 the directory containing the directory or file being reported. I can't think
 of any case where it would be desirable to cd to sub-directories or up, and
 in File-Find-Object Nanardon and I made a design decision of not changing
-directory ever. 
+directory ever.
 </p>
 
 <p>
 The internals of File::Find are incredibly messy, hard to follow, and contain
-two nearly identical pieces of code that are chosen based on one of the 
-flags. It also doen't use File::Spec, but instead relies on its own ad-hoc 
-portable path mangling. 
+two nearly identical pieces of code that are chosen based on one of the
+flags. It also doen't use File::Spec, but instead relies on its own ad-hoc
+portable path mangling.
 </p>
 </li>
 
@@ -50,7 +50,7 @@ portable path mangling.
 <p>
 <a href="http://search.cpan.org/dist/File-Next/"><b>File-Next</b></a>
 is Andy Lester's iterative directory traverser, that among other things is
-used in his <a href="http://betterthangrep.com/">ack 
+used in his <a href="http://betterthangrep.com/">ack
 grep-replacement tool</a>. File::Next provides some iterative interfaces,
 but cannot be instantiated, and still uses several global variables, and
 uses several non-Object Oriented / non-exported functions. It also seems
@@ -62,7 +62,7 @@ and later on File-Find-Object-Rule in File-Find-Object's case.
 
 <li>
 <p>
-And naturally there's <b>File-Find-Object</b>, which is capable of 
+And naturally there's <b>File-Find-Object</b>, which is capable of
 instantiation, has an iterative interface and also returns result objects
 with some meta-data about the files and filenames.
 </p>
@@ -79,7 +79,7 @@ be remedied by providing some extra methods without breaking the external API.
 <p>
 Naturally, there are many abstractions on CPAN above these module like
 File-Find-Rule, or File-Find-Object-Rule, but they are out of scope of this
-post. 
+post.
 </p>
 
 <p>
