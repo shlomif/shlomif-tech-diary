@@ -4398,6 +4398,41 @@ of how to comply with it.
 
 </div>
 
+<div class="entry" id="tech-tip--trimming-old-releases-from-minicpan-dirs">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, speed
+-->
+
+<h2>2015-09-01: Tech Tip: Don’t pass the -j$N flag to make when building GNU guile2</h2>
+
+<p>
+In order to build
+<a href="http://en.wikipedia.org/wiki/GNU_Guile">GNU Guile</a> (or at least its
+version 2.x), it is important not to pass the “-j$N” flag to “make”. Without
+the flag, the compilation will be faster (counterintuitively I admit), because
+some of the build tasks spawn as many processes or threads as the CPU cores
+on the machine, and with the flag, they get congested and the build is
+slower. Cheers!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
