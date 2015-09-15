@@ -4360,7 +4360,7 @@ Set up a localhost HTTP service on a high TCP port which will serve the moved
 minicpan directory. For that you can use
 <a href="http://www.garyrobinson.net/2004/03/one_line_python.html">the
 one line Python HTTP service</a> command line or
-<a href="http://opensource.dyc.edu/sthttpd">shttpd</a>’s “thttpd -p $PORT”
+<a href="http://opensource.dyc.edu/sthttpd">sthttpd</a>’s “thttpd -p $PORT”
 invocation or whatever.
 </p>
 </li>
@@ -4413,6 +4413,70 @@ the flag, the compilation will be faster (counterintuitively I admit), because
 some of the build tasks spawn as many processes or threads as the CPU cores
 on the machine, and with the flag, they get congested and the build is
 slower. Cheers!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--locally-host-the-firefox-favorites-file">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, firefox, personas
+-->
+
+<h2>2015-09-15: Tech Tip: Locally Host the Firefox’s Personas Favourites File</h2>
+
+<p>
+A constant annoyance when trying to use the Firefox’s
+<a href="http://barisderin.com/?p=120">Personas Rotator</a> extension was that
+downloading the favourites file from the Firefox addons site failed, which made
+it stop rotating. I recently found a solution for that which I'd like to share.
+</p>
+
+<p>
+First of all, login to
+<a href="https://addons.mozilla.org/en-US/firefox/themes/">the Mozilla
+addons site</a> and access and bookmark
+<a href="https://addons.mozilla.org/en-US/firefox/collections/mine/favorites/format%3Ajson?src=">the JSON data file’s URL</a>. Save it to a file and host it
+using a local HTTP service (such as using Apache,
+<a href="http://www.garyrobinson.net/2004/03/one_line_python.html">the
+one line Python HTTP service</a> command line, or
+<a href="http://opensource.dyc.edu/sthttpd">sthttpd</a>’s “thttpd -p $PORT”
+invocation).
+</p>
+
+<p>
+Then, go to Firefox’s “about:config”, access the
+“extensions.personas.favorites-feed.url” key and change it to the locally
+served one. It should work fine after restarting Firefox, and one upside to
+it would be that you no longer need to be logged in to addons.mozilla.org
+for it to work.
+</p>
+
+<p>
+Remember to save the file again every once-in-a-while after you added new
+favourites. A final note is that a “file://” URL may work fine as
+well, but I have not tried it yet.
+</p>
+
+<p>
+Happy rotating, and
+<a href="http://en.wikipedia.org/wiki/Rosh_Hashanah">Shanah Tovah</a> if
+appropriate!
 </p>
 
 <h2 id="license">Licence</h2>
