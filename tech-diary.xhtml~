@@ -4435,7 +4435,7 @@ of how to comply with it.
 
 <div class="entry" id="tech-tip--locally-host-the-firefox-favorites-file">
 
-<!-- Tags: tip, tech, tech tip, linux, open-source, foss, firefox, personas
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, firefox, mozilla, personas
 -->
 
 <h2>2015-09-15: Tech Tip: Locally Host the Firefox’s Personas Favourites File</h2>
@@ -4477,6 +4477,42 @@ well, but I have not tried it yet.
 Happy rotating, and
 <a href="http://en.wikipedia.org/wiki/Rosh_Hashanah">Shanah Tovah</a> if
 appropriate!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--make-panes-equally-heighted-in-tmux">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, tmux
+-->
+
+<h2>2015-11-06: Tech Tip: Make Panes Equally Heighted in Tmux</h2>
+
+<p>
+When pressing «Ctrl+B;"» in
+<a href="https://en.wikipedia.org/wiki/Tmux">tmux</a>
+to split a pane vertically there, one will
+notice that tmux splits the existing pane into two which can result in
+smaller and smaller panes. In order to fix this, one can type «Ctrl+B;M-2»
+(where “M” is the <a href="https://en.wikipedia.org/wiki/Meta_key">Meta
+key</a> and is normally “Alt” on most keyboards.) which will make all
+the panes equally heighted.
 </p>
 
 <h2 id="license">Licence</h2>
