@@ -1,0 +1,24 @@
+<p>
+I'll play the devil's advocate here (though I actually tend to agree here) and answer the question on why literate programming has not really caught on: developers are lazy, and they hate writing superfluous documentation, and furthermore - that's not necessarily a bad thing. From my understanding of <a href="http://en.wikipedia.org/wiki/Extreme_Programming">Exterme Programming</a> and other of the so-called "Agile methods", they tend to discourage people from writing a lot of superfluous documentation, and instead encourage people to make their code as self-documenting as possible, using refactoring, giving meaningful names for variables, functions, classes and other identifiers, and by writing automated tests (uni tests, system tests, etc.) that serve as self-documenting code, executable specifications, and (naturally) provide confidence that the code is doing what it's told.
+</p>
+
+<p>
+Personally I've seen or heard of cases where even in-line comments became out-of-sync with the code as it evolved, to say nothing of documentation maintained somewhere else. But for example the classic extract method refactoring (or extract subroutine/function in general) can be used to give a label and assign a meaning to a certain portion of long code inside a long code, or you can change an identifier name to make it more obvious and you'll have better confidence that it will remain this way.
+</p>
+
+<p>
+While XP tends to use Java as its demonstration language, I am not a Java advocate, and have used those advocated-by-XP practices in Perl 5, C and other languages (and Java using very early and primitive-by-today's standards Java IDEs) which don't or didn't have any of the automated refactorings, code generation stuff, or test-driven-development introspection. Overcoming the standard "Agile development" Java-specific buzz, it still has a lot of good universal advice to give.
+</p>
+
+<p>
+Trying to maintain code in sync with documentation is not much better than trying to maintain two distinct codebases in two different languages in sync. At a previous workplace of mine, they decided to market a few Flash-based gadgets and I was instructed to translate a PHP and Flash 9 program (with many PHPisms) to Perl, because as it turned out the marketing department decided that for compatibility it needed to run on all of PHP, ASP and PERL™. And they expected them to be maintained into the future. And we didn't have something like
+<a href="http://www.fogcreek.com/FogBugz/blog/post/The-Origin-of-Wasabi.aspx">Fog Creek's Wasabi</a> which compiles a common codebase into several target languages for the web.
+</p>
+
+<p>
+I'm not trying to discourage people here from writing documentation like external API documentation, user manuals, <a href="http://www.joelonsoftware.com/articles/fog0000000036.html">functional specs</a>, coding style documents, etc. However, going to excessive extremes of documenting will slow things down considerably, will likely cause a large rift between the documentation and the code, and may confuse or even mislead programmers who try to depend on the documentation. I prefer to make sure my code is readable, properly factored out, with meaningful identifiers and self-documenting.
+</p>
+
+<p>
+But naturally, I'll be happy to hear people play the devil's advocate to this opinion of mine.
+</p>

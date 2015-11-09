@@ -1,0 +1,19 @@
+<p>
+<a href="http://www.shlomifish.org/humour/fortunes/shlomif.html#sharp-perl-log-analyser-in-haskell">this IRC conversation on my page should be instructive</a> (I am "rindolf" there). Essentially, even an elegant dinky "log analyser" that people showed me how to write properly using ghc segfaulted. And I don't mean thrown an exception - it segfaulted. As much as I like Haskell, I still think the language has many inherent limitations due to its restrictive design decisions, and ghc still has many bugs, and is a huge memory hog (possibly due to a good reason). Haskell and ghc are still fine to play with and highly enlightening, but I'd never use them in anything "industrial strength", that I want to depend on.
+</p>
+
+<p>
+Someone I talked with on IRC, said he'd like to create an alternative operating system written in Haskell, that would be incompatible with Linux. Then when I said <a href="http://www.joelonsoftware.com/articles/fog0000000054.html">no one will use it because it won't run any UNIX (or Windows for that matter) applications</a>, he said that "fine, we can implement a nice POSIX emulation subsystem in a jail.". The reason GNU/Linux was successful was because the GNU run-time and other open-source UNIX/POSIX programs were ported to it easily, and in time it also proved attractive to vendors of commercial and/or non-FOSS software. If the Linux kernel was incompatible with anything else, it would have faded into obscurity.
+</p>
+
+<p>
+So I don't see why I should use the new OS with a POSIX-compatible system that will run everything I'm using now more slowly, less natively and less reliably. Granted, the C/UNIX/TCP/IP system is not without its inherent philosophical problems, but everything today relies on it too much. In <a href="http://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/">a Star Trek screenplay I started writing (a fan-fiction of sorts)</a> I whimsically contemplated that their tricorder still runs a UNIX-based OS, and can be operated in X mode from the command line. I'm not sure UNIX (whether Linux, BSD or a different kernel) will still be prevalent 300 years from now, but we cannot rule it out.
+</p>
+
+<p>
+My experience told me that such grand re-inventing everything from scratch schemes tend to amount to very little of promise. (And yes - I've tried some of them myself). Inertia is important and like it or not, reality needs to be obeyed in order to be conquered.
+</p>
+
+<p>
+In short - nice hack, but not terribly useful. The kernel developers are likely to reject Haskell modules, and I would too in their shoes. Now, it's time for Perl, Python, Ruby, Lua, Tcl, PHP, etc. to reciprocate... ;-)
+</p>
