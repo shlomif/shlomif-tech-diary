@@ -1,0 +1,117 @@
+It may come as a surprise to many of you, but sometimes featuritis
+can be a good thing. Sure, you may only use 20% or even just
+10% of the features, but to quote Joel Spolsky (http://www.joelonsoftware.com/)
+, everybody uses a different 20%. And take 10 or 20 random people and you'll
+get about 99%. You may happen to face the situation where your command-line
+program gains more command line arguments than GNU ls. So, the question
+is: how do you deal with the --help switch?
+
+Freecell Solver (like to project) is such a case. Its --help screen now
+takes 7 clicks to display entirely when invoked with "fc-solve -h | less".
+The problem is that people like choice, but don't want to be confused with
+a lot of options. If the program does nothing, or misbehaves in the first
+board layout you try, and you want a quick answer, you're not going to read
+through 7 pages. Spolsky tends to be a bit GUIish, but of course the same
+rule applies to command line programs.
+
+Several solutions have been brought up to deal with this situation:
+
+1. The CVS solution - the --help displays a short screen giving pointers to
+other help screens (--help-options, --help-command, -H command, etc.)
+
+2. Some programs differentiate between -h and --help, while -h's output is
+shorter and --help is more comprehensive.
+
+3. The RTFM solution - refer the user to the man page, info document,
+README, or online help for more information.
+
+4. The Perl solution - --help displays part of the man page, while myprog
+-man displays the entire man page (while invoking the pager too).
+
+Here is my take on the pros and cons of each approach. The CVS one is a bit
+annoying because I instinctively type "cvs --help" and get something absolutely
+useless. (Could be solved with a shell function, though).
+
+-h and --help distinguishing is OK, but you may eventually make --help
+unusable too.
+
+The RTFM option: many users will not bother to read a different source, so
+you may be losing some of them there. And naturally, if the man page is
+bloated, you are back to square one.
+
+The Perl solution is not bad as long as you make sure the relevant parts of
+the man page are not bloated, and out source things to different man pages.
+WebMetaLanguage (link to project) has an interactive application for
+displaying and accessing its various man pages.
+
+My problem with Freecell Solver is that I want it be portable to Win32 and
+other non-UNIX platforms. If you stick to UNIX, you can stay with the Perl
+approach and simply make sure your man pages are sane. (and that you have
+HTML documentation too, and optionally a PDF file).
+
+In any case, my portable solution is a combination of the CVS and Perl
+solutions. I am going to have a default CVS-like help screen, which could be
+later changed to something else using an environment variable.
+
+Here's what I'm going to write:
+
+<<<
+fc-solve [flags] [board_file|-]
+
+Reads board from standard input by default or if a "-" is specified.
+
+- If it takes too long to finish try one of the command line configurations
+presented in --help-configs.
+
+- If it erroneously reports a board as unsolvable, try "-to 01ABCDE"
+
+- If the solution is too long, try running it with the "-opt" flag or with
+"--method a-star".
+
+- If you want to present the moves only, try "-m" (long notation) or
+"-m -sn" (very compact one).
+
+- For a description of all the options type "--help-all".
+
+- For other problems type "fc-solve --help-problems".
+
+- To turn --help back into something more useful read "--help-real-help".
+
+Contact Shlomi Fish, shlomif@vipe.technion.ac.il for more information.
+>>>
+
+What I do is deal with common problems in a graceful way. And of
+course I'll have to implement the other help screens. If you're asking
+why I don't configure Freecell Solver so it won't have these problems,
+then you are asking a good question. However, the default configuration
+works well for most of the boards out there, and I don't want to give
+the user something more complex that may or may not work better.
+(and is itself a compound configuration).
+
+I will use an environment variable FREECELL_SOLVER_DEFAULT_HELP
+(I'm a bit obsessed with maintaining namespace integrity) to specify
+the default help screen. That way the user can modify the help screen
+to something more useful than the summary (which would always be available
+in --help-summary). I haven't used environment variables before, but
+I think I don't have a choice now.
+
+I guess I'll have something to do as far as usability is concerned, before
+I add support for system threads. [1] That's why I'm planning that the
+2.7.x tree would be dedicated entirely to re-thinking about the program's
+usability. The factoring of the help screens would be one thing, but I'll
+also try to have better documentation with more diverse formats than text
+files (God bless perl POD and DocBook), and other such changes.
+
+If you think human factors engineering does not apply to command line programs,
+think again. Even in the UNIX world where Real Men<tm> and Real Women<tm>
+use command line utilities like it was their second nature, you still
+need to make sure your program behaves in a sensible way. When was the last
+time you managed to find a forgotten flag in the gcc man page in less than
+two minutes?
+
+Enough said.
+
+[1] - Freecell Solver is thread-safe and can task switch but cannot be
+thread-enabled. If you are asking why I need to make it thread-enabled,
+where most Freecell users will never need to run it on an SMP machine,
+then my answer is: just for fun<tm>.
