@@ -1,0 +1,137 @@
+From shlomif@vipe.technion.ac.il Fri Oct 10 20:31:30 2003
+Date: Thu, 9 Oct 2003 13:39:45 +0200 (IST)
+From: Shlomi Fish <shlomif@vipe.technion.ac.il>
+To: Webmaster@orange.co.il
+Subject: Re: ???: Re: ???: http://www.orange.co.il/catalog/ is unviewable
+    in Mozill a    {ID:36786727}
+
+On Wed, 8 Oct 2003 Webmaster@orange.co.il wrote:
+
+> Dear Mr. Fish,
+> I thank you again for your mail.
+>
+> I regret being so blunt but, no, we are not going to change our website in
+> the near future. We have developed an amazing website,
+
+"amazing"? By this do you mean full of non-portable bells and whistles,
+and other idiosyncracies? Sorry, but that's not an amazing web-site
+according to my book.
+
+A good web-site is either simple and clean, or includes
+standard-compliant, portable embelishments. (which are usually not
+necessary).
+
+Usability, low bandwidth, etc. is much more important than "amazingness"
+and I bet it's not very usable in MSIE either.
+
+> that costs us a
+> lot of money to develop and maintain,
+
+Why does it? Why should it? I maintain a few web-sites in my free time and
+I'm not getting paid to do so. If you keep your web-site clean and simple,
+it will cost less money to maintain and will also attract more visitors.
+
+> and it is currently built exactly
+> according to our business needs.
+
+I seriously doubt it is built according to anyone's business needs. Why do
+you need JavaScript to display the catalog of images? Why not simply
+include them in the HTML? If you look at popular international sites,
+you'll see that most of them are built with simple and clean HTML
+(sometimes without any trace of JavaScript).
+
+> I can also say that although
+> technologically it might be possible to develop a version for Mozilla or
+> other browsers,
+
+1. It is possible.
+
+2. I'm not talking about a separate version for other browsers. I'm
+talking about one version for _all_ browsers.
+
+> orange, and many other content providers, are investing
+> in the most common browser, it is currently not cost efficient to
+> develop versions for other browsers.
+>
+
+It is cost efficient if you hire clueful developers. Look at my site:
+
+http://t2.technion.ac.il/~shlomif/
+
+(which links to other sites I made).
+
+They all look perfectly fine in all modern browsers, including lynx (a
+minimalistic text browser). Why? Because I know what I'm doing and I know
+how to write good HTML.
+
+First you tell me your site costs a lot of money to maintain, and then you
+tell me it is not cost efficient to support other browsers. Now, let me
+tell you this: if you keep your site clean and standards compliant, you
+can have it support all browsers and it will cost you much less money to
+maintain.
+
+Regards,
+
+	Shlomi Fish
+
+> Regards
+> Eyal Sion
+> Data Support Team
+> www.orange.co.il
+>
+> -----????? ??????-----
+> ??: webmaster@orange.co.il
+> ?????: Thu, 2 Oct 2003 15:48:32 +0200
+> ???: Shlomi Fish <shlomif@vipe.technion.ac.il>
+> ????: Re: ???: http://www.orange.co.il/catalog/ is unviewable in Mozill     a    {ID:36786727}
+>
+> On Thu, 2 Oct 2003 Webmaster@orange.co.il wrote:
+>
+> > Dear Mr. Fish,
+> > I thank you for your e-mail.
+> >
+> > In reply to your complaint, currently, our website is only supported
+> by Internet Explorer versions 5.5 and up.
+> >
+>
+> OK.
+>
+> Are you going to do anything about it? By designing a web-site according
+> to web standards, one can make sure it is supported on all browsers
+> easily. Right now, you're descriminating against an entire section of
+> the
+> populace that cannot run this browser on their OS or computer of choice.
+>
+> Regards,
+>
+>      Shlomi Fish
+>
+> > Regards.
+> > Eyal Sion
+> > Data Support Team
+> > www.orange.co.il
+> >
+> > -----????? ??????-----
+> > ??: webmaster@orange.co.il
+> > ?????: Wed, 1 Oct 2003 14:24:01 +0200
+> > ???: Shlomi Fish <shlomif@vipe.technion.ac.il>
+> > ????: http://www.orange.co.il/catalog/ is unviewable in Mozilla
+> >
+> >
+> > The page:
+> >
+> > http://www.orange.co.il/catalog/
+> >
+> > on your site is not viewable with Mozilla 1.4 on Linux (and probably
+> on
+> > Windows as well). Please fix it. I am about to buy a device from you
+> and
+> > was unable to view the site due to this bug.
+> >
+> > That put aside, the site is completely unusable with Konqueror 3.1.3
+> on
+> > Linux.
+> >
+> > Regards,
+> >
+> >      Shlomi Fish

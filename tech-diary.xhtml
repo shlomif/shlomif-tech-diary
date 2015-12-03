@@ -3805,6 +3805,788 @@ StrangeZero to be very nice and you should also check it out.
 
 </div>
 
+<div class="entry" id="tech-tip-make-Jamendo-playback-work-in-Firefox-on-Mageia">
+
+<!-- Tags: tech tip, tech, tip, linux, firefox
+-->
+
+<h2>2015-02-05: Tech Tip: Make Jamendo Playback Work in Firefox on Mageia Linux</h2>
+
+<p>
+If you’re having a problem playing
+<a href="https://en.wikipedia.org/wiki/Jamendo">Jamendo</a> tracks after
+pressing the “Listen” button (such as on <a href="https://www.jamendo.com/en/list/a132792/nanofly">this page</a>) on Firefox running on Linux, then try to
+install
+the packages «gstreamer0.10-plugins-bad gstreamer0.10-plugins-good
+gstreamer0.10-plugins-ugly gstreamer0.10-mpeg  gstreamer0.10-ffmpeg» (relevant
+to Mageia; try their equivalent in other distributions), restart Firefox and
+try again. The problem is that Firefox needs extra gstreamer plugins to
+play proprietary formats in
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats">HTML
+audio and video elements</a>. Cheers!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="optimisation-tip-avoid-excessive-forks-and-execve">
+
+<!-- Tags: tech tip, tech, tip, linux, optimize
+-->
+
+<h2>2015-02-22: Optimisation Tip: Avoid Excessive Forks+EXECVEs to Processes</h2>
+
+<p>
+This will come as a surprise to few, but performing a separate
+<a href="https://en.wikipedia.org/wiki/Fork_%28system_call%29">fork()</a>
+and <a href="https://en.wikipedia.org/wiki/Exec_%28computing%29">EXECVE</a>
+system calls (e.g: for <code>`factor "$n"`</code> in Perl or <code>popen</code>
+in C), on each iteration of a loop can really kill performance. One option
+to reduce that would be to read individual lines from a
+<code>seq 2 999999 | xargs factor</code> loop, or avoid forking altogether.
+</p>
+
+<p>
+I discovered this issue while working on
+<a href="https://projecteuler.net/problem=141">Project
+Euler problem #141</a>, and I should have realised that the sub-100%
+CPU utilisation of the program was caused by the excessive spawning of new
+processes.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="bug-that-led-to-useful-optimisation">
+
+<!-- Tags: linux, optimize, bug
+-->
+
+<h2>2015-02-26: “Out of the Strong, Something Sweet” - How a Bug Led to a Useful Optimisation</h2>
+
+<p>
+The book <a href="http://www.amazon.com/Fortune-Failure-Missed-Opportunities-Discoveries/dp/0631160876/ref=sr_1_2?ie=UTF8&amp;qid=1424966727&amp;sr=8-2&amp;keywords=fortune+or+failure"><i>Fortune
+or Failure: Missed Opportunities and Chance Discoveries</i></a> (which my family
+used to own, but which I did not read) gives the case to
+the important role of luck and chance in scientific discoveries. Recently,
+when working on <a href="https://projecteuler.net/problem=146">Project Euler
+Problem No. 146</a> I came up with a case of an accidental bug, that in turn
+led to an idea for a significant optimisation.
+</p>
+
+<p>
+The C code with the bug (which was in turn translated from some Perl code)
+looked something like that:
+</p>
+
+<pre>
+#define DIV 9699690
+#define NUM_MODS 24024
+#define NUM_PRIMES 8497392
+
+int primes[NUM_PRIMES];
+int mods[NUM_MODS];
+
+typedef long long LL;
+
+static inline bool is_prime(LL n)
+{
+    LL lim = (LL)(sqrt(n));
+
+    for (int p_idx=0; p_idx &lt; NUM_MODS ; p_idx++)
+    {
+        typeof (primes[p_idx]) p = primes[p_idx];
+        if (p &gt; lim)
+        {
+            return true;
+        }
+        if (n % p == 0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+.
+.
+.
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int n_idx=0;n_idx&lt;sizeof(n_off)/sizeof(n_off[0]);n_idx++)
+            {
+                if (is_prime(sq + n_off[n_idx]))
+                {
+                    goto fail;
+                }
+            }
+</pre>
+
+<p>
+As you can notice eventually, the problem was that in the <code>p_idx</code>
+loop, <code>NUM_MODS</code> should have been the larger <code>NUM_PRIMES</code>.
+This caused the test for primality to finish faster, but to sometimes return
+true instead of false. As a result, I noticed that some numbers were erroneously
+reported as suitable, but the program finished much faster.
+</p>
+
+<p>
+I corrected it and reran the program which was now much slower, but this led me
+to think that maybe the lower limit to the count of primes can be a pre-filter
+for primality for the “y_idx”/“y_off” numbers, that will run quicker and
+eliminate some numbers. As a result, I did this:
+</p>
+
+<pre>
+#define NUM_PRIMES__PRE_FILTER 24024
+
+static inline bool is_prime__pre_filter(LL n)
+{
+    LL lim = (LL)(sqrt(n));
+
+    for (int p_idx=0; p_idx &lt; NUM_PRIMES__PRE_FILTER ; p_idx++)
+    {
+        typeof (primes[p_idx]) p = primes[p_idx];
+        if (p &gt; lim)
+        {
+            return true;
+        }
+        if (n % p == 0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+.
+.
+.
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime__pre_filter(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int n_idx=0;n_idx&lt;sizeof(n_off)/sizeof(n_off[0]);n_idx++)
+            {
+                if (is_prime(sq + n_off[n_idx]))
+                {
+                    goto fail;
+                }
+            }
+</pre>
+
+<p>
+This made the program finish in under a minute, while yielding the correct
+solution. The original program, with the bug fix, was still running after
+several minutes.
+</p>
+
+<p>
+So the bug proved to be useful and insightful. One possible future direction
+is to merge the two “y_idx” loops into a single function that will accept an
+array of numbers, and will check them all for primality using the same divisors
+simultaneously, so as soon as one of them is found to be non-prime, a
+verdict will be reached.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by-nc/3.0/">the Creative Commons
+Attribution Noncommercial 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-configure-Qt5-behaviour-when-running-on-KDE4">
+
+<!-- Tags: tech tip, tech, tip, linux, kde
+-->
+
+<h2>2015-02-28: Tech Tip: How to Configure Qt 5 Behaviour When Running on KDE4</h2>
+
+<p>
+Recently, I noticed that when running the VLC-2.2.0 prerelease, which
+is based on Qt 5 for its GUI, on my
+<a href="http://www.mageia.org/en/">Mageia</a>
+Linux 5 system on top of KDE 4, then in the playlist a single-click immediately
+played a file instead of selecting it, while reserving a double click for
+activation. After a long amount of research and thought, I figured out a way
+to configure Qt 5 on top of KDE.
+</p>
+
+<p>
+To do so:
+</p>
+
+<ol>
+
+<li>
+<p>
+Install lxqt-config and the “lxqt-qtplugin”.
+</p>
+</li>
+
+<li>
+<p>
+Add the line “<code>export QT_QPA_PLATFORMTHEME=lxqt</code>” somewhere before
+the desktop startup in your “.Xclients” or “.xinitrc” file (or in your
+“.bashrc”).
+</p>
+</li>
+
+<li>
+<p>
+Restart the X/KDE environment.
+</p>
+</li>
+
+<li>
+<p>
+Run “lxqt-config” to configure the appropriate behaviour.
+</p>
+</li>
+
+</ol>
+
+<p>
+This way one can use the Qt5 customisations of lxqt in KDE 4. Enjoy!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="vim-tip-2015-05-29--top-or-bottom-viewport">
+
+<!-- Tags: vim, tip, vim tip, tech, tech tip
+-->
+
+<h2>2015-05-29: Vim Tip: Going to the top or bottommost window/viewport</h2>
+
+<p>
+In the <a href="http://www.vim.org/">Vim</a> and GVim text editors, one can
+use <code>Ctrl+W;t</code> (or <tt>Ctrl+w;Ctrl+t</tt>) to go to the
+topmost/most top window (= a section of the screen in Vim terminology) and
+<code>Ctrl+W;b</code> to go to the bottommost/most bottom one.
+</p>
+
+<p>
+Cheers!
+</p>
+
+</div>
+
+<div class="entry" id="linux-tip--find-which-program-is-emitting-sounds">
+
+<!-- Tags: tip, tech, tech tip, linux
+-->
+
+<h2>2015-06-02: Linux Tip: How to Determine Which Program is Emitting Sounds</h2>
+
+<p>
+Here's a tip you may find useful about how to determine which program is
+emitting sounds on a modern
+<a href="http://en.wikipedia.org/wiki/Linux">Linux</a> system.
+This tip requires
+<a href="http://en.wikipedia.org/wiki/PulseAudio">PulseAudio</a> to be enabled
+, and if that's the case, just start up
+<a href="http://www.kde.org/applications/multimedia/kmix/">KDE’s KMix</a> and
+see which applications spring up in the “Playback Streams” tab. Hope it helps,
+and good luck.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="git-tip--git-bisect-requires-bad-and-good-revisions">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2015-06-06: git Tip: How to Call “git bisect start”</h2>
+
+<p>
+“git” is an open-source distributed version control system that has recently
+gained a lot of popularity. The “git bisect start” synopsis in “git help
+bisect” is somewhat misleading:
+</p>
+
+<pre>
+git bisect start [--no-checkout] [&lt;bad&gt; [&lt;good&gt;...]] [--] [&lt;paths&gt;...]
+</pre>
+
+<p>
+One has to specify both the “bad” and the “good” revisions explicitly or else
+“git bisect” will wait for the missing ones to be specified, which will be
+confusing. So specify them immediately at the “git bisect start” invocation.
+</p>
+
+<p>
+Incidentally,
+<a href="http://www.nntp.perl.org/group/perl.perl5.porters/2015/06/msg228300.html">perl-5.22.0</a>
+was released a few days ago. Grab it while it’s hot!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--fix-poor-Inet-connectivity-by-restart-router">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2015-06-25: Tech Tip: Fix Poor Internet Connectivity by Restarting the Router</h2>
+
+<p>
+I noticed that one can often fix poor home Internet connectivity (I have an
+<a href="https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line">ADSL
+connection</a> but it may apply to other types of Internet connection), by
+powering off the router and starting it again (“restart/reboot”). So I’ve made
+a mental note to keep it in mind and now it’s in this blog as a tip. Cheers!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--firefox-debug-the-UI">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, firefox, debugging
+-->
+
+<h2>2015-07-03: Tech Tip: How to Debug Firefox’s UI Code Using the Debugging Tools</h2>
+
+<p>
+In order to debug Mozilla Firefox’s User Interface code (so-called “chrome”
+code), you should toggle the “Enable chrome and add-on debugging” checkbox
+in the Developer Toolbar’s setting and then go to “Tools → Web Developer
+→ Browser Toolbox”. Thanks to jdm on irc.mozilla.org for part of this
+tip. Cheers and happy <a href="http://en.wikipedia.org/wiki/Independence_Day_%28United_States%29">United Stated Independence Day</a> (4th of July)
+in case you are an American.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--skip-tests-in-RPM-spec-files-based-on-version">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, mageia, rpm
+-->
+
+<h2>2015-07-14: Tech Tip: Skip Tests in RPM .spec Files conditionally-to-version</h2>
+
+<p>
+Let’s suppose you are packaging a software application using
+<a href="https://en.wikipedia.org/wiki/RPM_Package_Manager">RPM</a> or a similar
+packaging system, and this application contains some automated tests that
+can be run using “make test”, “make check” or similar. You may opt to put them
+inside a “%check” section, but the problem now is that they may fail.
+</p>
+
+<p>
+The solution I used in this case (assuming fixing the tests was out of scope
+of my work as a packager) was to comment out the command that ran the tests,
+but this is not ideal because that way the tests will also be disabled in
+subsequent versions of the application, unless the packager remembers to
+reenable them.
+</p>
+
+<p>
+Recently, I discovered a better way to do that, after inspecting the source
+of a <a href="http://www.mageia.org/en/">Mageia Linux</a> package. One needs
+do something like that:
+</p>
+
+<pre>
+%define known_to_fail_version 1.82
+
+%check
+
+if test "%{version}" = "%{known_to_fail_version}" ; then
+    true
+else
+    # Run the tests.
+    make check
+fi
+</pre>
+
+<p>
+This way, the tests will get run again for subsequent versions of the packaged
+application, and if they fail again one can set “known_to_fail_version” to
+a new value.
+</p>
+
+<p>
+I hope you also find it a cool trick. Cheers!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--trimming-old-releases-from-minicpan-dirs">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, perl, cpan
+-->
+
+<h2>2015-07-20: Tech Tip: Trimming Old Releases from minicpan Directories</h2>
+
+<p>
+<a href="https://metacpan.org/pod/distribution/CPAN-Mini/bin/minicpan">minicpan</a>
+is a tool to create or update a minimal local mirror of CPAN (= the
+“Comprehensive Perl Archive Network”), that contains only the latest releases
+of CPAN distributions. Now, one problem I ran into when using it is that
+“minicpan” did not seem to delete the older downloaded releases after they were
+superseded by newer ones. A few days ago I found a solution to this problem.
+</p>
+
+<p>
+What you can do is:
+</p>
+
+<ol>
+
+<li>
+<p>
+Move away the minicpan’s mirror’s top directory (<b>do not delete it!</b>)
+</p>
+</li>
+
+<li>
+<p>
+Set up a localhost HTTP service on a high TCP port which will serve the moved
+minicpan directory. For that you can use
+<a href="http://www.garyrobinson.net/2004/03/one_line_python.html">the
+one line Python HTTP service</a> command line or
+<a href="http://opensource.dyc.edu/sthttpd">sthttpd</a>’s “thttpd -p $PORT”
+invocation or whatever.
+</p>
+</li>
+
+<li>
+<p>
+Run the “minicpan” command while pointing the remote to the localhost mirror
+of the old minicpan mirror, using the “-r” flag or by temporarily editing the
+“~/.minicpanrc” file.
+</p>
+</li>
+
+</ol>
+
+<p>
+Voila! Now the mirror will only contain the latest releases, and you can remove
+the old, moved-away, minicpan directory, and cancel the HTTP service.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--trimming-old-releases-from-minicpan-dirs">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, speed
+-->
+
+<h2>2015-09-01: Tech Tip: Don’t pass the -j$N flag to make when building GNU guile2</h2>
+
+<p>
+In order to build
+<a href="http://en.wikipedia.org/wiki/GNU_Guile">GNU Guile</a> (or at least its
+version 2.x), it is important not to pass the “-j$N” flag to “make”. Without
+the flag, the compilation will be faster (counterintuitively I admit), because
+some of the build tasks spawn as many processes or threads as the CPU cores
+on the machine, and with the flag, they get congested and the build is
+slower. Cheers!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--locally-host-the-firefox-favorites-file">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, firefox, mozilla, personas
+-->
+
+<h2>2015-09-15: Tech Tip: Locally Host the Firefox’s Personas Favourites File</h2>
+
+<p>
+A constant annoyance when trying to use the Firefox extension
+“<a href="http://barisderin.com/?p=120">Personas Rotator</a>” was that
+downloading the favourites file from the Firefox addons site failed, which made
+it stop rotating. I recently found a solution for that which I'd like to share.
+</p>
+
+<p>
+First of all, login to
+<a href="https://addons.mozilla.org/en-US/firefox/themes/">the Mozilla
+addons site</a> and access and bookmark
+<a href="https://addons.mozilla.org/en-US/firefox/collections/mine/favorites/format%3Ajson?src=">the JSON data file’s URL</a>. Save it to a file and host it
+using a local HTTP service (such as Apache,
+<a href="http://www.garyrobinson.net/2004/03/one_line_python.html">the
+one line Python HTTP service</a> command line, or
+<a href="http://opensource.dyc.edu/sthttpd">sthttpd</a>’s “thttpd -p $PORT”
+invocation).
+</p>
+
+<p>
+Then, go to Firefox’s “about:config”, access the
+“extensions.personas.favorites-feed.url” key and change it to the locally
+served one. It should work fine after restarting Firefox, and one upside to
+it would be that you no longer need to be logged in to addons.mozilla.org
+for it to work.
+</p>
+
+<p>
+Remember to save the file again every once-in-a-while, after you have added new
+favourites. A final note is that a “file://” URL may work fine as
+well, but I have not tried it yet.
+</p>
+
+<p>
+Happy rotating, and
+<a href="http://en.wikipedia.org/wiki/Rosh_Hashanah">Shanah Tovah</a> if
+appropriate!
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--make-panes-equally-heighted-in-tmux">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, tmux
+-->
+
+<h2>2015-11-06: Tech Tip: Make Panes Equally Heighted in Tmux</h2>
+
+<p>
+When pressing «Ctrl+B;"» in
+<a href="https://en.wikipedia.org/wiki/Tmux">tmux</a>
+to split a pane vertically there, one will
+notice that tmux splits the existing pane into two which can result in
+smaller and smaller panes. In order to fix this, one can type «Ctrl+B;M-2»
+(where “M” is the <a href="https://en.wikipedia.org/wiki/Meta_key">Meta
+key</a> and is normally “Alt” on most keyboards.) which will make all
+the panes equally heighted.
+</p>
+
+<p>
+I found this feature after wondering whether it existed, and then searching
+for it in the tmux man page.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--perl-build-dont-install-man-pages">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, perl
+-->
+
+<h2>2015-12-03: Tech Tip: Speed up building perl 5 by not installing the man pages</h2>
+
+<p>
+When building <a href="http://dev.perl.org/perl5/source.html">perl 5
+from source</a>, one can speed up the "make" and "make install" stages
+significantly by not installing the man pages. To do so, pass the options
+“-Dman1dir=none -Dman3dir=none” to “sh Configure”.
+</p>
+
+<p>
+Cheers, and happy upcoming
+<a href="https://en.wikipedia.org/wiki/Hanukkah">Chanukkah</a>, and happy
+Christmas and/or Yulth or whatever winter holiday you celebrate.
+</p>
+
+<h2>Call for action</h2>
+
+<p>
+Creative Commons has set up
+<a href="http://creativecommons.org/campaigns/stop-the-tpp">a campaign</a>
+to stop <a href="http://creativecommons.org/weblog/entry/46455">TPP -
+the Trans-Pacific Partnership</a>. Please consider signing it and spreading
+the word.
+</p>
+
+<h2 id="license">Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
+
 </body>
 </html>

@@ -33,7 +33,7 @@ Two of my reddit.com features got a reputation of about 100:
 
 I had some other posts of above 10?
 
-I also wrote [Freecell Solver](http://fc-solve.shlomifish.org/), for which I received 100s of emails and which sparked a lively community of users, contributors and co-developers, and I was an active contributor to perl 5 , CPAN (over a 100 modules and maintenance of XML::LibXML ), Subversion, GIMP and other projects. 
+I also wrote [Freecell Solver](http://fc-solve.shlomifish.org/), for which I received 100s of emails and which sparked a lively community of users, contributors and co-developers, and I was an active contributor to perl 5 , CPAN (over a 100 modules and maintenance of XML::LibXML ), Subversion, GIMP and other projects.
 
 Finally see [my Résumé as a writer and entertainer](http://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html)
 

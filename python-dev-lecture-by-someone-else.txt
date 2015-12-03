@@ -1,0 +1,381 @@
+******************************
+תהליך הפיתוח של פייתון והקהילה
+******************************
+
+* אנשים וקהילה
+* פיתוח השפה
+* פיתוח הספריה
+
+חידו, ה־BDFL
+------------
+
+* |guido| |license_plate| `Guido van Rossum`__ (חידו__, לא גוידו — הוא מהולנד)
+
+  .. |guido| image:: guido2002small.jpg
+      :target: http://www.python.org/~guido/orlijn/pics.2/PB-holidays/PC290078.JPG
+
+  .. |license_plate| image:: license_thumb.jpg
+      :target: http://www.python.org/~guido/images/license.jpg
+
+  __ http://www.python.org/~guido/
+  __ guido.au
+
+* הוא BDFL, כלומר `Benevolent Dictator for life`__ והוא יודע מה טוב בשבילנו ;-)
+
+  __ http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life
+
+* השתתף בפיתוח שפת ABC__ שהייתה מיועדת ללימוד לילדים
+
+  __ http://en.wikipedia.org/wiki/ABC_programming_language
+
+* רצה שפת סקריפטים למערכת הפעלה — וכך ב־1991 נולדה שפת פייתון...
+
+  * השפה נקראת אחרי מונטי פייתון.  יש התייחסויות פה ושם בשפה ובתיעוד.
+
+* יש לו מכונת זמן :-)
+
+.. class:: dt-ltr
+
+הרובוטים ושאר המפתחים (סדר א–ב)
+-------------------------------
+
+
+Aahz |aahz|
+    החוק של Aahz: "הדרך הקלה לקבל מידע ב־Usenet היא לא לשאול שאלות אלא לפרסם
+    מידע לא נכון"
+Anthony Baxter |baxter|
+    אחראי שחרורי גרסאות
+Brett Cannon |cannon|
+    סיכם את python-dev במשך שנתיים וחצי, עשה תזה על פייתון
+Fred L. Drake Jr. |drake|
+    אחראי תיעוד (כלים ועריכה)
+Jim Fulton |fulton|
+    מומחה קומפיילר
+Michael Hudson
+    תחביר, bytecodehacks, pyrepl
+Jeremy Hylton |hylton|
+    היה אחראי שחרורי גרסאות
+Marc-André Lemburg |lemburg|
+    מומחה יוניקוד
+Martin von Löwis |lowis|
+    עוד מומחה יוניקוד
+Fredrik Lundh (effbot)
+    כותב ספריות מגניבות (elementtree, PIL ועוד)
+Alex Martelli (martellibot) |martelli|
+    עונה תשובות ארוכות לכל מי ששאול; מרצה; כתב מספר ספרים
+Skip Montanaro |montanaro|
+    אופטימיזציות
+Tim Peters (timbot) |peters|
+    תמיד צודק בנושאים מסובכים, מתעל את חידו ("הזן של פייתון")
+Armin Rigo |rigo|
+    Stackless Python, psyco, pypy
+Barry Warsaw |warsaw|
+    התחיל את Jython, חבילת email, מנהל הרשימות Mailman, ועוד...
+Ka-Ping Yee |yee|
+    Pydoc, שפצורים מגניבים
+Moshe Zadka |zadka|
+    מספרים, Twisted
+
+* ועוד רבים עם תחומי מומחיות שונים וסתם מפתחים גנריים...
+* קהילה גדולה של אנשים שמתעניינים ולפעמים תורמים אבל לא מפתחים
+
+
+.. |aahz| image:: P3260127.JPG
+    :target: http://www.python.org/~guido/pycon03/PyCon/P3260127.JPG
+    :height: 100
+
+.. |baxter| image:: richardbradanthony2.jpeg
+    :target: http://www.ozzope.org/2ndsprint/2ndOzSprintWiki
+    :height: 100
+    :alt: Richard Jones, Brad Dean and Anthony Baxter
+
+.. |cannon| image:: P3270008-THUMB.JPG
+    :target: http://www.python.org/~guido/pycon03/PyCon/P3270008.JPG
+    :height: 100
+
+.. |drake| image:: 6960342_03425359f9_m.jpg
+    :target: http://www.flickr.com/photos/44165698@N00/6960342/
+    :height: 100
+    :alt: Fred Drake, Richard Jones
+
+.. |epler| image:: epler.jpg
+    :target: http://photos.unpythonic.net/full/28016.JPG
+    :height: 100
+
+.. |fulton| image:: P3260129-THUMB.JPG
+    :target: http://www.python.org/~guido/pycon03/PyCon/P3260129.JPG
+    :height: 100
+
+.. |hylton| image:: 8032812_5e1d1e8170_m.jpg
+    :target: http://www.flickr.com/photos/44165698@N00/8032812/
+    :height: 100
+
+.. |lemburg| image:: t_img_2998r.jpg
+    :target: http://www.grisby.org/Photos/128/Wed/img_2998r.jpg.html
+    :height: 100
+
+.. |lowis| image:: martin.jpg
+    :target: http://loewis.de/martin/
+    :height: 100
+
+.. |martelli| image:: t_img_4134rc.jpg
+    :target: http://www.grisby.org/Photos/140/2_Wed_Day/img_4134rc.jpg.html
+    :height: 100
+
+.. |montanaro| image:: SkipMontenaro.tn.gif
+    :target: http://www.python.org/workshops/1994-11/pictures/SkipMontenaro.gif
+    :height: 100
+
+.. |peters| image:: P3270016-THUMB.JPG
+    :target: http://www.python.org/~guido/pycon03/PyCon/P3270016.JPG
+    :height: 100
+
+.. |rigo| image:: armin_rigo.jpg
+    :target: http://www.stackless.com/sprint/stackless_sprint_pictures/armin_rigo.jpg/image_view
+    :height: 100
+
+.. |warsaw| image:: P3260137-THUMB.JPG
+    :target: http://www.python.org/~guido/pycon03/PyCon/P3260137.JPG
+    :height: 100
+
+.. |yee| image:: ordinary-creators-400.jpg
+    :target: http://www.livejournal.com/users/zestyping/97476.html?thread=516292
+    :height: 100
+
+.. |zadka| image:: t_img_4426r.jpg
+    :target: http://www.grisby.org/Photos/140/Best/img_4426r.jpg.html
+    :height: 100
+
+רשימות דואר
+-----------
+
+* Tutor__ — שאלות למתחילים
+
+  __ http://mail.python.org/mailman/listinfo/tutor/
+
+* python-list__ = comp.lang.python__ — רק רובוטים מסוגלים לקרוא הכל :-)
+
+  __ http://mail.python.org/mailman/listinfo/python-list/
+  __ http://groups.google.com/group/comp.lang.python
+
+* python-announce-list__ = comp.lang.python.announce__ — הודאות שחרור על כל דבר שכתוב בפייתון
+
+  __ http://mail.python.org/mailman/listinfo/python-announce-list/
+  __ http://groups.google.com/group/comp.lang.python.announce
+
+* python-dev__ — בעיקר בין המפתחים, דורש הרשמה
+
+  __ http://mail.python.org/mailman/listinfo/python-dev/
+
+  * יש סיכומים__ נהדרים
+
+    __ http://www.python.org/dev/summary/
+
+* SIGs__ = Special Interst Groups — לדוגמה על עיבוד מספרים, תיעוד, XML, וכד'
+
+  __ http://www.python.org/sigs/
+
+* ויקי__ — הרבה חומרי הכוונה, יותר ויותר משמש להצעות שינויים
+
+  __ http://wiki.python.org/moin/
+
+פיתוח משותף
+----------
+
+* CVS ב־SF (עומדים לעבור ל־Subversion על python.org)
+* באגים, טלאים והצעות שיפור ב־SF
+* פיתוח ארוך בין גרסאות, ימי באגים מדי פעם, הקפאה וייצוב לקראת גרסה גדולה — כמו כל פרוייקט גדול
+* בדיקות לכל דבר, משתדלים להוסיף ביחד עם הוספת תכונות
+* תיעוד (בניב מיוחד של LaTeX) — משתדלים להוסיף תוך כדי הוספת תכונות
+
+גרסאות
+------
+
+* הגרסה הגדולה (למשל 2.4) — שינויי תכונות ותחביר
+* הגרסה הקטנה (למשל 2.4.2) — תיקון באגים בלבד!  (חוק ברזל אחרי 2.2)
+* יציב אפילו ב־CVS כמעט כל הזמן
+* שדרוג ברצף יותר קל מקפיצות גדולות
+* יותר משנה בין גרסאות גדולות:
+
+  * 2.4 יצא בנובמבר 2004
+  * 2.2 יצא בדצמבר 2001 ומקומות רבים עדיין לא שדרגו אפילו ל־2.3
+
+רשיון
+-----
+
+* רשיון מיוחד של פייתון
+* מתעדכן קצת בכל גרסה
+
+  * לא תאם ל־GPL במספר גרסאות ישנות, תוקן מזמן
+
+* מאפשר שימוש מסחרי — דמוי MIT
+
+  * יש בהחלט שימושים מסחריים. למשל סביבות פיתוח לפייתון (ActiveState, Wing, ועוד)
+
+* זכויות יוצרים כיום מוחזקים ע"י ה־Python Source Foundation (שקיימת בשביל זה ובשביל מימון)
+
+הצעות שיפור - PEPs
+------------------
+
+* כל שינוי גדול צריך לעבור דרך הצעת שיפור - `PEP = Python Enhancement Proposal`__
+
+  __ http://python.org/peps/
+
+  * הצעה צריכה להסביר מה המוטיבציה, מה בדיוק השינוי המוצע, למה דווקא ככה,
+    תגובת הקהל ותוצאה סופית
+  * *תיעוד* הסיבות והדיונים הוא אולי הסיבה הכי חשובה לקיום התהליך בצורה זו
+
+* כל הצעה מובלת ע"י האדם שהציע אותה
+
+  * שולחים ל־python-list, אוספים תגובות, מעדכנים ושולחים שוב...
+  * בזמן האחרון מתחילים להשתמש בויקי לפיתוח הטקסט
+
+* ה־BDFL בסוף מחליט
+* עוזר אם מספקים מימוש
+
+דיונים חמים ו־BDFL
+------------------
+
+* נדגים על `PEP 308`__ — הכי מסעיר עד כה:
+
+  __ http://python.org/peps/pep-0308.html
+
+  * על הפרט הכי פעוט(!) עד כה: האם להוסיף אופרטור if (כמו ``?:`` ב־C) ומה יהיה התחביר
+  * גרר דיונים אינסופיים ב־python-list, עד כדי התייחסות כ־spam ע"י קוראים רבים
+  * ה־BDFL החליט שתהיה הצבעה.  הצביעו 518 אנשים.  התוצאות היו לא החלטיות וחידו
+    החליט לא לממש כלום.
+
+    * לצורך ההצבעה נכתב מימוש שיטת concordet בפייתון.
+    * אחרי שהרוחות שכחו מישהו כתב תוכנית בפייתון שאספה סטטיסטיקות על הדיונים
+      על הנושא.  היו אנשים שכתבו מאות הודאות!
+
+  * לפני מספר שבועות, שנתיים אחרי ההצבעה(!), חידו שלח `הודאה קצרה`__ שהוא החליט על ``A if COND else B``.
+
+  __ http://mail.python.org/pipermail/python-dev/2005-September/056846.html
+
+    * תגובות רגועות מאוד — כמה אנשים ברכו אותו שהוא החליט משהו שאיש לא היה
+      מחליט בלעדיו.
+
+תאימות: שינוי הדרגתי
+--------------------
+
+* מכבדים מאוד תאימות אחורה.  אם משנים, עושים את זה מאוד בהדרגה.  נדגים על `PEP 237`__:
+
+  __ http://python.org/peps/pep-0237.html
+
+  * בפייתון היה הבדל בין int שעשה overflow לבין long שגדל כרצוננו.
+  * בשלב ראשון (2.2), שינו רק חישובים על int שבמקום overflow יומר אוטומטית
+    ל־long.  זה תואם אחורה.
+  * בשלב שני (2.3), הוסיפו אזהרות על מספר פרטים שישנו את משמעותם ב־2.4 (למשל
+    משמעות של קבוע int שנתון בבסיס 16 והביט העליון שלו דלוק — זה בכל מקרה לא
+    היה מוגדר היטב אבל היה מספיק קוד שהשתמש בזה ליצוג קבועי int שליליים).
+  * בשלב השלישי (2.4), שינו את הפרטים האלה.
+  * הסיומת ``123L`` והטיפוס `long` עכשיו מיותרים אבל צריכים אותם לתאימות —
+    הם לא יעלמו עד לפייתון 3000.
+
+פייתון 3000
+-----------
+
+* גרסה היפוטטית (הידוע גם כ־3.0) שבה יוותרו על תאימות אחורה כדי לתקן הכל (כמו perl 6 אבל עם מספר קטן בהרבה של שינויים).
+* בזמן האחרון חושבים שלא תהיה שבירת תאימות גדולה.  הכל יהיה הדרגתי.
+* `PEP 3000`__ מתאר כמה שינויים שחושבים לעשות.  בכלל לא מלא - יש גם `בבלוג של
+  חידו`__ ועוד מקומות...
+
+  __ http://python.org/peps/pep-3000.html
+  __ http://www.artima.com/weblogs/index.jsp?blogger=guido
+
+מימושים אלטרנטיביים
+-------------------
+
+* Jython__
+
+  __ http://www.jython.org/
+
+* IronPython__
+
+  __ http://www.ironpython.com/
+
+* PyPy__
+
+  __ http://codespeak.net/pypy/dist/pypy/doc/news.html
+
+* בקוד תלוי-גרסא - בידקו תכונות מסויימות )``try..finally``( ולא את מספר הגרסא
+  (``sys.version``)
+
+* פיצולים של השפה?
+
+  .. class:: incremental
+
+  * stackless__ -> greenlets__
+
+    __ http://www.stackless.com/
+    __ http://codespeak.net/py/current/doc/greenlet.html
+
+  * Prothon__ (נראה מת)
+
+    __ http://prothon.org/
+
+הספרייה: "סוללות בפנים"
+----------------------
+
+.. |batteries| image:: batteries-included.jpg
+    :target: http://en.wikipedia.org/wiki/Image:Python_batteries_included.jpg
+    :width: 200
+
+* מכילה המון דברים |batteries|
+* בשנים האחרונות יש התפוצצות בכמות ספריות חיצוניות ולא מספיקים להכניס הכל פנימה (ואולי גם אין טעם?)
+
+* `חנות הגבינה`__ (PYPI): אינדקס של חבילות, קל להוסיף
+
+  __ http://www.python.org/pypi
+
+  * עוד לא CPAN אבל מתקרב.
+
+PEPים לספריה
+------------
+
+* מודולים נכנסים אחרי שהם הוכיחו את עצמם כמוצלחים ועדיפים על כל המתחרים
+* אבל אפשר גם ישירות לפתח לספריה התקנית קוד שלא היה קיים קודם
+* עדיפות למפתחי פייתון ובכלל למי שמציע קוד
+* לא חייבים PEP אבל במקרים פחות ברורים כותבים PEP
+* לקוד חדש כותבים PEP *לפני* המימוש
+
+הזֵן של פייתון 1/3
+------------------
+
+1. יפה עדיף ממכוער.
+2. מפורש עדיף ממשתמע.
+3. פשוט עדיף ממורכב.
+4. מורכב עדיף ממסובך.
+5. שטוח עדיף ממקונן.
+6. דליל עדיף מצפוף.
+7. קריאות נחשבת.
+
+הזֵן של פייתון 2/3
+------------------
+
+
+
+8. מקרים מיוחדים לא מספיק מיוחדים כדי לשבור את הכללים.
+9. אף שמעשיות מנצחת את הטוהר.
+10. שגיאות לעולם לא צריכות לעבור בשקט.
+11. אלא אם הושתקו במפורש.
+12. בפני דו־משמעות, סרב לפיתוי לנחש.
+13. צריכה להיות דרך מתבקשת אחת — ורצוי שרק אחת — לעשות את זה.
+14. אף על פי שהיא אולי מתבקשת רק להולנדים.
+
+
+הזֵן של פייתון 3/3
+------------------
+
+15. עכשיו עדיף מלעולם לא.
+16. אבל לעולם לא, לעיתים קרובות, עדיף מבזה הרגע.
+17. אם קשה להסביר את המימוש, זה רעיון רע.
+18. אם קל להסביר את המימוש, זה יכול להיות רעיון טוב.
+19. מרחבי שמות הם רעיון גדול ונחמד — בואו נעשה יותר מהם!
+
+— Tim Peters
+
+``>>> import this``
+
+
