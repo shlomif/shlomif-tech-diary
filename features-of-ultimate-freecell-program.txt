@@ -1,0 +1,37 @@
+* Multiple Cardsets and card size (PySol)
+
+* Saved Games (PySol)
+
+* Bookmarks (PySol)
+
+* Auto-solving and hints (Freecell Pro, PySol)
+
+* Compete against the computer (Freecell 3d)
+
+* Card Shadow (PySol)
+
+* Sound Effects (PySol)
+
+* Unlimited Undo/Redo   (PySol)
+    - Tree of moves (i.e: paths that were rollback)
+
+* Statistics
+
+* Numbered Games (64-bit)
+    - Ability to deal boards of other packages (PySol, Freecell Pro)
+
+* Drag-and-drop and point-and-click modes. (Freecell 3D)
+
+* User-defined background (kpat)
+
+* Portable - runs on UNIX, Win32 and MacOS X.
+
+* Auto-drop - toggle between automatic and explicit
+
+* Record comments during game play. (suggested by Bob Gorman)
+
+* Record the times each move was performed (suggested by Bob Gorman)
+
+* Support for Freecell and similar games.
+
+

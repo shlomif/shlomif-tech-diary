@@ -1,0 +1,30 @@
+My first real experience with UNIX was when I started working for Cortext,
+a web-publishing company back in 1995 or 1996. Until then I was an experienced
+DOS and Windows user and developer, who knew they were sub-optimal but
+could not pin-point why. My experience with UNIX allowed me to "see the
+light": I quickly found out an operating environment that worked in a
+perfectly sensible, perfectly good way.
+
+A few years later I installed Linux on my home computer and upgraded the
+hard-disk, the computer or parts of it some times. Now with my flashy KDE
+configuration, with Xmms (Linux' Winamp lookalike) playing mp3s in the
+background, with gvim editing files, and with a ton of konsole terminals
+open doing various tasks - I find working on Windows 98 annoying. Not to
+mention that our Win98 configuration is in such a state that nothing
+works nicely in it for a long time. On Linux OTOH everything works
+flawlessly.
+
+A wise man once said that "Those that don't understand UNIX are bound to
+reinvent it. And badly". Similarly, not understanding any part of UNIX, will
+make you re-invent it. Nevertheless, Linux is modular enough that you can get
+by without knowing every part of it. For a long time, I used to write
+my shell scripts in Perl 5, and I survived.
+
+In Linux, "There is more than one way to do it". More importantly, there
+is _always_ a way to do it. Some say that Linux is about Freedom, about
+Choice and about Individualism. I agree with all these claims. But for
+me, Linux is simply about Power, Stability and Ease of Use (for a Power
+User). The mere thought of using the Redmond alternative makes me unhappy.
+I can use it if I want to, but I keep thinking to myself: I wish I could
+do it in Linux instead.
+
