@@ -1,0 +1,166 @@
+Intellectual Property in the Information Age - Summary:
+
+H1: What is the information age?
+
+- Similar to the Stone Age, Iron Age, etc.
+- Information becomes very accessible, reproducible, etc.
+- Does _not_ necessarily implies that information is a viable
+commercial commodity.
+
+H1: Trends as of 2002
+
+- This section would a mostly unbiased report of the current state of afairs.
+Opinions should be avoided as much as possible.
+
+H2: Duplicating information and trasnferring it from one place to another
+is very fast and is becoming even more so.
+
+    H3: Cataloging and retrieval of knowledge becoming more robust -
+    Google, Full-Text search engines, mailing lists and discussion groups,
+    IRC channels, Peer-to-peer,  etc.
+
+H2: The Free Content/Open Content movement
+    - If content can be freely distributable, freely modified
+    and freely used, it should be such.
+    - Some history: BSD, Stallman and the FSF, Linux, the coining
+    of the term "Open Source".
+        - Free (content, software, art) vs. Open (content, source, art)
+        and why I both terms
+
+H2: Laws Passed in regard to knowledge and IP
+
+H3: Cyber-censorship.
+
+    - Laws against putting or linking to pornography, drug information,
+    etc.
+
+H3: The DMCA
+
+    - Reference Dave Touretzky's gallery of DMCA abuses.
+    http://www-2.cs.cmu.edu/~dst/DMCA/Gallery/index.html
+
+H3: The UCITA
+
+H3: The SSSCA ^W CBDTPA
+
+H3: The Software Patents Issue.
+
+H2: Intellectual Property Wars
+
+H3: Copyright Wars
+
+    - Church of Scientlogy Witch-Hunts
+    - Slashdot feature about Laws texts which are copyrighted.
+    - Refer to the DMCA abuses again.
+
+H3: Patent Wars
+
+    Practically a routine AFAI'm aware. There are some notable examples
+    from the computing world, in many of which the prosecuter[*] is trying
+    to protect a down-right trivial patent or one which has prior art.
+
+[*] - Is it the correct term for "Tv'ia" AFA civil law is concerned.
+
+H3: Trademark Wars
+
+(examples are taken from the Computer world in which I am most knowledgable)
+
+    - Windows (vs. Sun/Mac, Lindows, etc.)
+    - AIM vs. GAIM
+    - KIllustrator -> Kontour
+
+H1: My triple role in regard to Intellectual Content
+
+H2: Content Producer
+    - The Enemy and How I Helped to Fight it. (original work and copyrighted)
+    - The One with the Fountainhead (It's derived work so I make no claim
+    for it, but I wrote it).
+    - Freecell Solver (PD, so I make no claim regarding its ownership, but
+    I coded it)
+    - Various other hacks, whether programmatical, technical, philosophical
+    , literary or otherwise.
+    - E-mails (for what they are worth)
+
+H2: Content Consumer
+    - Books (technical and literary)
+    - CDs, MOD Files.
+    - Movies
+    - Television
+    - Software (open-source and otherwise)
+    - Internet Content
+
+H2: Content "Thief"
+    - images distributed on-line on the internet
+    - mp3's I download.
+
+H1: The Essence of Content
+
+H2: Some Understandings
+
+H3: Creating Content is Generally very Moral
+
+    - Explain a bit
+
+    - Exceptions are:
+H4: Illegal Content
+    - one that contains disinformation.
+    - one that infirnges the intellectual property of someone.
+        - This is more of a rule that was done to protect the creation of
+        original content and is not inherently "illegal".
+
+H4: Immoral Content
+
+    - Content that is technically legal, but otherwise conveys an immoral
+    message.
+    - I will not discuss what exactly it is here, because what defines
+    such content as such varies from individual to individual.
+    - Defining it is out of the scope of this document and generally
+      irrelevant to this discussion.
+    - Such content may be freely published, despite its immoral or
+    supposedly immoral nature. One can only volunatarily ostracize
+    (or organize an ostracization of) a person who wrote it, if he
+    wishes to undermine him or her in any way.
+
+H2: The License or Terms under which an Intellectual Work is Distributed is
+    Ammoral
+
+    - What? What about "bad" or "good" licenses?
+    - A license is the philosophy behind the work.
+    - One should be thankful for its creator for creating it in the first
+      place. Whatever, he chooses to allow others to do with it, is a
+      secondary issue.
+    - Everyone is free to to give his work a license that he desires.
+    - Nevertheless, the terms under which a work is distributed should be
+      chosen with care (by its originator), as it is one of the most
+      important factors for the success of the project.
+        - Refer to what Linus Torvalds said that the most important decision
+        he made with the Linux kernel was the choice of the license.
+        - Refer to examples: Qt, Mozilla.
+
+H3: The Guilt-less Freedom to Code
+
+    - Some people are trying to induce guilt in people for creating
+      proprietary software.
+    - Some people actually feel guilty for doing so.
+    - They should not, whether they are free software "purists" (see below)
+    or not, because creating content is always moral, especially if done
+    for a living.
+    - Generally, guilt manipulation is a technique used by mystics. A person
+    should strive to be as guilt-less as possible.[1]
+        - Just don't feel guilty for feeling guilty. ;-)
+
+    [Note]: does this section belongs somewhere below?
+
+    [1] - The relevant chapter from "Feeling Good" by David A. Burns
+
+TB added somewhere:
+    - Freecell Solver under the SSSCA's terms.
+        - Here is a layout which I have copyrighted.
+    - Suggestion to Mr. Eisner/Sen. Hollings/any of the SSSCA proponents:
+        - Learn how to program
+        - Program a full-scale application doing something vert innovative
+        - SSSCA-ify it.
+        - Let everybody know how you feel.
+    - Open-Source "Purism" as a purely strategical tendency.
+        - Ethics and Morality are essentially strategies (!).
+
