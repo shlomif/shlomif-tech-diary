@@ -1,0 +1,5 @@
+Right now there's a big problem that the forum of Israel on reddit is exclusively dominated by posts about the political/defence situation:
+
+http://www.reddit.com/r/Israel/
+
+This echoes and stregthens the perception of people outside Israel that that is all there is to Israel. As a result, I'd like to create a subreddit about Israel where such political posts are off-topic. Something like "geeks-israel" or "Geeks-IL" or "israeli-geekery" where geeks are http://www.phdcomics.com/comics/archive.php?comicid=401 and could be enthusiasts of anything from aeronautics or maths to cooking, makeup, or even shopping (by reference to the “Math is hard. Let's go shopping." adage - http://itre.cis.upenn.edu/~myl/languagelog/archives/002892.html ). I'm asking here if there's anyone who also likes Reddit and has experience setting up and managing subreddits. This idea is open source and I'd be happy to join an existing initiative.
