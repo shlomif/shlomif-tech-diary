@@ -1,0 +1,11 @@
+<p>
+As I <a href="http://www.shlomifish.org/humour/fortunes/show.cgi?id=neo-tech-selfishness">read somewhere</a> (see the link for the quote), while Ayn Rand did not advocate selfishness in the traditional sense of having an (almost) complete lack of concern for others, she called the the morality/strategy she does advocate, namely “rational self-growth” (or acting out of one's rational best interest) “selfishness”. This both undermined the exact meaning of selfishness, and made some critics of Rand’s Objectivism be able to dismiss it as bad, while focusing on the traditional meaning of the word. I've written <a href="http://www.shlomifish.org/philosophy/computers/open-source/gpl-bsd-and-suckerism/">a little about it</a> in a different context (about the somewhat beforehand common Israeli tendency to claim that people who write software under permissive open-source licences are “suckers”, whereas people who use copyleft licences are not).
+</p>
+
+<p>
+Reflecting on the Fountainhead, it is my belief that one of Howard Roark’s problems was that he expected to succeed without doing necessary publicity/Public Relations work to make the case behind his work more popular and acceptable. While it is unlikely that in the context of the story, everyone will be convinced by that, some would (or otherwise not convinced entirely, but still willing to employ Roark). “Reality to be conquered must be obeyed.” In <a href="http://www.shlomifish.org/humour/TOWTF/">my own take of the fountainhead</a> (actually a parody), Peter Keating ends up helping Cameron and Roark from the beginning, doing PR work for them, making them and all the other characters in the story much happier.
+</p>
+
+<p>
+Cheers, and happy holidays, — Shlomi Fish.
+</p>
