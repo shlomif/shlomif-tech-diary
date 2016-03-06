@@ -28,7 +28,7 @@ GetOptions(
 
 sub get_xpath
 {
-    return HTML::Selector::XPath->new(shift)->to_xpath(root => '.', prefix => 'xhtml');
+    return HTML::Selector::XPath->new(shift)->to_xpath(root => './', prefix => 'xhtml');
 }
 
 my $div_xpath = get_xpath('div.entry');
@@ -41,6 +41,7 @@ foreach my $fn (@filenames)
     my $doc = XML::LibXML->load_xml(location => $fn);
     my $xc = XML::LibXML::XPathContext->new($doc);
     $xc->registerNs('xhtml', 'http://www.w3.org/1999/xhtml');
+    NODES:
     foreach my $node ( $xc->findnodes($div_xpath) )
     {
         # Extract the date.
@@ -70,6 +71,31 @@ foreach my $fn (@filenames)
             }
         }->();
 
+        my @tags = map { my $text = $_->data; $text =~ s/\A\s*Tags:\s*// ? ($text) : () } $node->findnodes('./comment()');
+
+        if (@tags > 1)
+        {
+            die "Too many tag comments at $node.";
+        }
+        elsif (!@tags)
+        {
+            next NODES;
+        }
+
+        my $labels = $tags[0];
+
+        {
+            my %l = map { $_ => 1 } map { s/\A\s+//r =~ s/\s+\z//r; } split(/\s*,\s*/, $labels =~ s/\s+/ /gr);
+            if (not (exists ($l{'tech tip'}) or (
+                    exists($l{'tech'}) and exists($l{'tip'})
+                )
+            ))
+            {
+                next NODES;
+            }
+        }
+
+        print "Foo\n";
         push @entries , Shlomif::TechTips::Entry->new({
                 date => $date,
                 xml => $node,
