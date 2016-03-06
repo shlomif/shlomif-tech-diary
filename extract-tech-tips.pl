@@ -26,11 +26,13 @@ GetOptions(
     'file=s' => \@filenames,
 ) or die "Wrong options - $!";
 
-my $sel = HTML::Selector::XPath->new('div.entry');
-my $div_xpath = $sel->to_xpath(prefix => 'xhtml');
+sub get_xpath
+{
+    return HTML::Selector::XPath->new(shift)->to_xpath(root => '.', prefix => 'xhtml');
+}
 
-$sel = HTML::Selector::XPath->new('h2');
-my $h2_xpath = $sel->to_xpath(prefix => 'xhtml');
+my $div_xpath = get_xpath('div.entry');
+my $h2_xpath = get_xpath('h2');
 
 my $DATE_RE = qr/[0-9]{4}-[0-9]{2}-[0-9]{2}/;
 
@@ -49,7 +51,9 @@ foreach my $fn (@filenames)
             }
             else
             {
-                my @h2_tags = $node->findnodes($h2_xpath);
+                my $xc = XML::LibXML::XPathContext->new($node);
+                $xc->registerNs('xhtml', 'http://www.w3.org/1999/xhtml');
+                my @h2_tags = $xc->findnodes($h2_xpath);
                 if (!@h2_tags)
                 {
                     die "Cannot find date in $node";
