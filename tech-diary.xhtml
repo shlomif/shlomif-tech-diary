@@ -4586,6 +4586,50 @@ on how to comply with it.
 
 </div>
 
+<div class="entry" id="tech-tip--sync-clock-using-ntpd">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2016-03-10: Tech Tip: How to properly sync the clock using NTP on Linux</h2>
+
+<p>
+In order to sync the clock using
+<a href="http://en.wikipedia.org/wiki/Network_Time_Protocol">NTP</a>, the network
+time protocol so your computer clock won't be skewed, one should run the
+following command as root: “<code>ntpd -q -g -x</code>”. This has been a
+constant problem for me in part because SSL/HTTPS sites may not work if your
+clock is out-of-date.
+</p>
+
+<p>
+You can find the meaning of the individual flags in the
+<a href="http://linux.die.net/man/8/ntpd">ntpd man page</a>.
+</p>
+
+<p>
+Cheers and happy upcoming
+<a href="http://en.wikipedia.org/wiki/Purim">Purim</a> in case you celebrate.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
