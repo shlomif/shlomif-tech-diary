@@ -6,8 +6,9 @@ use warnings;
 package Shlomif::TechTips::Entry;
 
 use MooX qw/late/;
+use DateTime ();
 
-has 'date' => (is => 'ro');
+has 'date' => (is => 'ro', isa => 'DateTime');
 has 'tags' => (is => 'ro', isa => 'Str');
 has 'title' => (is => 'ro', isa => 'Str');
 has 'xml' => (is => 'ro');
@@ -19,6 +20,7 @@ use HTML::Selector::XPath qw();
 my @entries;
 
 use Getopt::Long qw/GetOptions/;
+use DateTime::Format::Strptime qw();
 
 my @filenames;
 
@@ -36,6 +38,12 @@ my $h2_xpath = get_xpath('h2');
 
 my $DATE_RE = qr/[0-9]{4}-[0-9]{2}-[0-9]{2}/;
 
+my $strp = DateTime::Format::Strptime->new(
+    pattern   => '%Y-%m-%d',
+    locale    => 'en_GB',
+    time_zone => 'Asia/Jerusalem',
+);
+
 foreach my $fn (@filenames)
 {
     my $doc = XML::LibXML->load_xml(location => $fn);
@@ -45,7 +53,7 @@ foreach my $fn (@filenames)
     foreach my $node ( $xc->findnodes($div_xpath) )
     {
         # Extract the date.
-        my $date = sub {
+        my $date = $strp->parse_datetime(scalar sub {
             if (my ($title_date) = ($node->getAttribute('title') // '') =~ /\A($DATE_RE):/)
             {
                 return $title_date;
@@ -69,7 +77,7 @@ foreach my $fn (@filenames)
                     die "Cannot find date in $node";
                 }
             }
-        }->();
+        }->());
 
         my @tags = map { my $text = $_->data; $text =~ s/\A\s*Tags:\s*// ? ($text) : () } $node->findnodes('./comment()');
 
