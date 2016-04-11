@@ -79,7 +79,12 @@ foreach my $fn (@filenames)
                     die "Cannot find date in $node";
                 }
             }
-        };
+        }->();
+
+        if (!defined($title_s) or !defined($date_s))
+        {
+            die "Flutterflutter";
+        }
 
         my $date = $strp->parse_datetime($date_s);
 
