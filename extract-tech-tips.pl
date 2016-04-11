@@ -10,7 +10,7 @@ use DateTime ();
 
 has 'date' => (is => 'ro', isa => 'DateTime', required => 1,);
 has 'tags' => (is => 'ro', isa => 'HashRef', required => 1,);
-has 'title' => (is => 'ro', isa => 'Str');
+has 'title' => (is => 'ro', isa => 'Str', required => 1,);
 has 'xml' => (is => 'ro', required => 1,);
 
 package main;
@@ -53,10 +53,11 @@ foreach my $fn (@filenames)
     foreach my $node ( $xc->findnodes($div_xpath) )
     {
         # Extract the date.
-        my $date = $strp->parse_datetime(scalar sub {
-            if (my ($title_date) = ($node->getAttribute('title') // '') =~ /\A($DATE_RE):/)
+        my ($title_s, $date_s) = sub {
+            my $title = ($node->getAttribute('title') // '');
+            if ($title =~ s/\A($DATE_RE):\s*//)
             {
-                return $title_date;
+                return ($title, $1);
             }
             else
             {
@@ -68,16 +69,19 @@ foreach my $fn (@filenames)
                     die "Cannot find date in $node";
                 }
                 my $h2 = shift(@h2_tags);
-                if (my ($h2_date) = $h2->textContent =~ /\A($DATE_RE):/)
+                $title = $h2->textContent;
+                if ($title =~ s/\A($DATE_RE):\s*//)
                 {
-                    return $h2_date;
+                    return ($title, $1);
                 }
                 else
                 {
                     die "Cannot find date in $node";
                 }
             }
-        }->());
+        };
+
+        my $date = $strp->parse_datetime($date_s);
 
         my @tags = map { my $text = $_->data; $text =~ s/\A\s*Tags:\s*// ? ($text) : () } $node->findnodes('./comment()');
 
@@ -106,6 +110,7 @@ foreach my $fn (@filenames)
                 date => $date,
                 xml => $node,
                 tags => (\%l),
+                title => $title_s,
             });
     }
 }
