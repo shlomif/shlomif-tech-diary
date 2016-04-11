@@ -2,6 +2,8 @@
 
 use strict;
 use warnings;
+use utf8;
+use autodie;
 
 package Shlomif::TechTips::Entry;
 
@@ -21,13 +23,22 @@ my @entries;
 
 use Getopt::Long qw/GetOptions/;
 use DateTime::Format::Strptime qw();
+use Path::Tiny qw/path/;
 
 my @filenames;
+my $output_fn;
+my $xhtml_wrap = 0;
 
 GetOptions(
     'file=s' => \@filenames,
+    'output|o=s' => \$output_fn,
+    'wrap!' => \$xhtml_wrap,
 ) or die "Wrong options - $!";
 
+if (!defined($output_fn))
+{
+    die "Output filename is not specified.";
+}
 sub get_xpath
 {
     return HTML::Selector::XPath->new(shift)->to_xpath(root => './', prefix => 'xhtml');
@@ -83,7 +94,7 @@ foreach my $fn (@filenames)
 
         if (!defined($title_s) or !defined($date_s))
         {
-            die "Flutterflutter";
+            die "undefined stuffs";
         }
 
         my $date = $strp->parse_datetime($date_s);
@@ -110,7 +121,6 @@ foreach my $fn (@filenames)
             next NODES;
         }
 
-        print "Foo\n";
         push @entries , Shlomif::TechTips::Entry->new({
                 date => $date,
                 xml => $node,
@@ -119,6 +129,39 @@ foreach my $fn (@filenames)
             });
     }
 }
+
+my $buffer = '';
+
+if ($xhtml_wrap)
+{
+    $buffer .= <<'EOF'
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE
+    html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<title>Shlomi Fish’s Collection of Tech Tips</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+EOF
+}
+
+foreach my $entry (reverse sort { $a->date <=> $b->date } @entries)
+{
+    $buffer .= $entry->xml->toString;
+}
+
+if ($xhtml_wrap)
+{
+    $buffer .= <<'EOF'
+</body>
+</html>
+EOF
+}
+
+path($output_fn)->spew_utf8($buffer);
 
 1;
 
