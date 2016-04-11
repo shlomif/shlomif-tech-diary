@@ -8,10 +8,10 @@ package Shlomif::TechTips::Entry;
 use MooX qw/late/;
 use DateTime ();
 
-has 'date' => (is => 'ro', isa => 'DateTime');
-has 'tags' => (is => 'ro', isa => 'Str');
+has 'date' => (is => 'ro', isa => 'DateTime', required => 1,);
+has 'tags' => (is => 'ro', isa => 'HashRef', required => 1,);
 has 'title' => (is => 'ro', isa => 'Str');
-has 'xml' => (is => 'ro');
+has 'xml' => (is => 'ro', required => 1,);
 
 package main;
 
@@ -92,21 +92,20 @@ foreach my $fn (@filenames)
 
         my $labels = $tags[0];
 
-        {
-            my %l = map { $_ => 1 } map { s/\A\s+//r =~ s/\s+\z//r; } split(/\s*,\s*/, $labels =~ s/\s+/ /gr);
-            if (not (exists ($l{'tech tip'}) or (
+        my %l = map { $_ => 1 } map { s/\A\s+//r =~ s/\s+\z//r; } split(/\s*,\s*/, $labels =~ s/\s+/ /gr);
+        if (not (exists ($l{'tech tip'}) or (
                     exists($l{'tech'}) and exists($l{'tip'})
                 )
             ))
-            {
-                next NODES;
-            }
+        {
+            next NODES;
         }
 
         print "Foo\n";
         push @entries , Shlomif::TechTips::Entry->new({
                 date => $date,
                 xml => $node,
+                tags => (\%l),
             });
     }
 }
