@@ -148,9 +148,10 @@ if ($xhtml_wrap)
 EOF
 }
 
+my $XSI_XMLNS = q# xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"#;
 foreach my $entry (reverse sort { $a->date <=> $b->date } @entries)
 {
-    $buffer .= $entry->xml->toString;
+    $buffer .= ($entry->xml->toString =~ s#\Q$XSI_XMLNS\E([ >])#$1#gr);
 }
 
 if ($xhtml_wrap)
