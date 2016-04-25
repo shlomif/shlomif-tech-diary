@@ -1,0 +1,147 @@
+   <bogdan>  rindolf: so you like being selfish, eh?
+   <bogdan>  and you wanted to find a reason to be selfish.
+  <rindolf>  bogdan: http://xrl.us/h2kn
+  <rindolf>  bogdan: Rand made a mistake by naming her book "The virtue
+             of Selfishness".
+  <rindolf>  bogdan: she didn't mean it in the sense of "Complete
+             disrespect for others".
+  <spectei>  GPL > BSD
+  <rindolf>  spectei: GPL is more selfish.
+ <Dianora_>  BSD > GPL
+  <rindolf>  Dianora_: :-)
+ <Dianora_>  BSD is free, GPL is not free.
+  <rindolf>  Dianora_: not you too.
+  <rindolf>  spectei: the BSD is free, even Stallman thinks so.
+ <Dianora_>  The GPL is like finding a coupon for $20 for pants on the
+             street, the BSDL is like finding a $20 bill on the street.
+ <Dianora_>  I would rather have the $20 bill
+  <rindolf>  Dianora_: please lets agree to accept Stallman's definition
+             of Freedom, and call BSD-style licensed software by another
+             name.
+  <rindolf>  Dianora_: I don't see the anlogy.
+ <Dianora_>  even esr prefers the BSDL
+  <rindolf>  Dianora_: yes, I know.
+  <rindolf>  That's what I use for my software.
+  <rindolf>  If I can help it.
+ <Dianora_>  No Stallmans version of Freedom is a political
+             mis-labelling of true freedom.
+  <rindolf>  Dianora_: I'm not saying he defined freedom.
+  <rindolf>  Dianora_: but he coined the term "free softwae
+ <Dianora_>  He can try to relabel English anyway he wants, but he is
+             not taking my language from me.
+ <Dianora_>  BAH!
+  <rindolf>  Dianora_: but different things mean different things in
+             different contexts.
+  <rindolf>  Dianora_: you can call BSD-style software PD-software or
+             whatever.
+  <rindolf>  Dianora_: they are nutjobs.
+  <rindolf>  But they are good people.
+  <rindolf>  They're on our side.
+ <Dianora_>  BSD is FREE, GPL is a restrictive license, that is NOT free
+          *  rindolf is a nutjob but tries to be a good person.
+  <rindolf>  Dianora_: fine. The GPL is not free.
+  <spectei>  it is free software!
+  <rindolf>  "I want to be there, I want to be there".
+  <pnbeast>  GPL is, in fact, a very non-restrictive license.
+  <rindolf>  "fine you are there."
+ <Dianora_>  No, it is NOT free software, the GPL is a restrictive
+             license. period.
+  <rindolf>  "danny! What are you doing here?"
+  <spectei>  Dianora_, it is free software as defined by the FSF
+  <rindolf>  "Here? <crying"
+  <spectei>  :D
+ <Dianora_>  it restricts your right to use that software!
+  <rindolf>  "did I say something wrong?"
+  <spectei>  Dianora_, in a good way!
+  <rindolf>  It's from Sesame street.
+ <Dianora_>  the FSF can label black as white and I will still not
+             believe them!
+  <rindolf>  Dianora_: the GPL is better than the MS EULA.
+ <Dianora_>  rindolf yes ;-)
+  <rindolf>  Dianora_: I've contributed to GPL software, and I cannot
+             improve MSIE.
+  <rindolf>  Or windows.
+ <Dianora_>  don't get me wrong, I use GPL software, I write in a couple
+             of GPL projects, but I disagree that GPL is free.
+  <rindolf>  Or Excel.
+  <rindolf>  Dianora_: like I said if we want to communicate we have to
+             agree on a terminology.
+ <Dianora_>  then the GPL is just that, the GPL a restrictive license.
+  <pnbeast>  I won't argue "free", but I can't imagine how you think the
+             GPL is restrictive. Can you explain that to me?
+  <rindolf>  Most people accept the fact that free software is software
+             by the FSF FS definition.
+ <Dianora_>  no
+ <Dianora_>  I am afraid you would be wrong
+ <Dianora_>  available source code yes, but free? uh no. never.
+  <rindolf>  Let's avoid the term free software.
+  <rindolf>  Let's call it open-source.
+ <Dianora_>  as I said, GPL is like a $20 coupon
+  <rindolf>  Dianora_: do you think the GPL is not open-source?
+ <Dianora_>  open-source is a good compromise.
+  <rindolf>  Dianora_: ok.
+  <rindolf>  Free software can also mean gratis software.
+  <rindolf>  And the GPL is sourceware.
+ <Dianora_>  you could have sourcecode that was not licensed to be
+             changed or used by anyone else, but is available to be
+             looked at
+  <rindolf>  Dianora_: I hope you're not using qmail.
+ <Dianora_>  in fact, everyones favourite whipping boy licenses his code
+             that way.
+ <Dianora_>  I'd use qmail if it was the best tool for the job, no
+             matter what I thought of djb
+  <spectei>  opensource doesn't mean anything!
+ <Dianora_>  Disliking a person is no reason not to use someones code.
+  <spectei>  haha
+  <rindolf>  Dianora_: http://www.shlomifish.org/open-source/anti/qmail/
+  <spectei>  dan bernstein is a wacko!
+ <Dianora_>  djb does not allow his code to be modified ;-)
+  <rindolf>  Dianora_: I find Theo objectionable but at least OpenBSD is
+             open-source.
+ <Dianora_>  naw, I will make up my own mind thankyouverymuch.
+  <rindolf>  So I can take it , fork it, etc.
+  <rindolf>  Dianora_: I cannot with DJB's software.
+ <Dianora_>  OpenBSD is open-source *FREE* code
+ <Dianora_>  *correct* both DJB and GPL are open-source but both are
+             non-free!
+  <rindolf>  Dianora_: and I'm not saying it just because I dislike DJB.
+             Although due to the qmail licensing it is a problem.
+  <spectei>  GPL is free :D
+ <Dianora_>  gosh, you made my point for me. restricted licenses.
+  <rindolf>  Dianora_: qmail is sourceware not opensource.
+ <Dianora_>  naw rindolf
+  <rindolf>  Dianora_: have you read the OSD.
+  <rindolf>  ?
+  <rindolf>  Or reveled source, or available source, or whatever.
+ <Dianora_>  we both agreed that when you could look at the source, it
+             was open-source no?
+  <rindolf>  Dianora_: no.
+  <rindolf>  Dianora_: open source is software that complies with OSD or
+             the FSD.
+  <rindolf>  Preferably both.
+ <Dianora_>  but both GPL and DJB's license are restricted use. ;-)
+  <pnbeast>  Come on, Dianora_, won't you define "restricted" for me?
+ <Dianora_>  the OSD or FSD can call black white and I will still not
+             use their definition. ;-)
+  <rindolf>  Dianora_: yes, but the GPL is more usable than the DJB
+             terms.
+ <Dianora_>  pnbeast: you are defining it yourself.
+  <rindolf>  Dianora_: I can fork GPLed code.
+  <rindolf>  And I can link against an LGPLed library.
+  <rindolf>  But I cannot fork DJB's code.
+ <Dianora_>  rindolf: doesn't matter! it's still restricted!
+  <rindolf>  Dianora_: it is restricted, yes.
+ <Dianora_>  in fact
+  <spectei>  Dianora_, bad things are restricted!
+  <rindolf>  Dianora_: but it's not black and white.
+  <pnbeast>  I guess that's a "no".
+ <Dianora_>  the BSDL _is_ also restricted
+  <spectei>  closed source proprietary software is bad
+ <Dianora_>  pnbeast: You defined it yourself
+  <spectei>  ergo it is good that it is restricted
+  <spectei>  one can be free and not free to poison a well
+ <Dianora_>  GPL poisons wells
+  <spectei>  opposite!
+  <spectei>  it keeps software free!
+ <Dianora_>  GPL is a virus.
+  <rindolf>  Dianora_: Windows < DJB < GPL < LGPL < BSD

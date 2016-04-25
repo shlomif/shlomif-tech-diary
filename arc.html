@@ -1,0 +1,143 @@
+
+<div class="entry" id="seven-deadly-sins-of-arc">
+
+<h2>2008-11-06: The Seven Deadly Sins of Arc</h2>
+
+<p>
+<a href="http://www.paulgraham.com/arc0.html">Arc</a> is Paul Graham's dialect
+of <a href="http://en.wikipedia.org/wiki/Lisp_programming_language">LISP</a>,
+that aimed to finally create a usable dialect of Lisp. It was released some
+months ago, and I played with it and even contributed some code to the
+Anarki Arc effort. In this post, I'd like to note why I think it has proved
+to be mostly irrelevant and so quickly went into obscurity.
+</p>
+
+<p>
+The Seven Deadly Sins of Arc are:
+</p>
+
+<ol>
+
+<li>
+<p>
+<b>Not Many Exciting Features and Paradigms</b> - Arc may be more brief
+than other Lisp dialects, and removed a lot of extraneous syntax, but it
+doesn't seem to sport many exciting features and paradigms. It seems
+like a Scheme-like-language only slightly better and slightly worse at
+the same time.
+</p>
+
+<p>
+Graham made a call for advice on his site, looking for ideas no how to improve
+Arc, but it seems very few of them made it into the final language.
+</p>
+</li>
+
+<li>
+<p>
+<b>Standard State-of-the-Art Features are Missing</b> - Arc has no
+built-in Object-Oriented Programing (OOP) system and it also lacks
+namespaces. Both of these features are part of the absolute minimum
+expected of any language today.
+</p>
+</li>
+
+<li>
+<p>
+<b>No Version Control was Used for Arc</b> - when Graham published
+<tt>arc0.tar</tt> (more about it later)
+on his site, it was just a tar. He didn't publicise the URL for a version
+control system that he used for work on Arc. And
+<a href="http://www.paulgraham.com/distraction.html">in this article</a>
+he claims he's recently been using a mostly-disconnected computer to do his
+work, which indicates he's oblivious of the importance of using a remote
+version control repository for constant work.
+</p>
+
+<p>
+I don't have a lot of confidence in a program that's not kept under
+version control, and neither do most professional programmers.
+</p>
+</li>
+
+<li>
+<p>
+<b>No Automated Tests Suite</b> - Arc shipped without any automated tests.
+If an obscure feature was broken, then Graham could not find out. Nor did
+he have the specification-feature inherent in the automated test suite. Also
+the lack of Test-Driven-Development (TDD) for its development was distressing.
+Maybe that's what Graham calls <a href="http://arclanguage.org/">exploratory
+    programming</a>…
+</p>
+</li>
+
+
+<li>
+<p>
+<b>Basic Usability is Missing</b>: there was no way to do <tt>./arc
+    filename.arc</tt> to execute a file directly from the command line. I
+had to add it to Anarki Arc, myself.
+</p>
+</li>
+
+<li>
+<p>
+<b>Weird Versioning</b> - the first released Arc version was <tt>arc0.tar</tt>.
+The second was <tt>arc1.tar</tt> and the third was <tt>arc2.tar</tt>. Normally,
+one would expect that <a
+    href="http://catb.org/esr/writings/cathedral-bazaar/homesteading/ar01s13.html">version
+    1.0 of an open-source project would be very mature</a>, much less version
+2.0, but
+in Arc's case they were incremental releases, released after a short time.
+</p>
+
+<p>
+So the versioning used by Graham is strange, not very conventional and
+confusing.
+</p>
+
+</li>
+
+<li>
+<p>
+<b>Brevity Taken to Non-sensical Extremes</b> - Arc tries to be
+as brief as possible, which is good, but it sometimes defies common sense
+and convention. For example the <tt>(not)</tt> function in Arc is <tt>(no)</tt>
+so the code reads <tt>(if (no a) (pr "a is false"))</tt> (is that even
+English?).
+</p>
+</li>
+
+<li>
+<p>
+<b>Bonus! No line numbers in errors</b> - that's right, when something goes
+wrong in an Arc progam, then you don't get a line number where it occured. How
+can one write anything but toy programs this way? Of course, given that
+executing files from the command line was not supported, it may not be
+very surprising.
+</p>
+</li>
+
+</ol>
+
+<p>
+In short, if you were hoping for a usable and modern dialect of Lisp, then
+Arc is not the answer, and won't be without a lot of work. I was
+told <a href="http://clojure.org/">Clojure</a> is much better than Arc, which
+I have
+little experience with, but may be better. (Although the fact that it targets
+the JVM is somewhat of a turnoff).
+</p>
+
+<p>
+But Arc, as it currently stands, is not the answer. Graham had a lot of time
+to invest in polishing Arc before its release, but it's not polished at all.
+The initial flurry of interest in Arc seems to be largely gone now, and it
+seems unlikely that it will ever mature into something professional and
+usable. Arc gave me some ideas on how to create a more usable Lisp, but it
+otherwise lacked essential feature and is still lacking. I'm going to look
+elsewhere for a usable Lisp dialect.
+</p>
+
+</div>
+

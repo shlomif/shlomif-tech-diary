@@ -1,0 +1,115 @@
+Hi all,
+
+in this message I will review three programming books that I've read lately:
+
+* Programming Pearls, 2nd Edition.
+* More Programming Pearls (1st and only edition so far).
+* The Algorithm Design Manual
+
+so without further ado, here are the book reviews:
+
+1. Programming Pearls, 2nd edition:
+-----------------------------------
+
+[info]
+* Author: Jon Bentley ( http://en.wikipedia.org/wiki/Jon_Bentley ).
+
+* Book homepage: http://www.cs.bell-labs.com/cm/cs/pearls/ .
+
+* On Amazon:
+
+http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880
+
+* 2nd edition published on 1999.
+[/info]
+
+I've heard this book mentioned in several places before buying it and reading
+it and it did not disappoint me. This book is absolutely great, with
+interesting coverage of interesting programming and computer-science related
+topics. It has an extensive discussion of optimising code, which I could
+appreciate, being very interested in it (see:
+http://en.wikibooks.org/wiki/Optimizing_Code_for_Speed ), and lots of other
+interesting stuff. The second edition was updated for modern times, and feels
+quite fresh.
+
+Bentley mentions in the book that he has written a book called "Writing
+Efficient Programs" which is now out-of-print with some techniques for
+optimising code, and I was saddened to hear that it is indeed out-of-print,
+because I'd like to read it. He does give a summary of the book in an appendix,
+though.
+
+The book contains many exercises, which I've mentally thought about most, but
+did not actually solve using the computer. But otherwise, I enjoyed reading this
+book and can wholeheartedly recommend it.
+
+2. More Programming Pearls:
+---------------------------
+
+[info]
+* Author: Jon Bentley ( http://en.wikipedia.org/wiki/Jon_Bentley ).
+
+* Book homepage: http://www.cs.bell-labs.com/cm/cs/pearls/ .
+
+* On Amazon:
+
+http://www.amazon.com/More-Programming-Pearls-Confessions-Coder/dp/0201118890
+
+* 1st and only edition published on 1988.
+[/info]
+
+A fellow Perl programmer bought me this book as a birthday present from my
+Amazon.com wishlist because I put it there out of wishing to read the followup
+to the previous book in the series which I enjoyed. However, this book failed
+to meet my expectations, and I found it disappointing.
+
+It does not have the same focus on topics that interest me and instead contains
+many different topics. While not being completely bad, it fails to live up
+to the promise of the previous book, and I cannot really recommend it. The
+book is also showing its age.
+
+The book page on Amazon.com contains a single 3-star review for "More
+Programming Pearls" which kinda summarises my feelings.
+
+3. The Algorithm Design Manual:
+-------------------------------
+
+[info]
+* Author: Steven Skiena .
+
+* Book homepage: http://www.algorist.com/ .
+
+* On Amazon:
+
+http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/
+
+* 2nd edition published on 1988.
+[/info]
+
+I received this book as an Amazon.com gift, after I placed it
+on my wishlist by inspiration from that of someone else. For some reason, it
+was sent to an old address of ours, which caused some confusion because
+I did not recall ordering it. But eventually I realised what happened.
+
+Based on the cover of the book, and its title, I got a somewhat different
+idea of what it would be about than what it really was, and thought it would
+be very technical and formal. However, this preconception was dis-spelled
+shortly after I started reading it. In fact, the book is quite offbeat, without
+too many rigorous proofs.
+
+The book is split into two parts. In the first one, we are given an overview
+of the theory behind algorithms with a lot of sample code in C, and with
+some "take home lessons", detailed "war stories", where the author explains
+how he implemented the topics covered in his work as a professor and algorithm
+designer, some exercises, and an accessible coverage of the subject. Some
+topics I liked there were the coverage of simulated annealing, his explanation
+of why he found genetic algorithms lacking, and the coverage of back tracking,
+all of which were missing from my formal computer science education.
+
+The second part of the book was nicknamed "The Hitchhiker's Guide to
+Algorithms" and provides an overview of the various algorithms and their
+implementations available for the various algorithmic objectives. While also
+good and enlightening, my only qualm is that it took me a long time to read,
+and by that time, felt the first part of the book was a distant memory.
+
+Still, this is a good book with good coverage of the subject of algorithmics.
+I can recommend it.

@@ -1,0 +1,147 @@
+<div class="entry" id="recovering-data-from-a-hosed-svk-repository">
+
+<!-- Tags: svk, svn, subversion, changesets, tech tip, tech, tip, mst, freenode, push, problem, bugs, dvcs, vcs, version, control, rcs, revision -->
+
+<h2>2009-02-21: How I Recovered Data from a Hosed SVK Repository</h2>
+
+<p>
+Many months ago, I noticed that
+<a href="http://en.wikipedia.org/wiki/SVK">SVK</a>, a version control
+system based on Subversion, stopped propagating changesets to the remote
+Subversion repositories. Furthermore, I was unable to mirror other remote
+repositories. I wrote about it here, asking for help:
+</p>
+
+<ul>
+<li>
+<a href="http://lists.bestpractical.com/pipermail/svk-users/2008-November/000380.html">Post to the svk-users mailing list</a>
+</li>
+<li>
+<a href="http://community.livejournal.com/shlomif_tech/19585.html">My
+"Problems with SVK" entry on this blog</a>
+</li>
+</ul>
+
+<p>
+All of this has been left unsolved until yesterday when I decided that I had
+enough and wanted to finally resolve this problem. My first idea was to
+try to write a script that will propagate the changesets using the Subversion
+APIs, so I looked at the SVK code trying to see where exactly it happens.
+I found the SVK code hard-to-follow, so I first contemplated fixing what
+caused it to report an error, but was also unable to.
+</p>
+
+<p>
+Then I joined the <a href="http://freenode.net/">Freenode IRC network</a>
+and went to the #svk channel. There was only one person there who tried
+to help me, and he was intermittent in helping. Then I joined #perl and casually
+mentioned that I thought SVK sucked (just to lose some steam), which prompted
+<a href="http://www.trout.me.uk/">mst</a> to try to help me. After
+interrogating me he suggested that in order to recover the changesets from SVK,
+I should follow the following steps:
+</p>
+
+<ol>
+
+<li>
+Find out what is the last SVK revision which still propagated changesets to
+the Subversion repository. This can be found using the commit message in the
+svn log.
+</li>
+
+<li>
+Revert (using a selective <tt>svnadmin dump</tt> and then an
+<tt>svnadmin create</tt> ; and <tt>svnadmin load</tt>) to the older version of
+<tt>~/.svk/local</tt> that corresponds with the revision number
+of the commit. (While naturally keeping a copy of <tt>~/.svk/local/</tt> and
+its dump in a safe place.)
+</li>
+
+<li>
+See that a simple change in the svk checkout (like
+<tt>svk mkdir to-delete-`date +%s`</tt>) will propagate to the remote
+repository.
+</li>
+
+<li>
+Revert that change using the Subversion client directly.
+</li>
+
+<li>
+Revert to the working-but-old copy of the SVK repository, and apply a
+filtered stream of the dumps (using <tt>svndumpfilter</tt>) that will
+exclude changes from the <tt>//mirror</tt> part of the SVK repository.
+</li>
+
+<li>
+After all that is done, checkout the trunk and do <tt>svk push</tt>
+from there.
+</li>
+
+</ol>
+
+<p>
+Of course, the devil is in the details, and it took me a lot of experimentation
+until I got to something working. Facts I've discovered:
+</p>
+
+<ol>
+
+<li>
+<a href="http://creatingwithcode.com/howto/extracting-projects-from-shared-svn/">svndumpfilter needs a dump that was generated without the
+<tt>--deltas</tt> flag</a> (and possibly without <tt>--incremental</tt> either.
+Otherwise it will complain.
+</li>
+
+<li>
+I couldn't seem to do <tt>svndumpfilter exclude mirror</tt>
+and instead ended up using <tt>svndumpfilter include local</tt>
+</li>
+
+<li>
+The <tt>--drop-empty-revs</tt> and <tt>--renumber-revs</tt> flags to
+svndumpfilter which seemed like a good idea confused <tt>svnadmin load</tt>,
+and everything worked after I removed them.
+</li>
+
+<li>
+Using <tt>tar -czf</tt> and <tt>tar -xf</tt> can really speed up restoring
+older versions of a Subversion repository because svnadmin load is pretty slow.
+</li>
+
+<li>
+I ended up taking a range of repositories from the pristine revision to "HEAD"
+and then manually editing out the first revision. Maybe it was unnecessary.
+</li>
+
+</ol>
+
+<p>
+After all that "svk push" worked and propagated 800 changesets to
+<a href="https://opensvn.csie.org/shlomif/homepage/trunk/">my homepage's
+trunk</a> in 8:20 hours (must be a record). Since I only have an ADSL
+connection with 25 KBps upstream, and the Subversion service is located in
+Taiwan and I'm living in Israel, it took a while and I left it overnight
+to run.
+</p>
+
+<p>
+Today, after I woke up, I saw that the operation ended up successfully. I was
+able to build an up-to-date version of my homesite from the Subversion sources,
+and am mostly ready to ditching SVK.
+</p>
+
+<p>
+Again, I'd like to thank <a href="http://www.trout.me.uk/">mst</a> for
+suggesting this ultra-cool idea for recovering my data from SVK. It
+took me the whole of one day, but now I'm finally free, and my data is out
+there and safe. I'm going to use plain-old-Subversion to work
+against it, until and assuming I'll get the hang of hg/bzr/git/whatever.
+But at least I no longer have to use a mostly-unusable SVK.
+</p>
+
+<p>
+Hackfully and happily yours, Shlomi Fish.
+</p>
+
+</div>

@@ -1,0 +1,28 @@
+My name is Shlomi Fish and I am a user, developer and advocate of
+Open Source Software. I would like to take this stand and urge all
+representatives of the European Parliament to vote against software patents
+in Europe. The reason is that software patents are harmful more often than
+not.
+
+The vast majority of software patents that were accepted are either very
+trivial, have a lot of prior art, or both. They are used to harass innocent
+developers and software vendors that supposedly violate them. Recently we have
+seen the rise of companies and individuals who try to make a living off
+gathering many patents and then suing people for supposed patent violations.
+Even Microsoft was involved in two such lawsuits in the recent past. (in which
+it lost despite the fact both patents were very trivial)
+
+The software patents that are actually valid, also don't bring any benefit.
+A software developer is better off continually innovating and working on
+building a better product than trying to protect his innovations with patents.
+Patent litigation gives a lot of negative publicity, costs a lot of money, and
+deprive a lot of time that can be invested in productive work.
+
+The best thing in the long run is to make sure patents software have no legal
+basis. This would be the best outcome for big, medium and small companies. It
+would also be the best outcome for Europe as 80% of the software patents that
+were accepted so far in Europe are registered for people outside of Europe.
+
+Sincerely yours,
+
+    Shlomi Fish

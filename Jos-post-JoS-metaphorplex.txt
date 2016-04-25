@@ -1,0 +1,15 @@
+I've been to the first Ruby-Israel meeting - which was very nice. One person I talked with a lot turned out to have:
+
+1. Read almost everything by Joel.
+
+2. Read almost everything by Paul Graham.
+
+3. Told me he found his current job using the Joel-on-Software job board.
+
+Now since I also read most of Joel and PG, I find it easier to communicate with him. That's because when making a claim, he was already familiar with it, and I didn't have to prove it based on more basic premises.  That's why I think the collective work of software gurus could be described as a metaphor-plex: a large collection of useful metaphors.
+
+This allows people who are "in the loop" to communicate quicker and more easily. It did not start with the Internet of course. Such ancient works like the Old Testament or some of the corpa of various Philosophers also provided a wealth of metaphors. And more recently it was many modern Philosophers, authors and leaders. (I'd like to thank my ride for that meeting for making me reach this insight).
+
+This is one reason I think it is important for programmers to learn about such software management and philosophy of software coding methodologies.  As you may well be aware, the "Design Patterns" book (which started the patterns and anti-patterns craze) was primarily intended as a tool of thought and communication, not of software engineering. People who are familiar with the names of the different patterns, anti-patterns (both for code or management), refactorings, etc. can communicate more easily with other people. It also streamlines the thought process in having to think of a certain concept rather than what it means in practice.
+
+So you should recommend your co-workers to study the available online (and offline) resources for software engineering, software management, etc.

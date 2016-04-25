@@ -1,0 +1,2 @@
+Breadth-first search is the bulldozer of science.
+                -- Randy Goebel
