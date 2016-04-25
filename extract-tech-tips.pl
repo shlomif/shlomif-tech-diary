@@ -64,11 +64,11 @@ foreach my $fn (@filenames)
     foreach my $node ( $xc->findnodes($div_xpath) )
     {
         # Extract the date.
-        my ($title_s, $date_s) = sub {
+        my ($title_type, $title_s, $date_s) = sub {
             my $title = ($node->getAttribute('title') // '');
             if ($title =~ s/\A($DATE_RE):\s*//)
             {
-                return ($title, $1);
+                return ('title', $title, $1);
             }
             else
             {
@@ -83,7 +83,7 @@ foreach my $fn (@filenames)
                 $title = $h2->textContent;
                 if ($title =~ s/\A($DATE_RE):\s*//)
                 {
-                    return ($title, $1);
+                    return ('h2', $title, $1);
                 }
                 else
                 {
@@ -119,6 +119,11 @@ foreach my $fn (@filenames)
             ))
         {
             next NODES;
+        }
+
+        if ($title_type eq 'title')
+        {
+            die "Node contains title='' insteaf of <h2>!" . $node->toString() . "!";
         }
 
         push @entries , Shlomif::TechTips::Entry->new({
