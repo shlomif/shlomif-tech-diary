@@ -4764,6 +4764,75 @@ on how to comply with it.
 
 </div>
 
+<div class="entry" id="tech-tip--save-space-on-AWS-EC2-VMs">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2017-02-22: Tech Tip: Saving hard disk space on Amazon AWS Linux Instances</h2>
+
+<p>
+By default,
+<a href="https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud">AWS'
+EC2</a> machines are given a hard disk of only 8 GB of space, and each extra
+gigabyte costs extra, even if you rent a machine with much more RAM than that.
+Some options you can try if you don't want to enlarge the hard disk are:
+</p>
+
+<ol>
+
+<li>
+<p>
+Remove unnecessary system packages (using the
+<a href="http://askubuntu.com/questions/187888/what-is-the-correct-way-to-completely-remove-an-application">“apt remove”</a> command on Ubuntu/Debian VMs or
+equivalents. From my experience, the default Ubuntu VMs ship with a lot of
+junk preinstalled.
+</p>
+</li>
+
+<li>
+<p>
+Remove packages that you installed and no longer need (e.g: gcc).
+</p>
+</li>
+
+<li>
+<p>
+One can also try to do “rm -fr /usr/share/man /usr/share/doc” and other
+unnecessary directories that are cheaper to use on local VMs or host systems.
+</p>
+</li>
+
+<li>
+<p>
+Consider using <a href="https://en.wikipedia.org/wiki/Amazon_S3">S3</a> or
+similar instead of the local hard disk, which should be much cheaper.
+</p>
+</li>
+</ol>
+
+<p>
+Good luck!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2017.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
