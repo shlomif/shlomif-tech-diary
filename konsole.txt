@@ -1,0 +1,487 @@
+shlomif:~/Docs/Diary/tech$ cd
+shlomif:~$ cd t
+test.board    test.txt      test.txt.bak  tmp/
+shlomif:~$ cd tmp/
+shlomif:~/tmp$ ls
+akonadi-shlomif.ZcoI3K  ipp.EZDhp6  ipp.qsC3mJ
+alexa                   ipp.F9b8kk  ipp.QsiiMF
+bghcvHH4.gz.part        ipp.FaYARH  ipp.R34kKS
+ipp.03aQnP              ipp.FbWnBe  ipp.R3uRek
+ipp.0l4MVT              ipp.ffGHeB  ipp.r943cy
+ipp.0X1o06              ipp.fGaq0C  ipp.RARDs7
+ipp.1d9tUI              ipp.FGlg_6  ipp.RhD_8l
+ipp.1Ebv47              ipp.fJ3T9m  ipp.RjDcoT
+ipp.1psWKX              ipp.fJWYzP  ipp.rqKvO0
+ipp.1qhvBg              ipp.fNBnuU  ipp.RrgtLp
+ipp.1ViDmz              ipp.fPa25C  ipp.S6iisd
+ipp.1X7Ola              ipp.FQM0P1  ipp.sbtyCe
+ipp.1zGodh              ipp.fQVkYy  ipp.scVGEJ
+ipp.2ATmo2              ipp.FScY0q  ipp._SH0ce
+ipp.2cG3wq              ipp.FSIR6X  ipp.SkFJj0
+ipp.2jSVQw              ipp.FyDPV2  ipp.SkwDQx
+ipp.2OMQVJ              ipp.G0IJuX  ipp.SSgDKf
+ipp.2WJmXB              ipp.GcZNgt  ipp.SUUkhU
+ipp.2wrhV6              ipp.GEJAjc  ipp.sW0mq8
+ipp.34DXka              ipp.GKtZGF  ipp.TALUuU
+ipp.3KiNbw              ipp.GKxxEk  ipp.tEL7zi
+ipp.3QSjIC              ipp.gT8Vjs  ipp.tF1yp6
+ipp.3Tovnv              ipp.gtjlHh  ipp.tgqY7D
+ipp.3uGkiP              ipp.GZc4ZR  ipp.tIfd4b
+ipp.3WBzyM              ipp.gZf97b  ipp.TijZdb
+ipp.44EYwx              ipp.H4QTfV  ipp.TkGkLj
+ipp.45Hil3              ipp.hAba3F  ipp.Tl7HxM
+ipp.4CqMvY              ipp.hBB_Vx  ipp.tlel9L
+ipp.4KesLT              ipp.hGI9dF  ipp.TNMmK1
+ipp.4NN4sa              ipp.HKgJYc  ipp._tObKs
+ipp.4vpY_d              ipp.hkq5OW  ipp.toNeqT
+ipp.4vqlP5              ipp.HNOcjB  ipp.TUZh5U
+ipp.4XyI7L              ipp.HVc2JM  ipp.TW_jn1
+ipp.5eeYAb              ipp.HX25FQ  ipp.Tzf1XW
+ipp.5GrqXV              ipp.HZJQ4l  ipp.u19tkL
+ipp.5jN1Xk              ipp.i3WgFs  ipp.u2vAm9
+ipp.5Nxcyq              ipp.igWlE5  ipp.ubO4CX
+ipp.5W7acs              ipp.ii22Kf  ipp.UBRZDy
+ipp.5WVsug              ipp.iMCzjf  ipp.Ucostf
+ipp.60yAmu              ipp.iTT6R5  ipp.ucutaE
+ipp.60zEdP              ipp._j4dWk  ipp.uf7YHG
+ipp.6NoiGt              ipp.jDcIt4  ipp.ufI4rF
+ipp.6pxFlm              ipp.jDRhUm  ipp.Un7rU9
+ipp.6vBlc5              ipp.jgLuEr  ipp.uOcPQr
+ipp.76XGgG              ipp.JHkAl6  ipp.uSCws2
+ipp.7b78T3              ipp.JJQOLi  ipp.uwogYI
+ipp.7QUMhu              ipp.jk2o0H  ipp.uXoDsS
+ipp.7rrMUF              ipp.JLoR9N  ipp.V6Wkfc
+ipp.7zl8tL              ipp.jm6ySO  ipp.V8mYif
+ipp.8IGdl5              ipp.JqhgX7  ipp.vbo6Ue
+ipp.8v6Gsz              ipp.Jq_wY_  ipp.VCwpgH
+ipp.8wdOPn              ipp.juCURy  ipp.vezMDy
+ipp.9cufJs              ipp.jxM9uP  ipp.VHS7hu
+ipp.9gc3Fk              ipp.K48FGk  ipp.VKt1E7
+ipp.9GWdjA              ipp.K90zgK  ipp.vMDWjp
+ipp.9n5mSU              ipp.kaBcVH  ipp.vNvEMP
+ipp.A15LXO              ipp.KcTaQj  ipp.VrT1sR
+ipp.A6OIIu              ipp.KF0zXc  ipp.VXCwOl
+ipp.a91riQ              ipp.KFlvi_  ipp.vy5pif
+ipp.abcVex              ipp.KFqJ7p  ipp.vytp8j
+ipp.adPyh2              ipp.kiZraF  ipp.wAH20z
+ipp.Ae5Zfp              ipp.kJFHEd  ipp.weopHe
+ipp.Ae8RcO              ipp.KM2mUD  ipp.WfWBaq
+ipp.AeDKoR              ipp.Kn2wk1  ipp.wJJ8ip
+ipp.aic8OR              ipp.KOZ8Pr  ipp.wkKbPi
+ipp.aKOWby              ipp.KqHWw8  ipp.w_MdMs
+ipp.AkvWjs              ipp.KSaakW  ipp.WMFGQi
+ipp.AoWg0d              ipp.kU4Ck5  ipp.wSKuGN
+ipp.aQ76OA              ipp.KYb5_6  ipp.wsv8Yl
+ipp.ARKY_5              ipp.l_0cHW  ipp.X9u0bP
+ipp.awoG4y              ipp.L1bKI6  ipp.xCJMbj
+ipp.aX8PVg              ipp.lCInd9  ipp.XCplmk
+ipp.b6ku3l              ipp.leQ4uA  ipp.XdQzc6
+ipp.bbiFOw              ipp.LFgo2P  ipp.xGEQK8
+ipp.BFOKn2              ipp.lmbByl  ipp.XhDbIQ
+ipp.BhjG1b              ipp.LNCUe0  ipp.xMk8FG
+ipp.BIfdoM              ipp.lNZZL3  ipp.xthCte
+ipp.bn_wl3              ipp.lVDQj5  ipp.Xv_TDI
+ipp.BORulB              ipp.LZ9XZz  ipp.XvybHq
+ipp.BR1lSW              ipp.m5dxt6  ipp.xWpmjg
+ipp.BRfsn7              ipp.M8eZse  ipp.XzWwDk
+ipp.bXqapu              ipp.M941fg  ipp.Y0Hgtp
+ipp.CCgm8_              ipp.madMxp  ipp.Y5asXM
+ipp.cE3anc              ipp.mBJuxb  ipp.y6DfCW
+ipp.cgFJN0              ipp.MDmBQ4  ipp.yF0OtL
+ipp.CHIr0S              ipp.MEb23f  ipp.YhNji3
+ipp.CIoOkf              ipp.Mex954  ipp.Ymgskk
+ipp.cIqu7T              ipp.mEyK8Q  ipp.Yq8OM8
+ipp.CJjqua              ipp.mmCwNu  ipp.yQfkDp
+ipp.cKSNJ0              ipp.MQKevU  ipp.yR0XOR
+ipp.cOlTFa              ipp.MXQJc1  ipp.YR7N72
+ipp.cpyFGZ              ipp.N2adsP  ipp.ys_mWK
+ipp.cT_cXi              ipp._nAAOz  ipp.ystshg
+ipp.cTt1g_              ipp.nc4npx  ipp.z3j9CN
+ipp.cTz2B6              ipp.NEW4ey  ipp.Z5fxvO
+ipp.cyb4Oe              ipp.ngST2T  ipp.z8dRly
+ipp.CyW8J3              ipp.NHJ2EY  ipp.ZDdoQM
+ipp.ddJv97              ipp.NjdV04  ipp.ZdTtPH
+ipp.DhpvEQ              ipp.nxh4Tp  ipp.ZjMxQr
+ipp.dMfwwj              ipp.NycPO4  ipp.zkIqlc
+ipp.DNoZfs              ipp.oFzCum  ipp.znABY7
+ipp.dPbbvm              ipp.OH5YeQ  ipp.ZO72gl
+ipp.DpOqAz              ipp.oiKIyB  ipp.zPHwHa
+ipp.dT03V3              ipp.OkyfMY  ipp.zqIxVe
+ipp.DTrKKi              ipp.OOj4Yp  ipp.zshj2R
+ipp.dTVVZf              ipp.oP9eWm  ipp.zwfnVw
+ipp.dwHIZc              ipp.OPKxeR  ipp.Z_xHLT
+ipp.DX1WJZ              ipp.OtEDkY  ksocket-shlomif
+ipp.dY6TLt              ipp.oulCdB  minitube.mp4
+ipp.dYuKvd              ipp.ovqnz3  mozilla-media-cache
+ipp.e2U8yj              ipp.OZ2KwE  orbit-shlomif
+ipp.E7uAro              ipp.P2htXQ  plugtmp
+ipp.E8b0Ft              ipp.p7CEuu  plugtmp-1
+ipp.EA5dCG              ipp.P7FywC  plugtmp-2
+ipp.EcQqIk              ipp.PaJBHo  pulse-sRwpC5iUzahE
+ipp.eE6FZo              ipp.PaUnGS  qtsingleapp-clemen-d211-1f5-lockfile
+ipp.eeivTp              ipp.PpYDeI  qtsingleapp-minitu-8606-1f5-lockfile
+ipp.EEMHbC              ipp.PpZdFC  qt_temp.cH4517
+ipp.Eid7_P              ipp.PRuRI5  qt_temp.fo4517
+ipp.eNidt0              ipp.px4JYk  qt_temp.Nb4517
+ipp.EQ7ShV              ipp.QBzpr9  qt_temp.uI4517
+ipp.et_ioQ              ipp.QcICJT  qt_temp.Vd4517
+ipp.eVawxb              ipp.QdDige  ssh-kyzcMtRN3731
+ipp.eVM2ER              ipp.Qgd5tT  ssh-lUrwepOz3538
+ipp.eVovOm              ipp.QLU5Ot  v1HEK3f
+ipp.ewRkp2              ipp.qOvT8J  vCW8l5w
+ipp.Ez0w0j              ipp.Qs5JcS  vShnwO3
+shlomif:~/tmp$ ls
+akonadi-shlomif.ZcoI3K  ipp.EZDhp6  ipp.qsC3mJ
+alexa                   ipp.F9b8kk  ipp.QsiiMF
+bghcvHH4.gz.part        ipp.FaYARH  ipp.R34kKS
+ipp.03aQnP              ipp.FbWnBe  ipp.R3uRek
+ipp.0l4MVT              ipp.ffGHeB  ipp.r943cy
+ipp.0X1o06              ipp.fGaq0C  ipp.RARDs7
+ipp.1d9tUI              ipp.FGlg_6  ipp.RhD_8l
+ipp.1Ebv47              ipp.fJ3T9m  ipp.RjDcoT
+ipp.1psWKX              ipp.fJWYzP  ipp.rqKvO0
+ipp.1qhvBg              ipp.fNBnuU  ipp.RrgtLp
+ipp.1ViDmz              ipp.fPa25C  ipp.S6iisd
+ipp.1X7Ola              ipp.FQM0P1  ipp.sbtyCe
+ipp.1zGodh              ipp.fQVkYy  ipp.scVGEJ
+ipp.2ATmo2              ipp.FScY0q  ipp._SH0ce
+ipp.2cG3wq              ipp.FSIR6X  ipp.SkFJj0
+ipp.2jSVQw              ipp.FyDPV2  ipp.SkwDQx
+ipp.2OMQVJ              ipp.G0IJuX  ipp.SSgDKf
+ipp.2WJmXB              ipp.GcZNgt  ipp.SUUkhU
+ipp.2wrhV6              ipp.GEJAjc  ipp.sW0mq8
+ipp.34DXka              ipp.GKtZGF  ipp.TALUuU
+ipp.3KiNbw              ipp.GKxxEk  ipp.tEL7zi
+ipp.3QSjIC              ipp.gT8Vjs  ipp.tF1yp6
+ipp.3Tovnv              ipp.gtjlHh  ipp.tgqY7D
+ipp.3uGkiP              ipp.GZc4ZR  ipp.tIfd4b
+ipp.3WBzyM              ipp.gZf97b  ipp.TijZdb
+ipp.44EYwx              ipp.H4QTfV  ipp.TkGkLj
+ipp.45Hil3              ipp.hAba3F  ipp.Tl7HxM
+ipp.4CqMvY              ipp.hBB_Vx  ipp.tlel9L
+ipp.4KesLT              ipp.hGI9dF  ipp.TNMmK1
+ipp.4NN4sa              ipp.HKgJYc  ipp._tObKs
+ipp.4vpY_d              ipp.hkq5OW  ipp.toNeqT
+ipp.4vqlP5              ipp.HNOcjB  ipp.TUZh5U
+ipp.4XyI7L              ipp.HVc2JM  ipp.TW_jn1
+ipp.5eeYAb              ipp.HX25FQ  ipp.Tzf1XW
+ipp.5GrqXV              ipp.HZJQ4l  ipp.u19tkL
+ipp.5jN1Xk              ipp.i3WgFs  ipp.u2vAm9
+ipp.5Nxcyq              ipp.igWlE5  ipp.ubO4CX
+ipp.5W7acs              ipp.ii22Kf  ipp.UBRZDy
+ipp.5WVsug              ipp.iMCzjf  ipp.Ucostf
+ipp.60yAmu              ipp.iTT6R5  ipp.ucutaE
+ipp.60zEdP              ipp._j4dWk  ipp.uf7YHG
+ipp.6NoiGt              ipp.jDcIt4  ipp.ufI4rF
+ipp.6pxFlm              ipp.jDRhUm  ipp.Un7rU9
+ipp.6vBlc5              ipp.jgLuEr  ipp.uOcPQr
+ipp.76XGgG              ipp.JHkAl6  ipp.uSCws2
+ipp.7b78T3              ipp.JJQOLi  ipp.uwogYI
+ipp.7QUMhu              ipp.jk2o0H  ipp.uXoDsS
+ipp.7rrMUF              ipp.JLoR9N  ipp.V6Wkfc
+ipp.7zl8tL              ipp.jm6ySO  ipp.V8mYif
+ipp.8IGdl5              ipp.JqhgX7  ipp.vbo6Ue
+ipp.8v6Gsz              ipp.Jq_wY_  ipp.VCwpgH
+ipp.8wdOPn              ipp.juCURy  ipp.vezMDy
+ipp.9cufJs              ipp.jxM9uP  ipp.VHS7hu
+ipp.9gc3Fk              ipp.K48FGk  ipp.VKt1E7
+ipp.9GWdjA              ipp.K90zgK  ipp.vMDWjp
+ipp.9n5mSU              ipp.kaBcVH  ipp.vNvEMP
+ipp.A15LXO              ipp.KcTaQj  ipp.VrT1sR
+ipp.A6OIIu              ipp.KF0zXc  ipp.VXCwOl
+ipp.a91riQ              ipp.KFlvi_  ipp.vy5pif
+ipp.abcVex              ipp.KFqJ7p  ipp.vytp8j
+ipp.adPyh2              ipp.kiZraF  ipp.wAH20z
+ipp.Ae5Zfp              ipp.kJFHEd  ipp.weopHe
+ipp.Ae8RcO              ipp.KM2mUD  ipp.WfWBaq
+ipp.AeDKoR              ipp.Kn2wk1  ipp.wJJ8ip
+ipp.aic8OR              ipp.KOZ8Pr  ipp.wkKbPi
+ipp.aKOWby              ipp.KqHWw8  ipp.w_MdMs
+ipp.AkvWjs              ipp.KSaakW  ipp.WMFGQi
+ipp.AoWg0d              ipp.kU4Ck5  ipp.wSKuGN
+ipp.aQ76OA              ipp.KYb5_6  ipp.wsv8Yl
+ipp.ARKY_5              ipp.l_0cHW  ipp.X9u0bP
+ipp.awoG4y              ipp.L1bKI6  ipp.xCJMbj
+ipp.aX8PVg              ipp.lCInd9  ipp.XCplmk
+ipp.b6ku3l              ipp.leQ4uA  ipp.XdQzc6
+ipp.bbiFOw              ipp.LFgo2P  ipp.xGEQK8
+ipp.BFOKn2              ipp.lmbByl  ipp.XhDbIQ
+ipp.BhjG1b              ipp.LNCUe0  ipp.xMk8FG
+ipp.BIfdoM              ipp.lNZZL3  ipp.xthCte
+ipp.bn_wl3              ipp.lVDQj5  ipp.Xv_TDI
+ipp.BORulB              ipp.LZ9XZz  ipp.XvybHq
+ipp.BR1lSW              ipp.m5dxt6  ipp.xWpmjg
+ipp.BRfsn7              ipp.M8eZse  ipp.XzWwDk
+ipp.bXqapu              ipp.M941fg  ipp.Y0Hgtp
+ipp.CCgm8_              ipp.madMxp  ipp.Y5asXM
+ipp.cE3anc              ipp.mBJuxb  ipp.y6DfCW
+ipp.cgFJN0              ipp.MDmBQ4  ipp.yF0OtL
+ipp.CHIr0S              ipp.MEb23f  ipp.YhNji3
+ipp.CIoOkf              ipp.Mex954  ipp.Ymgskk
+ipp.cIqu7T              ipp.mEyK8Q  ipp.Yq8OM8
+ipp.CJjqua              ipp.mmCwNu  ipp.yQfkDp
+ipp.cKSNJ0              ipp.MQKevU  ipp.yR0XOR
+ipp.cOlTFa              ipp.MXQJc1  ipp.YR7N72
+ipp.cpyFGZ              ipp.N2adsP  ipp.ys_mWK
+ipp.cT_cXi              ipp._nAAOz  ipp.ystshg
+ipp.cTt1g_              ipp.nc4npx  ipp.z3j9CN
+ipp.cTz2B6              ipp.NEW4ey  ipp.Z5fxvO
+ipp.cyb4Oe              ipp.ngST2T  ipp.z8dRly
+ipp.CyW8J3              ipp.NHJ2EY  ipp.ZDdoQM
+ipp.ddJv97              ipp.NjdV04  ipp.ZdTtPH
+ipp.DhpvEQ              ipp.nxh4Tp  ipp.ZjMxQr
+ipp.dMfwwj              ipp.NycPO4  ipp.zkIqlc
+ipp.DNoZfs              ipp.oFzCum  ipp.znABY7
+ipp.dPbbvm              ipp.OH5YeQ  ipp.ZO72gl
+ipp.DpOqAz              ipp.oiKIyB  ipp.zPHwHa
+ipp.dT03V3              ipp.OkyfMY  ipp.zqIxVe
+ipp.DTrKKi              ipp.OOj4Yp  ipp.zshj2R
+ipp.dTVVZf              ipp.oP9eWm  ipp.zwfnVw
+ipp.dwHIZc              ipp.OPKxeR  ipp.Z_xHLT
+ipp.DX1WJZ              ipp.OtEDkY  ksocket-shlomif
+ipp.dY6TLt              ipp.oulCdB  minitube.mp4
+ipp.dYuKvd              ipp.ovqnz3  mozilla-media-cache
+ipp.e2U8yj              ipp.OZ2KwE  orbit-shlomif
+ipp.E7uAro              ipp.P2htXQ  plugtmp
+ipp.E8b0Ft              ipp.p7CEuu  plugtmp-1
+ipp.EA5dCG              ipp.P7FywC  plugtmp-2
+ipp.EcQqIk              ipp.PaJBHo  pulse-sRwpC5iUzahE
+ipp.eE6FZo              ipp.PaUnGS  qtsingleapp-clemen-d211-1f5-lockfile
+ipp.eeivTp              ipp.PpYDeI  qtsingleapp-minitu-8606-1f5-lockfile
+ipp.EEMHbC              ipp.PpZdFC  qt_temp.cH4517
+ipp.Eid7_P              ipp.PRuRI5  qt_temp.fo4517
+ipp.eNidt0              ipp.px4JYk  qt_temp.Nb4517
+ipp.EQ7ShV              ipp.QBzpr9  qt_temp.uI4517
+ipp.et_ioQ              ipp.QcICJT  qt_temp.Vd4517
+ipp.eVawxb              ipp.QdDige  ssh-kyzcMtRN3731
+ipp.eVM2ER              ipp.Qgd5tT  ssh-lUrwepOz3538
+ipp.eVovOm              ipp.QLU5Ot  v1HEK3f
+ipp.ewRkp2              ipp.qOvT8J  vCW8l5w
+ipp.Ez0w0j              ipp.Qs5JcS  vShnwO3
+shlomif:~/tmp$ cd
+shlomif:~$ ls
+apps    Desktop      hamakor-conf.txt  Music      quicklisp   test.txt.bak
+Arcs    docbook.xsl  konsole.txt       perl.log   T           tmp
+Backup  Docs         konsole.txt~      perl.log~  TEMP
+bin     Download     LEESMIJ.txt       Pictures   test.board
+conf    FPU-Article  LEESMIJ.txt~      progs      test.txt
+shlomif:~$ mkdir abc-path
+shlomif:~$ cd abc-path/
+shlomif:~/abc-path$ ls
+shlomif:~/abc-path$ wget http://search.cpan.org/CPAN/authors/id/S/SH/SHLOMIF/Games-ABC_Path-Solver-v0.0.3.tar.gz
+--2011-02-08 19:45:07--  http://search.cpan.org/CPAN/authors/id/S/SH/SHLOMIF/Games-ABC_Path-Solver-v0.0.3.tar.gz
+Resolving search.cpan.org (search.cpan.org)... 212.117.177.118, 194.106.223.155
+Connecting to search.cpan.org (search.cpan.org)|212.117.177.118|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://cpan.cu.be/authors/id/S/SH/SHLOMIF/Games-ABC_Path-Solver-v0.0.3.tar.gz [following]
+--2011-02-08 19:45:08--  http://cpan.cu.be/authors/id/S/SH/SHLOMIF/Games-ABC_Path-Solver-v0.0.3.tar.gz
+Resolving cpan.cu.be (cpan.cu.be)... 194.50.97.11, 2001:67c:314::feed:cafe
+Connecting to cpan.cu.be (cpan.cu.be)|194.50.97.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18408 (18K) [application/x-gzip]
+Saving to: `Games-ABC_Path-Solver-v0.0.3.tar.gz'
+
+100%[======================================>] 18,408      11.2K/s   in 1.6s
+
+2011-02-08 19:45:10 (11.2 KB/s) - `Games-ABC_Path-Solver-v0.0.3.tar.gz' saved [18408/18408]
+
+shlomif:~/abc-path$ tar -xvf Games-ABC_Path-Solver-v0.0.3.tar.gz
+Games-ABC_Path-Solver-v0.0.3
+Games-ABC_Path-Solver-v0.0.3/Changes
+Games-ABC_Path-Solver-v0.0.3/MANIFEST
+Games-ABC_Path-Solver-v0.0.3/MANIFEST.SKIP
+Games-ABC_Path-Solver-v0.0.3/META.yml
+Games-ABC_Path-Solver-v0.0.3/README
+Games-ABC_Path-Solver-v0.0.3/Build.PL
+Games-ABC_Path-Solver-v0.0.3/Makefile.PL
+Games-ABC_Path-Solver-v0.0.3/t
+Games-ABC_Path-Solver-v0.0.3/t/solver-output-system-test.t
+Games-ABC_Path-Solver-v0.0.3/t/pod-coverage.t
+Games-ABC_Path-Solver-v0.0.3/t/00-load.t
+Games-ABC_Path-Solver-v0.0.3/t/pod.t
+Games-ABC_Path-Solver-v0.0.3/t/results
+Games-ABC_Path-Solver-v0.0.3/t/results/brain-bashers.2010-12-21.abc-path-sol
+Games-ABC_Path-Solver-v0.0.3/t/results/brain-bashers.2010-12-22.abc-path-sol
+Games-ABC_Path-Solver-v0.0.3/t/layouts
+Games-ABC_Path-Solver-v0.0.3/t/layouts/brain-bashers.2010-12-22.abc-path
+Games-ABC_Path-Solver-v0.0.3/t/layouts/brain-bashers.2010-12-21.abc-path
+Games-ABC_Path-Solver-v0.0.3/lib
+Games-ABC_Path-Solver-v0.0.3/lib/Games
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Base.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Board.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/App.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/ResultsInASuccess.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/TryingLetterForCell.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/LastRemainingLetterForCell.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/ResultsInAnError.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/LastRemainingCellForLetter.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/LettersNotInVicinity.pm
+Games-ABC_Path-Solver-v0.0.3/scripts
+Games-ABC_Path-Solver-v0.0.3/scripts/abc-path-solve
+Games-ABC_Path-Solver-v0.0.3/scripts/bump-version-number.pl
+Games-ABC_Path-Solver-v0.0.3/inc
+Games-ABC_Path-Solver-v0.0.3/inc/Test
+Games-ABC_Path-Solver-v0.0.3/inc/Test/Run
+Games-ABC_Path-Solver-v0.0.3/inc/Test/Run/Builder.pm
+shlomif:~/abc-path$ cd Gam
+Games-ABC_Path-Solver-v0.0.3/        Games-ABC_Path-Solver-v0.0.3.tar.gz
+shlomif:~/abc-path$ cd Games-ABC_Path-Solver-v0.0.3
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ ls
+Build.PL  inc  Makefile.PL  MANIFEST.SKIP  README   t
+Changes   lib  MANIFEST     META.yml       scripts
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cp t/
+00-load.t                    pod.t
+layouts/                     results/
+pod-coverage.t               solver-output-system-test.t
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cp t/layouts/
+brain-bashers.2010-12-21.abc-path  brain-bashers.2010-12-22.abc-path
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cp t/layouts/brain-bashers.2010-12-22.abc-path ./brain-bashers.2011-02-08.abc-path
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ gvim ./brain-bashers.2011-02-08.abc-path^C
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cat ./brain-bashers.2011-02-08.abc-path
+ABC Path Solver Layout Version 1:
+PEIRQXK
+D     S
+B     U
+O A   G
+W     H
+J     L
+TFCMYVN
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ # Out of date layout
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ gvim ./brain-bashers.2011-02-08.abc-path
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ # Tweak, tweak, tweak.
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ ls
+brain-bashers.2011-02-08.abc-path  inc          MANIFEST       README
+Build.PL                           lib          MANIFEST.SKIP  scripts
+Changes                            Makefile.PL  META.yml       t
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ ls -l
+total 32
+-r--r--r-- 1 shlomif shlomif   90 Feb  8 19:46 brain-bashers.2011-02-08.abc-path
+-r--r--r-- 1 shlomif shlomif 1343 Jan 21 19:00 Build.PL
+-r--r--r-- 1 shlomif shlomif  478 Jan 21 19:00 Changes
+drwxr-xr-x 3 shlomif shlomif   17 Jan 21 19:00 inc
+drwxr-xr-x 3 shlomif shlomif   18 Jan 21 19:00 lib
+-r--r--r-- 1 shlomif shlomif  739 Jan 21 19:00 Makefile.PL
+-r--r--r-- 1 shlomif shlomif  896 Jan 21 19:00 MANIFEST
+-r--r--r-- 1 shlomif shlomif   13 Jan 21 19:00 MANIFEST.SKIP
+-r--r--r-- 1 shlomif shlomif 2126 Jan 21 19:00 META.yml
+-r--r--r-- 1 shlomif shlomif 1977 Jan 21 19:00 README
+drwxr-xr-x 2 shlomif shlomif   56 Jan 21 19:00 scripts
+drwxr-xr-x 4 shlomif shlomif  117 Jan 21 19:00 t
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ chmod +w brain-bashers.2011-02-08.abc-path
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ # Tweak, tweak, tweak.
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cat brain-bashers.2011-02-08.abc-path
+ABC Path Solver Layout Version 1:
+WRTLCGJ
+K     M
+I   A O
+H     Y
+S     V
+D     E
+UPNXBFQ
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ # Good
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ perl -Ilib ./scripts/abc-path-solve brain-bashers.2011-02-08.abc-path
+B cannot be at (4,4) due to lack of vicinity from A.
+B cannot be at (4,5) due to lack of vicinity from A.
+C cannot be at (4,5) due to lack of vicinity from B.
+D cannot be at (1,5) due to lack of vicinity from C.
+D cannot be at (2,5) due to lack of vicinity from C.
+C cannot be at (4,1) due to lack of vicinity from D.
+C cannot be at (4,3) due to lack of vicinity from D.
+E cannot be at (1,5) due to lack of vicinity from D.
+F cannot be at (5,1) due to lack of vicinity from E.
+F cannot be at (5,2) due to lack of vicinity from E.
+F cannot be at (5,3) due to lack of vicinity from E.
+E cannot be at (2,5) due to lack of vicinity from F.
+E cannot be at (3,5) due to lack of vicinity from F.
+G cannot be at (5,1) due to lack of vicinity from F.
+G cannot be at (5,2) due to lack of vicinity from F.
+H cannot be at (1,3) due to lack of vicinity from G.
+H cannot be at (2,3) due to lack of vicinity from G.
+H cannot be at (3,3) due to lack of vicinity from G.
+G cannot be at (5,5) due to lack of vicinity from H.
+I cannot be at (1,2) due to lack of vicinity from H.
+I cannot be at (2,2) due to lack of vicinity from H.
+J cannot be at (2,4) due to lack of vicinity from I.
+J cannot be at (1,5) due to lack of vicinity from I.
+K cannot be at (1,1) due to lack of vicinity from J.
+K cannot be at (2,1) due to lack of vicinity from J.
+K cannot be at (3,1) due to lack of vicinity from J.
+J cannot be at (3,3) due to lack of vicinity from K.
+L cannot be at (3,3) due to lack of vicinity from K.
+L cannot be at (3,4) due to lack of vicinity from K.
+L cannot be at (3,5) due to lack of vicinity from K.
+K cannot be at (5,1) due to lack of vicinity from L.
+M cannot be at (1,1) due to lack of vicinity from L.
+M cannot be at (5,1) due to lack of vicinity from L.
+N cannot be at (2,3) due to lack of vicinity from M.
+N cannot be at (2,4) due to lack of vicinity from M.
+N cannot be at (2,5) due to lack of vicinity from M.
+M cannot be at (4,1) due to lack of vicinity from N.
+O cannot be at (5,2) due to lack of vicinity from N.
+P cannot be at (1,4) due to lack of vicinity from O.
+P cannot be at (1,5) due to lack of vicinity from O.
+O cannot be at (3,2) due to lack of vicinity from P.
+Q cannot be at (3,3) due to lack of vicinity from P.
+Q cannot be at (4,4) due to lack of vicinity from P.
+Q cannot be at (5,5) due to lack of vicinity from P.
+R cannot be at (1,4) due to lack of vicinity from Q.
+R cannot be at (1,5) due to lack of vicinity from Q.
+S cannot be at (3,4) due to lack of vicinity from R.
+S cannot be at (4,4) due to lack of vicinity from R.
+S cannot be at (5,4) due to lack of vicinity from R.
+R cannot be at (1,1) due to lack of vicinity from S.
+R cannot be at (1,2) due to lack of vicinity from S.
+T cannot be at (2,1) due to lack of vicinity from S.
+T cannot be at (2,2) due to lack of vicinity from S.
+U cannot be at (5,1) due to lack of vicinity from T.
+V cannot be at (5,4) due to lack of vicinity from U.
+W cannot be at (1,1) due to lack of vicinity from V.
+W cannot be at (2,2) due to lack of vicinity from V.
+V cannot be at (1,4) due to lack of vicinity from W.
+X cannot be at (3,1) due to lack of vicinity from W.
+W cannot be at (5,5) due to lack of vicinity from X.
+Y cannot be at (1,3) due to lack of vicinity from X.
+Y cannot be at (5,3) due to lack of vicinity from X.
+X cannot be at (3,5) due to lack of vicinity from Y.
+The only letter that can be at (5,1) is J. Invalidating it for all other cells.
+The only letter that can be at (5,2) is I. Invalidating it for all other cells.
+The only letter that can be at (1,4) is S. Invalidating it for all other cells.
+The only letter that can be at (1,5) is U. Invalidating it for all other cells.
+The only letter that can be at (2,5) is T. Invalidating it for all other cells.
+The only letter that can be at (3,5) is D. Invalidating it for all other cells.
+The only letter that can be at (4,5) is E. Invalidating it for all other cells.
+The only letter that can be at (5,5) is F. Invalidating it for all other cells.
+For C only (4,4) is possible.
+B cannot be at (4,1) due to lack of vicinity from C.
+G cannot be at (5,3) due to lack of vicinity from F.
+For G only (5,4) is possible.
+For K only (4,1) is possible.
+For R only (1,3) is possible.
+Q cannot be at (1,1) due to lack of vicinity from R.
+V cannot be at (3,4) due to lack of vicinity from U.
+For V only (2,4) is possible.
+For W only (3,3) is possible.
+The only letter that can be at (1,1) is P. Invalidating it for all other cells.
+The only letter that can be at (1,2) is O. Invalidating it for all other cells.
+The only letter that can be at (2,3) is Y. Invalidating it for all other cells.
+The only letter that can be at (5,3) is H. Invalidating it for all other cells.
+The only letter that can be at (3,4) is X. Invalidating it for all other cells.
+For B only (4,3) is possible.
+For Q only (2,2) is possible.
+The only letter that can be at (3,2) is L. Invalidating it for all other cells.
+For N only (2,1) is possible.
+The only letter that can be at (3,1) is M. Invalidating it for all other cells.
+| X = 1 | X = 2 | X = 3 | X = 4 | X = 5 |
+|   P   |   N   |   M   |   K   |   J   |
+|   O   |   Q   |   L   |   A   |   I   |
+|   R   |   Y   |   W   |   B   |   H   |
+|   S   |   V   |   X   |   C   |   G   |
+
+|   U   |   T   |   D   |   E   |   F   |
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$
+

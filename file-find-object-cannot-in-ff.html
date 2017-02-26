@@ -1,0 +1,332 @@
+
+<div class="entry" id="what-you-can-do-with-file-find-object-that-you-cant-with-file-find">
+
+<!-- Tags: -->
+
+<h2>2009-06-26: What you can do with File-Find-Object (that you can't with File::Find)</h2>
+
+<p>
+I've written about
+<a href="http://www.shlomifish.org/open-source/projects/File-Find-Object/">File-Find-Object</a>
+before, but I've intended to write an entry demonstrating its philosophical
+advantages over the core File::Find module. Today, I'd like to get to it.
+</p>
+
+<p>
+As opposed to File::Find, File-Find-Object is:
+</p>
+
+<ol>
+
+<li>
+Has an iterative interface, and a is capable of being interrupted in the
+middle.
+</li>
+
+<li>
+Can be instantiated and be used to traverse an arbitrary number of directory
+trees in one process.
+</li>
+
+<li>
+Can return result objects instead of just plain paths.
+</li>
+
+</ol>
+
+<p>
+I'd like to demonstrate some of these advantages now.
+</p>
+
+<p><b>Case Study #1: Looking for a Needle in a Haystack</b></p>
+
+<p>
+Let's suppose you have a huge directory tree containing many directories
+and files, and you're looking for only one result (or a few ones). Once you
+found that result you wish to stop. This question was raised in
+<a href="http://stackoverflow.com/questions/381395/how-can-i-break-out-of-recursive-find-function-once-a-specific-file-is-found">this Stack Overflow
+post.</a>
+</p>
+
+<p>
+So how can you do it with File::Find? Not very easily. Either you can throw
+an exception:
+</p>
+
+<pre>
+
+sub processFile() {
+   if ($_ =~ /target/) {
+      die { type =&gt; "file-was-found", path =&gt; $File::Find::name };
+   }
+}
+
+eval {
+    find (\&amp;processFile, $mydir);
+};
+
+if ( $@ ) {
+    my $result = $@;
+    if ( (ref($result) eq "HASH") &amp;&amp;
+         ($result-&gt;{type} eq "file-found")
+       )
+    {
+        my $path = $result-&gt;{path};
+        # Do something with $path.
+    }
+    elsif ( $result ) {
+        die $result;
+    }
+}
+else {
+   # be sad
+}
+</pre>
+
+<p>
+This is incredibly inelegant, and abuses the Perl exception system for
+propagating values instead of errors. But there's even a worse way, using
+<tt>$File::Find::prune</tt>:
+</p>
+
+<pre>
+#! /usr/bin/perl -w
+
+use strict;
+use File::Find;
+
+my @hits = ();
+my $hit_lim = shift || 20;
+
+find(
+    sub {
+        if( scalar @hits &gt;= $hit_lim ) {
+            $File::Find::prune = 1;
+            return;
+        }
+        elsif( -d $_ ) {
+            return;
+        }
+        push @hits, $File::Find::name;
+    },
+    shift || '.'
+);
+
+$, = "\n";
+print @hits, "\n";
+
+</pre>
+
+<p>
+Here, we prune all the levels from the results up to the root to get out
+of the loop.
+</p>
+
+<p>
+So how can you do it with File-Find-Object? In a very straightforward manner:
+</p>
+
+<pre>
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use File::Find::Object;
+
+sub find_needle
+{
+    my $base = shift;
+
+    my $finder = File::Find::Object-&gt;new({}, $base);
+
+    while (defined(my $r = $finder-&gt;next()))
+    {
+        if ($r =~ /target/)
+        {
+            return $r;
+        }
+    }
+
+    return;
+}
+
+my $found = find_needle(shift(@ARGV));
+
+if (defined($found))
+{
+    print "$found\n";
+}
+else
+{
+    die "Could not find target.";
+}
+
+</pre>
+
+<p>
+The <tt>find_needle()</tt> function is the important thing here, and one
+can see it doesn't use any exceptions, excessive prunes or anything like
+that. It just harnesses the iterative interface of File-Find-Object. And
+it works too:
+</p>
+
+<pre>
+shlomi:~$ perl f-f-o-find-needle.pl ~/progs/
+/home/shlomi/progs/Rpms/BUILD/ExtUtils-MakeMaker-6.52/t/dir_target.t
+shlomi:~$
+</pre>
+
+<p><b>Case Study #2: Recursive Diff</b></p>
+
+<img src="http://www.shlomifish.org/open-source/projects/File-Find-Object/genie-aladdin.jpg" alt="Evil Djinni from Disney's Aladdin" />
+
+<p>
+Let's suppose an evil djinni has removed the <tt>-r</tt> flag from your
+<a href="http://en.wikipedia.org/wiki/Diff">diff</a> program, making you
+unable to recursively find the differences between files in two directory
+tree. As a result, you now need to write a <tt>recursive-diff</tt> program in
+Perl that will run <tt>diff -u</tt> on the two copies of each equivalent path
+in the two directorie.
+</p>
+
+<p>
+Since File::Find cannot be instantiated two times at once, then when using
+it, we will need to collect all the results from both directories, and then
+traverse them in memory. But with File-Find-Object there is a better way:
+</p>
+
+<pre>
+#!/usr/bin/perl
+
+use strict;
+use warnings;
+
+use File::Find::Object;
+use List::MoreUtils qw(all);
+
+my @indexes = (0,1);
+my @paths;
+for my $idx (@indexes)
+{
+    push @paths, shift(@ARGV);
+}
+
+my @finders = map { File::Find::Object-&gt;new({}, $_ ) } @paths;
+
+my @results;
+
+my @fns;
+
+sub fetch
+{
+    my $idx = shift;
+
+    if ($results[$idx] = $finders[$idx]-&gt;next_obj())
+    {
+        $fns[$idx] = join(&quot;/&quot;, @{$results[$idx]-&gt;full_components()});
+    }
+
+    return;
+}
+
+sub only_in
+{
+    my $idx = shift;
+
+    printf(&quot;Only in %s: %s\n&quot;, $paths[$idx], $fns[$idx]);
+    fetch($idx);
+
+    return;
+}
+
+for my $idx (@indexes)
+{
+    fetch($idx);
+}
+
+COMPARE:
+while (all { $_ } @results)
+{
+    my $skip = 0;
+    foreach my $idx (@indexes)
+    {
+        if (!$results[$idx]-&gt;is_file())
+        {
+            fetch($idx);
+            $skip = 1;
+        }
+    }
+    if ($skip)
+    {
+        next COMPARE;
+    }
+
+    if ($fns[0] lt $fns[1])
+    {
+        only_in(0);
+    }
+    elsif ($fns[1] lt $fns[0])
+    {
+        only_in(1);
+    }
+    else
+    {
+        system(&quot;diff&quot;, &quot;-u&quot;, map {$_-&gt;path() } @results);
+        foreach my $idx (@indexes)
+        {
+            fetch($idx);
+        }
+    }
+}
+
+foreach my $idx (@indexes)
+{
+    while($results[$idx])
+    {
+        only_in($idx);
+    }
+}
+</pre>
+
+<p>
+( As a bonus, we do not need to sort the results explicitly at any stage,
+because File-Find-Object sorts them for us. )
+</p>
+
+<p>
+This program did not take me a long time to write, it works pretty well,
+and does populate a long list of results of one or both directories.
+</p>
+
+<p><b>Conclusion</b></p>
+
+<p>
+If you use File-Find-Object instead of File::Find, your code may be
+cleaner, your logic less convulted, and you may actually be able to
+achieve things that are not possible with the latter. I hope I whet your
+appetite here and convinced you to give File-Find-Object a try.
+</p>
+
+<p>
+So what does the future holds? I recently ported File-Find-Rule to
+File-Find-Object and called the result File-Find-Object-Rule . As a result,
+"-&gt;start" and "-&gt;match" are now truly iterative, and I believe
+you can iterate with them on several objects at once. As I discovered by
+porting <a
+    href="http://search.cpan.org/dist/File-Find-Object-Rule-MMagic/">File-Find-Object-Rule-MMagic</a>,
+I unfortunately cannot maintain full backwards compatibility with the plugin
+API of File-Find-Rule, because the latter exposes some of behaviour of
+File::Find (in
+<a href="http://www.joelonsoftware.com/articles/LeakyAbstractions.html">a
+    leaky abstraction</a> fashion).
+</p>
+
+<p>
+I'm planning on porting more File-Find-Rule plugins to File-Find-Object-Rule,
+and would appreciate any help. I also would like to look at the directory
+tree traversal APIs of other languages to see if they contain any
+interesting techniques.
+</p>
+</div>
+

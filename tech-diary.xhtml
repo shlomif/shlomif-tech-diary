@@ -1,0 +1,4837 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- vim: set indentexpr=:   -->
+<!DOCTYPE
+    html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<title>Shlomif.org - shlomif_tech community beta</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+div.entry
+{
+    border: darkgreen solid medium;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+a:hover { background-color: palegreen; }
+</style>
+<script type="text/javascript" src="../js/jq.js"></script>
+
+</head>
+<body>
+
+<div class="entry" id="report-on-telaviv.pm-meeting-of-29-Dec-2010">
+
+<!-- Tags: perl, programming, events, israel
+-->
+
+<h2>2011-01-02: Report on the Tel Aviv Perl Mongers Meeting</h2>
+
+<p>
+This is a report on the latest <a href="http://telaviv.pm.org/">Tel Aviv
+Perl Mongers</a> meeting. During that day, I woke up relatively early (07:00
+or so as far as I can recall), and did not go to bed before night time so I was
+a little tired later on. Before the meeting, I spent some time trying to get
+<a href="http://www.bit-blot.com/aquaria/">the game Aquaria</a>, which
+I got as part of the 2nd Humble Indie Bundle  to work properly on my Linux
+system, unsuccessfully. (A more recent update is that
+<a href="http://bugzilla.icculus.org/show_bug.cgi?id=4865">someone
+eventually helped me after I filed a bug report</a>, and now I am able to
+play the game nicely.). This delayed me a little, and I left relatively late
+to the meeting.
+</p>
+
+<p>
+After I arrived to Shenkar, I met <a href="http://idkn.wordpress.com/">Ido</a>
+and a friend of his, and guided them to the room, which was different than
+the one where the Tel Aviv Open source used to meet. We met some people there,
+including Sawyer and I decided to go to the nearest kiosk and buy some snacks.
+I bought some chocolate chip cookies, Doritos and a chocolate and hazelnut
+treat and returned with still a lot of time before the lectures started.
+</p>
+
+<p>
+In the meantime, other people arrived there, and we talked about how to get
+more people to contribute, about making use of CPAN modules in projects
+and about which versions of Perl are used in the enterprise. Then the talks
+began.
+</p>
+
+<p>
+<a href="http://blogs.perl.org/users/sawyer_x/">Sawyer X</a>
+gave an entertaining presentation titled "Why Perl?" with several jokes in
+between that got the audience to burst into laughter. He mentioned
+<a href="http://wiki.theory.org/YourLanguageSucks">this page titled
+"Your language sucks"</a> where several of Perl 5's shortcomings are mentioned
+(along with other languages), and concluded with bad things about Perl,
+like the fact that it makes you lazy, and that you can't stand programming
+in other languages. He also mentioned there several ways to start with Perl,
+but I was disappointed that he did not mention
+<a href="http://perl-begin.org/">the Perl Beginners' Site (Perl-Begin)</a>.
+</p>
+
+<p>
+After that, <a href="http://szabgab.com/">Gabor</a> came and talked about
+what's new in perl-5.10.x and perl-5.12.x. He covered most bases and then
+when he got to perl-5.12.x's
+<tt>while (my ($index, $value) = each(@array))</tt> I asked
+him if there was also <tt>keys(@array)</tt> and he said he doesn't know.
+Today I tried it out and there is indeed <tt>keys(@array)</tt>:
+</p>
+
+<pre>
+shlomif:~$ perl -E 'my @a=(50 .. 60); say join(",",keys(@a));'
+0,1,2,3,4,5,6,7,8,9,10
+</pre>
+
+<p>
+There's also <tt>values(@array)</tt>, but it's likely the same as "@array".
+There are many small and large improvements in perl-5.10.x and 5.12.x and he
+mentioned that the perl5-porters are now switching to a yearly release cycle,
+which will make improvements materialise in production more rapidly.
+</p>
+
+<p>
+After that, Ilan did a round of introductions where every person introduced
+themselves and said which languages or technologies they work with and
+why they came to the meeting. It was entertaining.
+</p>
+
+<p>
+Then came <a href="http://blog.woobling.org/">Yuval</a>'s presentation
+about "immutable state for Perl". He spent a short time explaining what is
+mutable state, and that if we want to create a modified object, we need
+to clone it with different constructor arguments. He spent the rest of
+the time touting some of the advantages of immutable state, like easier
+distributed NoSQL storage due to lack of cache invalidation, and he described
+how he handled a problem in KiokuDB by creating a buffer for it, and also
+focused on a recent problem we had at my (and previously his) work for
+<a href="http://reask.com/">Reask</a> where HTML::FormHandler misbehaved due
+to modified state after reset, and we were unable to resolve it and had to
+switch to a different form generator (HTML::FormFu).
+</p>
+
+<p>
+Some people with whom I talked felt this presentation was a little bit
+abstract and "floating in the air" and I tend to agree, but I still enjoyed
+most of it.
+</p>
+
+<p>
+I left shortly after that presentation because I was tired (as I had woken
+up early that day) but based on
+<a href="http://blogs.perl.org/users/sawyer_x/2010/12/yesterdays-telavivpm-meeting.html">Sawyer's
+post</a>, some people went to dinner afterwards and had a good time. I walked
+with <a href="http://www.mksoft.co.il/">mksoft</a> to the bus station
+and talked about games in Linux and the Humble Indie Bundle 2 which we both
+had bought. Then a suitable bus had arrived and I took it home.
+</p>
+
+<p>
+To sum up, I had a great time, about 20 people came, which meant the meeting
+was a success, and I'm looking forward for the future meetings. Meeting at
+Ramat Gan is much more convenient for me than the Rehovot meetings and I met
+some people I didn't see in Rehovot like
+<a href="http://search.cpan.org/~eilara/">Ran</a>, who also gave me some money
+in exchange for the refreshments I bought (Thanks!). I'm looking forward for
+the next meetings and thanks to all the people who had organised and publicised
+it.
+</p>
+
+</div>
+
+<div class="entry" id="telaviv-pm-meeting-26-january-2011">
+
+<!-- Tags: perl, events, israel, announcement, web
+-->
+
+<h2>2010-12-16: Tel Aviv Perl Mongers Meeting on 26-January-2011</h2>
+
+<p>
+The <a href="http://telaviv.pm.org/">Tel Aviv Perl Mongers</a> (part of
+<a href="http://www.perl.org.il/">the Israeli Perl Mongers</a>) will meet on
+Wednesday, 26-January-2011 at
+<a href="http://www.shenkar.ac.il/home/">Shenkar College</a>,
+Anna Frank 12, Ramat Gan, room 323. The gathering is going to be at 18:30 and
+the talks will start at 19:00.
+</p>
+
+<p>
+This meeting will try to focus on web development and will (as any meeting)
+include both beginner talks and intermediate ones.
+We will also start a tradition of exhibition! Module exhibition, that is.
+Pick a module you want to exhibit and take 5 minutes to talk about it.
+If you want to exhibit a module, you can talk to me privately (if you need a
+laptop, or funny hats) or you can just step up in between talks.
+</p>
+
+<p>We are going to hear these talks:</p>
+
+<p>
+<b>What the hell is web development? (<a href="http://blogs.perl.org/users/sawyer_x/">Sawyer X</a>)</b>
+</p>
+
+<p>
+A nice, easy, hopefully interesting, understandable introduction to web
+development.
+</p>
+
+<p>
+<b>The web stack (Ilan Arad)</b>
+</p>
+
+<p>
+A hands-on, discussion-oriented talk on advanced understanding of the web
+stack, from server-side to client-side.
+(advanced talk)
+</p>
+
+<p>
+As always, there are a few good reasons to come to the Perl Mongers
+meetings:
+</p>
+
+<ul>
+<li>Meeting more geek-minded people like yourself</li>
+<li>Learning new stuff, if you're a beginner</li>
+<li>Learning new stuff, if you're advanced</li>
+<li>Shlomi brings snacks!</li>
+<li>Laughs, jokes, fun, and anything else we can fake! :)</li>
+</ul>
+
+<p>
+Please feel free (and do) invite anyone you want!
+</p>
+
+</div>
+
+
+<div class="entry" id="update-2011-01-29">
+
+<!-- Tags: recent, hacktivity, perl, cpan, kde
+-->
+
+<h2>2011-01-29: Update and Recenty Hacktivity-ish Post</h2>
+
+<p>
+Well, I'm still alive and kicking, so I decided to put a small update about
+what I have been up to.
+</p>
+
+<p>
+First of all, I attended the <a href="http://worldtour.fogcreek.com/">FogBugz
+and Kiln World Tour</a>, which I did in order to see
+<a href="http://www.joelonsoftware.com/">Joel "on Software" Spolsky</a> speak,
+and was otherwise a blast. In the second part, they gave several good reasons
+for why Mercurial and git are better than Subversion, and the demo of
+FogBugz was also instructive, but seems like it contains many features that
+won't be useful in my daily work as an open-source developer. They also said
+that the reasons they prefered Mercurial over git were because it had a
+somewhat friendlier command names (which are more familiar to people coming
+from Subversion and CVS) and because it worked better on Windows, and the git
+people were hostile towards fixing the bugs that git exhibited on Windows.
+Otherwise, they said that git was a fine distributed version control system.
+</p>
+
+<p>
+I also attended the latest <a href="http://telaviv.pm.org/">Tel Aviv Perl
+Mongers</a> meeting, which was nice, and this time stayed for the after-party
+dinner. I'd like to give a more detailed report about it later.
+</p>
+
+<p>
+I'd like to announce that, in case you have not heard about it,
+<a href="http://www.kde.org/announcements/4.6/">KDE 4.6.0 is out.</a>. It
+has many big and small improvements, including some speed boosts, and runs
+like a dream on my Mandriva Linux Cooker system (though Amarok got broken
+with the upgrade to MySQL-5.5.x). Here is also
+<a href="http://www.osnews.com/story/24333/KDE_4_6_0_Released">the
+OSNews.com coverage</a> and
+<a href="http://tech.slashdot.org/story/11/01/27/2327228/KDE-Software-Compilation-460-Released">Slashdot.org
+coverage</a>). I should also note that I've recently downloaded and installed
+the Amarok 2.x for Windows distribution and it ran very fine there, but
+as opposed to Linux could not play the video files I tried at all.
+</p>
+
+<p>
+After some length attempts to contact the originator of the
+<a href="http://search.cpan.org/dist/Text-Format/">Text-Format CPAN module</a>,
+I was finally given a comaint status and I uploaded Text-Format-0.53 to
+CPAN, its first release since 1998, and the first one that contains a dash
+before the version digits (a small difference, but it confuses some packaging
+systems). There's still some work to do there, but I haven't forgotten it.
+</p>
+
+<p>
+Also in CPAN-land, I've uploaded a new version of
+<a href="http://search.cpan.org/dist/Config-IniFiles/">Config-IniFiles</a>,
+which contains a patch I applied from Peter Xu, who asked me to be his mentor
+in his first steps in contributing to open-source. I've expressed my
+<a href="http://www.shlomifish.org/open-source/mentoring/">willingness
+to be a FOSS mentor</a> for some time now and several people contacted
+me about it, but this is the first time that a code contribution came out of
+it, and I'm happy with Peter's patch. I guess good things come to those who
+wait.
+</p>
+
+<p>
+I've recently started reading
+<a href="http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530">Kent Beck's "Test Driven Development: By Example"</a>, which I can recommend
+so far, and also been working on some other open-source projects which I'd
+rather not tell too much about now.
+</p>
+
+<p>
+Hope you are also doing fine, wherever you are and happy hacking.
+</p>
+
+</div>
+
+
+<div class="entry" id="abc-path-solver-announcement">
+
+<!-- Tags: games, perl, cpan
+-->
+
+<h2>2011-02-08: Solving "ABC Path" Using Perl</h2>
+
+<p>
+Recently, I haven't been blogging too much, but instead focusing more on
+writing code as well as other Internet mediums such as IRC (Internet Relay
+Chat), Instant Messaging, and E-mail/mailing lists. But what good is your
+code if no one knows about it? So here is a blog post about a recent complete
+project for <a href="http://www.shlomifish.org/open-source/projects/japanese-puzzle-games/abc-path/">solving the game ABC-Path</a> by Otto Janko
+as <a href="http://www.brainbashers.com/abcpath.asp">featured
+on BrainBashers.com</a>.
+</p>
+
+<p>
+ABC Path is a single-player riddle-game, played on a 5*5 grid where one square
+is filled with one of the letters (usually A). For each of the rows, columns
+and the two diagonals, one is given two letters out
+of the 25 letters from A to Y, asclues. Either letter
+can be anywhere in the 5 given places, but you know
+that letters that are adjacent in the alphabet are adjacent either
+horizontally, diagonally or vertically.
+</p>
+
+<p>
+I've played a few games and enjoyed them, and then decided to write a solver
+for ABC Path in Perl. The method I used was similar to that used in solving the
+so-called <a href="http://en.wikipedia.org/wiki/Logic_puzzle">logic puzzles</a>
+where one is given a grid where one can mark a square matching a column
+or a row as either "true/yes", "false/no" or "unknown". This is with some
+natural conclusions such as a "yes" implying the other squares in the column
+and row are "no"s, and that if a row or column has all squares but one as
+"no", then the remaining (unknown) square must be a "yes".
+</p>
+
+<p>
+So what I did was construct a large grid in the memory which contains all cells
+(all 25 of the cells in the 5*5 grid of ABC Path grid - which are all
+aggregated into the column of one of the truth-table grids, a little confusing
+I know), and matches it against the 25 letters with yes/know/unknown verdicts.
+Then the program filters according the clues, and then it gradually makes
+deductions based on proximities of nearby letters until a verdict is reached.
+</p>
+
+<p>
+Now, when I coded the first version it used one global variable for the
+grid (which was implemented as a giant binary string while using
+<a href="http://perldoc.perl.org/functions/vec.html">perl's vec</a> for
+handling individual [$letter, $x, $y] 2-bit "yes/no/unknown" states.
+This was done with some global subroutines that operated on it. However, then
+I discovered that sometimes I was still left with some permutations of
+letters that could be in several state without an ability to find out what
+is conclusive without assigning them recursively.
+</p>
+
+<p>
+As a result, I changed my program to use an object for the state variable,
+where after a lot of work, I was able to recurse into the individual
+combinations and see which ones yield a successful
+assignment (naturally and hopefully - one and only one, as the solution
+is supposed to be unique). This is a case of
+<a href="http://mitpress.mit.edu/sicp/chapter1/node13.html">tree recursion</a>,
+but I believe very deep recursion depth would be relatively rare with most
+combinations of initial hints.
+</p>
+
+<p>
+Anyway, I was then able to solve all the ABC Path puzzles I tried
+from BrainBashers.com , but naturally, it required some work to make it
+ready for CPAN (the Comprehensive Perl Archive Network) and then I had to
+release some new releases fixing some problems with the documentation that
+I've consciously avoided addressing in the first releases.
+</p>
+
+<p>
+OK, enough verbiage, now let's see a live demonstration (right now as a shell
+transcript, but I'd like to make a screencast too in time):
+</p>
+
+<pre>
+shlomif:~$ mkdir abc-path
+shlomif:~$ cd abc-path/
+shlomif:~/abc-path$ ls
+shlomif:~/abc-path$ wget http://search.cpan.org/CPAN/authors/id/S/SH/SHLOMIF/Games-ABC_Path-Solver-v0.0.3.tar.gz
+--2011-02-08 19:45:07--  http://search.cpan.org/CPAN/authors/id/S/SH/SHLOMIF/Games-ABC_Path-Solver-v0.0.3.tar.gz
+Resolving search.cpan.org (search.cpan.org)... 212.117.177.118, 194.106.223.155
+Connecting to search.cpan.org (search.cpan.org)|212.117.177.118|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://cpan.cu.be/authors/id/S/SH/SHLOMIF/Games-ABC_Path-Solver-v0.0.3.tar.gz [following]
+--2011-02-08 19:45:08--  http://cpan.cu.be/authors/id/S/SH/SHLOMIF/Games-ABC_Path-Solver-v0.0.3.tar.gz
+Resolving cpan.cu.be (cpan.cu.be)... 194.50.97.11, 2001:67c:314::feed:cafe
+Connecting to cpan.cu.be (cpan.cu.be)|194.50.97.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18408 (18K) [application/x-gzip]
+Saving to: `Games-ABC_Path-Solver-v0.0.3.tar.gz'
+
+100%[======================================&gt;] 18,408      11.2K/s   in 1.6s
+
+2011-02-08 19:45:10 (11.2 KB/s) - `Games-ABC_Path-Solver-v0.0.3.tar.gz' saved [18408/18408]
+
+shlomif:~/abc-path$ tar -xvf Games-ABC_Path-Solver-v0.0.3.tar.gz
+Games-ABC_Path-Solver-v0.0.3
+Games-ABC_Path-Solver-v0.0.3/Changes
+Games-ABC_Path-Solver-v0.0.3/MANIFEST
+Games-ABC_Path-Solver-v0.0.3/MANIFEST.SKIP
+Games-ABC_Path-Solver-v0.0.3/META.yml
+Games-ABC_Path-Solver-v0.0.3/README
+Games-ABC_Path-Solver-v0.0.3/Build.PL
+Games-ABC_Path-Solver-v0.0.3/Makefile.PL
+Games-ABC_Path-Solver-v0.0.3/t
+Games-ABC_Path-Solver-v0.0.3/t/solver-output-system-test.t
+Games-ABC_Path-Solver-v0.0.3/t/pod-coverage.t
+Games-ABC_Path-Solver-v0.0.3/t/00-load.t
+Games-ABC_Path-Solver-v0.0.3/t/pod.t
+Games-ABC_Path-Solver-v0.0.3/t/results
+Games-ABC_Path-Solver-v0.0.3/t/results/brain-bashers.2010-12-21.abc-path-sol
+Games-ABC_Path-Solver-v0.0.3/t/results/brain-bashers.2010-12-22.abc-path-sol
+Games-ABC_Path-Solver-v0.0.3/t/layouts
+Games-ABC_Path-Solver-v0.0.3/t/layouts/brain-bashers.2010-12-22.abc-path
+Games-ABC_Path-Solver-v0.0.3/t/layouts/brain-bashers.2010-12-21.abc-path
+Games-ABC_Path-Solver-v0.0.3/lib
+Games-ABC_Path-Solver-v0.0.3/lib/Games
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Base.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Board.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/App.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/ResultsInASuccess.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/TryingLetterForCell.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/LastRemainingLetterForCell.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/ResultsInAnError.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/LastRemainingCellForLetter.pm
+Games-ABC_Path-Solver-v0.0.3/lib/Games/ABC_Path/Solver/Move/LettersNotInVicinity.pm
+Games-ABC_Path-Solver-v0.0.3/scripts
+Games-ABC_Path-Solver-v0.0.3/scripts/abc-path-solve
+Games-ABC_Path-Solver-v0.0.3/scripts/bump-version-number.pl
+Games-ABC_Path-Solver-v0.0.3/inc
+Games-ABC_Path-Solver-v0.0.3/inc/Test
+Games-ABC_Path-Solver-v0.0.3/inc/Test/Run
+Games-ABC_Path-Solver-v0.0.3/inc/Test/Run/Builder.pm
+shlomif:~/abc-path$ cd Gam
+Games-ABC_Path-Solver-v0.0.3/        Games-ABC_Path-Solver-v0.0.3.tar.gz
+shlomif:~/abc-path$ cd Games-ABC_Path-Solver-v0.0.3
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ ls
+Build.PL  inc  Makefile.PL  MANIFEST.SKIP  README   t
+Changes   lib  MANIFEST     META.yml       scripts
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cp t/
+00-load.t                    pod.t
+layouts/                     results/
+pod-coverage.t               solver-output-system-test.t
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cp t/layouts/
+brain-bashers.2010-12-21.abc-path  brain-bashers.2010-12-22.abc-path
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cp t/layouts/brain-bashers.2010-12-22.abc-path ./brain-bashers.2011-02-08.abc-path
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ gvim ./brain-bashers.2011-02-08.abc-path^C
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cat ./brain-bashers.2011-02-08.abc-path
+ABC Path Solver Layout Version 1:
+PEIRQXK
+D     S
+B     U
+O A   G
+W     H
+J     L
+TFCMYVN
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ # Out of date layout
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ gvim ./brain-bashers.2011-02-08.abc-path
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ # Tweak, tweak, tweak.
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ ls
+brain-bashers.2011-02-08.abc-path  inc          MANIFEST       README
+Build.PL                           lib          MANIFEST.SKIP  scripts
+Changes                            Makefile.PL  META.yml       t
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ ls -l
+total 32
+-r--r--r-- 1 shlomif shlomif   90 Feb  8 19:46 brain-bashers.2011-02-08.abc-path
+-r--r--r-- 1 shlomif shlomif 1343 Jan 21 19:00 Build.PL
+-r--r--r-- 1 shlomif shlomif  478 Jan 21 19:00 Changes
+drwxr-xr-x 3 shlomif shlomif   17 Jan 21 19:00 inc
+drwxr-xr-x 3 shlomif shlomif   18 Jan 21 19:00 lib
+-r--r--r-- 1 shlomif shlomif  739 Jan 21 19:00 Makefile.PL
+-r--r--r-- 1 shlomif shlomif  896 Jan 21 19:00 MANIFEST
+-r--r--r-- 1 shlomif shlomif   13 Jan 21 19:00 MANIFEST.SKIP
+-r--r--r-- 1 shlomif shlomif 2126 Jan 21 19:00 META.yml
+-r--r--r-- 1 shlomif shlomif 1977 Jan 21 19:00 README
+drwxr-xr-x 2 shlomif shlomif   56 Jan 21 19:00 scripts
+drwxr-xr-x 4 shlomif shlomif  117 Jan 21 19:00 t
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ chmod +w brain-bashers.2011-02-08.abc-path
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ # Tweak, tweak, tweak.
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ cat brain-bashers.2011-02-08.abc-path
+ABC Path Solver Layout Version 1:
+WRTLCGJ
+K     M
+I   A O
+H     Y
+S     V
+D     E
+UPNXBFQ
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ # Good
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$ perl -Ilib ./scripts/abc-path-solve brain-bashers.2011-02-08.abc-path
+B cannot be at (4,4) due to lack of vicinity from A.
+B cannot be at (4,5) due to lack of vicinity from A.
+C cannot be at (4,5) due to lack of vicinity from B.
+D cannot be at (1,5) due to lack of vicinity from C.
+D cannot be at (2,5) due to lack of vicinity from C.
+C cannot be at (4,1) due to lack of vicinity from D.
+C cannot be at (4,3) due to lack of vicinity from D.
+E cannot be at (1,5) due to lack of vicinity from D.
+F cannot be at (5,1) due to lack of vicinity from E.
+F cannot be at (5,2) due to lack of vicinity from E.
+F cannot be at (5,3) due to lack of vicinity from E.
+E cannot be at (2,5) due to lack of vicinity from F.
+E cannot be at (3,5) due to lack of vicinity from F.
+G cannot be at (5,1) due to lack of vicinity from F.
+G cannot be at (5,2) due to lack of vicinity from F.
+H cannot be at (1,3) due to lack of vicinity from G.
+H cannot be at (2,3) due to lack of vicinity from G.
+H cannot be at (3,3) due to lack of vicinity from G.
+G cannot be at (5,5) due to lack of vicinity from H.
+I cannot be at (1,2) due to lack of vicinity from H.
+I cannot be at (2,2) due to lack of vicinity from H.
+J cannot be at (2,4) due to lack of vicinity from I.
+J cannot be at (1,5) due to lack of vicinity from I.
+K cannot be at (1,1) due to lack of vicinity from J.
+K cannot be at (2,1) due to lack of vicinity from J.
+K cannot be at (3,1) due to lack of vicinity from J.
+J cannot be at (3,3) due to lack of vicinity from K.
+L cannot be at (3,3) due to lack of vicinity from K.
+L cannot be at (3,4) due to lack of vicinity from K.
+L cannot be at (3,5) due to lack of vicinity from K.
+K cannot be at (5,1) due to lack of vicinity from L.
+M cannot be at (1,1) due to lack of vicinity from L.
+M cannot be at (5,1) due to lack of vicinity from L.
+N cannot be at (2,3) due to lack of vicinity from M.
+N cannot be at (2,4) due to lack of vicinity from M.
+N cannot be at (2,5) due to lack of vicinity from M.
+M cannot be at (4,1) due to lack of vicinity from N.
+O cannot be at (5,2) due to lack of vicinity from N.
+P cannot be at (1,4) due to lack of vicinity from O.
+P cannot be at (1,5) due to lack of vicinity from O.
+O cannot be at (3,2) due to lack of vicinity from P.
+Q cannot be at (3,3) due to lack of vicinity from P.
+Q cannot be at (4,4) due to lack of vicinity from P.
+Q cannot be at (5,5) due to lack of vicinity from P.
+R cannot be at (1,4) due to lack of vicinity from Q.
+R cannot be at (1,5) due to lack of vicinity from Q.
+S cannot be at (3,4) due to lack of vicinity from R.
+S cannot be at (4,4) due to lack of vicinity from R.
+S cannot be at (5,4) due to lack of vicinity from R.
+R cannot be at (1,1) due to lack of vicinity from S.
+R cannot be at (1,2) due to lack of vicinity from S.
+T cannot be at (2,1) due to lack of vicinity from S.
+T cannot be at (2,2) due to lack of vicinity from S.
+U cannot be at (5,1) due to lack of vicinity from T.
+V cannot be at (5,4) due to lack of vicinity from U.
+W cannot be at (1,1) due to lack of vicinity from V.
+W cannot be at (2,2) due to lack of vicinity from V.
+V cannot be at (1,4) due to lack of vicinity from W.
+X cannot be at (3,1) due to lack of vicinity from W.
+W cannot be at (5,5) due to lack of vicinity from X.
+Y cannot be at (1,3) due to lack of vicinity from X.
+Y cannot be at (5,3) due to lack of vicinity from X.
+X cannot be at (3,5) due to lack of vicinity from Y.
+The only letter that can be at (5,1) is J. Invalidating it for all other cells.
+The only letter that can be at (5,2) is I. Invalidating it for all other cells.
+The only letter that can be at (1,4) is S. Invalidating it for all other cells.
+The only letter that can be at (1,5) is U. Invalidating it for all other cells.
+The only letter that can be at (2,5) is T. Invalidating it for all other cells.
+The only letter that can be at (3,5) is D. Invalidating it for all other cells.
+The only letter that can be at (4,5) is E. Invalidating it for all other cells.
+The only letter that can be at (5,5) is F. Invalidating it for all other cells.
+For C only (4,4) is possible.
+B cannot be at (4,1) due to lack of vicinity from C.
+G cannot be at (5,3) due to lack of vicinity from F.
+For G only (5,4) is possible.
+For K only (4,1) is possible.
+For R only (1,3) is possible.
+Q cannot be at (1,1) due to lack of vicinity from R.
+V cannot be at (3,4) due to lack of vicinity from U.
+For V only (2,4) is possible.
+For W only (3,3) is possible.
+The only letter that can be at (1,1) is P. Invalidating it for all other cells.
+The only letter that can be at (1,2) is O. Invalidating it for all other cells.
+The only letter that can be at (2,3) is Y. Invalidating it for all other cells.
+The only letter that can be at (5,3) is H. Invalidating it for all other cells.
+The only letter that can be at (3,4) is X. Invalidating it for all other cells.
+For B only (4,3) is possible.
+For Q only (2,2) is possible.
+The only letter that can be at (3,2) is L. Invalidating it for all other cells.
+For N only (2,1) is possible.
+The only letter that can be at (3,1) is M. Invalidating it for all other cells.
+| X = 1 | X = 2 | X = 3 | X = 4 | X = 5 |
+|   P   |   N   |   M   |   K   |   J   |
+|   O   |   Q   |   L   |   A   |   I   |
+|   R   |   Y   |   W   |   B   |   H   |
+|   S   |   V   |   X   |   C   |   G   |
+|   U   |   T   |   D   |   E   |   F   |
+shlomif:~/abc-path/Games-ABC_Path-Solver-v0.0.3$
+</pre>
+
+<p>
+We did it!
+</p>
+
+<p>
+Now for some future directions: I've been thinking of some ways to automatically
+construct layouts of ABC Path that a human can solve, while using this solver
+to make sure the solutions are unique. I believe that we need to use a
+random number generators with one seed per problem.
+</p>
+
+<p>
+So what does the future hold? I have began work on several other solvers in
+various levels of completion for some of <a
+href="http://www.brainbashers.com/logicpuzzles.asp?sudoku=Y">the
+other Japanese-style riddle-games</a>, and have been wondering if one can write
+a solver for all of them similar to the approach taken by the
+<a href="http://en.wikipedia.org/wiki/General_Game_Playing">General Game
+Playing</a> Artificial Intelligence approach (although I suspect that that
+may completely kill performance).
+</p>
+
+<p>
+Well, if you'd like to contribute, then the code is
+<a href="http://svn.berlios.de/svnroot/repos/fc-solve/abc-path/">here</a>. I
+realise Subversion is old school (for some values of old) and that there are
+shinier fashions around, but I should be able to copy with git and Mercurial
+clones of the mini-repository.
+</p>
+
+<p>
+I introduced someone to ABC Path on #perlcafe, and he said he enjoyed playing
+a few games, and there are many others daily ones on BrainBashers.com and
+elsewhere. It's not just Sudoku, you know. Happy playing!
+</p>
+
+</div>
+
+
+
+<div class="entry" id="projects-maintenance-status">
+
+<!-- Tags: foss, open, source, freecell, perl
+-->
+
+<h2>2011-03-08: Finished Projects, Maintained Projects and Those that are Up For Adoption</h2>
+
+<p>
+This is another boring braindump.
+</p>
+
+<p>
+First of all, let me point you in the direction of <a href="http://unarmed.shlomifish.org/">my shiny new blog</a> titled
+"Unarmed but Still Dangerous" and subtitled "Changing the world
+one post at a time". It is a blog of essays and possibly also
+insightful fiction (we'll see), from a programming enthusiast
+(so-called software "hacker") intended for programming enthusiasts, not
+necessarily focusing on computing topics, but kinda assumes being somewhat
+tech-savvy or
+knowledgeable about technology. I successfully Slashdotted
+<a href="http://unarmed.shlomifish.org/909.html">the
+first real post</a> about coping with provocative people on the Internet
+using the "Verbal Judo" technique from the book "Feeling Good" by
+David Burns (and also tried to digg it with less success), and from there it
+hit many other news sites, blogs, microblogs, and forums, until someone asked
+me if I announced it on every possible news sites (which I didn't). Other
+people have told me on IM or IRC and elsewhere that they've heard about it and
+either liked it and/or had some reservations from it.
+</p>
+
+<p>
+I used the shop-worn
+<b>Perl vs. Python debate</b> as a test case there (though
+maybe it was a bit too geeky), which I think added to the humour of the post.
+</p>
+
+<p>
+I got some comments there (some of them were ironically provocative), and I
+enjoyed the attention. I think publishing the post and Slashdotting it
+actually made me a bit calmer, because I was anxious to already do it. I hope
+this post gets more geeks interested in
+<a href="http://www.amazon.com/Feeling-Good-Therapy-Revised-Updated/dp/0380810336">"Feeling
+Good"</a> and in
+<a href="http://en.wikipedia.org/wiki/Cognitive_behavioral_therapy">Cognitive
+Therapy</a> in general, which I found to be very insightful and helpful and
+useful in avoiding or dealing with many frustrations.
+</p>
+
+<p>
+I still plan on keeping the more technical (and thus more dry) discussion
+on "shlomif-tech". (At least until I find or get a better venue).
+</p>
+
+<p>
+<b>Back to the topic</b>: some days ago I was chatting on Freenode when
+someone asked me that:
+</p>
+
+<blockquote>
+<p>
+Shlomi, have you completed your [Freecell] solver at last? ;)
+</p>
+</blockquote>
+
+<p>
+He may have said it tongue-in-cheek, but I'd like to answer it seriously. The
+way I see it there are several kinds of projects as far as their "hacktivity"
+status is concerned. Some of them are actively maintained and enhanced,
+possibly by many members. Some of them still have a maintainer, but are in
+"deep maintenance mode". Some of them just accumulate bug reports and
+feature requests without someone to adopt them. Some of them are dead
+and no one cares too much about, because people have mostly used other
+programs instead.
+</p>
+
+<p>
+In the case of <a href="http://fc-solve.berlios.de/">my Freecell solver</a>,
+it's a bit more complicated. I haven't completely lost interest in working
+on it, and there's still a lot of room for improvement, but I often feel
+like I have better things to do than to work on it, because it is already good
+enough for most of my needs and the needs of most other people. So far my
+attempts at finding an enthusiastic co-developer (or even primary developer)
+for it failed to a large extent, though some of the people who attempted
+to contribute, proved to have contributed to the project's success to an
+extent as well. Freecell may also be losing some popularity among the younger
+generation, in part because Microsoft now includes many other games in its
+operating systems (which is overall a good thing, because shipping an
+operating system with only four built-in games is a joke.). While a lot of
+the older people I told about the fact that I've authored a solver for
+Freecell (including some attractive girls), were impressed by it, I think
+most of the <a href="http://en.wikipedia.org/wiki/Generation_Y">youngsters</a>
+are not too excited about Freecell, despite the fact that Freecell solving
+is very interesting from the computer science, software engineering and
+artificial intelligence point-of-view.
+</p>
+
+<p>
+Moreover, I've been getting the feeling that many of the relatively small-scoped
+projects I've started and released as open-source, are only used by me.
+An example for that may be
+<a href="http://www.shlomifish.org/open-source/projects/XML-Grammar/Fiction/">XML-Grammar-Fiction</a>,
+in which I've recently found some stupid bugs, and, which, while some people
+may find interesting, only addresses a very small niche. There is some advantage
+to releasing a program as "shrinkwrap", but I guess it's not what people always
+want. <a href="http://search.cpan.org/">CPAN</a> and
+<a href="http://freshmeat.net/">Freshmeat.net</a> appear to have quite
+a lot of similar software, which many people don't use.
+</p>
+
+<p>
+Now, I have some projects which I've decided that I've lost interest or am
+no longer qualified to do. One of them is
+<a href="http://better-scm.berlios.de/">the Better-SCM site</a> which proved
+to host several popular resources, including its
+<a href="http://better-scm.berlios.de/comparison/">comparison</a>. Lately,
+I've felt that I'm both under-qualified to maintain it, as well as lack the
+interest to do so. If you'd like to volunteer to do it, give me a shout.
+</p>
+
+<p>
+Regarding <a href="http://perl-begin.org/">Perl-Begin</a>, I'm still improving
+it as I run into things there, but now think that in order to facilitate
+contributions from other people, I'd like to convert its Subversion
+repository to a distributed version control system (DVCS) - either git or
+Mercurial (although I believe they both can interoperate pretty well) - and to
+host it on Github, Gitorious, or
+<a href="http://bitbucket.org/">Bitbucket.org</a> where
+it will be easier to collaborate on it. I personally find Mercurial more
+intuitive and faster and more flawless to work with, but most Perl people and
+programmers in general appear to prefer git and Github. I'll see about it.
+</p>
+
+<p>
+Another project is the
+<a href="http://search.cpan.org/dist/Graph-Easy/">Graph-Easy CPAN module</a>.
+The problem with it is that I lack the tuits and the competency to maintain
+it, and it keeps accumulating bugs and bug comments (many of them are real)
+without me being able to do anything about it. I've became a co-maintainer
+for it because I used it in one of my projects, and am no longer actively
+interested in it, and find it intimidating.
+</p>
+
+<p>
+Most of my other software projects are either in deep maintenance mode, in
+planning/dreaming stages, were not released yet or still have room for
+improvement, but too little motivation and the fact I don't have an immediate
+use for these features and no one asked for them. Maybe I should look at
+contributing to some projects with many other people there such as
+<a href="http://www.gimp.org/">GIMP</a>, which I've contributed to in the
+past and could use a lot of work (though its main problem is the hostility
+of some of the core developers).
+</p>
+
+<p>
+In the "Cathedral and the Bazaar", which set forth the case for the "Bazaar
+model" of open source development, Eric S. Raymond mentions the story of how
+he came to adopt what later would become fetchmail:
+</p>
+
+<blockquote>
+<p>
+But Carl Harris's attitude was even more important. He understood that
+</p>
+
+<p>
+5. When you lose interest in a program, your last duty to it is to hand it off
+to a competent successor.
+</p>
+
+<p>
+Without ever having to discuss it, Carl and I knew we had a common goal of
+having the best solution out there. The only question for either of us was
+whether I could establish that I was a safe pair of hands. Once I did that, he
+acted with grace and dispatch. I hope I will do as well when it comes my turn.
+</p>
+</blockquote>
+
+<p>
+Raymond continued to improve and maintain "popclient→Fetchmail" for a long
+time, before and after he has written "the Cathedral and the Bazaar", but
+ended up passing its active maintenance to different maintainers. This is
+indicative of hacking maturity on Raymond's role. I hope to follow
+his lead when the day come for me to pass the ongoing maintenance of the
+various projects I maintain, even those that I've written extensively about
+(such as <a href="http://fc-solve.berlios.de/docs/">the various essays</a>
+I've written about Freecell Solver) or brought me a significant amount
+of esteem, fame, and/or recognition. I hope you will too, one day.
+</p>
+
+</div>
+
+<div class="entry" id="telaviv-perl-mongers-meeting-in-30-March-2011">
+
+<!-- Tags: foss, open, source, perl, israel, events
+-->
+
+
+<h2>2011-03-08: Tel Aviv Perl Mongers Meeting on 30 March, 2011</h2>
+
+<p>
+(The Hebrew message will be followed by an English one).
+</p>
+
+<div style="text-align: right; direction: rtl;">
+
+<p>
+ב-30 למרץ (יום רביעי) נערוך את מפגש הפרל החודשי שלנו!
+אנו נפגשים ב-18:30 ומתחילים ב19:00.
+כתובת: מכללת שנקר, אנה פרנק 12, רמת גן. חדר 323.
+במפגש זה נדון במספר נושאים של תצוגה: גופנים ויצירת משחקים גרפיים!
+</p>
+
+<p>
+פרטים נוספים ניתן למצוא
+<a href="http://telaviv.pm.org/">באתר של שוחרי הפרל של תל אביב</a>
+</p>
+
+<p>
+במפגש זה יהיו ההרצאות הבאות:
+</p>
+
+
+<ul>
+<li><b>טיפוגרפיה… מה לעזאזל?</b>
+(או "הבנה ושימוש נכון") -- Miss Ferret<br />
+הגיע הזמן להכניס קצת צבע לחיים. נסביר מהי טיפוגרפיה ולמה בחירת הגופן שלנו חשובה.
+</li>
+
+<li>
+<b>תכנות משחקים גרפיים בעזרת פרל </b>
+-- רן עילם<br />
+אוהבים משחקים? רוצים לכתוב אחד?
+רן יראה לנו את הפרוייקט האישי שלנו, משחק שנכתב בפרל בעזרת הספריה הגרפית SDL.
+</li>
+</ul>
+
+<p>
+בנוסף, יהיו גם הרצאות בזק (הרצאות קצרות ומשעשעות):
+</p>
+
+<ul>
+
+<li>
+<b>רובי למתכנתי פרל</b>
+-- עידו קנר</li>
+<li>
+<b>פרל אנליטית "use" vs. "require"</b> -- סוייר</li>
+</ul>
+
+<p>
+המפגש הוא חינמי וכולם מוזמנים. נתראה שם!
+</p>
+
+</div>
+
+<h3>English Version</h3>
+
+<p>
+On 30 March, 2011 (Wednesday), the Tel Aviv Perl Mongers will hold their monthly
+meetup. We meet at 18:30 and start at 19:00. The address is: Shenkar College,
+Anna Frank 12, Ramat Gan, Room 323. The theme of this meeting will be
+several topics of display: fonts and creation of graphical games!
+</p>
+
+<p>
+One can find more details in <a href="http://telaviv.pm.org/">the web-site</a> of
+the Tel Aviv Perl mongers.
+</p>
+
+<p>
+This meeting will hold the following talks:
+</p>
+
+<ul>
+<li>
+<p>
+<b>"Typography… what the hell?"</b> (or "understanding fonts and using them properly") by
+Miss Ferret.
+</p>
+<p>
+It's time to enliven our lives. We'll explain what is Typography and why picking up a font is important.
+</p>
+</li>
+
+<li>
+<p>
+<b>Programming graphical games using Perl</b> - by Ran Eilam.
+</p>
+
+<p>
+Do you love games? Want to write one? Ran will show us his personal project, a
+game that was written in Perl using the multimedia and games library SDL - Simple
+DirectMedia Library.
+</p>
+
+</li>
+</ul>
+
+<p>
+In addition, there will be some lightning talks (short and entertaining presentations):
+</p>
+
+<ul>
+<li>Ruby for Perl programmers - by Ido Kanner</li>
+<li>Analytical Perl - "use" vs. "require" - by Sawyer</li>
+</ul>
+
+<p>
+The entrance to the meeting is free-of-charge and everyone are welcome to
+attend. See you there!
+</p>
+
+</div>
+
+
+<div class="entry" id="speeding-up-bulk-sqlite-inserts">
+
+<!-- Tags: sql, databases, tip, tech, tech tip, perl
+-->
+
+<h2>2011-04-08: Speeding Up Bulk SQLite Inserts</h2>
+
+<p>
+This is a tip on how to speed up bulk inserts in
+<a href="http://www.sqlite.org/">SQLite</a>. In case, you don't know
+SQLite is an SQL database implemented as a small, yet very fast library,
+which, accesses everything from the file-system. Furthermore, it is open-source,
+public domain, and reliable.
+</p>
+
+<p>
+Recently, I wanted to create a server-side script to individually display my
+<a href="http://www.shlomifish.org/humour/fortunes/">fortune cookie quotes</a>
+- each on its own page based on its ID. In order to speed up the lookup, I
+decided to store everything in a
+<a href="http://perl-begin.org/uses/databases/">database</a>, be it
+the raw file-system, something like Berkeley DB or Tokyo Cabinet, or an
+SQL-based database. I ended up using SQLite, which worked pretty well.
+</p>
+
+<p>
+I've written a program to populate the database by parsing the data from
+the XML source files and extracted the data from there. I prepared an INSERT
+statement:
+</p>
+
+<pre>
+my $insert_sth = $dbh-&gt;prepare(&lt;&lt;'EOF');
+INSERT INTO fortune_cookies (collection_id, str_id, title, text)
+VALUES(?, ?, ?, ?)
+EOF
+</pre>
+
+<p>
+(It started a bit simpler, but that's what I have now.)
+</p>
+
+<p>
+And then I executed it for each record. It took a lot of time to complete -
+many minutes. So I consulted <a href="irc://irc.freenode.net/#perl">#perl</a>
+about it and got a few suggestions:
+</p>
+
+<ol>
+
+<li>
+
+<p>
+That I should disable the so-called “shared database” mode, which is the
+default SQLite mode that assumes other processes on the machine might
+access the database.
+</p>
+
+</li>
+
+<li>
+
+<p>
+That I should turn off Autocommit and commit in batches with more than
+one record in each in every transaction.
+</p>
+
+</li>
+
+</ol>
+
+<p>
+The number two option seemed the most likely, and I tried commiting in batches
+of 50 records each and it made the populating program finish in a few seconds.
+So I was very happy.
+</p>
+
+<p>
+I guess I can try the shared database mode later on, since I populate the
+database offline. Now the program for displaying every quote individually is
+working nicely, and I am very happy. Thanks to the #perl people for helping
+me again.
+</p>
+
+</div>
+
+
+<div class="entry" id="your-programming-language-must-suck">
+
+<!-- Tags: perl, programming, languages
+-->
+
+<h2>2011-04-13: Your Programming Language Must Suck</h2>
+
+<p>
+All languages of the world suck. If you require people to declare variables
+(like in Pascal, C, <a
+    href="http://en.wikipedia.org/wiki/Scheme_%28programming_language%29">Scheme</a>
+or Perl 5 with <a href="http://perldoc.perl.org/strict.html">strict</a>), then
+people will tell you they like variables to spring up upon first use. Without
+variable declarations, then you get various weird side-effects of the implicit
+scoping. If you use curly braces for scoping, then you'll have to type more and
+there's more clutter. With indentation-based scoping (like in Python), you'll
+find it hard to introduce multiple-expression <a
+    href="http://en.wikipedia.org/wiki/Lambda_calculus#First-class_functions">lambdas</a>.
+</p>
+
+<p>
+Rob Pike and Paul Graham hated object oriented programming (OOP) and so they
+didn't introduce it in their <a
+    href="http://en.wikipedia.org/wiki/Go_%28programming_language%29">"Go"</a>
+and <a
+    href="http://en.wikipedia.org/wiki/Arc_%28programming_language%29">"Arc"</a>
+languages, well after OOP has become mainstream. And guess what? Many people,
+including me, think that OOP is still a good thing (and no, in my opinion, C++
+did not do OOP very well) and so gave up on Arc quickly and did not look
+closely at Go. Many people who oppose OOP claim that it mashes together many
+separate feature, such as typing, capability of being instantiated,
+and polymorphism which belong as separate features in the language, but
+naturally it <b>is</b> convenient to have them integrated as one, because
+they are often useful together.
+</p>
+
+<p>
+Dynamically typed languages (like Perl 5, Python, Ruby, or Lisp) possibly
+suffer from many subtle errors&#160;; Statically typed languages (like Haskell)
+are less expressive and it seems that about one third of the language design
+papers published on <a href="http://lambda-the-ultimate.org/">Lambda the
+    Ultimate</a> are about various funky extensions to the Haskell type system
+to allow for better expressiveness.
+</p>
+
+<p>Purely functional languages have no
+assignment and most people find them harder, in part because the world around
+us has a lot of state, and they also need to do funky compiler tricks to make
+you feel like you don't need assignment. Non-functional languages have
+side-effects and so are prone to many errors.</p>
+
+<p>If you have goto or
+goto-like statements (such as exceptions or Perl 5's "last LABEL;" (more like
+"break" in C) or "next LABEL;"), then you encourage code to not be factored
+correctly. If you don't have such stuff, then programmers will hate you for
+having to go through many hoops to write quick-and-dirty code.</p>
+
+<p>Perl 5
+has a dedicated regular expression syntax which is treated magically by the
+parser. PHP and Java use strings for them, and require weird escaping and
+backslashing rules to interpolate the sub-regexes inside them. And if you
+incorporate a first-order syntax for regular expressions, then people will want
+similar first-order syntaxes for XPath, for XML (like some recent versions of
+Visual Basic .NET have), and for all other grammars you may need to embed.</p>
+
+<p>Finally, many people absolutely hate all the clutter created by the leading
+<a
+    href="http://en.wikipedia.org/wiki/Sigil_%28computer_programming%29">sigils</a>
+of Perl 5 (the "$", "@", etc.), and similar languages, but they allow for much
+better backward compatibility, facilitate the so-called "interpolation" (=
+embedding inside strings), and also give some important visual cues when
+skimming code (even without syntax highlighting).</p>
+
+<p><b>You are damned either way</b>, whatever you do.</p>
+
+<p>I could have gone
+on, but I think I got my message across. Thing is, when designing a programming
+language, you need to make a lot of design decisions - what to include, what to
+exclude, etc. However, many of these design decisions are not 100% advantages
+or 100% disadvantages, but in fact trade-offs, and many people will question
+them and be unhappy. You can never please all the people. So make a design
+decision, and stick with it, and realise that <b>your programming language must
+    suck</b>, but that it may suck less for some tasks, or for some people.</p>
+
+<p>Joel on Software <a
+    href="http://www.joelonsoftware.com/items/2003/10/15.html">refers</a> to
+the book <a
+    href="http://www.amazon.com/exec/obidos/ASIN/1400040507/joelonsoftware/ref=nosim"><i>Small
+        Things Considered: Why There Is No Perfect Design</i></a>, which I have
+not read, but I've concluded it holds for programming language design.
+Moreover, even when writing code, we run into many trade-offs. For example, if
+our methods or functions are very short, then they are easier to over-ride and
+re-use, but, in that case, the code would be harder to follow and will perform
+worse than code with longer methods.</p>
+
+</div>
+
+
+<div class="entry" id="tech-tip-caching-the-dtds-for-xhtml">
+
+<!-- Tags: tip, tech, tech tip, xml, html, web
+-->
+
+<h2>2011-04-16: Tech Tip: Caching the XHTML DTDs</h2>
+
+<p>
+Some days ago I needed to speed up validating an
+<a href="http://en.wikipedia.org/wiki/XHTML">XHTML</a> document (the module
+XHTML 1.1) based on the DTDs provided by the W3C, so I sought a way
+to cache them on the disk. Problem is I could not effectively download them
+from the W3C because their download speed was throttled.
+</p>
+
+<p>
+Eventually, <a href="http://www.gentoo-wiki.info/HOWTO_W3C_Validator">the
+Gentoo Wiki's “W3C Validator HOWTO” document</a> provided some insights. Just
+download
+<a href="http://validator.w3.org/sgml-lib.tar.gz">http://validator.w3.org/sgml-lib.tar.gz</a>,
+unpack it, cd to its directory and do
+<tt>export XML_CATALOG_FILES="$(pwd)/catalog.xml"</tt> to set the XML
+catalogue appropriately. It's too bad I could not find a Mandriva Linux
+package for that.
+</p>
+
+<p>
+Anyway, after I did that, the validation and other XML processing worked
+nicely.
+</p>
+
+</div>
+
+
+<div class="entry" id="tech-tip-displaying-Hebrew-right-aligned-in-kate">
+
+<!-- Tags: tech, tip, tech tip, kde, i18n, kate, hebrew, rtl, bidi
+-->
+
+<h2>2011-05-18: Tech Tip: Displaying Hebrew/Arabic/etc. Right-aligned in Kate</h2>
+
+<p>
+By default, the <a href="http://kate-editor.org/">Kate
+editor of the KDE project</a> displays Hebrew/Arabic text etc. left aligned
+in the window instead of aligned to the right edge of the window even after
+the "Enhanced support for languages written right-to-left" is
+checked in the <tt>qtconfig</tt> applet. To remedy this you need to
+enable in the settings “Appearance → General → Dynamic Word Wrap” and
+after doing that the mostly Hebrew lines will be properly aligned.
+</p>
+
+<p>
+(I don't know why the “Dynamic Word Wrap” should affect that, and it took
+a long time to realise this was the problem due to the web searches and the
+KDE developers on IRC being ignorant, but that seems to be the solution to
+this.)
+</p>
+
+</div>
+
+
+<div class="entry" id="tech-tip-kde4-change-virtual-desktop-names">
+
+<!-- Tags: tech, tip, tech tip, kde
+-->
+
+<h2>2011-06-16: Tech Tip: KDE 4: Changing the Names of the Virtual Desktops from the Command Line</h2>
+
+<p>
+I've written
+<a href="https://bitbucket.org/shlomif/kde4-virtual-desktop-names">a small
+command-line utility</a> to change the names of the KDE 4
+<a href="http://en.wikipedia.org/wiki/Virtual_desktop">virtual desktops</a>
+(also known as "virtual workspaces").
+</p>
+
+<p>
+To use it, do something like this:
+</p>
+
+<pre>
+#!/bin/bash
+./set_kde4_virtual_desktop_names \
+    "Main" "Devel" "Chat" "Donkey" \
+    "Music" "Config" "Workspace 7" "Games"
+</pre>
+
+<p>
+I've originally thought I could do it by setting the value of
+<tt>_NET_DESKTOP_NAMES</tt> in xprop, but that turned out to be futile. Then
+I decided that imitation was the sincerest form of flattery and ripped the
+relevant code out of kdebase-workspace, and after some modifications, it
+worked. I'd like to thank <tt>pinotree</tt> from <tt>#kde-devel</tt> for
+some assistance.
+</p>
+
+<p>
+Here is the code, but the repository also contains a
+<tt>CMakeLists.txt</tt> file:
+</p>
+
+<pre>
+/*
+ * A program to set the names of KDE 4&#39; virtual desktops (a.k.a virtual
+ * workspaces).
+ *
+ * Adapted from kdebase-workspace-4.6.4 &#39;s
+ * kwin/kcmkwin/kwindesktop/main.cpp , which is:
+********************************************************************
+KWin - the KDE window manager
+This file is part of the KDE project.
+
+Copyright (C) 2009 Martin Gräßlin &lt;kde@martin-graesslin.com&gt;
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.
+*********************************************************************
+ *
+ * Skeleton of KApplication taken from:
+ * http://techbase.kde.org/Development/Tutorials/First_program
+ *
+ * Written by Shlomi Fish ( http://www.shlomifish.org/ ) while disclaiming
+ * all rights on the modifications.
+ *
+ */
+#include &lt;QX11Info&gt;
+#include &lt;NETRootInfo&gt;
+#include &lt;KApplication&gt;
+#include &lt;KAboutData&gt;
+#include &lt;KCmdLineArgs&gt;
+#include &lt;KMessageBox&gt;
+#include &lt;KLocale&gt;
+
+int main(int argc, char * argv[])
+{
+    KAboutData aboutData(
+                         // The program name used internally.
+                         &quot;tutorial1&quot;,
+                         // The message catalog name
+                         // If null, program name is used instead.
+                         0,
+                         // A displayable program name string.
+                         ki18n(&quot;Tutorial 1&quot;),
+                         // The program version string.
+                         &quot;1.0&quot;,
+                         // Short description of what the app does.
+                         ki18n(&quot;Displays a KMessageBox popup&quot;),
+                         // The license this code is released under
+                         KAboutData::License_GPL,
+                         // Copyright Statement
+                         ki18n(&quot;(c) 2007&quot;),
+                         // Optional text shown in the About box.
+                         // Can contain any information desired.
+                         ki18n(&quot;Some text...&quot;),
+                         // The program homepage string.
+                         &quot;http://example.com/&quot;,
+                         // The bug report email address
+                         &quot;submit@bugs.kde.org&quot;);
+
+    KCmdLineArgs::init( argc, argv, &amp;aboutData );
+    KCmdLineOptions options;
+    options.add(&quot;!+command&quot;);
+
+    KCmdLineArgs::addCmdLineOptions( options );
+
+    KApplication app;
+
+    KCmdLineArgs * parsedArgs = KCmdLineArgs::parsedArgs();
+
+    QStringList desktopNames;
+
+    for (int i = 0; i &lt; parsedArgs-&gt;count() ; i++)
+    {
+        desktopNames &lt;&lt; parsedArgs-&gt;arg(i);
+    }
+
+    int numDesktops = desktopNames.count();
+
+#ifdef Q_WS_X11
+    NETRootInfo info( QX11Info::display(),
+        NET::NumberOfDesktops | NET::DesktopNames );
+    // set desktop names
+    for( int i = 1; i &lt;= numDesktops; i++ )
+    {
+        QString desktopName = desktopNames[ i -1 ];
+        info.setDesktopName( i, desktopName.toUtf8());
+        info.activate();
+    }
+    // set number of desktops
+    info.setNumberOfDesktops( numDesktops );
+    info.activate();
+
+    XSync(QX11Info::display(), false);
+#endif
+
+    return 0;
+}
+</pre>
+
+<p>
+Hope you like it. The reason I've written it is because the names of the
+virtual desktops got reset for me in KDE 4 and I didn't want to set them
+times and again.
+</p>
+
+</div>
+
+<div class="entry" id="google-plus">
+
+<!-- Tags: google, hype
+-->
+
+<h2>2011-06-16: Google Plus</h2>
+
+<p>
+Here is a message to everyone who is concerned:
+</p>
+
+<ol>
+
+<li>
+Please don't ask me if I want any Google Plus invites.
+</li>
+
+<li>
+Please don't ask me if I can give any Google Plus invites.
+</li>
+
+<li>
+It would be a good idea to refrain from doing both of these to other people
+as well.
+</li>
+
+</ol>
+
+<p>
+This Google Plus invites thing starts the whole Google Wave thing all over
+again, and is incredibly anti-social (which is ironic for a social network).
+So you have been warned. If any of you violate either of these, they will
+be referred to this post.
+</p>
+
+</div>
+
+<div class="entry" id="error-in-code.google.com">
+
+<!-- Tags: google, bug, security
+-->
+
+<h2>2011-06-16: Causing an Error in code.google.com</h2>
+
+<p>
+One time when trying to do something with code.google.com, I got a server
+error. I recorded the HTTP session that led to it and converted it to a
+self-reproducing Perl script, which still gives me this error. I reported
+this error to Google on the relevant forums twice, but I did not get a reply.
+So in the name of
+<a href="http://en.wikipedia.org/wiki/Full_disclosure">full disclosure</a>,
+I'm reporting it here.
+</p>
+
+<p>
+The script in question can be found
+as
+<a href="http://www.shlomifish.org/Files/files/code/bugs/c.g.c-error.txt">a
+text file on my homepage</a> or
+as <a href="http://paste.debian.net/122853/">a paste.debian.net paste</a>. I
+don't know what the implications of this error are, but it should still
+be dealt with and it wasn't.
+</p>
+
+</div>
+
+<div class="entry" id="vim-tips-2011-07-18">
+
+<!-- Tags: vim, tip, vim tip, tech, tech tip
+-->
+
+<h2>2011-06-16: More Vim Tips</h2>
+
+<p>
+Here are some more <a href="http://www.vim.org/">Vim</a> tips I collected
+recently:
+</p>
+
+<ol>
+
+<li>
+<p>
+One can repeat the last <a href="http://shlomif.livejournal.com/33453.html">t,
+f, T or F command</a> which moves to the next specified character in a line, or
+right before that, using
+<a href="http://vimdoc.sourceforge.net/htmldoc/motion.html#;">;</a>, and repeat
+in the opposite direction using
+<a href="http://vimdoc.sourceforge.net/htmldoc/motion.html#,">,</a>. I
+discovered those after starting to read through the vim <tt>usr_*</tt>
+manuals.
+</p>
+</li>
+
+<li>
+<p>
+One can get the Unicode value of the character under the cursor using the
+<tt>:ascii</tt> command-line command or the <tt>ga</tt> normal mode command.
+</p>
+</li>
+
+<li>
+<p>
+If you want to find how many lines/words/etc. are in a visual block, you can
+select it using "v" and friends and then type <tt>g-Ctrl+G</tt>.
+</p>
+</li>
+
+<li>
+<p>
+Finally, you can pipe the contents of the buffer or a range to an external
+program and view its output temporarily. So you can say
+<tt>:w !grep 'FOO' | wc -l</tt> to find the number of lines containing 'FOO',
+or <tt>:'a,'bw !grep 'FOO' | wc -l</tt> within a range.
+</p>
+</li>
+
+</ol>
+
+<p>
+I should note that one thing that annoyed me lately, is the fact that after I
+have a visual selection (<tt>v</tt> or <tt>V</tt>), I sometimes press
+<tt>u</tt> instead of <tt>y</tt> (because they are so nearby) and so cause
+the selection to become lowercase instead of yanking it.
+</p>
+
+<p>
+Happy Vimming!
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-killing-all-processes-of-a-certain-user">
+
+<!-- Tags: tip, tech, tech tip
+-->
+
+<h2>2011-07-22: Tech tip: killing all processes of a certain UNIX user.</h2>
+
+<p>
+In order to send a signal (such as kill) to all process of a certain UNIX
+user, one can do:
+</p>
+
+<pre>
+pkill -U "$username"
+</pre>
+
+<p>
+To kill them forcibly using the 9 signal ("SIGKILL"), you can do:
+</p>
+
+<pre>
+pkill -9 -U "$username"
+</pre>
+
+<p>
+To just list their process IDs, you can do:
+</p>
+
+<pre>
+pgrep -U "$username"
+</pre>
+
+<h3>Personal Log</h3>
+
+<p>
+svn.berlios.de has
+<a
+href="https://developer.berlios.de/bugs/?func=detailbug&amp;bug_id=18269&amp;group_id=1">not
+been available in the past day</a> , which really drives me mad, so I decided
+to:
+</p>
+
+<ol>
+
+<li>Do stuff that don't require it, like blog or work on non-svn.berlios.de code.</li>
+
+<li>Transition most of my code away from svn.berlios.de to bitbucket.org and
+Mercurial once it is up.</li>
+
+</ol>
+
+<p>
+Cheers.
+</p>
+
+</div>
+
+
+
+
+<div class="entry" id="telaviv.pm-meeting-2011-08-31">
+
+<!-- Tags: perl, meeting, foss
+-->
+
+<h2>2011-08-29: Tel Aviv Perl Mongers Meeting on 31 August, 2011</h2>
+
+<p>
+(The Hebrew text will be followed by an English one).
+</p>
+
+<div style="text-align: right; direction: rtl;">
+
+<p>
+ב-31 באוגוסט 2011 (יום רביעי) נערוך את מפגש הפרל החודשי שלנו!
+אנו נפגשים ב-18:30 ומתחילים ב19:00.
+כתובת: מכללת שנקר, בניין מיטשל, רמת גן, חדר 2106. (<b>שימו לב לשינוי בכתובת
+מפעמים קודמות.</b>).
+במפגש זה נשמע הרצאות אודות מערכת ניהול הגרסאות git.
+</p>
+
+<p>
+פרטים נוספים ניתן למצוא
+<a href="http://telaviv.pm.org/">באתר של שוחרי הפרל של תל אביב</a>
+</p>
+
+<p>
+במפגש זה יהיו ההרצאות הבאות:
+</p>
+
+<ul>
+<li>
+<p>
+<b>Git</b> - Git הינה מערכת ניהול גרסאות מבוזרת.
+היא מהווה כלי שימושי למפתחים ומתפשטת כמו אש, בשל טבעה השימושי, והשימוש שנעשה
+בה בפיתוח הגרעין של לינוקס, ספריות ותוכנות קוד פתוח רבות, ובתוך מספר רב
+של ארגונים. בכוונתי ללמד אותו.
+(סוייר - 40 דקות).
+</p>
+</li>
+
+<li>
+<p>
+<b>Gitflow</b> - Gitflow הינו כלי מעטפת שימושי שמאפשר לכם
+להסדיר תהליך פיתוח יותר מובנה, הלוקח בחשבון תכונות, גרסאות היוצאות
+לאור, תיקונים חמים ועוד. הוא שימושי מאוד כאשר מספר מפתחים עובדים עובדים
+על התוכנה בשילוב משלב, צוות בקרת איכות, צוות פיתוח, וכן הלאה. בכוונתי
+להדגים גם אותו! (סוייר - 40 דקות).
+</p>
+</li>
+
+</ul>
+
+<p>
+המפגש הוא חינמי וכולם מוזמנים. נתראה שם!
+</p>
+
+</div>
+
+<h3>English Version</h3>
+
+<p>
+<b>Please note the change of venue.</b> We're moving to the next adjacent
+building to where we were. You can use the original entrance or use the
+listed address.
+</p>
+
+<p>
+On 31 August, 2011 (Wednesday), the Tel Aviv Perl Mongers will hold their monthly
+meetup. We meet at 18:30 and start at 19:00. The address is: Shenkar College,
+Mitchel building, Yeda Am 8, Ramat Gan, Room 2106. The theme of this meeting
+will be the git version control system.
+</p>
+
+<p>
+One can find more details in <a href="http://telaviv.pm.org/">the web-site</a> of
+the Tel Aviv Perl mongers.
+</p>
+
+<p>
+This meeting will hold the following talks:
+</p>
+
+<ul>
+<li>
+<p>
+<b>Git</b> - Git is a decentralized code revision management system. It's becoming a
+valuable tool for developers (whether programmers, designers, or other) and
+is spreading like fire due to its useful nature, being used in the Linux
+Kernel development, many free software libraries and programs and many
+organizations alike. I intend to teach it to you. (Sawyer - 40 minutes).
+</p>
+</li>
+
+<li>
+<p>
+<b>Gitflow</b> - Gitflow is a useful wrapper tool to allow you to set a more streamlined
+development process, taking into account features, releases, hot fixes and
+more. It's very useful when using multiple developers with an integrator, a
+QA, a dev team, and so on. I intend to showcase it as well! (Sawyer - 40 minutes.)
+</p>
+</li>
+
+</ul>
+
+<p>
+The entrance to the meeting is free-of-charge and everyone are welcome to
+attend. See you there!
+</p>
+
+</div>
+
+<div class="entry" id="qunit-recommendation-and-tip">
+
+<!-- Tags: javascript, testing, qa, tech, tip, tech tip, perl, jquery
+-->
+
+<h2>2011-09-05: Recommendation and Tip: The QUnit JavaScript Automated Tests Library</h2>
+
+<p>
+I've begun working on a JavaScript port of some algorithmic perl code, to allow
+it to run inside a browser. As a result, I had to find a good JavaScript
+automated tests library to allow me to write automated tests for the code. I
+first looked at Test.More and Test.Harness from JSAN (the JavaScript Archive
+Network) but as it turned out, JSAN was defunct, and no one had time to mark
+it as such. Then I asked the “Test.Run” developer (another thing I had
+found on jsan) to instruct me how to get it
+up and running, and he gave me a link to its archive, which was 1.5 mb
+compressed (!), and so was not acceptable.
+</p>
+
+<p>
+I looked at <a href="http://en.wikipedia.org/wiki/list_of_unit_testing_frameworks#javascript">the
+Wikipedia list of unit testing frameworks</a>, but there were too many. at least
+I understood that jsUnit was no longer actively maintained. I looked at Jasmine,
+which is a bdd framework for JS, but its syntax seemed too horrid and unnatural.
+</p>
+
+<p>
+Eventually, I decided to ask for recommendation on <a href="http://stackoverflow.com/">Stack
+Overflow</a> and, as after I wrote my title, I found a
+<a href="http://stackoverflow.com/questions/96066/automated-unit-testing-with-javascript">a previous question</a>, where there was a recommendation of
+<a href="http://docs.jquery.com/Qunit">QUnit</a>, which I noticed was developed
+by the jQuery people, and as I'm fond of jQuery, I decided to look deeper into
+it.
+</p>
+
+<p>
+I wasn't disappointed by QUnit - it does what it does well, and I was
+able to write my test suite using it, so I can recommend it as well. It has
+primitives that are very similar to perl's
+<a href="http://search.cpan.org/perldoc?Test::More">Test::More</a>, and it can
+even assert that the number of assertions ran within a test are right (like
+Test::More can).
+</p>
+
+<p>
+So here's a tip for it: if you're writing your testing code in a different
+file, and you wish to check that no compile-time or run-time exception
+was thrown (which will cause qunit to report a success with zero assertions)
+you should wrap the testing code in a <tt>try { .. } catch</tt> block and in
+the catch block, run <tt>ok(false...)</tt>.
+</p>
+
+<p>
+Here's an example from my code:
+</p>
+
+<pre>
+&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot;
+                    &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;ABCPath Test&lt;/title&gt;
+&lt;script src=&quot;jquery-latest.js&quot;&gt;&lt;/script&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;qunit.css&quot; type=&quot;text/css&quot; media=&quot;screen&quot; /&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;qunit.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;joose.mini.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;abc-path.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;abc-path-test.js&quot;&gt;&lt;/script&gt;
+
+  &lt;script type=&quot;text/javascript&quot;&gt;
+      $(document).ready(function () {
+          try {
+              test_abc_path();
+          }
+          catch (err) {
+            module(&quot;Meta&quot;);
+            test(&quot;global_failure&quot;, function() {
+                ok (false, &#39;test_abc_path() has thrown an exception or is invalid.&#39;);
+            });
+          }
+          // Hide passed tests by default.
+          $(&#39;#qunit-tests&#39;).addClass(&#39;hidepass&#39;);
+      });
+  &lt;/script&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;h1 id=&quot;qunit-header&quot;&gt;QUnit example&lt;/h1&gt;
+ &lt;h2 id=&quot;qunit-banner&quot;&gt;&lt;/h2&gt;
+ &lt;div id=&quot;qunit-testrunner-toolbar&quot;&gt;&lt;/div&gt;
+ &lt;h2 id=&quot;qunit-userAgent&quot;&gt;&lt;/h2&gt;
+ &lt;ol id=&quot;qunit-tests&quot;&gt;&lt;/ol&gt;
+ &lt;div id=&quot;qunit-fixture&quot;&gt;test markup, will be hidden&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
+<p>
+Enjoy.
+</p>
+
+</div>
+
+
+<div class="entry" id="new-core-i3-computer">
+
+<!-- Tags:
+-->
+
+<h2>2011-09-29: New Computer</h2>
+
+<p>
+First of all, happy <a href="http://en.wikipedia.org/wiki/Rosh_Hashanah">new Jewish Year</a>.
+</p>
+
+<p>
+My old Pentium 4 2.4 GHz computer (here's <a
+href="http://www.advogato.org/person/shlomif/diary/176.html">the blog
+entry where I blogged about getting it back in 22-September-2003</a>) has
+served me mostly well for 8 years, but recently exhibited many signs of dying
+and had problems booting a lot of the partitions there. As a result, we
+bought a new computer to replace it: a Core i3 machine with 8 GB of RAM, a
+2 TB hard-disk, and an Intel HD Graphics adapter. I've installed Mageia 1
+on it and set it up, and it is now working mostly nicely.
+</p>
+
+<p>
+I've ran into a few problems with it. From the 1280*1024 screen
+resolution not working (which required adding a mode line), to
+<a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg61605.html">packets
+being dropped by the network interface</a> (which I found a fix for
+<a href="https://bugzilla.redhat.com/show_bug.cgi?id=713315">on
+a Red Hat bug</a>), to the fact that
+<a href="https://bugs.freedesktop.org/show_bug.cgi?id=37629">transparency is
+not working properly</a> when running remote X apps (which is not resolved
+yet.), but as a general rule - I'm happy.
+</p>
+
+<p>
+The new computer is much faster than the old one, which wasn't too slow running
+Linux either.
+</p>
+
+</div>
+
+
+<div class="entry" id="tech-tip-removing-bash-completions">
+
+<!-- Tags: tip, tech, tech tip, bash, linux
+-->
+
+<h2>2011-12-13: Tech Tip: Removing Bash’s Command Completions</h2>
+
+<p>
+The normal way to remove a completion for a Bash command (say “mv”) is to do
+“complete -r mv”. However, with the bash-completion package installed on
+Mageia Linux Cauldron, this is not enough because it also adds a default
+completion for every invoked command. So in order to override this behaviour,
+type “complete -r -D” and then you can remove the commands’ completions
+permanently, using “complete -r mv” or whatever.
+</p>
+
+</div>
+
+
+<div class="entry" id="telaviv.pm-meeting-2011-12-28">
+
+<!-- Tags: perl, meeting, foss
+-->
+
+<h2>2011-12-24: Tel Aviv Perl Mongers Meeting on 28 December, 2011</h2>
+
+<p>
+(The Hebrew text will be followed by an English one).
+</p>
+
+<div style="text-align: right; direction: rtl;">
+
+<p>
+<b>שימו לב לשינוי במיקום!</b>
+ זהו הבניין שבו קיימנו את מפגשי שוחרי הפרל התל-אביביים בהתחלה, ולא זה ששימש
+עבור מספר פגישות לאחרונה.
+</p>
+
+<p>
+ב-28 בדצמבר 2011 (יום רביעי) נערוך את מפגש הפרל החודשי שלנו, והפעם הוא יהיה
+מיוחד!
+אנו נפגשים ב-18:30 ומתחילים ב-19:00.
+כתובת: מכללת שנקר, בניין ראשי ברחוב אנה פרנק, רמת גן, חדר 300.
+</p>
+
+<p>
+פרטים נוספים ניתן למצוא
+<a href="http://telaviv.pm.org/">באתר של שוחרי הפרל של תל אביב</a>.
+</p>
+
+<p>
+במפגש זה יהיו ההרצאות הבאות:
+</p>
+
+<ul>
+<li>
+<p>
+<b>ויזואליזציה של המוח של וים</b> - רן עילם -
+אהבתם אותו ב"תשתיות לפיתוח משחקים בעזרת SDL, Moose ו-Coro", בכיתם בעקבות הביצוע
+שלו במפגשים אחרי ההרצאות, ותעריצו אותו לחלוטין ב"ויזואליזציה של המוח של וים". האגדה
+החיה רן עילם ירצה לנו (מתחילים ומומחים כאחד) על וים (Vim) ועל כיצד לעכל את החיה
+הזאת. מילת אזהרה: שתי השורות הראשונות בקהל יפגעו מלהבות חוצבות כנגד אימקס (Emacs).
+</p>
+</li>
+
+<li>
+<p>
+<b>צרור מודולים שהיה הגיוני לכתוב</b> - סוויר אקס:
+אני הולך לסקור מספר מודולים לשימושי שכתבתי, מדוע הם נכתבו, ומתי הם שימושיים.
+בסוף תצטרכו לשפוט אם היה זה בכלל כדאי לכתוב אותם. יהיו גם קלפיות של הצבעה!
+(אנחנו נכסה את Algorithm::Diff::Callback, App::Genpass, Data::PowerSet::Hash
+ו-Module::Version.)
+</p>
+</li>
+
+<li>
+<p>
+<b>לשדרג או לא לשדרג - פרל 5.6 כנגד פרל 5.14</b> - עידו קנר כנגד סוויר אקס:
+מקור גדול של דאגה בקהילת משתמשי הפרל היא האם להשתמש בגרסה עדכנית של
+פרל ואיזו גרסה צריכה להיחשב "ישנה מדי". מצד אחד, יש לנו את ההנהלה שרוצה
+עד כמה שפחות עלות ושינויים (ולפעמים גם מנהלי המערכות רוצים בכך), ומצד שני
+המפתח שרוצה להשתמש בטכנולוגיות החדשות ביותר, ופעמים רבות תקוע במערכות
+שאבד עליהן כלח.
+</p>
+<p>
+לאור שיקול רציני זה, אנו הולכים, איש בתורו, לתקוע מקל אחד בשני, כשאנו
+חובשים כובעים מצחיקים, ולדון את הלא מאמינים והכופרים לגיהינום
+עד שידגלו בצד אחד: 5.6 או 5.14!
+</p>
+</li>
+</ul>
+
+<p>
+המפגש הוא חינמי וכולם מוזמנים. נתראה שם!
+</p>
+
+</div>
+
+<h3>English Version</h3>
+
+<p>
+<b>Please note the change of venue.</b> This is the building where we started
+having TA.pm, and not the one which we used for some of the recent meetings.
+</p>
+
+<p>
+On 28 December, 2011 (Wednesday), the Tel Aviv Perl Mongers will hold their
+monthly meetup, and this time it is going to be special. We meet at 18:30 and the
+talks begin at 19:00. The address is: Shenkar College, main building on Anna Frank street, Ramat Gan, Room 300.
+</p>
+
+<p>
+One can find more details on
+<a href="http://telaviv.pm.org/">the web-site</a> of
+the Tel Aviv Perl mongers.
+</p>
+
+<p>
+This meeting will hold the following talks:
+</p>
+
+<ul>
+<li>
+<p>
+<b>Visualizing the brain of Vim</b> by Ran Eilam -
+You loved him in "Game frameworks with SDL, Moose and Coro", you cried over
+his performance in the after-meeting get-togethers, and you will absolutely
+adore him in "Visualizing the brain of Vim". All-star legend Ran Eilam will
+talk to us (both beginners and experts) about Vim and how to fathom this
+incredible beast. I warn you, the first two lines in the audience will be
+damaged by Emacs flames.
+</p>
+</li>
+
+<li>
+<p>
+<b>A bunch of modules which made sense writing</b> - by Sawyer X:
+I'm going to cover some utility modules I've written, why they were written
+and when they are useful. At the end, you'll have to judge whether they were
+worth writing at all.  There will be voting booths available!
+(We'll cover Algorithm::Diff::Callback, App::Genpass, Data::PowerSet::Hash
+and Module::Version.)
+</p>
+</li>
+
+<li>
+<p>
+<b>To upgrade or not to upgrade, Perl 5.6 vs. Perl 5.14</b> - ik vs. Sawyer X:
+A source of great concern in the Perl users community is whether to use an
+up-to-date Perl and what version should be considered "too old". On one
+hand, we have the management that wants as little cost and changes as possible
+(sometimes along with systems administrators), and on the other hand, the
+developer who wants to use the latest technologies, and is often
+stuck on obsolete systems.
+</p>
+
+<p>
+In light of this serious consideration, we're going to take turns poking at
+each other with a stick, wearing funny hats, damning the unbelievers and
+heretics until they submit to one side: 5.6 or 5.14!
+</p>
+
+</li>
+
+</ul>
+
+<p>
+The entrance to the meeting is free-of-charge, and everyone are welcome to
+attend. See you there!
+</p>
+
+</div>
+
+
+<div class="entry" id="git-tip-dot-git-config">
+
+<!-- Tags: git, perl, tip, tech tip, tech
+-->
+
+<h2>2012-01-22: git tip: adding remotes to .git/config</h2>
+
+<p>
+When working with the <a
+href="http://en.wikipedia.org/wiki/Git_%28software%29">git version control
+system</a> and editing <tt>.git/config</tt> to add a new remote, some people
+may be tempted to copy and change the <tt>origin</tt> remote that reads
+something like:
+</p>
+
+<pre>
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = git@github.com:shlomif/perl.git
+</pre>
+
+<p>
+However, note that <tt>origin</tt> also appears at the <tt>fetch = </tt>
+and needs to be changed there as well, or else all the branches will be placed
+in <tt>remotes/origin</tt>. Maybe there's a better way to add a new remote
+using the <tt>git config</tt> commands.
+</p>
+
+<p>
+Other than that, I should note that there doesn't seem to be a consensus among
+git users whether <tt>git pull --rebase</tt> is better than a simple
+<tt>git pull</tt>: the perl people told me to use <tt>--rebase</tt> and the
+Amarok people and someone on Freenode's <tt>##programming</tt> told
+me not to use it. Now I'm just confused.
+</p>
+
+</div>
+
+
+
+<div class="entry" id="vim-tips-2012-02-18">
+
+<!-- Tags: vim, tip, vim tip, tech, tech tip, perl
+-->
+
+<h2>2012-02-18: Vim Tips: scp URLs, "set tabpagemax" and fixing C indentation</h2>
+
+<p>
+Here are some Vim tips I ran into recently. First of all, when opening
+<tt>scp://</tt> URLs, one should use two slashes after the hostname instead of
+1, like <tt>scp://hostname//home/myuser/foo.txt</tt> instead of
+<tt>scp://hostname/home/myuser/foo.txt</tt>. I don’t know why that is the
+case, but it does not work properly without it. It also seems that netrw
+is buggy as it displays an irritating grey line on the cursor, the syntax
+highlighting tends to be off and saving a file displays several lines at the
+bottom.
+</p>
+
+<p>
+Another tip is that gvim limits the number of tabs it opens when doing
+<tt>gvim -p [file1] [file2] [file3]</tt>. As a result, it is possible that
+not all files will be opened. If you want to change it you can set
+<tt>set tabpagemax</tt> in your <tt>.vimrc</tt>.
+</p>
+
+<p>
+Finally, I noticed that Vim c-indentation tends to indent parameters to
+functions on subsequent lines using 8 spaces instead of 4 by default. I was
+able to change it to 4, which is my preference by adding
+<tt>set cinoptions+='(0,W4'</tt> to my <tt>.vimrc</tt>. There is plenty
+of other nifty stuff available in the <tt>cinoptions</tt> parameter.
+</p>
+
+<p>
+Enjoy!
+</p>
+
+</div>
+
+
+<div class="entry" id="tech-tip-getting-hgsubversion-to-work-with-subversion-1.7.x">
+
+<!-- Tags: tip, tech tip, linux, open source
+-->
+
+<h2>2012-03-09: Tech Tip: Getting hgsubversion to Work with subversion-1.7.x</h2>
+
+<p>
+<a href="http://subversion.apache.org/">Apache Subversion</a> version 1.7.x
+broke some backwards compatible and some stuff got broken, including
+<a href="http://mercurial.selenic.com/wiki/HgSubversion">hgsubversion</a>,
+which provides a way to use subversion remotes with Mercurial.
+</p>
+
+<p>
+In order to fix it, just install <a
+href="http://www.samba.org/~jelmer/subvertpy/">subvertpy</a>, which provides
+alternative python bindings for subversion, which hgsubversion prefers by
+default, and with which it works fine under subversion-1.7.x.
+</p>
+
+<p>
+I discovered all that after I attempted to fix it the hard way by installing
+subversion-1.6.x under /opt/svn-1.6.x, which required building an old
+version of SWIG, and then setting <tt>PATH</tt>, <tt>LD_LIBRARY_PATH</tt>,
+and <tt>PYTHONPATH</tt> and then having to remove the global python-svn
+bindings from under <tt>/usr/lib</tt> (as root!) because hgsubversion did not
+like them, a process which took me an entire evening and was frustrating and
+was ridden with a lot of trial and error, so I would not recommend it.
+</p>
+
+<p>
+Hope it helps. Also see <a href="https://bitbucket.org/durin42/hgsubversion/issue/316/hg-clone-file-fails-with-subversion-171-on#comment-1168456">this hgsubversion bug report</a>.
+</p>
+
+</div>
+
+
+<div class="entry" id="resumed-mikmod-maintenance">
+
+<!-- Tags: music, mod, open source, linux
+-->
+
+<h2>2012-04-15: ANNOUNCEMENT: Resumed maintenance of mikmod and libmikmod</h2>
+
+<p>
+To whom it may concern,
+</p>
+
+<p>
+libmikmod is a portable and open-source (LGPLed) library for playing various
+common formats of Module files, including MOD, S3M, XM, and IT. mikmod is a
+Curses-based front-end for it, freely available under the GPL. Shlomi Fish would
+like to announce that he resumed maintenance of libmikmod and mikmod, after many
+years of lack of maintenance, after getting approval from
+<a href="http://raphnet.net/">Raphaël Assénat (raphnet)</a>, the previous
+maintainer.
+</p>
+
+<p>
+So far, libmikmod-3.2.0-beta3 has been released with some older changes that
+lingered in the old version control repository, as well as several important
+fixes for security bugs taken from the downstream Mageia Linux package.
+The version control repository was converted from CVS to Mercurial, and more
+development is expected.
+</p>
+
+<p>
+Plans for the future include releasing a stable libmikmod-3.2.0 and afterwards
+converting the build system from GNU Autotools to CMake, and then looking into
+fixing more bugs as they are encountered and implementing new features.
+</p>
+
+<p>
+The old MikMod homepage ( <a href="http://mikmod.raphnet.net/">http://mikmod.raphnet.net/</a> ) now redirects to the new
+one at
+<a href="http://mikmod.shlomifish.org/">http://mikmod.shlomifish.org/</a>
+where new development will take place
+(some parts of it still need to be updated, but it should already be usable).
+</p>
+
+<p>
+Any contribution including testing, reporting bug fixes, contributing changes
+(as patches or as clones of the repository), or suggesting new features, will be
+appreciated.
+</p>
+
+<p>
+For more information about module files see
+<a href="http://en.wikipedia.org/wiki/Module_file">the wikipedia entry for
+“Module file”</a>, and the
+<a href="http://www.modplug.com/modfaq/index.html">FAQ for
+alt.binaries.sounds.mods (which was last updated in 1999)</a>.
+</p>
+
+</div>
+
+
+<div class="entry" id="new-vim-plugin-add-to-word-search">
+
+<!-- Tags: vim, open source, perl, foss, hacktivity
+-->
+
+<h2>2012-04-23: New Vim Plugin: Add to Word Search</h2>
+
+<p>
+I’ve released a new plugin for the <a href="http://www.vim.org/">Vim
+text editor</a>, called "add-to-word-search" (
+<a href="https://github.com/shlomif/add-to-word-search.vim">GitHub
+repository</a>,
+<a href="http://vim.sourceforge.net/scripts/script.php?script_id=3955">Vim
+Scripts page</a>), and I’d like to introduce it here. If you like Vim,
+please let me know what you think by commenting below.
+</p>
+
+<p>
+In order to properly introduce the plugin, one first should introduce the
+different (and useful) commands of Vim of <tt>*</tt> and <tt>#</tt>. What they
+do is search forward or backward for the complete word under the cursor (or
+somewhat before it or after it). Bram Moolenaar (the creator of Vim)
+covers them in his <a href="http://www.moolenaar.net/habits.html">“Seven
+habits of effective text editing”</a> document (there’s also a
+<a href="http://www.youtube.com/watch?v=eX9m3g5J-XA">video</a> available),
+and I think I covered them in a previous Vim tip.
+</p>
+
+<p>
+Now, here is the use case that often bugged me: sometimes I searched for
+a certain function, found it in the text and then found a function that called
+this function (or often in the case of C code, a preprocessor macro that
+wrapped it), and wanted to look for its occurrences <b>as well as</b> those
+of the previous term. I wasn't aware of any good way to do it, so I ended up
+writing the “add-to-word-search” plugin.
+</p>
+
+<p>
+After installing it, and after having searched for a word using <tt>*</tt>
+or <tt>#</tt>, one can press <tt>\**</tt> to search forward for an additional
+word under the cursor (or <tt>\##</tt> to search backward), and then use it more
+times to add additional words.
+</p>
+
+<p>
+After publishing this plugin and mentioning it on
+<a href="irc://irc.freenode.net/#vim">#vim</a>,
+“ironcamel” reported
+<a href="https://github.com/shlomif/add-to-word-search.vim/issues/1">an
+issue</a> that it gives an error if you have <tt>set nowrapscan</tt>. I fixed
+it, but was only able to do so by temporarily disabling <tt>nowrapscan</tt>,
+and then enabling it if it was previously enabled. (Apparently, vimscript’s
+exception-handling cannot handle some of the built-in errors.)
+</p>
+
+<p>
+I also demonstrated it to my (now former) co-worker, who had been trying to
+get used to Vim, and he said it looked useful, but asked if there was an easy
+way to remove terms from the search query (which there is not at the moment),
+and I noted it may be a good idea.
+</p>
+
+<p>
+Anyway, this Vim plugin is open-source and available under the MIT/X11 licence.
+Enjoy!
+</p>
+
+</div>
+
+
+<div class="entry" id="gnutar-a-flag">
+
+<!-- Tags: tip, tech, tech tip, linux, foss, open, source
+-->
+
+<h2>2012-05-27: Tech Tip: GNU tar’s “-a” Flag</h2>
+
+<p>
+On
+<a href="https://www.mageia.org/pipermail/mageia-dev/2012-April/014266.html">this
+post to the Mageia development mailing list</a> by Thierry Vignaud,
+I discovered that GNU <a
+href="http://en.wikipedia.org/wiki/Tar_%28file_format%29">tar</a> (at least in
+recent versions) has an “-a” flag which is useful in conjunction with its
+“-c” (create new archive) mode. This is because it detects the suitable
+compression based on the extension and uses the appropriate flag.
+</p>
+
+<p>
+So: “<tt>tar -cavf myarchive.tar.gz ./mydir/</tt>” is equivalent to
+“<tt>tar -czvf myarchive.tar.gz ./mydir/</tt>”,
+“<tt>tar -cavf myarchive.tar.bz2 ./mydir/</tt>” does the same thing
+as “<tt>tar -cjvf myarchive.tar.bz2 ./mydir/</tt>” and so forth. When
+unpacking archives, you can omit the “-a/-z/-j/-J” flags, because GNU tar
+will detect the compression of the archive based on the file magic of the
+compressed formats.
+</p>
+
+<p>
+Another useful (and open-source) tool for manipulating tarballs and
+other archives is
+<a href="https://sourceforge.net/projects/patool/">patool</a>, but I've been
+meaning to suggest they do a short-circuiting when converting tarballs from
+<tt>.tar.gz</tt> to <tt>.tar.xz</tt> to <tt>.tar.bz2</tt> / etc.
+</p>
+
+<p>
+Anyway, enjoy.
+</p>
+
+<h3>Meta</h3>
+
+<p>
+I know I’ve been really negligent with blogging in
+<a href="http://www.shlomifish.org/me/blogs/">my blogs</a> lately (which
+is not good), but don’t worry - I am fine, just busy with a lot of stuff
+including work work (which gives money but consumes time), doing quite a lot
+of coding and other development on open-source software, some Freecell-related
+research, keeping up with my E-mails, posting to mailing lists, playing some
+computer games, chatting a lot (maybe too much) on the IRC, and naturally -
+sleeping.
+</p>
+
+<p>
+It seems that despite starting the new job in December, and despite the fact
+that it was now spring time (which is often a time of calamity for me), I
+did not have any particularly
+<a href="http://www.shlomifish.org/philosophy/psychology/hypomanias/">strong
+periods of stress</a> lately, which is a good think. Thanks, $DEITY!
+</p>
+
+<p>
+Today a friend who is an Israeli open-source enthusiast called me and asked me
+why
+I disappeared and if everything OK, and I replied, but he later called again
+and said his mobile phone mixed me with someone else. Anyway, you can always
+<a href="http://www.shlomifish.org/me/contact-me/">reach me in many
+ways</a>, but I think I should start blogging more often, so I‘ve picked up
+this tech tip as the lowest hanging fruit.
+</p>
+
+</div>
+
+<div class="entry" id="how-to-listen-to-jamendo-radio-and-online-songs">
+
+<!-- Tags: tip, tech, tech tip
+-->
+
+<h2>2012-06-27: How to Listen to Jamendo Radio and Tracks from the Browser</h2>
+
+<p>
+In case you do not know, <a href="http://www.jamendo.com/">Jamendo</a> is
+a show case for music licensed under Creative Commons licences, with a lot
+of great tracks to listen to. However, after the recent upgrade, I found that
+I was no longer able to listen to their radio stations or press the listen
+button of their tracks using Firefox, my browser of choice.
+</p>
+
+<p>
+Here is what I discovered on how to re-enable it after some investigation:
+first of all, you need to enable and/or whitelist JavaScript for jamendo.com.
+If you are using NoScript, you can use the “S” button on the Add-on bar for
+that.
+</p>
+
+<p>
+Furthermore, the new Jamendo requires Adobe Flash to be whitelisted as well.
+If you are using
+<a href="https://addons.mozilla.org/en-US/firefox/addon/flashblock/">FlashBlock</a>,
+then go to
+“Tools → Add-Ons → Extensions → Flashblock → Preferences → Whitelist”
+and add http://www.jamendo.com/ there. I don’t know how to properly enable
+the listening on browsers and platforms which do not have Adobe Flash
+installed, so blame Jamendo.com - not me. (And, yes, I know that
+<a href="http://occupyflash.org/">Flash is evil</a>.)
+</p>
+
+<p>
+There may be some other obstacles on the way, but now everything is working
+fine for me. I am going to complain to Jamendo that in this HTML 5 day and
+age, one needs to use Flash to listen to their streams, which, as I
+recall, was not necessary in the old Jamendo.
+</p>
+
+<p>
+Happy listening.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-how-to-build-firefox-with-debugging-symbols-on-linux">
+
+<!-- Tags: tip, tech, tech tip, linux, firefox, open source
+-->
+
+<h2>2012-06-27: Tech Tip: How to Build Firefox with Debugging Symbols on Linux</h2>
+
+<p>
+I spent a large part of today building Firefox on one of my Linux machines and
+trying to figure out why
+gdb did not display debugging symbols, and instead only displayed question
+marks in the backtrace (<tt>??</tt> ). Eeventually, I found  a solution, so
+I'd like to document the process for other people in the future.
+</p>
+
+<p>
+The solution is documented
+<a href="https://bugzilla.mozilla.org/show_bug.cgi?id=770900">in
+this bug report that I filed</a> and involves the following steps:
+</p>
+
+<ol>
+
+<li>
+<p>
+Checkout the firefox source from the
+<a href="https://developer.mozilla.org/en/mozilla-central">mozilla-central
+repository</a>
+</p>
+</li>
+
+<li>
+<p>
+Put something like the following in the <tt>.mozconfig</tt> file in the
+source's root (where <tt>client.mk</tt> can be found):
+</p>
+
+<pre>
+. $topsrcdir/browser/config/mozconfig
+export LDFLAGS="-Wl,--no-keep-memory"
+mk_add_options MOZ_OBJDIR=@TOPSRCDIR@/ff-dbg
+ac_add_options --disable-optimize
+ac_add_options --enable-debug
+ac_add_options --enable-tests
+ac_add_options --enable-debug-symbols
+ac_add_options --prefix="$HOME/opt/firefox-from-hg"
+</pre>
+
+<p>
+The important lines are the <tt>--enable-debug</tt>,
+<tt>--enable-debug-symbols</tt> and the <tt>LDFLAGS one</tt>.
+</p>
+</li>
+
+<li>
+<p>
+Type <tt>make -f client.mk</tt>. Now you'll need to wait.
+</p>
+</li>
+
+<li>
+<p>
+Type <tt>make -f client.mk install PKG_SKIP_STRIP=1</tt> and make sure
+you do not forget the <tt>PKG_SKIP_STRIP=1 parameter</tt>.
+</p>
+</li>
+
+<li>
+<p>
+Now you can use <tt>gdb ~/opt/firefox-from-hg/bin/firefox</tt> to debug
+Firefox with all the debugging symbols.
+</p>
+</li>
+
+</ol>
+
+<p>
+Enjoy!
+</p>
+
+</div>
+
+<div class="entry" id="getting-your-job-ad-replied-to">
+
+<!-- Tags: linux, open source, perl
+-->
+
+<h2>2012-06-27: Getting Your Job Ad Replied To</h2>
+
+<p>
+Joel Spolsky had published an essay titled
+<a href="http://www.joelonsoftware.com/articles/ResumeRead.html">“Getting
+Your Résumé Read”</a> on his <i>Joel on Software</i> site, which gives very good
+advice for job candidates
+who want to apply for work. Today, I am going to cover the opposite direction:
+give some advice for employers who publish job ads in hopes of finding
+employees. I have seen my share of bad practises among the many job ads
+I have read, and can tell which ones make me more willing to apply.
+</p>
+
+<p>
+Before I start, I am going to share a small item, which I originally planned
+to publish as is, and later decided to expand into this post, which I have
+titled “The Worst Job Offer Ever”. After I wrote it, I thought that posting
+something like that on my blog will make no one want to hire me ever again,
+so don’t take it too seriously. I am not singling any particular “wanted”
+adverts.
+</p>
+
+<blockquote>
+<pre>
+From: lamejob@gmail.com
+To: programmersforum@yahoogroups.com
+Subject: BEST JOB!!!
+
+A promising startup with a young, dynamic, environment is looking for a
+talented software developer with the following skills:
+
+* Team-player.
+* Independent.
+* Detail-oriented.
+* Considers the big picture.
+* Ability to work under pressure.
+* Willing to work for stock options.
+* B.Sc./B.A. in Computer Science/Software Engineering or equivalent from a
+prestigious university with an average of 93.1415% or above.
+** M.Sc. an advantage.
+* 10 years of experience in JAVA.
+* 25 years of experience in php/Mysql.
+* 1-3 years of experience in PERL, PYTHON, ror - an advantage.
+* 10 years of OOP/OOD experience in C++ and COBOL - a must.
+* windows/unix/LINUX sys admin experience (3-5 years).
+
+Please send your CVs in MS Word format to lamejob-jobs@gmail.com .
+--
+Sent from my iPhone.
+</pre>
+</blockquote>
+
+<p>
+I hope you agree that it is pretty bad. Now for the rest of the advice:
+</p>
+
+<ol>
+
+<li>
+<p>
+The first thing you should do is to <b>spell the requirements precisely</b>.
+What does the candidate must know for the job? Please consider avoiding
+giving a number of years of experience because this is annoying. “1-3 years
+of Java experience” — are people with 4 years of Java experience
+underqualified?
+</p>
+</li>
+
+
+<li>
+<p>
+You should also <b>give a precise description</b> of the job: something
+like “Ruby-on-Rails expert”, “Perl expert”, “UNIX Systems Administrator”,
+“PHP expert” etc. That way people who do not match this description will
+know better than to apply.
+</p>
+</li>
+
+<li>
+<p>
+You should also use <b>proper spelling</b>, grammar, and syntax. Perl is not
+spelled
+<a href="http://perl-begin.org/learn/Perl-perl-but-not-PERL/">“PERL”</a>,
+Python is not spelled “PYTHON”, and it's MySQL - not “MYSQL”, “Mysql” or
+“mySQL”. It's also “PHP” - not “Php” or “php”.
+</p>
+</li>
+
+<li>
+<p>
+If you have a successful business or planning on having one, then you should
+get your own
+<a href="http://en.wikipedia.org/wiki/Domain_Name_System">DNS domain</a>
+such as <tt>mycompany.com</tt>, set up E-mail hosting for it, and send the job
+posts from there. Sending
+from a Webmail provider such as “@gmail.com”, “@hotmail.com” or “@yahoo.com”
+will make a bad impression, and indicate lack of professionalism.
+</p>
+</li>
+
+<li>
+<p>
+You should also <b>use a standard desktop, or a comfortable laptop
+computer</b> to type
+and phrase the message - not a mobile device which results in more error-prone
+and less
+<a href="http://en.wikipedia.org/wiki/Etiquette_%28technology%29">Netiquette</a>
+-conforming messages. Make sure that your E-mail lacks any of the branding
+or advertising signatures such as “Sent from my iPhone”.
+</p>
+</li>
+
+
+<li>
+<p>
+<b>Specify the formats</b> in which it is possible to send the résumé, for
+example Microsoft Word, OpenDocument Text, XHTML or PDF. This way the
+candidates will know which formats they should send and you will have less
+problems reading their E-mails. That is one thing the worst job advert I
+gave did right, but naturally many people will appreciate the ability to
+send in different formats to the proprietary Microsoft Word format.
+</p>
+
+<p>
+Also specify whether it would be possible to send a link to an online version
+of the résumé for easy viewing using your favourite browser, and avoid the
+hassles of opening attachments and their myriad formats.
+</p>
+</li>
+
+<li>
+<p>
+Please don't require an “ability to work under pressure”. Most developers are
+naturally going to perform worse under pressure, and you should make sure
+you avoid pressuring them as much as possible. In order to attract developers,
+it is a good idea to advertise
+that your company normally operates on no more than 40 hours of work in
+a week — see what Evan Robinson has written about it in
+<a href="http://www.igda.org/why-crunch-modes-doesnt-work-six-lessons">“Why
+Crunch Modes Doesn’t Work: Six Lessons”</a>.
+</p>
+
+<p>
+If you do have a pressured environment (which is unfortunate but a fact
+of life), say “We have a pressured environment.” instead.
+</p>
+
+</li>
+
+<li>
+<p>
+Another good idea is to encourage candidates to show off their <b>open-source
+projects</b> and web-presence (home sites, blogs, etc.). However, “show me
+your <a href="http://en.wikipedia.org/wiki/GitHub">GitHub</a> page” may
+work for some people, but will leave a bad taste in the mouth, and will
+offend some other people, because some people prefer some of its alternatives
+(include me).
+</p>
+</li>
+
+<li>
+<p>
+You should spell <b>the location</b> of your offices (at least roughly) and
+specify how much one can
+<a href="http://en.wikipedia.org/wiki/Telecommuting">telecommute</a>, if at
+all.
+</p>
+</li>
+
+<li>
+<p>
+Whatever you do, please don’t post the job ad to the same forum more than
+once every few months. Posting the exact same position several times will
+make people annoyed and they may complain, filter your messages, or request
+that you get banned from posting on the forum.
+</p>
+</li>
+
+<li>
+<p>
+It is a good idea to mention some of the <b>software management practices</b>
+your
+company employs, such as using version control, writing automated tests,
+performing code reviews, refactoring, or pair programming.
+</p>
+</li>
+
+<li>
+<p>
+Finally, as Joel mentions in the original essay, you should make your ad
+<b>stand out</b>. One <a href="https://groups.google.com/group/israelrb/msg/29e6f84804a877f7?dmode=source&amp;output=gplain&amp;noredirect">good
+example</a> was once posted to the Israeli Ruby developers mailing list:
+</p>
+
+<blockquote>
+<pre>
+Subject: Developers Developers Developers
+
+Looking for developers who:
+
+* want a full time, salaried position
+* want to work in a fun, young workplace
+* want to work in an environment that allows them to use (just about)
+whatever tools they wish to get the job done
+* know and love ruby
+* ideally have experience with php and python
+* want to work on large scale rails/merb projects that have nothing to
+do with "the social web"
+* want to drown a puppy every time they hear phrases like "the social
+web"
+</pre>
+</blockquote>
+
+<p>
+This job ad (and especially the two last items) makes a stance, and makes
+the readers feel empathic towards it.
+</p>
+</li>
+
+<li>
+<p>
+Good luck!
+</p>
+</li>
+
+</ol>
+
+<hr />
+
+<h3>Copyright and Licence</h3>
+
+<p>
+This document is Copyright by Shlomi Fish, 2012, and is available
+under the
+terms of <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/3.0/">the Creative Commons
+Attribution-ShareAlike License 3.0 Unported</a> (or at your option any
+later version).
+</p>
+
+<p>
+For securing additional rights, please contact
+<a href="http://www.shlomifish.org/me/contact-me/">Shlomi Fish</a>
+and see <a href="http://www.shlomifish.org/meta/copyrights/">the
+explicit requirements</a> that are being spelt from abiding by that licence.
+</p>
+
+</div>
+
+
+<div class="entry" id="tech-tip-ruby-rspec-debug">
+
+<!-- Tags: ruby, rspec, tech, tip, tech tip, breakpoints, debug, debugging
+-->
+
+<h2>2012-08-18: Tech Tip: debugging Ruby’s rspec scripts</h2>
+
+<p>
+This post will cover how to debug test scripts (and their equivlent
+production code) of the Ruby programming language’s
+<a href="http://rspec.info/">RSpec</a> framework using an interactive
+debugger, which was a problem I've
+ran into lately when working on some Ruby code. Most of the other posts I
+found about the topic were either incomplete or out-of-date, but I got
+some help from <tt>#ruby-lang</tt> on Freenode, so I was able to figure it
+out.
+</p>
+
+<p>
+What you should do is:
+</p>
+
+<ol>
+
+<li>
+<p>
+install the <tt>ruby-debug</tt> gem: <tt>gem install ruby-debug</tt>.
+</p>
+</li>
+
+<li>
+<p>
+Add <tt>require 'ruby-debug'</tt> to the top of the test script.
+</p>
+</li>
+
+<li>
+<p>
+Add a <tt>debugger</tt> statement to lines where you want to place a
+breakpoint. This is important because otherwise the debugger will never
+stop. (I am unhappy with it.)
+</p>
+</li>
+
+<li>
+<p>
+Use the <tt>--debug</tt> flag in rspec:
+<tt>rspec --debug t/parse-board.rb</tt>.
+</p>
+</li>
+
+</ol>
+
+<p>
+After doing all that it worked for me, so now I'm happy.
+</p>
+
+<h3>Copyright and License</h3>
+
+<p>
+The text is copyrighted by Shlomi Fish, and is made available under
+the <a href="http://creativecommons.org/licenses/by/3.0/"
+rel="license">Creative Commons Attribution License 3.0 Unported</a> (or at
+your option, any later version). In order to attribute the text to me (=
+Shlomi Fish), please link
+to this page and <a href="http://www.shlomifish.org/">to my homepage</a>.
+</p>
+
+</div>
+
+<div class="entry" id="cache-bash-function">
+
+<!-- Tags: tech, tip, tech tip, linux, open source
+-->
+
+<h2>2012-08-18: Bash Function for Caching Results</h2>
+
+<p>
+In this blog I’d like to blog about the newest edition to my
+<a href="http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29">Bash (the
+UNIX shell)</a> aliases file: the <tt>cache()</tt> function. What it
+does is cache the result of a lengthy command in a file in a common place,
+and then simply output this file if it already exists. I found it of use
+when I compiled a report which involved some lengthy recursive grep operations
+which were time consuming, and required a lot of waiting. Another upside to
+caching is the fact that one can monitor its progress by following the file
+on disk.
+</p>
+
+<p>
+Here is the cache function, available under the
+<a href="http://en.wikipedia.org/wiki/MIT_License">MIT/X11 licence</a>:
+</p>
+
+<pre>
+# What this function does is cache the result of a command in a file, and
+# use the file to output the results in case it exists.
+# Format is: cache "$basename_to_cache_in" $cmd $arg1 $arg2 $arg3...
+cache()
+{
+    local cache_fn="$1"
+    shift
+
+    local dir="${CACHE_DIR:-.}"
+
+    if ! test -d "$dir"; then
+        mkdir -p "$dir"
+    fi
+
+    local fn="$dir/$cache_fn"
+    if ! test -f "$fn" ; then
+        "$@" &gt; "$fn"
+    fi
+    cat "$fn"
+}
+</pre>
+
+<p>
+Hope you find it useful.
+</p>
+
+<p>
+(Note: part of the reason why I'm writing this post is to see if it shifts
+away the spam comments from my previous post, which attracted a lot of spam
+in the past days. It's an experiment to see how spam behaves.).
+</p>
+
+</div>
+
+<div class="entry" id="cpp-joke">
+
+<!-- Tags: c/c++, humor
+-->
+
+<h2>2012-09-06: C++ Joke</h2>
+
+<p>
+Here is a joke I had heard which I decided to import for C++:
+</p>
+
+<blockquote>
+<p>
+In a press conference for the publishing of
+<a href="http://www.amazon.com/Accelerated-C-Practical-Programming-Example/dp/020170353X">Accelerated C++</a>,
+one of the authors, Andrew Koenig, was asked “Is it true that there are
+only three people in the world who truly understand C++?”. To which he
+replied “Really? Who’s the third?”.
+</p>
+</blockquote>
+
+<p>
+Cheers!
+</p>
+
+<h3>More C++ Fun</h3>
+
+<ul>
+
+<li>
+<p>
+<a href="http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/">“Never trust a programmer who says he knows C++”</a>
+</p>
+</li>
+
+<li>
+<p>
+<a href="http://artlung.com/smorgasborg/Invention_of_Cplusplus.shtml">The
+invention of C++ - a Nice bit of net lore</a>
+</p>
+</li>
+
+</ul>
+
+</div>
+
+<div class="entry" id="ultimate-irrational-homework-assignment">
+
+<!-- Tags: humor, perl, bash, linux, open, source
+-->
+
+<h2>2012-09-06: The Ultimate Irrational Homework Assignment</h2>
+
+<p>
+As someone who has been chatting on programming-related IRC (Internet
+Relay Chat) for a while, I have witnessed my share of people coming up
+with unreasonable needs due to homework. However, some days ago, someone
+on <a href="http://perl-begin.org/FAQs/freenode-perl/">Freenode's #perl</a>
+came and ask for help in parsing a semicolon that does not occur inside
+shell quotes (e.g: <tt>echo "Semicolon in string - ; foobar" ; ls -l ; </tt>)
+using regular expressions. I suggested him to use a parser generator, and
+then said that his teacher has forbidden him from using it or any other
+external CPAN module and that he could only use regular expressions, in order
+to, get this: write some Perl code that will convert Bash to Python.
+Yes! His teacher expects them to learn those three languages at once.
+And apparently without making a judicious use of the proper APIs.
+</p>
+
+<p>
+Teaching three languages at the same time (in what may be a introductory course)
+is wrong and should be avoided, as learning one language is hard enough,
+and with three the students may become extremely confused. In
+response to my <a href="http://www.shlomifish.org/philosophy/computers/education/introductory-language/">Thoughts about the Best Introductory
+[Programming] Language</a>, a friend suggested that one should teach three
+introductory languages, and if I were remember correctly, they were something
+like C, a convenient dynamic language such as Perl or Python, and a very "mind
+expanding" language like Lisp or Haskell. I noted the same thing back then,
+that it would confuse the heck out of the students, and here the motivation
+is even more flimsy.
+</p>
+
+<p>
+I wonder if we ever top this homework assignment that we are being asked
+for help with. Will a professor ask his students to implement a
+<a href="http://en.wikipedia.org/wiki/Strong_AI">Strong AI</a> in a weekend?
+</p>
+
+</div>
+
+
+<div class="entry" id="what-does-simple-mean-in-the-context-of-software">
+
+<!-- Tags: perl, open source, linux
+-->
+
+<h2>2012-10-08: What does “Simple” mean in the context of software?</h2>
+
+<p>
+A lot of computer programs, and especially many open-source applications
+like to boast that they are “simple”. But what does it mean? Given the various
+applications and misapplications of this word, I can think of several
+meanings:
+</p>
+
+<ol>
+
+<li>
+<p>
+Easy to use.
+</p>
+</li>
+
+<li>
+<p>
+Lacks complexity (whatever that means and implies).
+</p>
+</li>
+
+<li>
+<p>
+Simplistic.
+</p>
+</li>
+
+<li>
+<p>
+Minimalistic.
+</p>
+</li>
+
+<li>
+<p>
+Lacks extraneous features.
+</p>
+</li>
+</ol>
+
+<p>
+Very often, these meanings are at conflict with one another. For example,
+the <a href="http://en.wikipedia.org/wiki/GNOME">GNOME</a> developers have been
+keen on making the feature set as minimalistic (in accordance to meaning
+#4) as possible, which has taken the project to spiraling depths of
+unusability (opposing meaning #1). Furthermore,
+<a href="http://www.archlinux.org/">Arch Linux</a> taglines itself as
+“a lightweight and flexible Linux® distribution that tries to Keep It
+<b>Simple</b>”. However, during one day, I spent three incredibly vexing
+hours in trying to install it on a Virtual Box virtual machine, due to the
+installer's lack of usability, and if I had to do it on live hardware, it
+would have taken me much longer. You call that simple? I joked that it would
+take an engineering degree from a prestigious university to figure it out. I
+have that, but it did not help me much.
+</p>
+
+<p>
+As a result, I have become incredibly suspicious and weary of any software
+that prides itself on its “simplicity”, even though “simplicity” should
+be a good thing.
+</p>
+
+<p>
+Bjarne Stroustrup (the creator of C++) has this to say about Java on
+<a href="http://www.stroustrup.com/bs_faq.html">his FAQ</a>:
+</p>
+
+<blockquote>
+<p>
+Much of the relative simplicity of Java is - like for most new languages -
+partly an illusion and partly a function of its incompleteness. As time passes,
+Java will grow significantly in size and complexity. It will double or triple
+in size and grow implementation-dependent extensions or libraries. That is the
+way every commercially successful language has developed. Just look at any
+language you consider successful on a large scale. I know of no exceptions, and
+there are good reasons for this phenomenon. [I wrote this before 2000; now
+(2012), the language part of the Java 7 specification is slightly longer in
+terms of number of pages than the ISO C++11 language specification.]
+</p>
+</blockquote>
+
+<p>
+So simplicity is often a function of immaturity and incompleteness.
+</p>
+
+<p>
+Of course, some things that call themselves “simple” are not simple in any
+of the meanings, for example
+<a href="http://en.wikipedia.org/wiki/SOAP">SOAP</a>, the so-called “Simple
+Object Access Protocol” (see <a href="http://wanderingbarque.com/nonintersecting/2006/11/15/the-s-stands-for-simple/">the
+S stands for Simple</a>), is not simple in any of the meanings I have
+given, but it is still called like that.
+</p>
+
+<p>
+I feel that like
+<a href="http://www.shlomifish.org/philosophy/politics/define-zionism/">the word “Zionism”</a> no one is no longer sure what “simplicity” means,
+and as a result, some people no longer consider it a good quality to have.
+It’s a shame, but that’s life.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tips-vim-facebook-and-firefox">
+
+<!-- Tags: vim, tip, vim tip, tech, tech tip, firefox
+-->
+
+<h2>2012-02-18: Tech Tips: Vim, Facebook and Firefox’s Personas Rotator Extension</h2>
+
+<p>
+Here are three tech tips, that I felt did not necessitate their own
+entry.
+</p>
+
+<p>
+In the <b>Vim</b> text editor(<a href="http://www.vim.org/">homepage</a>),
+one can use the keybinding <tt>Ctrl+W ; O</tt> to close all windows except
+the current one, which will be the <b>only</b> one left open (hence
+the "O").
+</p>
+
+<p>
+In <b>Facebook</b> (<a href="http://en.wikipedia.org/wiki/Facebook">Wikipedia
+page</a>) one can use Shift+Enter to start newlines in the messages you compose
+in the site’s composer. Press it twice to start a new paragraph.
+</p>
+
+<p>
+If you are using <b>Firefox’s Personas Rotator Extension</b> (
+<a href="https://addons.mozilla.org/en-US/firefox/addon/personas-rotator/">Addons.mozilla.org page</a>), then you can switch the currently shown persona (
+in case you don't want it at the moment) using Ctrl+Alt+P or an alternate
+configurable keybinding. I discovered this latest tip by accident and can no
+longer imagine my life without it.
+</p>
+
+<p>
+Cheers!
+</p>
+
+</div>
+
+<div class="entry" id="why-java-sucks-for-cross-platform-gui">
+
+<!-- Tags: open source, programming
+-->
+
+<h2>2012-02-18: Why Java Sucks for Cross-Platform GUI</h2>
+
+<p>
+When the Java programming language first became publicised, it was heralded as
+the dawn of a new age of writing cross-platform programs. “Write once, run
+everywhere” they said. Now, 16 years after 1996, which was roughly when the
+Java hype started, I’d like to check if it delivered on this promise, by
+seeing if one can easily write a cross-platform GUI (= Graphical User-Interace)
+application using it. What I’m looking for is a Java GUI library that:
+<b>1.</b> Compiles. <b>2.</b> Is cross-platform. <b>3.</b> Does not suck.
+Teaser: I was not able to find one.
+</p>
+
+<p>
+The standard Java
+<a href="http://en.wikipedia.org/wiki/Swing_%28Java%29"><b>SWING</b> toolkit</a>is out-of-the-question due to its weird look and feel and crappy behaviour
+everywhere. Joel on Software has this to say about SWING:
+</p>
+
+<blockquote>
+<p>
+If you still think that something as small as how long you hold down the Alt
+key when you activate a menu command doesn't matter, well, your software is
+going to make people unhappy. These tiny inconsistencies are what makes Swing
+applications so unbearably annoying to use, and in my opinion it's why there
+are virtually no commercially successful Java GUI applications.
+</p>
+</blockquote>
+
+<p>
+(From <a href="http://www.joelonsoftware.com/navlinks/fog0000000262.html">the
+book reviews</a>, there's more criticism of it
+in <a href="http://www.joelonsoftware.com/articles/LordPalmerston.html">“Lord
+Palmerston on Programming”</a>.)
+</p>
+
+<p>
+I too have been frustrated by the unusable Java SWING GUIs, and in
+<a href="http://sourceforge.net/projects/nurikabe-maker/">one of the
+latest projects I am contributing to</a>, which has already been written in
+Java, I ran into a particularly buggy SWING UI.
+</p>
+
+<p>
+The Eclipse people implemented something called
+<a href="http://en.wikipedia.org/wiki/Standard_Widget_Toolkit">SWT</a>, but
+according to the wikipedia, it has several limitations, and require writing
+a lot of platform-dependent code.
+</p>
+
+<p>
+Next are the Qt bindings to Java -
+<a href="http://en.wikipedia.org/wiki/Qt_Jambi">Qt Jambi</a>. These require
+customising the <tt>build.properties</tt> (whereas the error and documentation
+says one should edit the <tt>buildpath.properties</tt> file), and after
+that fails compiling with this error:
+</p>
+
+<pre>
+[make] ../../generator/out/cpp/com_trolltech_qt_core/qtjambishell_QFutureIterator.cpp:21:15: error: no matching function for call to ‘QFutureIterator&lt;JObjectWrapper&gt;::QFutureIterator()’
+</pre>
+
+<p>
+Next I looked into java-gnome, but apparently it does not work on Windows, so
+it's not cross-platform.
+</p>
+
+<p>
+And the Java bindings for wxWidgets offer
+<a href="http://sourceforge.net/projects/wxjava/">wxJava</a>, which
+is Windows-only and unmaintained, and
+<a href="http://wx4j.sourceforge.net/">wx4j</a>
+and <a href="http://jwx.sourceforge.net/">jwx!</a>, which are unmaintained
+and no longer build.
+</p>
+
+<p>
+So I think that leaves us with nothing. How sad. Compare that to
+the <a href="http://www.mono-project.com/Gui_Toolkits">comprehensive coverage
+of Mono’s GUI toolkits</a>, many of which are cross-platform, and to the
+situation in other languages such as Perl or Python, and you'll see that
+Java sucks the most in this respect.
+</p>
+
+</div>
+
+<div class="entry" id="why-I-dont-trust-non-FOSS-software">
+
+<!-- Tags: open source, programming
+-->
+
+<h2>2012-02-18: Why I Don’t Trust Non-Open Source Software</h2>
+
+<p>
+Today I’m going to explain in a dedicated entry, why I do not trust
+programs that are not
+<a href="http://en.wikipedia.org/wiki/Free_and_open-source_software">Free and
+open-source software (FOSS)</a> and instead are more restricted. I have
+previously told that story as part of
+<a href="http://better-scm.shlomifish.org/docs/shlomif-evolution.html">a
+different essay</a>, but it was easy to miss.
+</p>
+
+<p>
+In any case, the <a href="http://better-scm.shlomifish.org/bk/">BitKeeper
+version control system</a> is now quite obscure, due to the advent of quality
+distributed open-source systems such as
+<a href="http://en.wikipedia.org/wiki/Git_%28software%29">Git</a>
+and <a href="http://en.wikipedia.org/wiki/Mercurial">Mercurial</a>, but
+some years ago it was used by many developers of the Linux kernel, and the
+demise of its gratis version was in fact the impetus for the creation of
+Git, and later Mercurial. Some time, before Linus Torvalds adopted it,
+I ran into a limitation of CVS, an open-source version control system,
+that was then popular, and was looking for an alternative, and after reading
+an out-of-date article about BitKeeper (which said its source was available
+under a mostly open source licence), decided to use it and its bkbits.net
+service.
+</p>
+
+<p>
+At first, I was quite happy using it for some of my projects, but then I
+posted a question to the mailing list, asking where I can find the source,
+which was implied to be available on the BitKeeper site. Larry McVoy
+(BitKeeper's main creator and maintainer) answered by saying that they decided
+for removing the source code, because some users modified it to remove the
+restrictions, and allowed them to abuse the licensing of the gratis version
+and prevent them from paying for the commercial version. He also noted that
+availability of source, meant that, in practice, your software was Public
+Domain, and that they provide the sources for people they can trust,
+in private.
+</p>
+
+<p>
+At that point, I figured out that I don't have an immediate need for the
+source, and that perhaps in the future, I can win BitMover (= BitKeeper’s
+parent company) trust and gain access to it. So I continued using BitKeeper.
+</p>
+
+<p>
+That changed, however, when Mr. McVoy announced a licence change to BitKeeper
+(while requiring all users of the gratis version to upgrade) that
+<a href="http://www.advogato.org/person/shlomif/diary/78.html">I found
+unacceptable</a>, and caused me to seek a different alternative. This
+caused an unpleasant exchange between me and the BitKeeper developers,
+and made me lose some of the repositories I hosted on bkbits.net.
+</p>
+
+<p>
+From that moment on, I realised that I cannot really trust non-open-source
+software, because even if I am allowed to continue to use its previous version
+after a licence change, then it may accumulate bugs or stop being runnable
+on my systems, or stop being supported, and I cannot risk it. To quote
+<a href="http://en.wikipedia.org/wiki/Richard_Stallman">Richard
+Stallman</a>: “Every non-free [= non-FOSS] program has a lord, a master —
+and if you use the program, he is your master”.
+</p>
+
+<p>
+The end of the BitKeeper story, was that after evaluating a few open-source
+alternatives, I settled on using the open-source Subversion, and later on
+also started using Mercurial and Git. Furthermore, from then on, I often
+refused to look at and evaluate proprietary programs. Lately, many open-source
+developers have been infatuated with
+<a href="https://en.wikipedia.org/wiki/Sublime_Text">Sublime Text</a>, but
+I am not willing to even try it, because it is not open-source, so I will
+never have to depend on it.
+</p>
+
+<p>
+Despite all that, I still license my original software under
+non-<a href="http://en.wikipedia.org/wiki/Copyleft">Copyleft</a> licences,
+because the GPLv2 and the GPLv3 are incompatible, both
+with one another, and with many other open-source licences, and because
+I know of at least three different interpretations to the GPL (
+GNU’s one in the GPL FAQ, the Linux kernel's one, and the draconian
+<a href="https://svn.nmap.org/nmap/COPYING" rel="nofollow">Nmap
+interpretation</a>), and because I want my code to be of the maximal available
+use without the need to consult a lawyer, and because I don't want to be
+worried about how it will possibly be abused, when I don't care if it will.
+I'm still using GPLed software, in the hope that I won't get sued.
+</p>
+
+<p>
+To sum up, I do not wish to rely on non-FOSS, because it may mean these
+software applications later becomes unavailable to me, in a similar
+manner to what was the case with BitKeeper. I hope you can relate to that,
+and if not, you may likely run into a similar situation in the future,
+as well also the case for the Linux kernel project, with the demise of
+the gratis BitKeeper altogether.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tips-ffmpeg-mixing-audio-and-video">
+
+<!-- Tags: tech, tech tip, open source, linux
+-->
+
+<h2>2012-12-10: Tech Tip: Overriding the Audio Track of a Video using ffmpeg</h2>
+
+<p>
+In this tip I will cover how to use ffmpeg to override the audio track of a
+video from a different audio track (such as the one in a WAV, an OGG or an
+MP3 file). To do that use the following recipe (based on
+<a href="http://cfc.kizzx2.com/index.php/muxing-audio-and-video-with-ffmpeg/">this
+out-of-date blog post</a> and some help from ubitux on
+<a href="irc://irc.freenode.net/#ffmpeg">#ffmpeg</a>, with a lot of
+trial and error):
+</p>
+
+<pre>
+ffmpeg -i in_audio.wav -i in_video.ogv -map 0:0 -map 1:1 -shortest \
+    -c:a libvorbis -q:a 7 -c:v copy output.ogv
+</pre>
+
+<p>
+Some of these files are not needed if you're not dealing with Ogg Video files.
+<tt>-shortest</tt> is useful for making sure that the length of the output
+is trimmed to that of the shortest input.
+</p>
+
+<p>
+I ended up using this command for
+<a href="http://www.youtube.com/watch?v=hYdqNuX4WJc">the latest screencast
+I prepared</a>. Cheers, and happy holidays.
+</p>
+
+</div>
+
+<div class="entry" id="announcing-the-vim-beginners-site">
+
+<!-- Tags: vim
+-->
+
+<h2>2012-12-10: Announcing the Vim Beginners’ Site</h2>
+
+<p>
+I am glad to announce that I, along with some help from some other people,
+have set up <a href="http://vim.begin-site.org/">the
+Vim Beginners’s Site - http://vim.begin-site.org/</a> (or Vim-Begin
+for short). It aims to be a centrally managed, yet fully open content/open
+source site, for concentrating the Internet’s best material for learning
+about the Vim text editor and expanding one’s knowledge. The site was
+inspired by <a href="http://perl-begin.org/">the
+Perl Beginners’ site (or “Perl-Begin” for short)</a>, and I set up the
+domains begin-site.org (and begin-site.com as a future redirect) to
+concentrate other similar high-quality sites introducing people to various
+technologies and topics. So if you want python.begin-site.org,
+emacs.begin-site.org, linux.begin-site.org, dotnet.begin-site.org,
+cooking.begin-site.org etc. then
+<a href="http://www.shlomifish.org/me/contact-me/">contact me</a> and I’ll
+see what I can do.
+</p>
+
+<p>
+The site is incomplete, and there's still a lot to do, but we have
+<a href="https://bitbucket.org/shlomif/vim-begin">a Bitbucket
+mercurial repository</a>, an issue tracker there, a
+<a href="https://bitbucket.org/shlomif/vim-begin/src/260364e02c8606b3e582b03adcbd3bce9400b460/vim-begin/jekyll-prototype/TODO.txt?at=default">TODO
+list</a>, and we accept pull requests. The text for the site’s pages
+is under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative
+Commons Attribution 3.0 licence</a> (unless noted otherwise) and whatever
+original source code is found there is under the
+<a href="http://en.wikipedia.org/wiki/MIT_License">MIT/X11 licence</a>, and
+both were chosen to allow for maximal reuse. Nevertheless, we may mirror,
+restore, or link to, resources under different licences.
+</p>
+
+<p>
+Cheers, happy new year, and happy Vimming!
+</p>
+
+</div>
+
+<div class="entry" id="joke-nsa-facts">
+
+<!-- Tags: security, humor
+-->
+
+<h2>2012-09-06: Joke: “NSA Facts”</h2>
+
+<p>
+Yesterday, I had the idea of creating some “facts” about the
+<a href="http://en.wikipedia.org/wiki/National_Security_Agency">NSA - the
+United States National Security Agency</a>, similar to the Chuck Norris
+Facts meme. And I got some
+<a href="http://www.shlomifish.org/humour/bits/facts/NSA/">pretty
+good factoids</a> so far, which I will share here:
+</p>
+
+<blockquote>
+
+<ul>
+<li>
+The NSA doesn't publish. They perish.
+</li>
+<li>
+The NSA employs the largest number of mathematicians with Ph.D. And the most
+stupid and incompetent ones.
+</li>
+<li>
+The NSA has a patent for an efficient process for collecting a lot of
+information and doing nothing with it.
+</li>
+<li>
+The Bajoran scholars have positively identified Benjamin Sisko as
+The Emissary. They also positively identified the NSA headquarters
+as The Dungeon.
+</li>
+<li>
+One of <i>Buffy the Vampire Slayer</i>’s episodes took place in the NSA
+headquarters, but had to be destroyed, because all of the test audience had
+uncontrollable panic attacks.
+</li>
+<li>
+The NSA knows what you did last summer. But no one, in the NSA or outside it,
+knows why they should.
+</li>
+<li>
+The more the NSA think, the less they want to be able to think.
+So they think less and less.
+</li>
+</ul>
+
+</blockquote>
+
+<p>
+Hope you enjoyed it and naturally - “ha ha, only serious!”. Now the ball is in
+your court
+- can you think of more? Put them in the comments below.
+</p>
+
+<p>
+Happy NSA bashing!
+</p>
+
+</div>
+
+<div class="entry" id="tech-tips-vlc-mplayer-disabling-audio-or-video">
+
+<!-- Tags: tech, tech tip, open source, linux
+-->
+
+<h2>2012-12-10: Tech Tip: Disabling Audio or Video in mplayer and VLC</h2>
+
+<p>
+In order to completely disable video in VLC, from the command line, use
+the <code>--novideo</code> command line flag - this way only the Audio will
+be heard. To do the same in mplayer, use the <code>-novideo</code> flag.
+You can do the same for audio using <code>--noaudio</code> and
+<code>-noaudio</code> respectively.
+</p>
+
+<p>
+A different propsoed solution is using <code>-vo none</code> in mplayer
+or <code>--vo none</code> in VLC, but this causes the video to still be decoded
+(just not presented) - at least in VLC.
+</p>
+
+<p>
+Cheers! You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence (see <a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">how to comply with it</a>).
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-disabling-tmux-time-display-in-the-status">
+
+<!-- Tags: tech tip, tech, tip
+-->
+
+<h2>2008-12-24: Tech Tip: Tmux: Disabling the Time Display in the Status</h2>
+
+<p>
+<a href="http://tmux.sourceforge.net/">tmux</a> is a usable and open source
+terminal multiplexer (that allows one to run several programs in the same
+terminal, detach them, split them into windows and viewports, etc.) which
+I've been happily using after switching to it from GNU screen. Some weeks
+ago, I noticed that if I keep tmux open in a
+<a href="https://en.wikipedia.org/wiki/Konsole">konsole</a> tab, then
+eventually that tab got highlighted as modified, even if there was no activity
+in the tab. I realised the problem had to do with the fact that tmux displays
+the current time by default.
+</p>
+
+<p>
+In order to fix it, you can use a line like the following in your
+<code>~/.tmux.conf</code> file:
+</p>
+
+<pre>
+set -g status-right '#H'
+</pre>
+
+<p>
+<code>-g</code> applies the assignment globally, and <code>'#H'</code>
+displays the hostname (and not the time or whatever else is there by default).
+</p>
+
+<p>
+While searching for an answer, I ran into the
+<a href="https://github.com/Lokaltog/powerline">powerline</a> project
+which provides much more functionality, seems like an overkill for me,
+but may work for you.
+</p>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Rosh_Hashanah">Shanah Tovah</a> to
+everyone!
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-copying-a-remote-file-on-rsync.net">
+
+<!-- Tags: tech tip, tech, tip
+-->
+
+<h2>2008-12-24: Tech Tip: How to Copy a Remote File on rsync.net</h2>
+
+<p>
+<a href="http://rsync.net/">rsync.net</a> is a good service (and a not too
+pricey one) for remote storage of data (for backups/etc.) based on open
+protocols and open source applications. One thing that bugged me there however,
+was that I couldn't find a way to copy a remote file to a different
+name, because the SFTP client does not support a copy operation, and because
+I could not get to a login shell by sshing my rsync.net account. Apparently,
+it's doable and not very hard.
+</p>
+
+<p>
+What you need to do is type
+<code>ssh my_account@somewhere.rsync.net cp [source filename] [destination filename]</code> and
+it will run the remote UNIX "cp" command to copy the file. You can access
+some other remote UNIX commands like that such as "ls".
+</p>
+
+<p>
+Hope it helps.
+</p>
+
+</div>
+
+<div class="entry" id="GNU-project-to-integrate-GNU-guile-into-coreutils">
+
+<!-- Tags: open source, programming
+-->
+
+<h2>2013-11-13: The GNU Project Will Integrate GNU Guile into GNU coreutils</h2>
+
+<p>
+<b>Tel Aviv, Israel:</b> the GNU (= “Guile N' UNIX”) project announced today
+that following the popular decision to integrate GNU Guile (= an implementation
+of the Scheme programming language) into GNU Make, it is going to integrate
+GNU Guile into the various tools inside GNU coreutils. So for example, GNU
+cat will have a "-g" flag that will allow embedding Scheme expressions, GNU
+echo will gain a similar flag, and GNU true and GNU false will allow evaluating
+Scheme expressions for truth or falsehood. It is not yet clear what
+functionality GNU head and GNU tail will gain by the integration.
+</p>
+
+<p>
+O’Reilly Media announced that it will publish a new edition of its
+<a href="http://www.shlomifish.org/humour/bits/Mastering-Cat/">series of
+books</a>, which includes <i>Mastering cat</i> and <i>Mastering echo</i> to
+cover the additional functionality provided by GNU Guile, and we will give
+an overview of the additional functionality in
+<a href="http://www.shlomifish.org/humour/bits/New-Israeli-Tech-Usergroups/">the
+usergroups</a> of the cat mongers, the echo-chamberists, and the (GNU) true
+believers.
+</p>
+
+<p>
+“If it’s not bloat, it’s not us.”, said Richard Stallman, the colourful
+head of the GNU project, and started to sing the Free Software song. Linus
+Torvalds was not available for comments about the proposal to integrate
+GNU Guile into the Linux kernel.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-merging-bookmarks-from-a-different-Firefox-Profile">
+
+<!-- Tags: tech tip, tech, tip, firefox
+-->
+
+<h2>2013-12-31: Tech Tip: Combining/Merging Bookmarks From a Different Firefox Profile</h2>
+
+<p>
+Happy New Civil Year!
+Let’s suppose you collected some bookmarks in a different <a
+href="http://getfirefox.com/">Firefox</a> profile (possibly on a different
+computer or system, or in a different profile), and wish to place them
+somewhere under your current or main profile’s bookmark tree - how can it
+be done? I had a need for that and in this entry, I describe a solution that worked for me.
+</p>
+
+<ol>
+
+<li>
+<p>
+First of all export your bookmarks from the source profile to a JSON
+file (“Bookmarks → Show All Bookmarks → Import and Backup → Backup…”)
+</p>
+</li>
+
+<li>
+<p>
+Create a new Firefox profile in the machine of the target profile.
+(see <a href="https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data?redirectlocale=en-US&amp;redirectslug=Profiles">this page</a>
+for more information about Firefox profiles.).
+</p>
+</li>
+
+<li>
+<p>
+Import the bookmarks from the JSON file to it (while overriding the default
+bookmarks).
+</p>
+</li>
+
+<li>
+<p>
+Copy all the folders you want to merge to the system clipboard
+(<code>Ctrl+C</code> or equivalent).
+</p>
+</li>
+
+<li>
+<p>
+Paste them into the default profile’s bookmark manager.
+</p>
+</li>
+</ol>
+
+<p>
+Then all you need to do is sort them. Cheers!
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-rsync-to-help-mitigate-long-git-clones">
+
+<!-- Tags: tech tip, tech, tip
+-->
+
+<h2>2014-01-02: Tech Tip: Mitigating “git clone”’s inability to be resumed using rsync</h2>
+
+<p>
+Happy new civil year, everyone. As you may know
+<a href="https://en.wikipedia.org/wiki/Git_%28software%29">Git</a> is
+a distributed version control system, but its often time-consuming (if the
+repository’s history is large) “git clone” operation cannot be resumed, which
+is a problem with bad Internet connections. There was a service that did
+“git clone” and then allowed people to download using HTTPS Called “Git
+bundler” but it has been down for sometime now. However, I found a different
+solution to the problem.
+</p>
+
+<p>
+What can be done is use
+<a href="https://en.wikipedia.org/wiki/Secure_Shell"><b>ssh</b></a>
+to log in to a remote host, where the “git clone” is performed (preferably,
+but not absolutely necessarily, when running on top of a session of
+<a href="https://en.wikipedia.org/wiki/Tmux">tmux</a>,
+<a href="https://en.wikipedia.org/wiki/GNU_Screen">GNU Screen</a> or
+similar). After that, you can use
+<a href="https://en.wikipedia.org/wiki/Rsync">rsync</a> over ssh to download
+the .git directory to the local workstation (I like to use
+the invocation <code>rsync -a --progress -v --inplace</code> for that).
+</p>
+
+<p>
+Following that all you have to do is run git clone to a different directory
+to the one where you put the <code>.git</code> and set “git remote” appropriately.
+</p>
+
+<p>
+Hope that helps, and the same can be done with other distributed version
+control systems such as
+<a href="https://en.wikipedia.org/wiki/Mercurial">Mercurial</a>,
+or <a href="https://en.wikipedia.org/wiki/Bazaar_%28software%29">Bzr</a>.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-empty-div-in-XHTML-served-as-text-slash-html">
+
+<!-- Tags: tech tip, tech, tip, web
+-->
+
+<h2>2014-01-02: Tech Tip: Empty &lt;div&gt; tag in XHTML served as text/html</h2>
+
+<p>
+If you serve <a href="https://en.wikipedia.org/wiki/XHTML">XHTML</a> (= HTML
+written using XML grammar and conventions) as
+<code>Content-Type: text/html</code>, you may be tempted to write an empty
+<code>&lt;div&gt;</code> tag as a standalone XML tag with a trailing
+slash using <code>&lt;div id="my_anchor" /&gt;</code>. Don’t do that, because
+with <code>text/html</code> (a.k.a “tag-soup”) the browser may
+think you just have an opening tag and will look for a closing tag
+elsewhere. Instead, write a pair of opening and closing tags, e.g:
+<code>&lt;div id="my_anchor"&gt;&lt;/div&gt;</code>.
+</p>
+
+<p>
+Using the first form confused both Firefox (24.2.x in my case) and Google
+Chromium (whatever shipped with Mageia at the time), and made them misrender
+my page, despite the fact that it validated as valid XHTML. Perhaps I should
+have considered putting the <code>id=".."</code> inside a meaningful
+sub-section of the document, but I implemented something for skipping a
+section navigation menu.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-resetting-glib-gtk-default-apps">
+
+<!-- Tags: tech tip, tech, tip, linux, firefox
+-->
+
+<h2>2014-03-08: Tech Tip: Resetting the GLib/Gtk+ Default Apps on Linux (e.g: the Default Browser)</h2>
+
+<p>
+In this tip, I would like to describe how to reset the default apps, and
+especially the default browser, for
+<a href="https://en.wikipedia.org/wiki/GLib">GLib</a> and
+<a href="https://en.wikipedia.org/wiki/GTK%2B">GTK+</a>. These
+are used by desktops like GNOME and XFCE, and by GTK+ applications
+such as HexChat or claws-mail. My problem originally was that I accidentally
+pressed the "Yes" button when Firefox Nightly (installed under a prefix
+under <code>/opt</code>) asked me whether I should set it as the default
+browser, which caused HexChat and Claws-Mail to open links using it by
+default.
+</p>
+
+<p>
+Anyway, to resolve this problem do this:
+</p>
+
+<ol>
+<li>
+<p>
+Go to <code>~/.local/share/applications</code>.
+</p>
+</li>
+<li>
+<p>
+Backup this directory somewhere safe.
+</p>
+</li>
+<li>
+<p>
+The <code>mimeapps.list</code> file contains the reference to use the offending
+apps under the <code>*.desktop</code> files there which you can search
+for the reference to the apps.
+</p>
+</li>
+
+<li>
+<p>
+Remove these line or their portions from <code>mimeapps.list</code>.
+</p>
+</li>
+
+</ol>
+
+<p>
+Now you may need to restart the desktop apps or the desktop environment (not
+sure).
+</p>
+
+<p>
+Hope it helps.
+</p>
+
+<p>
+Here’s how I found it: after some false leads of either
+trying to recursively search my home directory for occurrences of
+<code>/opt/firefox</code> and reading the source code of HexChat, GLib
+and gtk+ to see where this happens (there were too many levels of indirection
+there), I ended up doing “strace -f -o hexchat.strace hexchat” and inspecting
+the strace file for hints.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-add-notification-after-running-a-command">
+
+<!-- Tags: tech tip, tech, tip, linux
+-->
+
+<h2>2014-03-08: Tech Tip: add a notification (or any other command) after a command-line task has ended</h2>
+
+<p>
+I discovered that one can add a notification after a command you've already
+started running has ended on a UNIX system by suspending the command
+using “Ctrl + Z” and then typing something like
+“fg ; n --msg 'Command finished'” (where “n” is the command I use for
+notifications). “fg” brings a job to the foreground, and for more information
+about it see
+<a href="https://en.wikipedia.org/wiki/Fg_%28Unix%29">its wikipedia
+entry</a> and <a href="http://www.thegeekstuff.com/2010/05/unix-background-job/">the Unix Background Jobs entry</a> on thegeekstuff.com.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="game-recommendation-untrusted">
+
+<!-- Tags: games
+-->
+
+<h2>2014-04-21: Game Recommendation: “Untrusted: a User JavaScript Adventure Game”</h2>
+
+<p>
+If you’re a software developer, you should check out the game
+<a href="https://alexnisnevich.github.io/untrusted/">“Untrusted: a user
+JavaScript adventure game”</a> which someone on ##programming referred me
+to and which I became fond of. It is a game that involves writing some
+JavaScript code in certain designated places in order to make progress.
+</p>
+
+<p>
+On a different note, I found the Jamendo album
+<a href="http://www.jamendo.com/en/list/a132792/nanofly">Nanofly</a> by
+StrangeZero to be very nice and you should also check it out.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-make-Jamendo-playback-work-in-Firefox-on-Mageia">
+
+<!-- Tags: tech tip, tech, tip, linux, firefox
+-->
+
+<h2>2015-02-05: Tech Tip: Make Jamendo Playback Work in Firefox on Mageia Linux</h2>
+
+<p>
+If you’re having a problem playing
+<a href="https://en.wikipedia.org/wiki/Jamendo">Jamendo</a> tracks after
+pressing the “Listen” button (such as on <a href="https://www.jamendo.com/en/list/a132792/nanofly">this page</a>) on Firefox running on Linux, then try to
+install
+the packages «gstreamer0.10-plugins-bad gstreamer0.10-plugins-good
+gstreamer0.10-plugins-ugly gstreamer0.10-mpeg  gstreamer0.10-ffmpeg» (relevant
+to Mageia; try their equivalent in other distributions), restart Firefox and
+try again. The problem is that Firefox needs extra gstreamer plugins to
+play proprietary formats in
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats">HTML
+audio and video elements</a>. Cheers!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="optimisation-tip-avoid-excessive-forks-and-execve">
+
+<!-- Tags: tech tip, tech, tip, linux, optimize
+-->
+
+<h2>2015-02-22: Optimisation Tip: Avoid Excessive Forks+EXECVEs to Processes</h2>
+
+<p>
+This will come as a surprise to few, but performing a separate
+<a href="https://en.wikipedia.org/wiki/Fork_%28system_call%29">fork()</a>
+and <a href="https://en.wikipedia.org/wiki/Exec_%28computing%29">EXECVE</a>
+system calls (e.g: for <code>`factor "$n"`</code> in Perl or <code>popen</code>
+in C), on each iteration of a loop can really kill performance. One option
+to reduce that would be to read individual lines from a
+<code>seq 2 999999 | xargs factor</code> loop, or avoid forking altogether.
+</p>
+
+<p>
+I discovered this issue while working on
+<a href="https://projecteuler.net/problem=141">Project
+Euler problem #141</a>, and I should have realised that the sub-100%
+CPU utilisation of the program was caused by the excessive spawning of new
+processes.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="bug-that-led-to-useful-optimisation">
+
+<!-- Tags: linux, optimize, bug
+-->
+
+<h2>2015-02-26: “Out of the Strong, Something Sweet” - How a Bug Led to a Useful Optimisation</h2>
+
+<p>
+The book <a href="http://www.amazon.com/Fortune-Failure-Missed-Opportunities-Discoveries/dp/0631160876/ref=sr_1_2?ie=UTF8&amp;qid=1424966727&amp;sr=8-2&amp;keywords=fortune+or+failure"><i>Fortune
+or Failure: Missed Opportunities and Chance Discoveries</i></a> (which my family
+used to own, but which I did not read) gives the case to
+the important role of luck and chance in scientific discoveries. Recently,
+when working on <a href="https://projecteuler.net/problem=146">Project Euler
+Problem No. 146</a> I came up with a case of an accidental bug, that in turn
+led to an idea for a significant optimisation.
+</p>
+
+<p>
+The C code with the bug (which was in turn translated from some Perl code)
+looked something like that:
+</p>
+
+<pre>
+#define DIV 9699690
+#define NUM_MODS 24024
+#define NUM_PRIMES 8497392
+
+int primes[NUM_PRIMES];
+int mods[NUM_MODS];
+
+typedef long long LL;
+
+static inline bool is_prime(LL n)
+{
+    LL lim = (LL)(sqrt(n));
+
+    for (int p_idx=0; p_idx &lt; NUM_MODS ; p_idx++)
+    {
+        typeof (primes[p_idx]) p = primes[p_idx];
+        if (p &gt; lim)
+        {
+            return true;
+        }
+        if (n % p == 0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+.
+.
+.
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int n_idx=0;n_idx&lt;sizeof(n_off)/sizeof(n_off[0]);n_idx++)
+            {
+                if (is_prime(sq + n_off[n_idx]))
+                {
+                    goto fail;
+                }
+            }
+</pre>
+
+<p>
+As you can notice eventually, the problem was that in the <code>p_idx</code>
+loop, <code>NUM_MODS</code> should have been the larger <code>NUM_PRIMES</code>.
+This caused the test for primality to finish faster, but to sometimes return
+true instead of false. As a result, I noticed that some numbers were erroneously
+reported as suitable, but the program finished much faster.
+</p>
+
+<p>
+I corrected it and reran the program which was now much slower, but this led me
+to think that maybe the lower limit to the count of primes can be a pre-filter
+for primality for the “y_idx”/“y_off” numbers, that will run quicker and
+eliminate some numbers. As a result, I did this:
+</p>
+
+<pre>
+#define NUM_PRIMES__PRE_FILTER 24024
+
+static inline bool is_prime__pre_filter(LL n)
+{
+    LL lim = (LL)(sqrt(n));
+
+    for (int p_idx=0; p_idx &lt; NUM_PRIMES__PRE_FILTER ; p_idx++)
+    {
+        typeof (primes[p_idx]) p = primes[p_idx];
+        if (p &gt; lim)
+        {
+            return true;
+        }
+        if (n % p == 0)
+        {
+            return false;
+        }
+    }
+    return true;
+}
+
+.
+.
+.
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime__pre_filter(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int y_idx=0;y_idx&lt;sizeof(y_off)/sizeof(y_off[0]);y_idx++)
+            {
+                if (! is_prime(sq + y_off[y_idx]))
+                {
+                    goto fail;
+                }
+            }
+            for (int n_idx=0;n_idx&lt;sizeof(n_off)/sizeof(n_off[0]);n_idx++)
+            {
+                if (is_prime(sq + n_off[n_idx]))
+                {
+                    goto fail;
+                }
+            }
+</pre>
+
+<p>
+This made the program finish in under a minute, while yielding the correct
+solution. The original program, with the bug fix, was still running after
+several minutes.
+</p>
+
+<p>
+So the bug proved to be useful and insightful. One possible future direction
+is to merge the two “y_idx” loops into a single function that will accept an
+array of numbers, and will check them all for primality using the same divisors
+simultaneously, so as soon as one of them is found to be non-prime, a
+verdict will be reached.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by-nc/3.0/">the Creative Commons
+Attribution Noncommercial 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip-configure-Qt5-behaviour-when-running-on-KDE4">
+
+<!-- Tags: tech tip, tech, tip, linux, kde
+-->
+
+<h2>2015-02-28: Tech Tip: How to Configure Qt 5 Behaviour When Running on KDE4</h2>
+
+<p>
+Recently, I noticed that when running the VLC-2.2.0 prerelease, which
+is based on Qt 5 for its GUI, on my
+<a href="http://www.mageia.org/en/">Mageia</a>
+Linux 5 system on top of KDE 4, then in the playlist a single-click immediately
+played a file instead of selecting it, while reserving a double click for
+activation. After a long amount of research and thought, I figured out a way
+to configure Qt 5 on top of KDE.
+</p>
+
+<p>
+To do so:
+</p>
+
+<ol>
+
+<li>
+<p>
+Install lxqt-config and the “lxqt-qtplugin”.
+</p>
+</li>
+
+<li>
+<p>
+Add the line “<code>export QT_QPA_PLATFORMTHEME=lxqt</code>” somewhere before
+the desktop startup in your “.Xclients” or “.xinitrc” file (or in your
+“.bashrc”).
+</p>
+</li>
+
+<li>
+<p>
+Restart the X/KDE environment.
+</p>
+</li>
+
+<li>
+<p>
+Run “lxqt-config” to configure the appropriate behaviour.
+</p>
+</li>
+
+</ol>
+
+<p>
+This way one can use the Qt5 customisations of lxqt in KDE 4. Enjoy!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="vim-tip-2015-05-29--top-or-bottom-viewport">
+
+<!-- Tags: vim, tip, vim tip, tech, tech tip
+-->
+
+<h2>2015-05-29: Vim Tip: Going to the top or bottommost window/viewport</h2>
+
+<p>
+In the <a href="http://www.vim.org/">Vim</a> and GVim text editors, one can
+use <code>Ctrl+W;t</code> (or <tt>Ctrl+w;Ctrl+t</tt>) to go to the
+topmost/most top window (= a section of the screen in Vim terminology) and
+<code>Ctrl+W;b</code> to go to the bottommost/most bottom one.
+</p>
+
+<p>
+Cheers!
+</p>
+
+</div>
+
+<div class="entry" id="linux-tip--find-which-program-is-emitting-sounds">
+
+<!-- Tags: tip, tech, tech tip, linux
+-->
+
+<h2>2015-06-02: Linux Tip: How to Determine Which Program is Emitting Sounds</h2>
+
+<p>
+Here's a tip you may find useful about how to determine which program is
+emitting sounds on a modern
+<a href="http://en.wikipedia.org/wiki/Linux">Linux</a> system.
+This tip requires
+<a href="http://en.wikipedia.org/wiki/PulseAudio">PulseAudio</a> to be enabled
+, and if that's the case, just start up
+<a href="http://www.kde.org/applications/multimedia/kmix/">KDE’s KMix</a> and
+see which applications spring up in the “Playback Streams” tab. Hope it helps,
+and good luck.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="git-tip--git-bisect-requires-bad-and-good-revisions">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2015-06-06: git Tip: How to Call “git bisect start”</h2>
+
+<p>
+“git” is an open-source distributed version control system that has recently
+gained a lot of popularity. The “git bisect start” synopsis in “git help
+bisect” is somewhat misleading:
+</p>
+
+<pre>
+git bisect start [--no-checkout] [&lt;bad&gt; [&lt;good&gt;...]] [--] [&lt;paths&gt;...]
+</pre>
+
+<p>
+One has to specify both the “bad” and the “good” revisions explicitly or else
+“git bisect” will wait for the missing ones to be specified, which will be
+confusing. So specify them immediately at the “git bisect start” invocation.
+</p>
+
+<p>
+Incidentally,
+<a href="http://www.nntp.perl.org/group/perl.perl5.porters/2015/06/msg228300.html">perl-5.22.0</a>
+was released a few days ago. Grab it while it’s hot!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--fix-poor-Inet-connectivity-by-restart-router">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2015-06-25: Tech Tip: Fix Poor Internet Connectivity by Restarting the Router</h2>
+
+<p>
+I noticed that one can often fix poor home Internet connectivity (I have an
+<a href="https://en.wikipedia.org/wiki/Asymmetric_digital_subscriber_line">ADSL
+connection</a> but it may apply to other types of Internet connection), by
+powering off the router and starting it again (“restart/reboot”). So I’ve made
+a mental note to keep it in mind and now it’s in this blog as a tip. Cheers!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--firefox-debug-the-UI">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, firefox, debugging
+-->
+
+<h2>2015-07-03: Tech Tip: How to Debug Firefox’s UI Code Using the Debugging Tools</h2>
+
+<p>
+In order to debug Mozilla Firefox’s User Interface code (so-called “chrome”
+code), you should toggle the “Enable chrome and add-on debugging” checkbox
+in the Developer Toolbar’s setting and then go to “Tools → Web Developer
+→ Browser Toolbox”. Thanks to jdm on irc.mozilla.org for part of this
+tip. Cheers and happy <a href="http://en.wikipedia.org/wiki/Independence_Day_%28United_States%29">United Stated Independence Day</a> (4th of July)
+in case you are an American.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--skip-tests-in-RPM-spec-files-based-on-version">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, mageia, rpm
+-->
+
+<h2>2015-07-14: Tech Tip: Skip Tests in RPM .spec Files conditionally-to-version</h2>
+
+<p>
+Let’s suppose you are packaging a software application using
+<a href="https://en.wikipedia.org/wiki/RPM_Package_Manager">RPM</a> or a similar
+packaging system, and this application contains some automated tests that
+can be run using “make test”, “make check” or similar. You may opt to put them
+inside a “%check” section, but the problem now is that they may fail.
+</p>
+
+<p>
+The solution I used in this case (assuming fixing the tests was out of scope
+of my work as a packager) was to comment out the command that ran the tests,
+but this is not ideal because that way the tests will also be disabled in
+subsequent versions of the application, unless the packager remembers to
+reenable them.
+</p>
+
+<p>
+Recently, I discovered a better way to do that, after inspecting the source
+of a <a href="http://www.mageia.org/en/">Mageia Linux</a> package. One needs
+do something like that:
+</p>
+
+<pre>
+%define known_to_fail_version 1.82
+
+%check
+
+if test "%{version}" = "%{known_to_fail_version}" ; then
+    true
+else
+    # Run the tests.
+    make check
+fi
+</pre>
+
+<p>
+This way, the tests will get run again for subsequent versions of the packaged
+application, and if they fail again one can set “known_to_fail_version” to
+a new value.
+</p>
+
+<p>
+I hope you also find it a cool trick. Cheers!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--trimming-old-releases-from-minicpan-dirs">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, perl, cpan
+-->
+
+<h2>2015-07-20: Tech Tip: Trimming Old Releases from minicpan Directories</h2>
+
+<p>
+<a href="https://metacpan.org/pod/distribution/CPAN-Mini/bin/minicpan">minicpan</a>
+is a tool to create or update a minimal local mirror of CPAN (= the
+“Comprehensive Perl Archive Network”), that contains only the latest releases
+of CPAN distributions. Now, one problem I ran into when using it is that
+“minicpan” did not seem to delete the older downloaded releases after they were
+superseded by newer ones. A few days ago I found a solution to this problem.
+</p>
+
+<p>
+What you can do is:
+</p>
+
+<ol>
+
+<li>
+<p>
+Move away the minicpan’s mirror’s top directory (<b>do not delete it!</b>)
+</p>
+</li>
+
+<li>
+<p>
+Set up a localhost HTTP service on a high TCP port which will serve the moved
+minicpan directory. For that you can use
+<a href="http://www.garyrobinson.net/2004/03/one_line_python.html">the
+one line Python HTTP service</a> command line or
+<a href="http://opensource.dyc.edu/sthttpd">sthttpd</a>’s “thttpd -p $PORT”
+invocation or whatever.
+</p>
+</li>
+
+<li>
+<p>
+Run the “minicpan” command while pointing the remote to the localhost mirror
+of the old minicpan mirror, using the “-r” flag or by temporarily editing the
+“~/.minicpanrc” file.
+</p>
+</li>
+
+</ol>
+
+<p>
+Voila! Now the mirror will only contain the latest releases, and you can remove
+the old, moved-away, minicpan directory, and cancel the HTTP service.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--dash-j-flag-when-building-GNU-guile">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, speed
+-->
+
+<h2>2015-09-01: Tech Tip: Don’t pass the -j$N flag to make when building GNU guile2</h2>
+
+<p>
+In order to build
+<a href="http://en.wikipedia.org/wiki/GNU_Guile">GNU Guile</a> (or at least its
+version 2.x), it is important not to pass the “-j$N” flag to “make”. Without
+the flag, the compilation will be faster (counterintuitively I admit), because
+some of the build tasks spawn as many processes or threads as the CPU cores
+on the machine, and with the flag, they get congested and the build is
+slower. Cheers!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+of how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--locally-host-the-firefox-favorites-file">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, firefox, mozilla, personas
+-->
+
+<h2>2015-09-15: Tech Tip: Locally Host the Firefox’s Personas Favourites File</h2>
+
+<p>
+A constant annoyance when trying to use the Firefox extension
+“<a href="http://barisderin.com/?p=120">Personas Rotator</a>” was that
+downloading the favourites file from the Firefox addons site failed, which made
+it stop rotating. I recently found a solution for that which I'd like to share.
+</p>
+
+<p>
+First of all, login to
+<a href="https://addons.mozilla.org/en-US/firefox/themes/">the Mozilla
+addons site</a> and access and bookmark
+<a href="https://addons.mozilla.org/en-US/firefox/collections/mine/favorites/format%3Ajson?src=">the JSON data file’s URL</a>. Save it to a file and host it
+using a local HTTP service (such as Apache,
+<a href="http://www.garyrobinson.net/2004/03/one_line_python.html">the
+one line Python HTTP service</a> command line, or
+<a href="http://opensource.dyc.edu/sthttpd">sthttpd</a>’s “thttpd -p $PORT”
+invocation).
+</p>
+
+<p>
+Then, go to Firefox’s “about:config”, access the
+“extensions.personas.favorites-feed.url” key and change it to the locally
+served one. It should work fine after restarting Firefox, and one upside to
+it would be that you no longer need to be logged in to addons.mozilla.org
+for it to work.
+</p>
+
+<p>
+Remember to save the file again every once-in-a-while, after you have added new
+favourites. A final note is that a “file://” URL may work fine as
+well, but I have not tried it yet.
+</p>
+
+<p>
+Happy rotating, and
+<a href="http://en.wikipedia.org/wiki/Rosh_Hashanah">Shanah Tovah</a> if
+appropriate!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--make-panes-equally-heighted-in-tmux">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, tmux
+-->
+
+<h2>2015-11-06: Tech Tip: Make Panes Equally Heighted in Tmux</h2>
+
+<p>
+When pressing «Ctrl+B;"» in
+<a href="https://en.wikipedia.org/wiki/Tmux">tmux</a>
+to split a pane vertically there, one will
+notice that tmux splits the existing pane into two which can result in
+smaller and smaller panes. In order to fix this, one can type «Ctrl+B;M-2»
+(where “M” is the <a href="https://en.wikipedia.org/wiki/Meta_key">Meta
+key</a> and is normally “Alt” on most keyboards.) which will make all
+the panes equally heighted.
+</p>
+
+<p>
+I found this feature after wondering whether it existed, and then searching
+for it in the tmux man page.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--perl-build-dont-install-man-pages">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, perl
+-->
+
+<h2>2015-12-03: Tech Tip: Speed up building perl 5 by not installing the man pages</h2>
+
+<p>
+When building <a href="http://dev.perl.org/perl5/source.html">perl 5
+from source</a>, one can speed up the "make" and "make install" stages
+significantly by not installing the man pages. To do so, pass the options
+“-Dman1dir=none -Dman3dir=none” to “sh Configure”.
+</p>
+
+<p>
+Cheers, and happy upcoming
+<a href="https://en.wikipedia.org/wiki/Hanukkah">Chanukkah</a>, and happy
+Christmas and/or Yulth or whatever winter holiday you celebrate.
+</p>
+
+<h2>Call for action</h2>
+
+<p>
+Creative Commons has set up
+<a href="http://creativecommons.org/campaigns/stop-the-tpp">a campaign</a>
+to stop <a href="http://creativecommons.org/weblog/entry/46455">TPP -
+the Trans-Pacific Partnership</a>. Please consider signing it and spreading
+the word.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--sync-clock-using-ntpd">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2016-03-10: Tech Tip: How to properly sync the clock using NTP on Linux</h2>
+
+<p>
+In order to sync the clock using
+<a href="http://en.wikipedia.org/wiki/Network_Time_Protocol">NTP</a>, the network
+time protocol so your computer clock won't be skewed, one should run the
+following command as root: “<code>ntpd -q -g -x</code>”. This has been a
+constant problem for me in part because SSL/HTTPS sites may not work if your
+clock is out-of-date.
+</p>
+
+<p>
+You can find the meaning of the individual flags in the
+<a href="http://linux.die.net/man/8/ntpd">ntpd man page</a>.
+</p>
+
+<p>
+Cheers and happy upcoming
+<a href="http://en.wikipedia.org/wiki/Purim">Purim</a> in case you celebrate.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2015.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--checking-latest-build-in-Travis-CI">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss, travis ci, ci
+-->
+
+<h2>2016-05-27: Tech Tip: Checking the Latest Build in Travis CI</h2>
+
+<p>
+If you are using
+<a href="http://en.wikipedia.org/wiki/Travis_CI">Travis CI</a>, you can check
+the latest build after a failed build by going to the “Build History” tab
+in your project’s main page (= https://travis-ci.org/shlomif/fc-solve or
+equivalent), and selecting the new commit.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2016.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--disable-touchpad-on-Linux">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2016-07-06: Tech Tip: Disabling the Touchpad/Trackpad on Linux</h2>
+
+<p>
+If your touchpad/trackpad (= the built-in mouse control found in some laptops)
+is a Synaptic one, then you can disable it on Linux systems by issuing the
+command <code>synclient TouchpadOff=1</code> (you may need to install synclient
+first. I originally learned of it from
+<a href="http://kde-apps.org/content/show.php/Disable+-+Enable+Touchpad?content=50914">this
+link</a> on kde-apps.org.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2016.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--resetting-git-branch-history">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2016-07-06: Tech Tip: Nullifying/Resetting/Overriding a Remote Git Repository's Branch History</h2>
+
+<p>
+If you have a branch in a remote repository of the
+<a href="https://en.wikipedia.org/wiki/Git_%28software%29">Git
+version control system</a> which you need to reset/nullify/override its
+history, you can do it by setting up a brand new branch with the same name (say
+starting in an empty repository) and then pushing it from there to the remote
+while specifying the <code>--force</code> flag. Thanks to the people
+from #git on <a href="http://freenode.net/">Freenode</a> for enlightening me.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2016.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--make-pidgin-incoming-messages-icon-animated">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2016-12-15: Tech Tip: How to Make Pidgin’s Incoming Messages Icon Animated</h2>
+
+<p>
+<a href="https://pidgin.im/">Pidgin</a> is an open source chat client.
+If you want to make its incoming messages system tray icon animated, simply
+right click on the icon, and select “Blink on new messages”. This way it will
+be harder to miss and that is what I was used to having.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2016.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<div class="entry" id="tech-tip--save-space-on-AWS-EC2-VMs">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2017-02-22: Tech Tip: Saving hard disk space on Amazon AWS Linux Instances</h2>
+
+<p>
+By default,
+<a href="https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud">AWS'
+EC2</a> machines are given a hard disk of only 8 GB of space, and each extra
+gigabyte costs extra, even if you rent a machine with much more RAM than that.
+Some options you can try if you don't want to enlarge the hard disk are:
+</p>
+
+<ol>
+
+<li>
+<p>
+Remove unnecessary system packages (using the
+<a href="http://askubuntu.com/questions/187888/what-is-the-correct-way-to-completely-remove-an-application">“apt remove”</a> command on Ubuntu/Debian VMs or
+equivalents. From my experience, the default Ubuntu VMs ship with a lot of
+junk preinstalled.
+</p>
+</li>
+
+<li>
+<p>
+Remove packages that you installed and no longer need (e.g: gcc).
+</p>
+</li>
+
+<li>
+<p>
+One can also try to do “rm -fr /usr/share/man /usr/share/doc” and other
+unnecessary directories that are cheaper to use on local VMs or host systems.
+</p>
+</li>
+
+<li>
+<p>
+Consider using <a href="https://en.wikipedia.org/wiki/Amazon_S3">S3</a> or
+similar instead of the local hard disk, which should be much cheaper.
+</p>
+</li>
+</ol>
+
+<p>
+Good luck!
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2017.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
+<script type="text/javascript" src="anchors.js"></script>
+
+</body>
+</html>

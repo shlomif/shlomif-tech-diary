@@ -1,0 +1,14 @@
+strcmp(a, b) returns 0 if the "a" and "b" are identical, but also returns -1 if
+a is less than b, or 1 if a is greater than b. Same for memcmp() and other
+functions like that. This is useful for using as comparators in such functions
+as qsort() or bsearch(), or for use in binary tree implementations such as
+<a href="http://adtinfo.org/">libavl</a>. This is more useful than just
+returning 1 on success and 0 on failure.
+
+Perl has the similar operators "cmp" and "&lt;=&gt;" which can be
+<a href="http://www.shlomifish.org/lecture/Perl/Newbies/lecture4/and_or/sort.html">precedence chained</a> using the "or" operator, which is less elegant
+to do in C.
+
+While a macro to check for string equality may be useful, there is still a lot
+of merit in strcmp returning -1,0,1 instead of just 0 upon failure and 1 upon
+success.

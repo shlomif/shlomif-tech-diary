@@ -1,0 +1,12 @@
+<p>
+Nice article. However, are you sure most developers are working on Windows? Not according to the article which I referenced
+<a href="http://discuss.fogcreek.com/joelonsoftware3/default.asp?cmd=show&ixPost=98232&ixReplies=39">in this Joel-on-Software discussion</a>:
+</p>
+
+<p>
+"Linux is becoming the development platform of choice; for example, it is expected that more developers will be developing on Linux than Windows by 2004;"
+</p>
+
+<p>
+Also can you please add a "Preview Comment" button? I am unable to tell if my comment is good or not because the only button I have is "Submit Comment".
+</p>

@@ -1,0 +1,42 @@
+* Support Patchsets
+* Support Cancelling Patchsets
+* Support Distributed Respositories
+* Support Branching and Tags as well as CVS
+	- Plus, linking files from branch to branch, sub-branching,
+	- Merging changes
+* Support distributing patchsets across branches.
+* Has nice GUIs and nice gdb/bash-like CLIs for doing anything
+* Nice integration with bash/zsh/emacs/MS DevStudio/KDevelop/
+  Borland's Stuff/etc.
+* Fully Free Software. Preferably LGPL or lighter.
+* Easy to use - can be learnt in a day.
+* Work on several patchsets simultaneously
+* Repository can be reset to any state at any time
+* Has its own internal permissions system which would be very flexible.
+* Copy and rename of entire directories or files.
+* Merge two or more files together.
+* Split a patchset into several patchsets.
+* Openlogging. However, such with the ability to cache intermediate logs
+and then compress them and send them in one bulk.
+* Atomic repository-wide commits.
+* clone/push/pull including ones using UI.
+* a default "parent" repository so no need to remember which one to
+do a push or pull to.
+* Ability to work on a copy of the files, instead of a copy of a repository.
+* Work flawlessly on Windows - a native Win32 port. (VMS and MVS - also a
+good idea, but of lesser priority)
+* Fast to work with. (no waiting for ages over an ADSL line for the
+ "changeset" to get to BerliOS)
+* Files spread across the filesystem, so a corrupted file will not ruin
+everything. (unless of course, the format has error correction and is stable)
+* Grabbing a certain portion of a file into another one, and magically
+maintaining them both together. ( a bad idea programmatically but could prove
+of use).
+* Magic sub-branches: A diff that would be applied against a certain file upon
+downloading. (change "#!/usr/bin/perl -w" to "#!/usr/bin/perl").
+* Online help, man pages, HTML help, info page, WinHelp file - PDF document -
+the works
+* Conversions to/from CVS, BitKeeper, ClearCase, Visual SourceSafe, Perforce, etc.
+(refer to Joel Spolsky's "Let me go Back" article)
+
+

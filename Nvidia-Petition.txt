@@ -1,0 +1,52 @@
+The world-wide community of Linux users requests that Nvidia Corp. releases
+fully-functional open-source (BSD-licensed) versions of their binary device
+drivers, as soon as possible.
+
+At the moment, Nvidia has released its 3-D enabled driver as a binary object
+file along with some C wrappers for compatibility, as well as a modified
+version of SGI's OpenGL library. While this solution is the best one besides
+having an open-source driver, it does have many problems:
+
+1. It subjects X-Window or the entire system to a large number of crashes,
+and hang-ups. This is while a system where the drivers are not loaded, works
+perfectly for weeks on end. So, if Linux users want to enjoy 3-D games, they
+often have to put up with uptimes that make Windows look very stable.
+
+2. It taints the system with non-free kernel modules and libraries. This
+prevents getting help from the vendor or from other kernel developers, who
+refuse to debug a tainted kernel (and rightfully so).
+
+3. The kernel upgrade process becomes more complicated, as the driver needs
+to be re-compiled after the kernel is up, while X needs to be shut down, etc.
+
+4. The build process of the drivers often breaks with some kernel upgrades,
+and requires third-party patches. (or even crashes the system after compiling
+cleanly - e.g: one page stacks).
+
+5. They don't provide a solution for people who wish to use the cards on
+different computer architectures than the ones that Nvidia provides drivers
+for. For example, the users of PowerPCs cannot use the 3-D capability of
+their cards.
+
+6. There are many other technical problems that often surface.
+
+7. The nvidia engineers that work on the drivers cannot be effectively reached
+or contacted.
+
+The current solution offered by Nvidia may be the second-best solution. But
+this is one case where the second best solution is not good enough.
+
+The response of the Nvidia engineers to this problem in
+http://www.linuxquestions.org/questions/t253027.html was completely
+unsatisfactory. They claimed that they cannot release open source drivers
+because "We have lots of IP in our supported closed source Linux driver some
+of which is licensed and cannot be open sourced.". Well, if Nvidia has
+copyrighted code in its drivers, then they can surely invest some money
+in hiring more developers to re-write it. They are a very profitable company,
+after all.
+
+So we request that an open-source driver will be released as soon as possible.
+Meanwhile, we are going to collect a bounty for reverse-engineering the
+Nvidia drivers and releasing an open-source driver based on this effort
+(using the open-source Mesa library).
+

@@ -1,0 +1,73 @@
+Here is my version:
+
+Before I start, I must apologize to Larry McVoy for attacking him personally.
+This was a hasty deed from which we should all abstain.
+
+RFC: Funds for the "Better CVS"
+
+Ayn Rand said in "Atlas Shrugged" that any man must make a choice
+between upholding freedom, life and not defaulting on logic or reason,
+or between succumbing to irrationality. Similarly in the free software
+world one must make a choice of holding on to their free software ideals.
+
+I used to think of myself as an "in for free beer" kind of guy. Use it,
+whether it is free or not. Code. Distribute. Be happy. I still feel no
+guilt feelings or remorse for using proprietary software. Prominent
+examples include: Microsoft Excel, Microsoft PowerPoint, WinZip,
+CoolEdit, PaintShop Pro, xv, Matlab, Borland C++, Delphi, Eudora, and the
+list goes on. I would not hesitate before using them again.  But I also
+know there should be a choice between free software and proprietary
+software, and that the free alternative should eventually be up to par
+if not better than the proprietary one.
+
+We all agree that CVS and Perforce are OK as far as source control
+management systems are concerned. We all agree that ClearCase is very
+powerful but has become bloated, and practically Consultingware.
+
+We need a better source control system. And we need it as free software.
+Using a proprietary source control system for open-source projects is
+unthinkable. It is ridiculus as claiming that gcc can be proprietary or
+that the Linux and BSDs kernels should be closed-source, or that Perl
+, Python or Ruby should be proprietary languages. The reason is that
+source control is a meta-hack: something developers depend on to write good
+code. As such, it should essentially be free software.
+
+Luckily for us there are at least three alternatives out there that are
+better than CVS (albeit doubtedly not as good as the commercial state
+of the art):
+
+1. Aegis - Aegis was created by Peter Miller, a superb UNIX hacker and
+computer scientist, and intended to be the ultimate SCM tool out there.
+Aegis is already mature and usable. Peter Miller has been very quiet
+about getting contributions to Aegis, which IMO, is a good thing.
+
+2. Subversion - a SCM tool that aimed to be primarily a "better CVS" and
+nottoo much more. Under very active development, and in beta stage now.
+
+3. Arch - an SCM package by Tom Lord that is already usable. Lord has
+recently requested donations so he can keep working on Arch on his free time.
+My suggestion to him is to not be so desperate: work on Arch for fun.
+
+
+There isn't something inherently wrong with Source-control management
+systems that would make them impossible to be developed as open source. But we
+need money to hire competent companies and hackers to do the work for us, if
+we wish to make the situation quicker. This money would be dedicated to
+continuing development of those products, hopefully bringing them more up
+to par with the state of the art.
+
+What hosting services can do to help, is not to pre-assume developers
+want CVS or only CVS hosting. By all means a public Arch, Aegis or
+Subverion repository will go a long way in accepting them.
+
+A final note: there is no such thing as "1.0" of SCMs. The ultimate Version
+Control System is somewhere in infinity. There will always be the 2.0 of SCMs,
+as well as the 3.0 etc. Knuth is not God because God has already released TeX
+4.0 and is hard at work on version 5. As I noted once, the number of items
+on a project's to-do list always grows or remains constant. (and some of
+the good Hackers-IL people could find ways to prove it from the second law of
+thermodynamics.)
+
+Best regards,
+
+    Shlomi Fish

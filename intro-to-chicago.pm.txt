@@ -1,0 +1,182 @@
+Hi all!
+
+First of all, the purpose of this email is two-fold:
+
+1. A Netiquette question: what topics are considered on-topic for fresh
+discussions, and what aren't?
+-----------------------------------------------------------------------
+
+Obviously a Perl technical question is on-topic
+and so are activities discussions. But are philosophical, advocacy, etc.
+questions on-topic? Is comparing Perl to Python/Lisp/Intercal/C/Assembler
+on-topic? Are links to jokes about Perl on-topic? (Excluding xkcd.com of
+course, which everyone and his sister-in-law reads.)
+
+Are discussions about related computing topics such as UNIX, email servers,
+editors, etc. on-topic? Etc.
+
+I'm asking because I already got burned twice in London.pm where I discovered
+that their everything-is-on-topic policy is actually
+"everything-is-on-topic-except-some-things-that-aren't". They used to discuss
+Buffy a lot, but frowned upon me London.pm-ing a Star Trek episode I started
+writing (even thought it had some Buffyism). Then I posted an email with some
+Perl jokes I generated and collected, and was banned from the mailing list.
+Maybe it was annoying, but it was amusing, and was certainly on-topic. So I'd
+like to make it clear.
+
+On the Freenode IRC channel, most channels (including #perl) have a
+"off-topic-is-on-topic" policy, and even accept fresh discussions, although
+some things are still considered bad form, or trolling. I'm not sure this
+policy can really work for Email, unless it's a dedicated off-topic or
+chat mailing list.
+
+2. Introducing Myself:
+----------------------
+
+I'll try to be as brief as possible.
+
+My name is Shlomi Fish, and my personal web site is
+http://www.shlomifish.org/ . I've been seriously working with Perl and UNIX
+since 1996, when I got a work as a web programmer for one of Israel's first
+web-design companies. Back then Perl was the only sane choice for writing
+web apps on UNIX, which was the only sane operating system to use. And it was
+what I was told to use. After learning Perl and UNIX, I realised that I
+found the holy grails of programming languages and operating systems
+respectively. Before that I knew that DOS and Windows were bad, but did not know
+why. When I used UNIX I found something that was actually good, and behaved
+well.
+
+I'm still actively using Perl and enjoying it, as I still couldn't find a
+better alternative and one that "just works".
+
+Throughout the years, I've worked on a lot of FOSS code, either for projects
+that I've initiated on my own, or that I contributed to projects of other
+people. Most of my production code was written in Perl (probably the most of
+the Turing-complete code I wrote), C and C++, various XML based grammars and
+Website Meta Language, Bash, and Python. As much as I like learning other
+languages and have learnt Scheme, Haskell, Lambda Calculus, Common Lisp,
+Smalltalk (the Squeak GUI scared me away though), etc. and found them
+enlightening, I don't find them suitable for writing real-life code with,
+for various reasons, but would recommend learning them, though, anyway.
+
+Some links to the software I created can be found at:
+
+http://www.shlomifish.org/open-source/
+
+Including my now over 40 CPAN distributions:
+
+http://search.cpan.org/~shlomif/
+
+---------------
+
+Aside from all that I've been an essayist
+( http://www.shlomifish.org/philosophy/ ) and a blogger. Some of the more
+critical articles I wrote about what I perceived as unfortunate trends in the
+Perl world, and my general tendency towards tactlessness got me a somewhat
+bad reputation. This prompted me to keep introducing myself as the Perl Black
+Sheep to people who don't know me.
+
+I probably gained some enemies, but most of the people of importance (who
+I care for their opinion, and are not foolish enough to hold a lot of prejudice
+about me) still respect me enough to co-operate with me on codebase, or to
+recognise when I'm saying something of value. I suppose as far as Perl was
+concerned I was off to a bad start, but I suppose having a somewhat tarnished
+reputation is better than having none at all.
+
+Plus, I'm not optimising for being loved. If saying my well-thought opinion
+means receiving some criticism or even getting into online "trouble", then
+so be it. Socrates got killed for speaking his opinion, and while I'll probably
+am cautious enough not to, everyone agree that Socrates was incredibly smart,
+and that he was killed for saying the wrong things for his time.
+
+----------------------------------------
+
+What I hate:
+------------
+
+1. Prejudice. People who think Perl is not useful because it's
+ugly/unmaintainable/too-big-to-fit-into-one's-head/yesterday's news etc. People
+who think Mandriva (which I'm using to write this letter) is not a good
+distribution because it's RPM-based and/or not as "cool" as Ubuntu. People
+who think Linux does not have a decent GUI or is hard to use.[1] In short,
+people who have prejudice, and "feel" instead of "knowing" or understanding.
+
+An extreme form of prejudice is labelling - "Linux is stupid" (WDYM by
+"stupid"), "Perl is ugly" (what is ugly and why is it bad), instead of the more
+subjective-inducing "I dislike Perl" or "I could never get used to Linux."
+
+{{{{{{{{{{{{{{
+[1] - I've known a Linux guru who installed Windows and Outlook for his
+mother, because he believed Linux and Thunderbird were too hard to use. On the
+other hand, there's this evidence to the contrary:
+
+http://mirror.hamakor.org.il/archives/linux-il/05-2005/15319.html
+}}}}}}}}}}}}}}
+
+
+2. Irrationality. Some people simply refuse to listen to reason and experience.
+I've recently ran into a Neo-Socialist on IRC who wondered why I asked him if
+he were indeed such, because on his homesite-qua-blog he had the word
+"interests" linked to "Socialism". I told him he should mention Socialism in
+the text, but he wouldn't listen to reason.
+
+Earlier, someone wrote a prototype for a new website for the
+GIMP, and kept saying it didn't matter that it used horrible URLs like
+index.php?page=tutorials&subpage=scripting instead of better URLs that make
+a wise use of PATH_INFO.
+
+Often people jump to conclusions, personally attack me and others, make wild
+accusations, blame the world at large is responsible for their problems, and
+other irrational things.
+
+3. Cruelty - I actually encountered many cases of abuse which cruelty seemed
+like the best explanation for, and it saddens me that people can be so cruel,
+possibly out of jealousy and envy.
+
+
+What I Like:
+------------
+
+1. Neo-Tech and Objectivism:
+
+http://www.shlomifish.org/philosophy/philosophy/guide-to-neo-tech/
+
+2. GNU/Linux and FOSS in general.
+
+Mandriva Linux (Cooker) is at the moment my distribution of choice, which
+often raises some eyebrows, but I find it is the most suitable for me. I can
+still happily tolerate use other Linux distributions, and to a much lesser
+extent BSD clones.
+
+3. The Internet. Especially:
+    1. Google and other high-quaulity search engines such as Yahoo.
+    2. The Wikipedia.
+    3. The News Sites and Blogs I like to read (see
+    http://www.shlomifish.org/me/rss-feeds.opml )
+    4. High-quality sites created by individuals
+
+4. GVim.
+
+5. Perl and programming in general.
+
+6. KDE.
+
+7. Biking.
+
+8. Writing and reading essays, blog entries, blog comments, and funny stories,
+bits and aphorisms.
+
+8. The usual things like my friends and family, good food, my country, etc.
+
+=====================
+
+Well, that's it for now. Now I'd like to compile the new Linus -rc kernel,
+reboot and part from my 9 days uptime. (and while I'm waiting, clean up the
+cruft at my home directory).
+
+I hope I can prove to be a useful member of your esteemed forum.
+
+Best Regards,
+
+    Shlomi Fish
+
