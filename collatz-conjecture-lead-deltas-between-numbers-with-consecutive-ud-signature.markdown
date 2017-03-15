@@ -2,47 +2,70 @@ Inspired by
 [Project Euler problem No. 277](https://projecteuler.net/problem=277) , we
 can give the Collatz sequence of each positive integer (see
 [the Collatz conjecture](http://en.wikipedia.org/wiki/Collatz_conjecture) ) a
-signature of the steps taken to reach the number 1, by denoting “u” if we
-first multiply by 3 and add 1 and then (necessarily) divide by 2 (if the
-number is odd), or “d” if divide by 2 (if the number is even). So for example:
+signature of the sequence of steps taken to reach the number 1.
+
+Let's denote:
+
+* “u” for the two consecutive steps of multiplying an odd number by 3 and
+adding one and then dividing by two.
+
+* “d” if divide by 2 (if the number is even).
+
+So for example:
 
 4 → 2 → 1 ⇒ “ddd”
 
 3 → 5 → 8 → 4 → 2 → 1 ⇒ “uuddd”
 
-Now, I've written a [computer program, with source](https://bitbucket.org/shlomif/collatz-conjecture/src/bfd666d84bf0e78d2f430567291cd377218e9999/3x+1/inspired-by-project-euler/euler-inspired-collatz.pl?at=default)
-to start from the first number which has a certain signature prefix, and find
-the higher integer which follows with either “u” or “d” appended to the
-end of the signature (e.g: from “uud” to “uudu” or “uudd”), and I found out that the difference between the two
-integers is almost always 0 or a whole power of 2. You give the program a
-signature at the command line and it traverses its prefixes like so:
+Now, I've written a [computer program, with source](https://github.com/shlomif/collatz-conjecture/blob/master/3x%2B1/inspired-by-project-euler/euler-inspired-collatz.pl)
+to investigate the signatures of these numbers. Let's say that n is the lowest
+natural number whose signature begins with a certain signature prefix
+`[p[1],p[2]...p[k]]` where k>=1 and every p[i] is either “u” or “d”.
+
+Let's call the smallest integer (naturally above or equal to n) whose
+signature starts with `[p[1],p[2]...p[k],“u”]` as m[u] and likewise the
+smallest
+integer whose signature starts with the sequence `[p[1],p[2]...p[k],“d”]`
+as m[d].
+
+It turns out that usually m[d]-n and m[u]-n are either zero or a whole power
+of 2.
 
 ```
 $ perl euler-inspired-collatz.pl udddud
-{ l=1 }
-D[exact] = NONE
-D[d] = 0b100
-D[u] = 0b10
-{ l=2 }
-D[exact] = 0b-100
-D[d] = 0b0
-D[u] = 0b100
-{ l=3 }
-D[exact] = NONE
-D[d] = 0b0
-D[u] = 0b1000
-{ l=4 }
-D[exact] = 0b0
-D[d] = 0b10000
-D[u] = 0b100000
-{ l=5 }
-D[exact] = NONE
-D[d] = 0b100000
-D[u] = 0b0
+{ seq prefix = < u > }
+    n with <u> = 0b11
+    m[d] = 0b101
+        diff of m[d] - n = 0b10
+    m[u] = 0b11
+        diff of m[u] - n = 0b0
+{ seq prefix = < ud > }
+    n with <ud> = 0b101
+    m[d] = 0b101
+        diff of m[d] - n = 0b0
+    m[u] = 0b1001
+        diff of m[u] - n = 0b100
+{ seq prefix = < udd > }
+    n with <udd> = 0b101
+    m[d] = 0b101
+        diff of m[d] - n = 0b0
+    m[u] = 0b1101
+        diff of m[u] - n = 0b1000
+{ seq prefix = < uddd > }
+    n with <uddd> = 0b101
+    m[d] = 0b10101
+        diff of m[d] - n = 0b10000
+    m[u] = 0b100101
+        diff of m[u] - n = 0b100000
+{ seq prefix = < udddu > }
+    n with <udddu> = 0b100101
+    m[d] = 0b1000101
+        diff of m[d] - n = 0b100000
+    m[u] = 0b100101
+        diff of m[u] - n = 0b0
 ```
 
-(“D” here is short for “difference” or “delta”.)
-
 It can be seen that the powers of two gradually increase as l grows, and there
-may be a lead here for the fact that they span all numbers. Can anyone prove that it is the case that the deltas are whole powers of two, or tell me if there
-was any research about it?
+may be a lead here for the fact that they span all numbers. Can anyone prove
+that it is the case that the deltas are whole powers of two, or tell me if
+there was any research about it?
