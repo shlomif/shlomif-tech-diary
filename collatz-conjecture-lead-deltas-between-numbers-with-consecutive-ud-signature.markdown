@@ -9,7 +9,7 @@ Let's denote:
 * “u” for the two consecutive steps of multiplying an odd number by 3 and
 adding one and then dividing by two.
 
-* “d” if divide by 2 (if the number is even).
+* “d” for the single step of division by 2 (if the number is even).
 
 So for example:
 
