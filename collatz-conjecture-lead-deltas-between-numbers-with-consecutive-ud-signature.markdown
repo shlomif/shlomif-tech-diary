@@ -13,7 +13,7 @@ adding one and then dividing by two.
 
 So for example:
 
-4 → 2 → 1 ⇒ “ddd”
+4 → 2 → 1 ⇒ “dd”
 
 3 → 5 → 8 → 4 → 2 → 1 ⇒ “uuddd”
 
