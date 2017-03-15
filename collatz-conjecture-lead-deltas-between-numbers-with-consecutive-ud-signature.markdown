@@ -65,7 +65,7 @@ $ perl euler-inspired-collatz.pl udddud
         diff of m[u] - n = 0b0
 ```
 
-It can be seen that the powers of two gradually increase as l grows, and there
-may be a lead here for the fact that they span all numbers. Can anyone prove
-that it is the case that the deltas are whole powers of two, or tell me if
-there was any research about it?
+It can be seen that the powers of two gradually increase as the length of the
+sequence grows, and there may be a lead here for the fact that they span all
+numbers. Can anyone prove that it is the case that the deltas are whole powers
+of two, or tell me if there was any research about it?
