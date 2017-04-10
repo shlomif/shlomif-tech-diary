@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE
+    html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<title>Shlomif.org - shlomif_tech community beta</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+div.entry
+{
+    border: darkgreen solid medium;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+a:hover { background-color: palegreen; }
+</style>
+
+</head>
+<body>
+
+
+<div class="entry" id="cython-report-and-tips">
+
+<h2>Cython: Report and Tips</h2>
+
+<!--
+
+Summary:
+* cdef int i; for i in xrange(0, mymax); does not optimize.
+** cdef int i; for i in range(mymax); does.
+* Inspect the .c file to see the resultant C code.
+* cdef int arr[100][100] vs. cdef int [100] * ptr
+* Delay messing with the C types only right before the time-critical code.
+** Initialize from dyna-typed python data structures.
+* one can apply better optimisation flags.
+* cdef cannot be used inside loops/etc.
+-->
+
+</div>
+
+</body>
+<!-- vim: set indentexpr=:   -->
+</html>
