@@ -32,8 +32,13 @@ programming language</a> into C code for improved performance. I recently tried
 it in an attempt to speed up <a href="https://github.com/shlomif/project-euler/tree/master/project-euler/598">my solution to a Project Euler problem</a>,
 which was ran slowly even by pypy. After some amount of work, the cython-based
 solution outperformed the pure-Python code, without me having to reimplement
-it all in C or C++ or similar. So you should consider using it if you need
-the extra performance as well.
+it all in C or C++ or similar. So you too should consider using it, if you need
+the extra performance.
+</p>
+
+<p>
+The rest of this post contains some Cython tips for using it well that I
+discovered in my (so far relatively limited) experimentation with it.
 </p>
 <!--
 
