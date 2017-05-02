@@ -5,6 +5,7 @@ upload:
 	rsync -a -v --progress --rsh=ssh anchors.js tech-diary.xhtml \
 		web-devel-has-become-too-hard.xhtml lost-souls-of-freenode.xhtml \
 		why-email-is-not-only-a-todo-list.xhtml \
+		cython-report-and-tips.xhtml \
 	    "$${__HOMEPAGE_REMOTE_PATH}"/enough-with-sec/
 
 TECH_TIPS_OUT = temp/tech-tips-out.xhtml
