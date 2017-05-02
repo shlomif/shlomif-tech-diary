@@ -30,7 +30,8 @@ compile code written using a superset of the
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python
 programming language</a> into C code for improved performance. I recently tried
 it in an attempt to speed up <a href="https://github.com/shlomif/project-euler/tree/master/project-euler/598">my solution to a Project Euler problem</a>,
-which was ran slowly even by pypy. After some amount of work, the cython-based
+which was ran slowly, even by <a href="https://en.wikipedia.org/wiki/PyPy">pypy</a>.
+After some amount of work, the cython-based
 solution outperformed the pure-Python code, without me having to reimplement
 it all in C or C++ or similar. So you too should consider using it, if you need
 the extra performance.
@@ -40,18 +41,53 @@ the extra performance.
 The rest of this post contains some Cython tips for using it well that I
 discovered in my (so far relatively limited) experimentation with it.
 </p>
-<!--
 
-Summary:
-* cdef int i; for i in xrange(0, mymax); does not optimize.
-** cdef int i; for i in range(mymax); does.
-* Inspect the .c file to see the resultant C code.
-* cdef int arr[100][100] vs. cdef int [100] * ptr
-* Delay messing with the C types only right before the time-critical code.
-** Initialize from dyna-typed python data structures.
-* one can apply better optimisation flags.
-* cdef cannot be used inside loops/etc.
--->
+<ol>
+
+<li>
+<p>
+I noticed that <code>cdef int i; for in xrange(0, mymax)</code> does not
+get optimised while <code>cdef int i; for i in range(mymax);</code> does.
+</p>
+</li>
+
+<li>
+<p>
+One can and should inspect the generated .c file to see the resultant C code
+to see if anything is done sub-optimally.
+</p>
+</li>
+
+<li>
+<p>
+<code>cdef int arr[100][100]</code> declares a local array of 100*100 elements
+, and keeps copying it, which is likely not what you want. vs.
+<code>cdef int [100] * ptr</code> generates a pointer.
+</p>
+</li>
+
+<li>
+<p>
+“cdef” cannot be used inside loops.
+</p>
+</li>
+
+<li>
+<p>
+It is a good idea to delay messing with the C types only right before the
+time-critical code. One can initialize them from dynamically-typed python
+data structures.
+</p>
+</li>
+
+<li>
+<p>
+One can copy+paste the compiler's invocation command on the command line and
+edit it to apply better optimisation flags.
+</p>
+</li>
+
+</ol>
 
 </div>
 
