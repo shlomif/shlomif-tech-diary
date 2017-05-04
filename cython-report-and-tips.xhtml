@@ -53,13 +53,6 @@ get optimised while <code>cdef int i; for i in range(mymax);</code> does.
 
 <li>
 <p>
-One can and should inspect the generated .c file to see the resultant C code
-to see if anything is done sub-optimally.
-</p>
-</li>
-
-<li>
-<p>
 <code>cdef int arr[100][100]</code> declares a local array of 100*100 elements
 , and keeps copying it, which is likely not what you want. vs.
 <code>cdef int [100] * ptr</code> generates a pointer.
@@ -83,7 +76,16 @@ data structures.
 <li>
 <p>
 One can copy+paste the compiler's invocation command on the command line and
-edit it to apply better optimisation flags.
+edit it to apply better optimisation flags. There may be a way to customise
+the compilation command by editing the “setup.py” file, but I didn't bother
+to figure it out yet.
+</p>
+</li>
+
+<li>
+<p>
+One can and should inspect the generated .c file to see the resultant C code
+to see if anything is done sub-optimally.
 </p>
 </li>
 
