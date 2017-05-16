@@ -54,8 +54,8 @@ get optimised while <code>cdef int i; for i in range(mymax);</code> does.
 <li>
 <p>
 <code>cdef int arr[100][100]</code> declares a local array of 100*100 elements
-, and keeps copying it, which is likely not what you want. vs.
-<code>cdef int [100] * ptr</code> generates a pointer.
+, and keeps copying it, which is likely not what you want.
+On the other hand, <code>cdef int [100] * ptr</code> generates a pointer.
 </p>
 </li>
 
