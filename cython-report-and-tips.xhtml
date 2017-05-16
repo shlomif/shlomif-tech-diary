@@ -67,9 +67,9 @@ get optimised while <code>cdef int i; for i in range(mymax);</code> does.
 
 <li>
 <p>
-It is a good idea to delay messing with the C types only right before the
-time-critical code. One can initialize them from dynamically-typed python
-data structures.
+It is a good idea to declare the C types as late as possible - only right
+before the time-critical code when you absolutely need to use them. One can
+initialize them from dynamically-typed python data structures.
 </p>
 </li>
 
