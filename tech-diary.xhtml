@@ -4923,6 +4923,98 @@ on how to comply with it.
 
 </div>
 
+<div class="entry" id="cython-report-and-tips">
+
+<!-- Tags: tip, tech, tech tip, python, open-source, foss
+-->
+
+<h2>2017-06-04: Cython: Report and Tips</h2>
+
+<p>
+<a href="https://en.wikipedia.org/wiki/Cython">Cython</a> allows one to
+compile code written using a superset of the
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python
+programming language</a> into C code for improved performance. I recently tried
+it in an attempt to speed up <a href="https://github.com/shlomif/project-euler/tree/master/project-euler/598">my solution to a Project Euler problem</a>,
+which was ran slowly, even by <a href="https://en.wikipedia.org/wiki/PyPy">pypy</a>.
+After some amount of work, the cython-based
+solution outperformed the pure-Python code, without me having to reimplement
+it all in C or C++ or similar. So you too should consider using it, if you need
+the extra performance.
+</p>
+
+<p>
+The rest of this post contains some Cython tips for using it well that I
+discovered in my (so far relatively limited) experimentation with it.
+</p>
+
+<ol>
+
+<li>
+<p>
+I noticed that <code>cdef int i; for in xrange(0, mymax)</code> does not
+get optimised while <code>cdef int i; for i in range(mymax);</code> does.
+</p>
+</li>
+
+<li>
+<p>
+<code>cdef int arr[100][100]</code> declares a local array of 100*100 elements
+, and keeps copying it, which is likely not what you want.
+On the other hand, <code>cdef int [100] * ptr</code> generates a pointer.
+</p>
+</li>
+
+<li>
+<p>
+“cdef” cannot be used inside loops.
+</p>
+</li>
+
+<li>
+<p>
+It is a good idea to declare the C types as late as possible - only right
+before the time-critical code when you absolutely need to use them. One can
+initialize them from dynamically-typed python data structures.
+</p>
+</li>
+
+<li>
+<p>
+One can copy+paste the compiler's invocation command on the command line and
+edit it to apply better optimisation flags. There may be a way to customise
+the compilation command by editing the “setup.py” file, but I didn't bother
+to figure it out yet.
+</p>
+</li>
+
+<li>
+<p>
+One can and should inspect the generated .c file to see the resultant C code
+to see if anything is done sub-optimally.
+</p>
+</li>
+
+</ol>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2017.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
