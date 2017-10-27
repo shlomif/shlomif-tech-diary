@@ -1,11 +1,14 @@
 all:
 
+render:
+	perl bin/render-markdown.pl static-site-generators--despair.md > dest/ssgen.xhtml
 
-upload:
+upload: render
 	rsync -a -v --progress --rsh=ssh anchors.js tech-diary.xhtml \
 		web-devel-has-become-too-hard.xhtml lost-souls-of-freenode.xhtml \
 		why-email-is-not-only-a-todo-list.xhtml \
 		cython-report-and-tips.xhtml \
+		dest/ssgen.xhtml \
 	    "$${__HOMEPAGE_REMOTE_PATH}"/enough-with-sec/
 
 TECH_TIPS_OUT = temp/tech-tips-out.xhtml
