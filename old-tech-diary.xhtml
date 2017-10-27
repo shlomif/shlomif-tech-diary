@@ -208,9 +208,9 @@ This is an IRC conversation that took place on Freenode. I am "rindolf".
 I've
 <a href="http://vimdoc.sourceforge.net/htmldoc/cmdline.html#c_CTRL-R">already
 discussed the Ctrl-R commands in command line mode in this column</a>. Well,
-I recently discovered that one can use <tt>Ctrl+R %</tt> there to enter the
+I recently discovered that one can use <code>Ctrl+R %</code> there to enter the
 filename of the currently opened file. That way if you want to save it
-under a different filename (for example), you can type: <tt>:w Ctrl+R %</tt>
+under a different filename (for example), you can type: <code>:w Ctrl+R %</code>
 and then edit it.
 </p>
 
@@ -288,7 +288,7 @@ One can use
 <a href="http://vimdoc.sourceforge.net/htmldoc/insert.html#i_CTRL-X">Ctrl+X
 in Vim</a> to invoke several sub-commands for auto-completion. For example,
 "Ctrl+X ; Ctrl+L" completes entire line. So if you have a lot of
-<tt>my $self = shift;</tt> or <tt>my ($self, $args) = @_;</tt> in your
+<code>my $self = shift;</code> or <code>my ($self, $args) = @_;</code> in your
 Perl code you can start writing that line and press Ctrl+X;Ctrl+L to
 fill the rest of them.
 </p>
@@ -298,7 +298,7 @@ Ctrl+X;Ctrl+F completes filenames, and there are other completions like that.
 I found it while reading
 <a href="http://vimdoc.sourceforge.net/htmldoc/usr_24.html">usr_24
 - inserting quickly</a> which contains some other tips. I also realised
-that <tt>Ctrl+U</tt> cuts to the beginning of the line in vim editing,
+that <code>Ctrl+U</code> cuts to the beginning of the line in vim editing,
 or in Emacs or GNU Readline.
 </p>
 
@@ -314,7 +314,7 @@ or in Emacs or GNU Readline.
 
 <p>
 Here's a vim tip on how to copy some non adjacent lines to a register
-(<tt>"r</tt>), but first the story that made me find out about how to
+(<code>"r</code>), but first the story that made me find out about how to
 do it exactly. I need to add full POD (Perl's documentation format)
 coverage to a Perl module I inherited. What it means is that every
 top-level function (or at least those that do not start with a "_") should
@@ -346,10 +346,10 @@ command.
 </p>
 
 <p>
-So after a little research I tried: <tt>:g/^sub /"Fyy</tt>. <tt>:g</tt>
+So after a little research I tried: <code>:g/^sub /"Fyy</code>. <code>:g</code>
 searches for the /^sub / and invokes the command on every occurence, and
 "Fyy, appends the current line to the register "f". However, as it turns out
-<tt>:g</tt> executes an <b>Ex command</b>. However, fear not - after a little
+<code>:g</code> executes an <b>Ex command</b>. However, fear not - after a little
 research, I recalled the
 <a href="http://vimdoc.sourceforge.net/htmldoc/various.html#:normal">:normal
 command</a> that allows to execute normal mode commands from within the
@@ -357,8 +357,8 @@ command-line (or Ex) mode.
 </p>
 
 <p>
-So the final line that works is <tt>:g/^sub /normal "Fyy</tt>. You may need
-to do <tt>:let @f = ''</tt> before that to clear the "f" register.
+So the final line that works is <code>:g/^sub /normal "Fyy</code>. You may need
+to do <code>:let @f = ''</code> before that to clear the "f" register.
 </p>
 
 <p>
@@ -402,7 +402,7 @@ Add the line:
 </pre>
 
 <p>
-at the top of your <tt>.sbclrc</tt> file, in case it's not already there. Then,
+at the top of your <code>.sbclrc</code> file, in case it's not already there. Then,
 add this line somewhere after it:
 </p>
 
@@ -411,7 +411,7 @@ add this line somewhere after it:
 </pre>
 
 <p>
-<tt>/home/shlomi/Download/iterate/</tt> should be the path where you downloaded
+<code>/home/shlomi/Download/iterate/</code> should be the path where you downloaded
 iterate.
 </p>
 </li>
@@ -427,7 +427,7 @@ To use iterate from your Lisp script write the following at the top:
 </pre>
 
 <p>
-(As I discovered the colon in <tt>(use-package :iterate)</tt> is
+(As I discovered the colon in <code>(use-package :iterate)</code> is
 significant.)
 </p>
 
@@ -553,13 +553,13 @@ problematic preferences.
 
 <p>
 I set out to discover it. My most likely suspect was something in the
-<tt>prefs.js</tt> file, so I copied it to the new profile, and it indeed caused
+<code>prefs.js</code> file, so I copied it to the new profile, and it indeed caused
 the problem to re-surface there. Then I gradually removed more and more initial
 settings from there, to find out the problematic ones. Each time I did a
-change, I had to try and reproduce the bug. I kept some <tt>-bad-$idx</tt>  and
-<tt>-good-$idx</tt> files as a poor man's version control. After spending some
+change, I had to try and reproduce the bug. I kept some <code>-bad-$idx</code>  and
+<code>-good-$idx</code> files as a poor man's version control. After spending some
 time on it, I found out that the problem was with a single preference:
-<tt>extensions.firebug.disabledAlways</tt>. So what was needed was installing
+<code>extensions.firebug.disabledAlways</code>. So what was needed was installing
 the three extensions and toggling this preference.
 </p>
 
@@ -689,7 +689,7 @@ embedFunction(PageFunction);
 </pre>
 
 <p>
-<tt>embedFunction()</tt> is taken from the
+<code>embedFunction()</code> is taken from the
 <a href="http://wiki.greasespot.net/Code_snippets#Embed_a_function_in_the_current_page">"Embed a function in the Current Page" snippet</a> from the
 Greasemonkey wiki.
 </p>
@@ -911,7 +911,7 @@ While resolving an Archive-Zip bug, I had to heavily rework a test that
 someone sent me. Now I had to execute a group of assertions once normally
 and once with a Perl global variable ("$\" if you must know) set. So I used
 the <a href="http://search.cpan.org/dist/Test-Count/">Test-Count</a>,
-<tt>$n=0</tt> and then <tt>$n=$n+1</tt> paradigm (and finally added two $n
+<code>$n=0</code> and then <code>$n=$n+1</code> paradigm (and finally added two $n
 to the test count) in order to count the tests. But it didn't work, and the
 script exited with a weird error. As it turned out when retrieving the value
 of the variable, I checked for truth instead of whether it's not undef(),
@@ -1160,9 +1160,9 @@ comment here.
 <p>
 This has given me a chance to try Fedora again. The first problem I noticed
 (at home - at work it was OK) was that I didn't have external networking.
-Apparently, the <tt>/etc/init.d/network</tt> script was not placed in
-the rc5.d scripts for some reason. Running <tt>/etc/init.d/network start</tt>
-from the command line and using <tt>system-control-services</tt> fixed it.
+Apparently, the <code>/etc/init.d/network</code> script was not placed in
+the rc5.d scripts for some reason. Running <code>/etc/init.d/network start</code>
+from the command line and using <code>system-control-services</code> fixed it.
 </p>
 
 <p>
@@ -1172,7 +1172,7 @@ using the Mandriva configuration, Konqueror would just display the code of
 an HTML page, instead of rendering it. Plus, when I booted the Mandriva system
 again, I noticed that my KDE screen was a little messed up, and I had to
 restore its configuration directory from the backup I prepared before
-installing Fedora. I guess <tt>$HOME/.kde/share/config</tt> was not intended
+installing Fedora. I guess <code>$HOME/.kde/share/config</code> was not intended
 to be shared like that between Mandriva and Fedora.
 </p>
 
@@ -1209,23 +1209,23 @@ time to installing it. Here are my first impressions.
 <p>
 The first thing I noticed was that the installation procedure is rather
 text based and not very friendly. I didn't want to risk it formatting my
-common <tt>/home</tt> partition so I eventually opted to configure it
+common <code>/home</code> partition so I eventually opted to configure it
 after the installation. I had to run the installer twice in order to set
 a bootloader, so I can tell how to boot Archlinux properly using the bootloader
 on the Mandriva parition. I wanted to configure the Mandriva bootloader using
 the files on the Arch partition but couldn't figure out where is the kernel
-and initrd. Apparently, it keeps the kernel under <tt>/boot/vmlinuz26</tt>
-and the initrd under <tt>kernel26.img</tt>. Moreover, the <tt>mkinitrd</tt>
-program is called <tt>mkinitcpio</tt> there.
+and initrd. Apparently, it keeps the kernel under <code>/boot/vmlinuz26</code>
+and the initrd under <code>kernel26.img</code>. Moreover, the <code>mkinitrd</code>
+program is called <code>mkinitcpio</code> there.
 </p>
 
 <p>
 After being able to boot arch, I noticed that my networking was not configured
 properly, despite the fact I use DHCP for this computer. I opted to configure
-it manually using <tt>ifconfig</tt> and <tt>route</tt>, but I was later told
-I can add <tt>eth0=(dhcp)</tt> in the appropriate place in
-<tt>/etc/rc.conf</tt>. This would enable DHCP after you do
-<tt>/etc/rc.d/network restart</tt>.
+it manually using <code>ifconfig</code> and <code>route</code>, but I was later told
+I can add <code>eth0=(dhcp)</code> in the appropriate place in
+<code>/etc/rc.conf</code>. This would enable DHCP after you do
+<code>/etc/rc.d/network restart</code>.
 </p>
 
 <p>
@@ -1256,8 +1256,8 @@ need it, and without it you won't be able to install anything.
 <p>
 I needed the help of the #archlinux IRC channel on Freenode on how to
 install X and a usable environment. You can install it using
-<tt>pacman -S xorg</tt>, and then <tt>pacman -S xf86-video-nv</tt> (or whatever
-is your video card), and then <tt>pacman -S icewm</tt> to install IceWM (or
+<code>pacman -S xorg</code>, and then <code>pacman -S xf86-video-nv</code> (or whatever
+is your video card), and then <code>pacman -S icewm</code> to install IceWM (or
 whatever). To install KDE you are better off configuring and using
 <a href="http://kdemod.ath.cx/">KDEmod</a> than the built-in KDE and there
 are instructions how to do it on their site.
@@ -1265,8 +1265,8 @@ are instructions how to do it on their site.
 
 <p>
 I still don't know how to do a few things in Archlinux. One is how to
-search for files inside remote packages (like <tt>urpmf</tt> on Mandriva
-or <tt>apt-file</tt> on Debian/Ubuntu). And it seems that mplayer, xine (and
+search for files inside remote packages (like <code>urpmf</code> on Mandriva
+or <code>apt-file</code> on Debian/Ubuntu). And it seems that mplayer, xine (and
 thus - Amarok) don't support playing
 <a href="http://en.wikipedia.org/wiki/Module_file">Module files</a>, because
 support for them has been configured out during compile time, which is a bit
@@ -1277,8 +1277,8 @@ annoying.
 I was able to share my /home partition and my user between Mandriva and Arch
 pretty easily. My KDE exhibited a few problems on Mandriva, after using it
 with Arch, so it may not be very recommended to do so. Archlinux keeps KDE
-under <tt>/opt/kde</tt>, which could cause incompatibilies with the
-Mandriva <tt>/usr</tt>-bound KDE.
+under <code>/opt/kde</code>, which could cause incompatibilies with the
+Mandriva <code>/usr</code>-bound KDE.
 </p>
 
 <p>
@@ -1322,9 +1322,9 @@ Tags: ssh, openssh, tip, tech, tech tip, remote, access, customise, customize, h
 <h2>2007-12-29: ssh Tip: Customising hosts with the &quot;Host&quot; directive</h2>
 
 <p>
-The <tt>~/.ssh/config</tt> accepts the <tt>Host</tt> meta-configuration that
+The <code>~/.ssh/config</code> accepts the <code>Host</code> meta-configuration that
 enables one to specify directives for only a specific host. With the
-<tt>HostName</tt> directigve, and the <tt>User</tt> directive this allows
+<code>HostName</code> directigve, and the <code>User</code> directive this allows
 defining shortcuts and defaults. For example, this portion out of my file:
 </p>
 
@@ -1336,18 +1336,18 @@ User shlomif
 </pre>
 
 <p>
-Specifies that by doing "<tt>ssh berlios</tt>" I'll login to
-<tt>shell.berlios.de</tt> as the user <tt>shlomif</tt> (in equivalence to
-<tt>ssh shlomif@shell.berlios.de</tt>).
+Specifies that by doing "<code>ssh berlios</code>" I'll login to
+<code>shell.berlios.de</code> as the user <code>shlomif</code> (in equivalence to
+<code>ssh shlomif@shell.berlios.de</code>).
 </p>
 
 <p>
 One use I can think of for this feature is to define a common destination,
 with variable remote usernames, in uploading scripts. Until now, I've used
-something like: <tt>${IGLU_USERNAME:-$(whoami)}@iglu.org.il:</tt>, which
-retrieved the value of the <tt>$IGLU_USERNAME</tt> and defaulted to the
-local user. However, now one can simply use <tt>iglu.org.il:</tt> or
-<tt>mytask.iglu.org.il:</tt> and define the appropriate user in the ssh
+something like: <code>${IGLU_USERNAME:-$(whoami)}@iglu.org.il:</code>, which
+retrieved the value of the <code>$IGLU_USERNAME</code> and defaulted to the
+local user. However, now one can simply use <code>iglu.org.il:</code> or
+<code>mytask.iglu.org.il:</code> and define the appropriate user in the ssh
 config file.
 </p>
 
@@ -1485,10 +1485,10 @@ dcop amarok playlist addMedia "lastfm://globaltags/${tag}"
 </pre>
 
 <p>
-To use it save as "lasttfm-amarok-tag", make it executable (<tt>chmod +x</tt>)
-and do <tt>./lastfm-amarok-tag "new age"</tt> to play the "new age" tag. You
+To use it save as "lasttfm-amarok-tag", make it executable (<code>chmod +x</code>)
+and do <code>./lastfm-amarok-tag "new age"</code> to play the "new age" tag. You
 can also type a command line like
-<tt>dcop amarok playlist addMedia "lastfm://globaltags/reggae"</tt> directly
+<code>dcop amarok playlist addMedia "lastfm://globaltags/reggae"</code> directly
 from the command line, but that's not very convenient.
 </p>
 
@@ -1519,7 +1519,7 @@ the beginning.
 
 <p>
 It's all started when I did my backup yesterday, converted it into a CD-ROM
-image (an <tt>.iso</tt> file) and so used
+image (an <code>.iso</code> file) and so used
 <a href="http://fy.chalmers.se/~appro/linux/DVD+RW/">growisofs</a>. But when
 running it, it completely hogged my system, causing the Amarok music playback
 to be flaky, and making everything more sluggish. It didn't happen before, so
@@ -1557,7 +1557,7 @@ for it to finish before I could reboot to test another kernel).
 </p>
 
 <p>
-Similarly one can use <tt>git-clone linux-2.6 new-lin-2.6</tt> to clone the
+Similarly one can use <code>git-clone linux-2.6 new-lin-2.6</code> to clone the
 repository on the hard-disk, which also proved to be useful in order to build
 the latest kernel I used to see if I could still reproduce the problem there.
 </p>
@@ -1565,10 +1565,10 @@ the latest kernel I used to see if I could still reproduce the problem there.
 <p>
 Then I was told to used <a href="http://www.kernel.org/pub/software/scm/git/docs/git-bisect.html">git bisect</a> to bisect the kernel. (The "lion in the
 desert" method). Read the link for usage information. I copied my
-<tt>/boot/config-2.6.23</tt> kernel configuration file to <tt>.config</tt> in
+<code>/boot/config-2.6.23</code> kernel configuration file to <code>.config</code> in
 the top-kernel-dir, and ran "make oldconfig" on it. From then on, I used "make
 oldconfig" on the new kernels, while pressing Enter all the time to accept
-the defaults (also doable with <tt>yes "" | make oldconfig</tt>).
+the defaults (also doable with <code>yes "" | make oldconfig</code>).
 </p>
 
 <p>
@@ -1582,7 +1582,7 @@ since before -rc6.
 <h2>All Good is No Good</h2>
 
 <p>
-As it turned out, every kernel I built except the <tt>2.6.24-rc6</tt> kernel
+As it turned out, every kernel I built except the <code>2.6.24-rc6</code> kernel
 which exhibited the bug in the first place, did not exhibit the bug (and
 marked by me and git as "good"). Eventually
 I ended up with the last patchset reported to be the problem, but it only
@@ -1798,7 +1798,7 @@ Someone suggested the problem may be caused due to a bad Ethernet card, so
 I borrowed an Intel Ethernet card, replaced my Ethernet card with it, and tried
 it for a few days. After keeping the computer on for a while, it started
 exhibiting similar problems as the old one: no connectivity to the host of
-<tt>www.shlomifish.org</tt>, bad connectivity to Google, etc. Solvable only
+<code>www.shlomifish.org</code>, bad connectivity to Google, etc. Solvable only
 after a reboot.
 </p>
 
@@ -1958,9 +1958,9 @@ A few days ago I noticed that some operations in
 <a href="http://amarok.kde.org/">the Amarok music player</a> became very
 sluggish. For example, the track switching took a very long time. I recalled
 that something like that happened some months ago, at which point I ended up
-renaming away the KDE base directory (<tt>$HOME/.kde/share/apps/amarok/</tt>)
+renaming away the KDE base directory (<code>$HOME/.kde/share/apps/amarok/</code>)
 which solved it. This time per advice from someone on the #amarok IRC channel,
-I simply moved away the SQLite <tt>collection.db</tt> file. After the
+I simply moved away the SQLite <code>collection.db</code> file. After the
 database was re-populated, the sluggishness indeed disappeared.
 </p>
 
@@ -2015,8 +2015,8 @@ tcpdump -w dump-file.pcap 'host 212.143.218.31'
 </pre>
 
 <p>
-Replace the <tt>'hsot 212.143.218.31'</tt> with any tcpdump filter. Then
-you can run "wireshark" on the <tt>dump-file.pcap</tt> file. Note that I got
+Replace the <code>'hsot 212.143.218.31'</code> with any tcpdump filter. Then
+you can run "wireshark" on the <code>dump-file.pcap</code> file. Note that I got
 incomplete results when I tried it now on my home machine and would love
 to be further enlightened.
 </p>
@@ -2123,7 +2123,7 @@ When having a verticla split, one can use Ctrl+W,Left or Ctrl+W,H to move
 to the left split, and Ctrl+W,Right or Ctrl+W,L to move to the right split.
 However, it seems that for some reason Ctrl+W,Ctrl+Left (while holding the
 control) does not work. To fix it, add the following lines to your
-<tt>.vimrc</tt>:
+<code>.vimrc</code>:
 </p>
 
 <pre>
@@ -2172,7 +2172,7 @@ to <a href="http://en.wikipedia.org/wiki/Eat_one's_own_dog_food">eat my own
 
 <p>
 So I've written (and later on enhanced) a rudimentary implementation of a
-TAP emitter in Arc. This TAP emitting module can be found in <tt>arctap.arc</tt>
+TAP emitter in Arc. This TAP emitting module can be found in <code>arctap.arc</code>
 in the repository, and is used by the Arc tests. Some tests were written
 in Perl, primarily to test and fix bugs in the Arc TAP implementation.
 The Perl tests use
@@ -2196,7 +2196,7 @@ One feature of Test::Run that helped here was its
 <a href="http://search.cpan.org/dist/Test-Run-Plugin-AlternateInterpreters/">AlternateInterpreters
     plugin</a> (which is an idea I originally derived from
 something <a href="http://search.cpan.org/~ovid/">Curtis "Ovid" Poe</a> (also
-a TAP worker) had blogged about). Currently, my <tt>interpreters.conf.yml</tt>
+a TAP worker) had blogged about). Currently, my <code>interpreters.conf.yml</code>
 file reads:
 </p>
 
@@ -2208,9 +2208,9 @@ file reads:
 </pre>
 
 <p>
-This uses <tt>./arc.sh</tt> to run the tests by default. The exact configuration
+This uses <code>./arc.sh</code> to run the tests by default. The exact configuration
 is a bit more complicated
-than that (see <tt>Test.sh</tt>), but still the prove utility that
+than that (see <code>Test.sh</code>), but still the prove utility that
 is part of Test-Harness-2.xx, which is the older TAP harness,
 would not do. This is because it is impossible to assign a she-bang at the
 start of the Arc files, because it seems it confuses the Arc interpreter.
@@ -2254,8 +2254,8 @@ the proprietary driver.
 <p>
 If, on the other hand you wish to install from the Nvidia installer, as
 I initially did, and you are using the distribution kernel, make sure you
-installed the <tt>kernel-desktop-devel-latest</tt> or the equivalent
-<tt>kernel-*-devel</tt> package for your kernel.
+installed the <code>kernel-desktop-devel-latest</code> or the equivalent
+<code>kernel-*-devel</code> package for your kernel.
 </p>
 
 <p>
@@ -2282,7 +2282,7 @@ homesite</a>'s markup may have had too much extraneous whitespace. So I looked
 at <a href="http://tidy.sourceforge.net/">HTML Tidy</a> to try to remove it.
 I searched for a way to tell it to remove whitespace on the Net, but most
 pages I found only said it was possible, but didn't say how. After some trial
-and error I found that this <tt>tidy.rc</tt> file:
+and error I found that this <code>tidy.rc</code> file:
 </p>
 
 <pre>
@@ -2297,7 +2297,7 @@ tab-size: 0
 </pre>
 
 <p>
-And a command line that specifies it with <tt>-config</tt> worked the best. It
+And a command line that specifies it with <code>-config</code> worked the best. It
 still left a lot of newlines, which could be removed, but I guess it's better
 than nothing.
 </p>
@@ -2406,19 +2406,19 @@ more convenient.
 </p>
 
 <p>
-To split a viewport in two, use <tt>Ctrl+W,S</tt> for a horizontal split or
-<tt>Ctrl+W,V</tt> for a vertical split. To move between windows use
-<tt>Ctrl+W</tt> followed by the arrow keys or <tt>h,j,k,l</tt> (but see
+To split a viewport in two, use <code>Ctrl+W,S</code> for a horizontal split or
+<code>Ctrl+W,V</code> for a vertical split. To move between windows use
+<code>Ctrl+W</code> followed by the arrow keys or <code>h,j,k,l</code> (but see
 <a href="http://community.livejournal.com/shlomif_tech/8278.html">this
-previous tip</a>). To close a viewport use <tt>Ctrl+W,C</tt>.
+previous tip</a>). To close a viewport use <code>Ctrl+W,C</code>.
 </p>
 
 <p>
-<tt>Ctrl+W,r</tt> rotates the windows, and <tt>Ctrl+W, shift+R</tt> rotates
-them in the opposite direction. Finally, <tt>Ctrl+W,+</tt> and <tt>Ctrl+W,-</tt>
+<code>Ctrl+W,r</code> rotates the windows, and <code>Ctrl+W, shift+R</code> rotates
+them in the opposite direction. Finally, <code>Ctrl+W,+</code> and <code>Ctrl+W,-</code>
 increase and decrease the height of the viewport by one line (in case you are
 mouse-deprived). If that's too little you can do something like
-<tt>10,Ctrl+W,+</tt> to increase the height by 10 lines.
+<code>10,Ctrl+W,+</code> to increase the height by 10 lines.
 </p>
 </div>
 
@@ -2456,7 +2456,7 @@ is built by default.
 
 <li>
 Run gdbserver on the generated executable using a command like
-<tt>gdbserver localhost:10900 ./my-exe</tt>
+<code>gdbserver localhost:10900 ./my-exe</code>
 </li>
 
 <li>
@@ -2583,7 +2583,7 @@ he was right.
 
 <p>
 On <a href="http://www.shlomifish.org/">my homepage</a>, I have many
-&lt;h2&gt;, &lt;h3&gt;, etc. tags with <tt>id</tt> attributes in them so one
+&lt;h2&gt;, &lt;h3&gt;, etc. tags with <code>id</code> attributes in them so one
 can link directly to the middle of the page. I have written a
 Website Meta Language API that allows one to generate a table of contents for
 the page based on them. However, recently I also looked for a way to have a
@@ -2613,12 +2613,12 @@ Now for some explanations:
 
 <ol>
 <li>
-The <tt>$("h1[id]...")</tt> construct selects all the headings with id's.
+The <code>$("h1[id]...")</code> construct selects all the headings with id's.
 There may be a shorter way to do it (comments are welcome.
 </li>
 <li>
 The each method iterates over all of them and calls the closure inside. The
-closure sets the "<tt>this</tt>" variable to the current element, and accepts
+closure sets the "<code>this</code>" variable to the current element, and accepts
 its index there (the "i" variable). In our case, we're not making use of the
 index.
 </li>
@@ -2627,7 +2627,7 @@ $(this) constructs a jQuery object from "this".
 </li>
 <li>
 .append() appends an expression to the inner HTML of the element. I add
-a little HTML there. <tt>this.id</tt> may result in an XSS attack if you have
+a little HTML there. <code>this.id</code> may result in an XSS attack if you have
 a really funky (and probably invalid) ID, but since I have control over
 my ID's it's ok.
 </li>
@@ -2704,7 +2704,7 @@ a useful start after a long neglect.
 <p>
 XHTML 1.1 has deprecated the lang="" HTML attribute in favour of the more
 standard xml:lang. I like to use XHTML 1.1 because I find the extra
-strictness (like no <tt>&lt;a name="..."&gt;</tt>) useful, but in order
+strictness (like no <code>&lt;a name="..."&gt;</code>) useful, but in order
 to not completely alienate
 <a href="http://www.shlomifish.org/no-ie/">Microsoft Internet Explorer</a>
 users, I'm serving it with a Content-Type of text/html.
@@ -2728,7 +2728,7 @@ Loaded jQuery:
 </li>
 
 <li>
-Added <tt> onload="lang_load()"</tt> to the opening "&lt;body&gt;" tag.
+Added <code> onload="lang_load()"</code> to the opening "&lt;body&gt;" tag.
 </li>
 
 <li>
@@ -3319,7 +3319,7 @@ quirks in the config+build system, but all in all, I'm very happy.
 I also ran into a problem that Firefox completely refused to display the
 https:// URLs of svn.berlios.de, without letting me add an exception. As
 it turned out, the certificates were probably changed, and I had to manually
-delete all <tt>*.berlios.de</tt> related certificates, and then add them
+delete all <code>*.berlios.de</code> related certificates, and then add them
 with exceptions.
 </p>
 
@@ -3342,7 +3342,7 @@ of XSLT in JavaScript</a> in an attempt to customise the output of the
 XML in the client-side. I wanted to fetch the contents of the XML document
 and XSLT stylesheet from the server which involved doing AJAX using
 jQuery. It took me a long time to get right, because I didn't realise the
-jQuery <tt>$.get(...)</tt> callbacks were asynchronous and executed at their
+jQuery <code>$.get(...)</code> callbacks were asynchronous and executed at their
 own time. I guess it's called "<b>Asynchronous</b> JavaScript And XML" (= AJAX)
 for a reason.
 </p>
@@ -3449,7 +3449,7 @@ to know what they are all about (One needs to click them to find out.)
 <p>
 I had problems finding the equivalent of the KDE Control Centre (kcontrol)
 in KDE 4. Apparently it's called System Settings in the menus, and is invoked
-using "<tt>sysetemssettings</tt>".
+using "<code>sysetemssettings</code>".
 </p>
 
 </li>
@@ -3533,11 +3533,11 @@ Kill all rpm-related processes.
 </li>
 
 <li>
-Move away <tt>/var/lib/rpm/__db.*</tt> to a temporary location.
+Move away <code>/var/lib/rpm/__db.*</code> to a temporary location.
 </li>
 
 <li>
-Run <tt>rpm --rebuilddb</tt>.
+Run <code>rpm --rebuilddb</code>.
 </li>
 
 </ol>
@@ -3638,7 +3638,7 @@ Which is much cleaner and less intrusive.
 
 <p>
 Next on my plate was <a href="http://fc-solve.berlios.de/">Freecell
-Solver</a>. I decided to work on <tt>make_pysol_freecell_board.py</tt>
+Solver</a>. I decided to work on <code>make_pysol_freecell_board.py</code>
 which is a Python script that generates the initial boards of PySol. The
 script was crudely written to begin with and it became even cruder as
 time went by. I decided to give it a serious face-lift. So what I did was:
@@ -3937,7 +3937,7 @@ href="http://www.nntp.perl.org/group/perl.cpan.testers/2008/09/msg2204098.html">
 strange failing report for one of my CPAN distributions</a> with an error
 that I could absolutely not reproduce on my machine. As it turned out, the
 problem was that on that machine they used the pure-Perl version of
-<tt>Cwd.pm</tt> instead of the binary one that I used, and they differed in
+<code>Cwd.pm</code> instead of the binary one that I used, and they differed in
 their behaviour.
 </p>
 
@@ -3983,7 +3983,7 @@ I think I'll help some more with Firefox bug triaging.
 href="http://code.google.com/support/bin/answer.py?answer=56682&amp;topic=10386">Consult
 this FAQ on Google Code for how to use svnsync to clone a remote Subversion
 repository so you can have a copy of its history</a>. I was told on IRC that
-it has the same end result as using <tt>svnadmin dump</tt> on the physical
+it has the same end result as using <code>svnadmin dump</code> on the physical
 repository.
 </p>
 
@@ -4012,8 +4012,8 @@ So kudos for Google and the Subversion people for fixing it.
 <p>
 <a href="http://www.zulo.org.il/blogs/guysoft/88/">GuySoft writes
 in his blog about Unix shell commands to convert video</a>. In the shell
-commands, he expands variablse like <tt>-srate 22050 $infile -o
-$outfile".flv"</tt>, without putting them inside double-quotes. In this
+commands, he expands variablse like <code>-srate 22050 $infile -o
+$outfile".flv"</code>, without putting them inside double-quotes. In this
 post, I'd like to demonstrate why this is so dangerous.
 </p>
 
@@ -4021,7 +4021,7 @@ post, I'd like to demonstrate why this is so dangerous.
 When the shell expands a regular variable outside quotes it breaks into
 words separated by whitespace and then evaluates every word separately. To
 use a variable as a single token, one must enclose it inside double-quotes:
-<tt>"$MY_VARIABLE"</tt>.
+<code>"$MY_VARIABLE"</code>.
 </p>
 
 <p>
@@ -4068,9 +4068,9 @@ drwx------ 3 shelltest shelltest 28 2008-09-18 14:07 tmp/
 
 <p>
 Voila! Freecell-Solver is gone. I could have also said
-<tt>./test-shell-injection.sh "-fr $HOME"</tt> to delete the home directory. If
-the script does something like <tt>for I in * ; do ... # Something
-with $I  .. done</tt>, then a malicious user can supply a file called
+<code>./test-shell-injection.sh "-fr $HOME"</code> to delete the home directory. If
+the script does something like <code>for I in * ; do ... # Something
+with $I  .. done</code>, then a malicious user can supply a file called
 "-fr $HOME" (where $HOME is the value of the home directory) in the input to
 delete the home directory.
 </p>
@@ -4139,8 +4139,8 @@ empty string), which does an in-place subtitution of a regular expression
 </p>
 
 <p>
-The second thing I discovered was that Ruby did not have <tt>++</tt> or
-<tt>--</tt> operators - one has to use <tt>+= 1</tt> and <tt>-= 1</tt>.
+The second thing I discovered was that Ruby did not have <code>++</code> or
+<code>--</code> operators - one has to use <code>+= 1</code> and <code>-= 1</code>.
 When Ruby tried to parse a line containing "++" it yelled at me with
 an obscure error, that caused me to need to incrementally comment-out
 code until I found out what the problem was.
@@ -4153,10 +4153,10 @@ only if a condition is met).
 </p>
 
 <p>
-Finally, when I tried to do <tt>.inject { BLOCK }</tt> ("inject" is Ruby's
+Finally, when I tried to do <code>.inject { BLOCK }</code> ("inject" is Ruby's
 list reduce / fold method), without a starting element, I discovered that
 it used the first element as a starting point instead of 0 or nil or whatever.
-Doing <tt>.inject(0) { BLOCK }</tt> in my case fixed it. This fact is
+Doing <code>.inject(0) { BLOCK }</code> in my case fixed it. This fact is
 documented in the documentation.
 </p>
 
@@ -4197,10 +4197,10 @@ and again.
 
 <p>
 To fix the problem, run
-<tt>strace -e open -o fontconfig.strace fc-cache -v</tt>, and see if it
+<code>strace -e open -o fontconfig.strace fc-cache -v</code>, and see if it
 excessively scans more and more sub-directories under the directory
 paths. Then move away the offending symbolic links to say
-<tt>/usr/share/REMOVED-fonts</tt>.
+<code>/usr/share/REMOVED-fonts</code>.
 </p>
 
 <p>
@@ -4489,7 +4489,7 @@ shlomi:~$
 <p>
 This surprised me because my client was up-to-date and the service used the
 same libraries, and it worked with other repositories. As it turned out
-the problem was that the Location entry in Apache's <tt>httpd.conf</tt> looks
+the problem was that the Location entry in Apache's <code>httpd.conf</code> looks
 like this:
 </p>
 
@@ -4501,7 +4501,7 @@ like this:
 </pre>
 
 <p>
-The problem here is that <tt>/svn/TO-DEL/</tt> in the "Location"
+The problem here is that <code>/svn/TO-DEL/</code> in the "Location"
 tag has a trailing slash which confuses Subversion. Eliminating that issue
 solves the problem.
 </p>
@@ -4820,7 +4820,7 @@ expected of any language today.
 <li>
 <p>
 <b>No Version Control was Used for Arc</b> - when Graham published
-<tt>arc0.tar</tt> (more about it later)
+<code>arc0.tar</code> (more about it later)
 on his site, it was just a tar. He didn't publicise the URL for a version
 control system that he used for work on Arc. And
 <a href="http://www.paulgraham.com/distraction.html">in this article</a>
@@ -4849,16 +4849,16 @@ Maybe that's what Graham calls <a href="http://arclanguage.org/">exploratory
 
 <li>
 <p>
-<b>Basic Usability is Missing</b>: there was no way to do <tt>./arc
-    filename.arc</tt> to execute a file directly from the command line. I
+<b>Basic Usability is Missing</b>: there was no way to do <code>./arc
+    filename.arc</code> to execute a file directly from the command line. I
 had to add it to Anarki Arc, myself.
 </p>
 </li>
 
 <li>
 <p>
-<b>Weird Versioning</b> - the first released Arc version was <tt>arc0.tar</tt>.
-The second was <tt>arc1.tar</tt> and the third was <tt>arc2.tar</tt>. Normally,
+<b>Weird Versioning</b> - the first released Arc version was <code>arc0.tar</code>.
+The second was <code>arc1.tar</code> and the third was <code>arc2.tar</code>. Normally,
 one would expect that <a
     href="http://catb.org/esr/writings/cathedral-bazaar/homesteading/ar01s13.html">version
     1.0 of an open-source project would be very mature</a>, much less version
@@ -4877,8 +4877,8 @@ confusing.
 <p>
 <b>Brevity Taken to Non-sensical Extremes</b> - Arc tries to be
 as brief as possible, which is good, but it sometimes defies common sense
-and convention. For example the <tt>(not)</tt> function in Arc is <tt>(no)</tt>
-so the code reads <tt>(if (no a) (pr "a is false"))</tt> (is that even
+and convention. For example the <code>(not)</code> function in Arc is <code>(no)</code>
+so the code reads <code>(if (no a) (pr "a is false"))</code> (is that even
 English?).
 </p>
 </li>
@@ -5329,7 +5329,7 @@ About two weeks ago, I decided to finally benchmark File-Find-Object. The
 original motivation for this was a small change I did and perceived as an
 optimisation in which I reduced the number of hard-disk-reading system calls
 that it used to a minimum. I wrote a few shell scripts that timed the
-old version of F-F-O versus the new one on my <tt>~/progs</tt> directory (which
+old version of F-F-O versus the new one on my <code>~/progs</code> directory (which
 contains many sub-directories), after it was in turn traversed by the
 shell "find" command.
 </p>
@@ -5369,7 +5369,7 @@ were less substantial individually in terms of run-time saving.
 
 <li>
 <p>
-Added a flag to <tt>$self</tt> (the object instance) with whether or not
+Added a flag to <code>$self</code> (the object instance) with whether or not
 the stack of the directories through which the traversal is in progress
 is full. It was used inside several dynamically-generated functions where I
 delegate to top and non-top versions.
@@ -5393,7 +5393,7 @@ the "||" operator.
 
 <li>
 <p>
-Saved many seconds on eliminating calls to <tt>_copy</tt> methods that
+Saved many seconds on eliminating calls to <code>_copy</code> methods that
 flat-copy array references (and that are also generated dynamically). Often,
 the copying was not needed at all.
 </p>
@@ -5420,16 +5420,16 @@ to a simple array of method names, from which values are extracted.
 <li>
 <p>
 Re-arranged the order of operations to prevent an
-<tt>if (_is_top()) { ... }</tt> conditional, that was done in every iteration.
+<code>if (_is_top()) { ... }</code> conditional, that was done in every iteration.
 </p>
 </li>
 
 <li>
 <p>
 Originally, the main object served as the controlling object for the top
-directory, and <tt>dir_stack-&gt;[0]</tt> was the directory below it. So
+directory, and <code>dir_stack-&gt;[0]</code> was the directory below it. So
 when checking for fatherhood of a directory, one had to return the main
-object for the father of <tt>dir_stack-&gt;[0]</tt>. In a series of commits, I
+object for the father of <code>dir_stack-&gt;[0]</code>. In a series of commits, I
 moved it to be a separate object, as well as occupying the first step
 in the directory stack.
 </p>
@@ -5568,7 +5568,7 @@ Caused by: java.net.ConnectException: Connection refused
 After many experimentations, I discovered the problem was that MySQL on my
 local machine listened only on a UNIX-domain socket and not on TCP, which is
 what JDBC tried to connect with. After commenting out the "skip-networking"
-option from <tt>/etc/my.cnf</tt> (which is the location of the MySQL
+option from <code>/etc/my.cnf</code> (which is the location of the MySQL
 configuration file on my system) and restarted mysqld, everything worked.
 </p>
 
@@ -5662,14 +5662,14 @@ those too.
 I recently (or not so recently) discovered that the KDE 4 desktop on my
 Mandriva Linux Cooker system displayed some bad visual artifacts when loaded
 as the default desktop. It didn't happen on fresh UNIX accounts. As I
-discovered, even moving away the entire home directory (<tt>/home/shlomi</tt>)
+discovered, even moving away the entire home directory (<code>/home/shlomi</code>)
 to a new place, and creating an empty directory did not resolve the problem.
 Nor did, copying the files from a good account.
 </p>
 
 <p>
 I finally discovered that the problem was in
-<tt>/var/tmp/kdecache-shlomi</tt> ("shlomi" is my username), which after
+<code>/var/tmp/kdecache-shlomi</code> ("shlomi" is my username), which after
 exiting from KDE 4 and removing solved the problem for good. Of course, all
 of this took many hours of trying to incrementally move away files and see
 if it solves the problem. I cannot guarantee it is the only cause of
@@ -5781,7 +5781,7 @@ I used <a href="http://en.wikibooks.org/">Wikibooks</a> to work on this
 article. Except for a few minor changes from other people, I was the only
 contributor. One thing that disappointed me was that wiki2xml (a MediaWiki
 extension that can convert the text to DocBook/XML and other formats)
-blissfully ignored all internal or wikipedia links (<tt>[[…]]</tt>),
+blissfully ignored all internal or wikipedia links (<code>[[…]]</code>),
 rendering many links in the article useless. This required that the article
 be extracted from the wiki by cleaning up the HTML of the page.
 </p>
@@ -5971,16 +5971,16 @@ svn log.
 </li>
 
 <li>
-Revert (using a selective <tt>svnadmin dump</tt> and then an
-<tt>svnadmin create</tt> ; and <tt>svnadmin load</tt>) to the older version of
-<tt>~/.svk/local</tt> that corresponds with the revision number
-of the commit. (While naturally keeping a copy of <tt>~/.svk/local/</tt> and
+Revert (using a selective <code>svnadmin dump</code> and then an
+<code>svnadmin create</code> ; and <code>svnadmin load</code>) to the older version of
+<code>~/.svk/local</code> that corresponds with the revision number
+of the commit. (While naturally keeping a copy of <code>~/.svk/local/</code> and
 its dump in a safe place.)
 </li>
 
 <li>
 See that a simple change in the svk checkout (like
-<tt>svk mkdir to-delete-`date +%s`</tt>) will propagate to the remote
+<code>svk mkdir to-delete-`date +%s`</code>) will propagate to the remote
 repository.
 </li>
 
@@ -5990,12 +5990,12 @@ Revert that change using the Subversion client directly.
 
 <li>
 Revert to the working-but-old copy of the SVK repository, and apply a
-filtered stream of the dumps (using <tt>svndumpfilter</tt>) that will
-exclude changes from the <tt>//mirror</tt> part of the SVK repository.
+filtered stream of the dumps (using <code>svndumpfilter</code>) that will
+exclude changes from the <code>//mirror</code> part of the SVK repository.
 </li>
 
 <li>
-After all that is done, checkout the trunk and do <tt>svk push</tt>
+After all that is done, checkout the trunk and do <code>svk push</code>
 from there.
 </li>
 
@@ -6010,23 +6010,23 @@ until I got to something working. Facts I've discovered:
 
 <li>
 <a href="http://creatingwithcode.com/howto/extracting-projects-from-shared-svn/">svndumpfilter needs a dump that was generated without the
-<tt>--deltas</tt> flag</a> (and possibly without <tt>--incremental</tt> either.
+<code>--deltas</code> flag</a> (and possibly without <code>--incremental</code> either.
 Otherwise it will complain.
 </li>
 
 <li>
-I couldn't seem to get <tt>svndumpfilter exclude mirror</tt> to work
-and instead ended up using <tt>svndumpfilter include local</tt>
+I couldn't seem to get <code>svndumpfilter exclude mirror</code> to work
+and instead ended up using <code>svndumpfilter include local</code>
 </li>
 
 <li>
-The <tt>--drop-empty-revs</tt> and <tt>--renumber-revs</tt> flags to
-svndumpfilter which seemed like a good idea confused <tt>svnadmin load</tt>,
+The <code>--drop-empty-revs</code> and <code>--renumber-revs</code> flags to
+svndumpfilter which seemed like a good idea confused <code>svnadmin load</code>,
 and everything worked after I removed them.
 </li>
 
 <li>
-Using <tt>tar -czf</tt> and <tt>tar -xf</tt> can really speed up restoring
+Using <code>tar -czf</code> and <code>tar -xf</code> can really speed up restoring
 older versions of a Subversion repository because svnadmin load is pretty slow.
 </li>
 
@@ -6222,7 +6222,7 @@ a KDE-based music player) version 2.x could not play
 as ".mod", ".s3m", ".xm" or ".it". The symptom was that dropping them
 in the playlist did not get them enqueued. Talking about it on IRC, I got
 a lead that led me to investiage the following code in Amarok's
-<tt>src/EngineController.cpp</tt>:
+<code>src/EngineController.cpp</code>:
 </p>
 
 <pre>
@@ -6328,13 +6328,13 @@ lines are at the end. And indeed it did not print the associated mime types.
 Reading a bit about Phonon, I tried to see what the backend that it
 was using was. I believed it was
 <a href="http://www.xine-project.org/home">Xine</a> but wanted to be sure.
-Eventually, what I did was to read <tt>/proc/`pgrep amarok`/maps</tt>
+Eventually, what I did was to read <code>/proc/`pgrep amarok`/maps</code>
 which contains a list of all the shared libraries that it used. A bit
 afterwards, I discovered that the Phonon backend was configurable from
 "Settings → Configure Amarok → Playback → Sound System Configuration"
 and indeed had Xine as the most prioritised backend. After switching it
 to gstreamer, I realised that Amarok could now play files ending with
-<tt>.mod</tt>, but not with say <tt>.xm</tt> or other Module files' formats,
+<code>.mod</code>, but not with say <code>.xm</code> or other Module files' formats,
 so it indicated that the problem was with Xine.
 </p>
 
@@ -6393,9 +6393,9 @@ the problem was with xine-lib.
 
 <p>
 Next I decided to look at xine-lib and investigate. Searching for the
-<tt>xine_get_mime_types()</tt> functions yielded a multiplexer that collected
+<code>xine_get_mime_types()</code> functions yielded a multiplexer that collected
 the mime types of the various plugins. So I looked at
-<tt>src/demuxers/demux_mod.c</tt> and found the following:
+<code>src/demuxers/demux_mod.c</code> and found the following:
 </p>
 
 <pre>
@@ -6648,7 +6648,7 @@ cmake -DCMAKE_INSTALL_PREFIX="$k4d" \
 
 <p>
 In kdebase, you may see that "make install" tries to install some python
-files under <tt>/usr</tt>. I workarounded it by editing the appropriate .cmake
+files under <code>/usr</code>. I workarounded it by editing the appropriate .cmake
 files and deleting the installation instructions for them, but there's a
 patchset in the works for that.
 </p>
@@ -6925,7 +6925,7 @@ past weeks, so here they are:
 <li>
 <p>
 One can use <a href="http://vimdoc.sourceforge.net/htmldoc/windows.html#:sp">the
-:sp(lit) command</a> to split a window into two. <tt>:new</tt> splits and
+:sp(lit) command</a> to split a window into two. <code>:new</code> splits and
 starts editing a new buffer. Finally, both of these commands followed by
 a filename stats editing the specified file in the new viewport.
 </p>
@@ -6934,7 +6934,7 @@ a filename stats editing the specified file in the new viewport.
 <li>
 <p>
 This tip is long overdue. You can make Vim behave more like a Windows-like
-editor by adding <a href="http://vimdoc.sourceforge.net/htmldoc/gui_w32.html#mswin.vim">source $VIMRUNTIME/mswin.vim</a> to your <tt>.vimrc</tt>.
+editor by adding <a href="http://vimdoc.sourceforge.net/htmldoc/gui_w32.html#mswin.vim">source $VIMRUNTIME/mswin.vim</a> to your <code>.vimrc</code>.
 Reportedly, it causes many problems and is not recommended, but I still
 like to use it, afer all these years.
 </p>
@@ -7237,7 +7237,7 @@ I was through, I did not know what to do with the rest of my life.
 <p>
 I ran into <a href="https://qa.mandriva.com/show_bug.cgi?id=51121">this bug
 with Amarok 2.x on my system</a>, which I fixed, by removing some weird
-junk from the end of <tt>/etc/fstab</tt>. The fact that I could not use Amarok
+junk from the end of <code>/etc/fstab</code>. The fact that I could not use Amarok
 irritated me a lot, and I was glad that I resolved it.
 </p>
 
@@ -7280,7 +7280,7 @@ I recently released a new version (1.0300) of
 my CPAN module for generating navigation menus</a>. This release fixes a bug
 in the "HeaderRole" type of navigation menus (which I believe is not widely
 used) and also cleans up the internals. Instead of
-<tt>my ($self, %args) = @_;</tt>, there's now <tt>my ($self, $args) = @_;</tt>,
+<code>my ($self, %args) = @_;</code>, there's now <code>my ($self, $args) = @_;</code>,
 which is cleaner and should also be a little faster.
 </p>
 
@@ -7673,7 +7673,7 @@ else {
 <p>
 This is incredibly inelegant, and abuses the Perl exception system for
 propagating values instead of errors. But there's even a worse way, using
-<tt>$File::Find::prune</tt>:
+<code>$File::Find::prune</code>:
 </p>
 
 <pre>
@@ -7752,7 +7752,7 @@ else
 </pre>
 
 <p>
-The <tt>find_needle()</tt> function is the important thing here, and one
+The <code>find_needle()</code> function is the important thing here, and one
 can see it doesn't use any exceptions, excessive prunes or anything like
 that. It just harnesses the iterative interface of File-Find-Object. And
 it works too:
@@ -7769,11 +7769,11 @@ shlomi:~$
 <img src="http://www.shlomifish.org/open-source/projects/File-Find-Object/genie-aladdin.jpg" alt="Evil Djinni from Disney's Aladdin" />
 
 <p>
-Let's suppose an evil djinni has removed the <tt>-r</tt> flag from your
+Let's suppose an evil djinni has removed the <code>-r</code> flag from your
 <a href="http://en.wikipedia.org/wiki/Diff">diff</a> program, making you
 unable to recursively find the differences between files in two directory
-tree. As a result, you now need to write a <tt>recursive-diff</tt> program in
-Perl that will run <tt>diff -u</tt> on the two copies of each equivalent path
+tree. As a result, you now need to write a <code>recursive-diff</code> program in
+Perl that will run <code>diff -u</code> on the two copies of each equivalent path
 in the two directorie.
 </p>
 
@@ -8208,7 +8208,7 @@ instead of from the directory handle, but it still shouldn't have segfaulted.
 <p>
 I asked a few people on IRC about it, and some of them were able to reproduce
 it, but only with perl-5.10.0 on Linux. Someone was able to golf it down
-to <tt>perl -e 'readdir($x=".")'</tt>, which segfaults too.
+to <code>perl -e 'readdir($x=".")'</code>, which segfaults too.
 </p>
 
 <p>
@@ -8249,22 +8249,22 @@ Meta Language</a>. Any insights would be appreciated.
 
 <p>
 Today I had to deal with some pesky dot-files again, and again ran into
-the problem that <tt>ls -a</tt> listed them along with "." and ".."
+the problem that <code>ls -a</code> listed them along with "." and ".."
 which were useless at best. A common idiom in filtering them out is using
-<tt>ls -a | grep -v '^..\?$'</tt> (or something similar using egrep or
-<tt>grep -P</tt> if it's available). But being too lazy to write it, I did
-a <tt>man ls</tt> and discovered a better way, right at the first page of
+<code>ls -a | grep -v '^..\?$'</code> (or something similar using egrep or
+<code>grep -P</code> if it's available). But being too lazy to write it, I did
+a <code>man ls</code> and discovered a better way, right at the first page of
 the manual.
 </p>
 
 <p>
-One can simply use <tt>ls -A</tt> or <tt>ls --almost-all</tt> to filter out
+One can simply use <code>ls -A</code> or <code>ls --almost-all</code> to filter out
 the implied "." and "..". At least, this works with GNU ls - don't know about
 BSD or the various proprietery UNIXes.
 </p>
 
 <p>
-So for example, <tt>ls -a</tt> may give you:
+So for example, <code>ls -a</code> may give you:
 </p>
 
 <pre>
@@ -8272,7 +8272,7 @@ So for example, <tt>ls -a</tt> may give you:
 </pre>
 
 <p>
-While <tt>ls -A</tt> may give:
+While <code>ls -A</code> may give:
 </p>
 
 <pre>
@@ -8709,7 +8709,7 @@ while still passing all tests.
 </p>
 
 <p>
-After a lot of playing with the <tt>has</tt> attributes to get them I ran into
+After a lot of playing with the <code>has</code> attributes to get them I ran into
 what appeared to be a problem which I could not overcome: I could not
 configure it not to use
 <a href="http://search.cpan.org/dist/Getopt-Long-Descriptive/">Getopt-Long-Descriptive</a>, in case it found it was installed. I didn't want to use it,
@@ -8823,7 +8823,7 @@ a good idea:
 <p>
 <b>Provide scaffolding for more lib/*.pm t/*.t </b>, etc. files. You can run
 something like
-<tt>pl-dist-man new --name=lib/MyPackage/NewModule.pm</tt> and it will
+<code>pl-dist-man new --name=lib/MyPackage/NewModule.pm</code> and it will
 create lib/MyPackage/NewModule with all the POD and some sample code ready
 to go, possibly with some tests under t/, etc.
 </p>
@@ -8891,7 +8891,7 @@ but seems to crying for help from a good templating system.
 <li>
 <p>
 <b>Good integration with the underlying version control system</b> - when
-you do <tt>pl-dist-man add lib/MyPackage/File.pm</tt> it will add it
+you do <code>pl-dist-man add lib/MyPackage/File.pm</code> it will add it
 to the MANIFEST and the underlying version control system, and you can
 move files or directories around, hermetically rename namespaces, etc.
 </p>
@@ -9337,15 +9337,15 @@ actually done such stuff a lot before:
 <a href="http://search.cpan.org/dist/XML-Grammar-Fortune/">XML-Grammar-Fortune</a>,
 <a href="http://search.cpan.org/dist/XML-CompareML/">XML-CompareML</a>, etc.
 As a result, I decided to refactor all the common functionality into a common
-<tt>XML-GrammarBase</tt> distribution.
+<code>XML-GrammarBase</code> distribution.
 </p>
 
 <p>
 Shouldn't be hard, right? Well, not so fast. When trying to create the skeleton
-of the distribution using a <tt>pl-dist-man setup …</tt> command, (see
+of the distribution using a <code>pl-dist-man setup …</code> command, (see
 <a href="http://search.cpan.org/dist/Dist-Man/">Dist-Man</a>),
 it died with an error - so I needed to fix it first. The fix was not hard,
-but I needed to extract some common test functionality into a <tt>./t/lib</tt>
+but I needed to extract some common test functionality into a <code>./t/lib</code>
 module. However, the
 <a href="http://search.cpan.org/dist/Test-Count/">Test-Count</a> used some
 Test-Count variables that now moved to the file. So I needed to implement
@@ -9355,7 +9355,7 @@ an include functionality. (Yak Shaving)++
 <p>
 Implementing this functionality in Test-Count was time consuming, and I did it
 by changing many files. You can now do
-<tt># TEST:source "$^CURRENT_DIRNAME/lib/MyMoreTests.pm";</tt>, which includes
+<code># TEST:source "$^CURRENT_DIRNAME/lib/MyMoreTests.pm";</code>, which includes
 the file.
 </p>
 
@@ -9480,8 +9480,8 @@ Updated the E-mail address of Adam Trickett per his request.
 </li>
 
 <li>
-Converted all occurences of <tt>new XML::RSS</tt> in the docs and code
-to <tt>XML::RSS-&gt;new()</tt>, per the modern Perl best practices.
+Converted all occurences of <code>new XML::RSS</code> in the docs and code
+to <code>XML::RSS-&gt;new()</code>, per the modern Perl best practices.
 </li>
 
 <li>
@@ -9554,7 +9554,7 @@ So let's start.
 
 <p>
 One day (which happened to be my birthday) I chatted on Freenode #perl when
-someone with the nickname of <tt>sas123</tt> joined and said he couldn't
+someone with the nickname of <code>sas123</code> joined and said he couldn't
 understand references. We naturally referred him to
 <a href="http://perldoc.perl.org/perlreftut.html">perlreftut</a>, but
 even after reading it, he said he did not understand. Some of the channel
@@ -9590,7 +9590,7 @@ And naturally, several individual people add up to a lot pretty quickly.
 </p>
 
 <p>
-I still recall an incident, where someone joined <tt>#vim</tt>, said
+I still recall an incident, where someone joined <code>#vim</code>, said
 he's been using GNU Emacs or XEmacs for many years. Now, because the
 people on #emacs have insulted him and treated him badly shortly before,
 he decided to switch wholesale to the alternative - Vim. When I suggested that
@@ -9753,9 +9753,9 @@ my $total = "Hello $adjective World!";
 </pre>
 
 <p>
-So if we put <tt>"beautiful"</tt> in <tt>$adjective</tt>, we'll get
-<tt>"Hello beautiful World!"</tt> in <tt>$total</tt> and if we put
-<tt>"cruel"</tt> there we'll get <tt>"Hello cruel World!"</tt> there.
+So if we put <code>"beautiful"</code> in <code>$adjective</code>, we'll get
+<code>"Hello beautiful World!"</code> in <code>$total</code> and if we put
+<code>"cruel"</code> there we'll get <code>"Hello cruel World!"</code> there.
 </p>
 
 <p>
@@ -9802,10 +9802,10 @@ Here are some other forms of code or markup injection:
 <b>Shell Command Injection</b> - I've discussed it briefly
 <a href="http://community.livejournal.com/shlomif_tech/14671.html">in
 a different post about "shell variable injection" in Bash</a>, but it also
-exists in Perl. Imagine doing <tt>system("ls $dir");</tt> or
-as some newcomers are tempted to do <tt>`ls $dir`</tt>, which the latter
+exists in Perl. Imagine doing <code>system("ls $dir");</code> or
+as some newcomers are tempted to do <code>`ls $dir`</code>, which the latter
 still has some legitimate uses. Now I as a malicious user can put in the
-<tt>$dir</tt> variable some malicious shell code which will wreck havoc on
+<code>$dir</code> variable some malicious shell code which will wreck havoc on
 the system of the user that is running the script.
 </p>
 </li>
@@ -9816,7 +9816,7 @@ the system of the user that is running the script.
 allows a user to inject malevolent SQL code that can do untold damages
 in the database. It is very common in web applications and many
 other applications that use SQL code. If you do something like
-<tt>"SELECT id FROM users WHERE name='$name'"</tt> then by putting
+<code>"SELECT id FROM users WHERE name='$name'"</code> then by putting
 single-quotes in the name, and using SQL syntax one can insert arbitrary SQL
 there and do a lot of damage. There was also
 <a href="http://xkcd.com/327/">a very nice xkcd comic</a> about it.
@@ -9825,7 +9825,7 @@ there and do a lot of damage. There was also
 <li>
 <p>
 <b>Perl Code injection</b> - let's suppose we want to construct an optimised
-anonymous function ( <tt>sub { ... }</tt> ) on the fly. We can build
+anonymous function ( <code>sub { ... }</code> ) on the fly. We can build
 its code and then use
 <a href="http://perldoc.perl.org/functions/eval.html">the
 string eval - eval ""</a>. A lot of Perl programmers think it should be
@@ -9836,7 +9836,7 @@ like when we construct a Perl program (or a program of any other language
 on the fly and execute it).
 </p>
 <p>
-In any case, if we insert a variable into the <tt>eval ""</tt> which was input
+In any case, if we insert a variable into the <code>eval ""</code> which was input
 from the user without being escaped or validated, we can have an arbitrary
 code execution.
 </p>
@@ -9847,12 +9847,12 @@ code execution.
 <b>Regular expressions' code injection</b> - imagine you want to see if a
 string is contained in a list of strings. One naïve way would be to concatenate
 the strings using a separator that is unlikely to be contained in them
-(such as <tt>\0</tt>) and then match this gigantic string using
-<tt>$haystack =~ m{$needle}</tt>. However, if $needle contains special regex characters,
+(such as <code>\0</code>) and then match this gigantic string using
+<code>$haystack =~ m{$needle}</code>. However, if $needle contains special regex characters,
 then the operation can take a lot of time to match or worse - yield an
 incorrect result. One way to avoid that is to use
 <a href="http://perldoc.perl.org/functions/quotemeta.html">perldoc -f quotemeta</a> or its \Q and \E regular expression escapes -
-<tt>$haystack =~ m{\Q$needle\E}g</tt>. In this particular case, it is also
+<code>$haystack =~ m{\Q$needle\E}g</code>. In this particular case, it is also
 probably better to use a hash, but naturally this was just one example
 where we'd like to embed some arbitrary (but plain) text inside a regular
 expression.
@@ -9896,9 +9896,9 @@ is a better ideal.
 </li>
 <li>
 Use auto-escaping features of your environment such as SQL place-holders
-(e.g: <tt>"SELECT * FROM mytable WHERE id = ?"</tt>), and the list argument of
+(e.g: <code>"SELECT * FROM mytable WHERE id = ?"</code>), and the list argument of
 <a href="http://perldoc.perl.org/functions/system.html">"perldoc
--f system"</a> (e.g: <tt>system { $cmd[0] } @cmd</tt>).
+-f system"</a> (e.g: <code>system { $cmd[0] } @cmd</code>).
 </li>
 <li>
 Perform frequent code reviews, black box tests, and encourage hackers to
@@ -10239,7 +10239,7 @@ XML-Grammar-Screenplay).
 
 <p>
 So how does a sample Fiction-Text story <b>look like</b>? Here's the
-markup for one straight out of the <tt>t/data</tt> directory of the
+markup for one straight out of the <code>t/data</code> directory of the
 XML-Grammar-Fiction CPAN distribution.
 </p>
 
@@ -10861,7 +10861,7 @@ way, one can have more faith that they have run the correct number of tests.
 <p>
 Personally, I found that some people take some time getting used to writing
 the Test-Count annotations, but for me it's been a great boon. I do not
-rule out that <tt>done_testing()</tt> has some uses or may be better in
+rule out that <code>done_testing()</code> has some uses or may be better in
 some clear-cut cases, but since many of my tests are data-driven or use
 loops or helper functions, then I always prefer to have a numeric plan
 and to keep it up-to-date using Test-Count.
@@ -11085,21 +11085,21 @@ sub _init
 </pre>
 
 <p>
-Turns out there was - you can use the <tt>BUILD</tt> method to provide
+Turns out there was - you can use the <code>BUILD</code> method to provide
 initialisation for each part of the class hierarchy (it gets calls in
 a walk-method style - not only for the most qualified sub-class). Only in
 my case in my en-Moosification of
 <a href="http://www.shlomifish.org/open-source/projects/XML-Grammar/Fiction/">XML-Grammar-Fiction</a>,
-I only needed a <tt>'default'</tt> callback to the class members, and to
-make them <tt>'lazy'</tt> by default.
+I only needed a <code>'default'</code> callback to the class members, and to
+make them <code>'lazy'</code> by default.
 </p>
 
 <p>
 This made me conclude that I have to learn Moose top-down to become more
 familiar with it. So I started reading the chapters of
 <a href="http://search.cpan.org/perldoc?Moose::Manual">Moose::Manual</a>
-and have already learned that I could encapsulate <tt>push()</tt> and
-<tt>shift()</tt> out of an array ref using
+and have already learned that I could encapsulate <code>push()</code> and
+<code>shift()</code> out of an array ref using
 <a href="http://search.cpan.org/perldoc?Moose::Manual::Delegation">its
 delegation</a>, which also proved useful in XML-Grammar-Fiction. After I'm
 done with the manual, I'm planning to go over the Moose cookbook.
@@ -11159,7 +11159,7 @@ While I worked on Test-Run I noticed
 that some of the Test-Run-CmdLine tests failed, and realised the problem
 was a MooseX-Getopt bug which I was able to supply a test for, and which
 involved a very short fix. While I was in the neighbourhood, I also contributed
-a test for handling the Getopt::Long <tt>no_ignore_case</tt> which I used as
+a test for handling the Getopt::Long <code>no_ignore_case</code> which I used as
 well, and the results were released in MooseX-Getopt-0.26 by
 <a href="http://search.cpan.org/~bobtfish/">Tomas Doran</a>.
 </p>
@@ -11169,8 +11169,8 @@ I also ran into an undesirable behaviour with MooseX-StrictConstructor which
 I was able to workaround with some help from the
 <a href="irc://irc.perl.org/#moose">#moose</a> people: when using it inside
 a class which has a base class, one needs to do
-<tt>BEGIN { extends ("BaseClass"); }</tt> instead of just
-<tt>extends("BaseClass");</tt>. I didn't understand why, but it just works.
+<code>BEGIN { extends ("BaseClass"); }</code> instead of just
+<code>extends("BaseClass");</code>. I didn't understand why, but it just works.
 </p>
 
 <p>
@@ -11188,7 +11188,7 @@ to fill in, but the YAML/DBI foundation is in place.
 <p>
 I worked on a Ruby program which I originally started writing in order to
 learn Ruby. I've added some tests, and refactored it. I've got bitten by a
-case where I overrided a variable called <tt>yx</tt> as a parameter to a
+case where I overrided a variable called <code>yx</code> as a parameter to a
 closure and it got clobbered afterwards. This is one reason why I prefer
 Perl 5's (and Scheme's)
 <a href="http://perl.plover.com/FAQs/Namespaces.html">explicit lexical
@@ -11252,7 +11252,7 @@ and
 another one for those taken from ##programming</a>. The motivation for them
 was to make my "shlomif" collection smaller and more managable, but at
 least it's now in the same place. I should note that you can find the XML
-version of the file by changing URL's the to <tt>.xml</tt> and the text
+version of the file by changing URL's the to <code>.xml</code> and the text
 version by changing it to a blank one. (Memo to self: link to them from
 the HTML page). The
 <a href="http://www.shlomifish.org/humour/fortunes/">main page of the
@@ -11305,7 +11305,7 @@ Very significant!
 
 <p>
 In order to avoid specifying it times and again you can make it the default
-by setting the <tt>MAKEFLAGS</tt> environment variable (which isn't
+by setting the <code>MAKEFLAGS</code> environment variable (which isn't
 documented too well) to "-r".
 </p>
 
@@ -11675,7 +11675,7 @@ For a long time I've been viewing and editing vim text files, for example
 those of the UNIX find output or of archive contents, that contained many
 consecutive lines of similar data. What I wanted to do is find the line where
 these consecutive data end where they no longer end. Among the workarounds
-I tried was jump to the end of the file (using <tt>G</tt>) and then search
+I tried was jump to the end of the file (using <code>G</code>) and then search
 backwards for the last matching line (which may not be very reliable). But
 a few days ago I decided that I had enough and sought a better way, and
 I found one.
@@ -11683,10 +11683,10 @@ I found one.
 
 <p>
 You can do it using a negated pattern. If for example you enter
-<tt>/ home\/shlomi\/\(Arcs\/\)\@!</tt> you will find the first line that
+<code>/ home\/shlomi\/\(Arcs\/\)\@!</code> you will find the first line that
 contains "home/shlomi" that is not followed by "home/shlomi/Arcs/".
 For information see
-<a href="http://vimdoc.sourceforge.net/htmldoc/pattern.html#%2F%5C%40!"><tt>:help \@!</tt></a>.
+<a href="http://vimdoc.sourceforge.net/htmldoc/pattern.html#%2F%5C%40!"><code>:help \@!</code></a>.
 </p>
 
 </div>
@@ -11711,7 +11711,7 @@ entirely full because of the executables.
 <p>
 I decided to investigate. I switched to my account, started a
 <a href="http://www.cygwin.com/">cygwin</a> shell,
-and ran <tt>\du . &gt; ~/du.txt</tt> from the C:\. What du does is report the
+and ran <code>\du . &gt; ~/du.txt</code> from the C:\. What du does is report the
 size of every directory starting from the input path recursively. Then I
 ran <a
 href="http://www.shlomifish.org/open-source/bits.html#du-output-analyser">my
@@ -12013,7 +12013,7 @@ Add the COPYING file.
 
 <li>
 Now disabling the thread-safety by default (in order to have it add
-<tt>-DLIBTAP_ENABLE_BROKEN_THREAD_SAFE</tt> .
+<code>-DLIBTAP_ENABLE_BROKEN_THREAD_SAFE</code> .
 </li>
 
 <li>
@@ -12200,7 +12200,7 @@ I was able to prepare the snippets.
 </p>
 
 <p>
-I placed the following under <tt>~/.vim/snippets/perl/_slurp.snippet</tt> :
+I placed the following under <code>~/.vim/snippets/perl/_slurp.snippet</code> :
 </p>
 
 <pre>
@@ -12222,14 +12222,14 @@ sub _slurp
 
 <p>
 And now I can type "_slurp&lt;TAB&gt;" to recall it. The existing "slurp"
-snippet in <tt>~/.vim/snippets/perl.snippets</tt> is quite evil, with an
+snippet in <code>~/.vim/snippets/perl.snippets</code> is quite evil, with an
 ugly inline line, typeglobs, and a two args open without a die statement.
 Thanks, but no thanks.
 </p>
 
 <p>
 Afterwards I added the following in
-<tt>~/.vim/snippets/perl/_ltestb.snippet</tt>
+<code>~/.vim/snippets/perl/_ltestb.snippet</code>
 </p>
 
 <pre>
@@ -12643,7 +12643,7 @@ $ ls -l c_* haskell_*
 </pre>
 
 <p>
-<tt>c_mine_half</tt> is less than 1% the size of <tt>haskell_mine</tt> (and
+<code>c_mine_half</code> is less than 1% the size of <code>haskell_mine</code> (and
 runs faster). When talking about this to other people, they said that Haskell
 has a very optimised primes sequence generator, which I can try using (which
 should be over 3 times as fast), and that it has two kinds of integers, which
@@ -12988,8 +12988,8 @@ I decided to go with
 my Chromium browser. The first thing I noticed was that the Linux download
 link led to a web forum post - very unprofessional. After downloading and
 unpacking the archive, it refused to run -
-<tt>/home/shlomi/apps/iron-linux/iron: error while loading shared libraries:
-libbz2.so.1.0: cannot open shared object file: No such file or directory</tt>.
+<code>/home/shlomi/apps/iron-linux/iron: error while loading shared libraries:
+libbz2.so.1.0: cannot open shared object file: No such file or directory</code>.
 A symbolic link to libbz2.so.1.0.0 (done by root) fixed that problem, and
 then it crashed with an X error. However, it started the second time and seemed
 to run fine (don't know what the problem was). I noticed Chromium
@@ -13114,7 +13114,7 @@ my $result_pdl = $pdl-&gt;…-&gt;final_expr()-&gt;with(sub { $_-&gt;where($_ &g
 <p>
 Which seems cleaner and more elegant. I went on IRC asking about it and someone
 suggested
-<tt>rindolf: (sub { local $_ = shift; $_ * $_ * $_})-gt;( $obj-&gt;... );</tt>
+<code>rindolf: (sub { local $_ = shift; $_ * $_ * $_})-gt;( $obj-&gt;... );</code>
 (up to an episolon, but naturally this reverses the order and messes with
 the flow of the code). Eventually
 <a href="http://www.shadowcat.co.uk/blog/matt-s-trout/">Matt S.
@@ -13330,7 +13330,7 @@ In any case, then Sawyer gave his presentation introducing Moose. It was a
 good presentation and the audience spent more time discussing it than last
 time he has given it in Tel Aviv. We spent a lot of time discussing the
 clearing methods which turned out to be equivalent to
-<tt>delete($self-&gt;{'myfield'})</tt> or so. Then we discussed the
+<code>delete($self-&gt;{'myfield'})</code> or so. Then we discussed the
 compilation-time
 overhead of Moose where someone said it was unacceptable because it would mean
 his test suite composed of many scripts would run much slower. We then
@@ -13415,7 +13415,7 @@ a lot of CPAN in slightly different ways, which required learning and studying.
 <p>
 In regards to KiokuDB - it worked pretty well. When trying to deploy it on
 my Mandriva 2010.0 laptop, I discovered that it gave me a lot of problems
-with the Perl debugger (<tt>perl -d</tt>), which were resolved by upgrading
+with the Perl debugger (<code>perl -d</code>), which were resolved by upgrading
 <a href="http://search.cpan.org/dist/namespace-clean/">namespace-clean</a>
 (thanks to nothingmuch on IRC for that.)
 </p>
@@ -14232,7 +14232,7 @@ Regex fun and declaring the two variable twice.
 As a result, I decided to get rid of this anti-abstraction and do
 a simple "my $l = $self-&gt;curr_line_ref". Now what about Lisp? In Common
 Lisp, one can declare a macro to define methods that will already
-have the "<tt>l</tt>" for the current line reference variable pre-declared
+have the "<code>l</code>" for the current line reference variable pre-declared
 and pre-assigned. Or maybe one can also temporarily rewrite the method
 definition macros or add hooks for the duration of the class. So I guess this
 could have been much better there, and Perl 5 is not as good as Lisp is in
@@ -14503,10 +14503,10 @@ git version control system</a> extensively in the past few weeks (due to
 the proliferation of projects I'm involved in that use it.). I
 found the standard "git status" output to be far too wordy and annoying,
 and sought a way to improve it and make it more subversion like.
-"man git-status" helped with this: one can write <tt>git status -s</tt> to
-get an output similar to <tt>svn status</tt> (or <tt>svn st</tt> for
-short) and <tt>git status -s .</tt> to restrict the output only to files
-below the current directory (and not get the <tt>../…</tt> files). Enjoy!
+"man git-status" helped with this: one can write <code>git status -s</code> to
+get an output similar to <code>svn status</code> (or <code>svn st</code> for
+short) and <code>git status -s .</code> to restrict the output only to files
+below the current directory (and not get the <code>../…</code> files). Enjoy!
 </p>
 
 </div>
@@ -14829,12 +14829,12 @@ year's conference, and hope to see you in
 Here's a small Perl debugger tip: in order to have a file whose commands
 will be executed at the start of the debugging session (for example in order
 to get to a certain point in the code) - a session startup file, similar
-to gdb's <tt>--command=cmds.gdb</tt> flag - one can do the following:
+to gdb's <code>--command=cmds.gdb</code> flag - one can do the following:
 </p>
 
 <p>
 First of all write a file with the debugger commands you want (let's call it
-<tt>cmds.perldb</tt>) and then when inside the perl debugger say:
+<code>cmds.perldb</code>) and then when inside the perl debugger say:
 </p>
 
 <pre>
@@ -14848,8 +14848,8 @@ This will execute all the commands.
 <p>
 I noticed that after a while the perl debugger stores it inside the history
 (assuming you're using Term-ReadLine-Gnu), so you can recall it with
-<tt>s</tt> and then pressing the <tt>history-search-forward</tt>
-and <tt>history-search-backward</tt> that were set up (Mandriva assigns
+<code>s</code> and then pressing the <code>history-search-forward</code>
+and <code>history-search-backward</code> that were set up (Mandriva assigns
 them to Page Up and Page Down).
 </p>
 
@@ -14949,7 +14949,7 @@ of running on my ancient browser.
 Here's another Perl 5 debugger tip: if the output of a command is too long,
 one can prefix it with "|" (a vertical bar / pipe) to display it using the
 pager. So, for example
-<tt>|x $my_object</tt> will display $my_object using the shell's pager (
+<code>|x $my_object</code> will display $my_object using the shell's pager (
 <a href="http://www.gnu.org/software/less/">GNU less</a> or more or
 whatever). Enjoy!
 </p>
@@ -15086,13 +15086,13 @@ stands at the top of <a href="http://ali.as/top100/">the CPAN Top "Heavy"
 <p>
 Here's the <b>executive summary</b>: MojoMojo and its dependencies contain
 approximately 631,222 source lines of production code (what is under
-the distributions' <tt>lib/</tt> directory) - all of it Perl - and
-approximately 272,027 lines of testing code (what is under the <tt>t/</tt>'s)
+the distributions' <code>lib/</code> directory) - all of it Perl - and
+approximately 272,027 lines of testing code (what is under the <code>t/</code>'s)
 , about 265,833 out of which are Perl. The total is 897,055 SLOCs of Perl.
 </p>
 
 <p>
-Here is the <tt>lib/</tt> report by
+Here is the <code>lib/</code> report by
 <a href="http://www.dwheeler.com/sloccount/">SLOCCount</a>:
 </p>
 
@@ -15120,7 +15120,7 @@ Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."
 </pre>
 
 <p>
-And here is the <tt>t/</tt> report:
+And here is the <code>t/</code> report:
 </p>
 
 <pre>
@@ -15167,8 +15167,8 @@ I can do the same with Perl, too, by adding -l and replacing "puts" with
 
 <p>
 Then I got a list of paths like
-<tt>A/AB/ABIGAIL/Regexp-Common-2010010201.tar.gz</tt> ,
-<tt>A/AB/ABW/AppConfig-1.66.tar.gz</tt> etc. After trying to get the CPAN
+<code>A/AB/ABIGAIL/Regexp-Common-2010010201.tar.gz</code> ,
+<code>A/AB/ABW/AppConfig-1.66.tar.gz</code> etc. After trying to get the CPAN
 client to download them to the current directory, I've given up and instead
 used the following script:
 </p>
@@ -15296,7 +15296,7 @@ freecell-solver-range-parallel-solve 1 "${MAX_DEAL//,/}" 500 -l by
 
 <p>
 We've declared the number constant MAX_DEAL with commas, and we got rid
-of the commas before passing it to the program using the <tt>//,/</tt>
+of the commas before passing it to the program using the <code>//,/</code>
 trick. The latter is part of
 <a href="http://tldp.org/LDP/abs/html/parameter-substitution.html">Bash's
 parameter subtitution</a>. Search for "${var//Pattern/Replacement}" for the
@@ -15406,7 +15406,7 @@ might be doing it wrong and lastly, those who don't even know what it is.
 </p>
 
 <p>
-<tt>$rehovot_pm-&gt;on_event( poe_talk =&gt; \&amp;attend() );</tt>
+<code>$rehovot_pm-&gt;on_event( poe_talk =&gt; \&amp;attend() );</code>
 </p>
 </li>
 </ul>
@@ -15429,7 +15429,7 @@ Hope to see you there.
 I had a long-time problem on my Mandriva Linux system where, after I set
 Firefox as the default browser on KDE, it either made KDE first download
 the page to the hard-disk and redirect Firefox to access it from
-<tt>/var/tmp</tt> - or, if I set the default browser to "firefox %u", it
+<code>/var/tmp</code> - or, if I set the default browser to "firefox %u", it
 opened the link in a new window twice.
 </p>
 
@@ -15438,17 +15438,17 @@ Today I decided to go to the bottom of it, after seeing that an upgrade of
 KDE on Mandriva Cooker did not fix the problem (which I was told would). After
 consulting some people on IRC, I realised that I could not reproduce the bug
 on a new UNIX user account, so it was a configuration problem here. Then I
-realised that <tt>/usr/bin/www-browser</tt> which is what the
-<tt>BROWSER</tt> environment variable points to also opens it this way. After
-looking through the source code of <tt>www-browser</tt>, and testing some
+realised that <code>/usr/bin/www-browser</code> which is what the
+<code>BROWSER</code> environment variable points to also opens it this way. After
+looking through the source code of <code>www-browser</code>, and testing some
 command-line invocation of capture-shells there, I suspected the problem was
-with a stray <tt>firefox.desktop</tt> file.
+with a stray <code>firefox.desktop</code> file.
 </p>
 
 <p>
 Running locate found two such files inside my home directory:
-<tt>/home/shlomif/.gnome2/panel2.d/default/launchers/firefox.desktop</tt> and
-<tt>/home/shlomif/.local/share/applications/firefox.desktop</tt>. Moving away
+<code>/home/shlomif/.gnome2/panel2.d/default/launchers/firefox.desktop</code> and
+<code>/home/shlomif/.local/share/applications/firefox.desktop</code>. Moving away
 them both resolved the problem and now if the default browser is set to
 "firefox", the Firefox opens a link in a single new tab after a single click.
 </p>
@@ -15619,7 +15619,7 @@ I discovered a bug in bsd-games' primes:
 <p>
 after downloading
 http://ftp.de.debian.org/debian/pool/main/b/bsdgames/bsdgames_2.17.orig.tar.gz
-and doing <tt>yes "" | ./configure</tt> (the interactive configure script
+and doing <code>yes "" | ./configure</code> (the interactive configure script
 is very annoying, BTW) and "make primes/primes" on my x86-64 laptop
 running Mandriva Cooker I'm getting the following:
 </p>
@@ -15749,7 +15749,7 @@ in ~/.gconf/ which moving that directory away solved it (one can solve it
 more hermetically by getting rid of the offending configuration problem, but
 I did not bother with it yet). The KDE problem persisted afterwards, but
 was easier to fix: I <a href="http://betterthangrep.com/">ack</a>ed
-~/.kde4/share/config for "dpi" and found <tt>share/config/kcmfonts</tt>
+~/.kde4/share/config for "dpi" and found <code>share/config/kcmfonts</code>
 and a line in another file that set the dpi to a different value which I
 fixed, and that made both the GNOME and KDE font size and DPIs (dots-per-inches)
 to be the same as those of IceWM and XFCE. Now the relief has made me very
@@ -15793,7 +15793,7 @@ up()
 </pre>
 
 <p>
-And then inovke it like <tt>up XML::RSS XML-LibXML DBIx/Class.pm</tt> (note
+And then inovke it like <code>up XML::RSS XML-LibXML DBIx/Class.pm</code> (note
 the inconsistency - perlmf handles all those formats for you), and it
 will install them.
 </p>
@@ -15811,7 +15811,7 @@ up()
 
 <p>
 And then type the same command. (It will actually be better because urpmi
-will fetch individual rpm provides modules such as <tt>perl(XML::RSS)</tt>
+will fetch individual rpm provides modules such as <code>perl(XML::RSS)</code>
 that may be contained in larger distributions).
 </p>
 
@@ -16085,8 +16085,8 @@ Do you see the problem? Subtracting two <b>unsigned</b> longs will always yield
 a non-negative value, which will yield the comparison void. I considered
 several alternatives to this including using longs instead of unsigned longs
 (which will still be a problems on platforms where long is less than the
-pointer size), or subtracting <tt>const char *</tt> (which may overflow
-the <tt>int</tt> return) and eventually opted for
+pointer size), or subtracting <code>const char *</code> (which may overflow
+the <code>int</code> return) and eventually opted for
 the safest version of:
 </p>
 
@@ -16181,9 +16181,9 @@ but I was disappointed that he did not mention
 After that, <a href="http://szabgab.com/">Gabor</a> came and talked about
 what's new in perl-5.10.x and perl-5.12.x. He covered most bases and then
 when he got to perl-5.12.x's
-<tt>while (my ($index, $value) = each(@array))</tt> I asked
-him if there was also <tt>keys(@array)</tt> and he said he doesn't know.
-Today I tried it out and there is indeed <tt>keys(@array)</tt>:
+<code>while (my ($index, $value) = each(@array))</code> I asked
+him if there was also <code>keys(@array)</code> and he said he doesn't know.
+Today I tried it out and there is indeed <code>keys(@array)</code>:
 </p>
 
 <pre>
@@ -16192,7 +16192,7 @@ shlomif:~$ perl -E 'my @a=(50 .. 60); say join(",",keys(@a));'
 </pre>
 
 <p>
-There's also <tt>values(@array)</tt>, but it's likely the same as "@array".
+There's also <code>values(@array)</code>, but it's likely the same as "@array".
 There are many small and large improvements in perl-5.10.x and 5.12.x and he
 mentioned that the perl5-porters are now switching to a yearly release cycle,
 which will make improvements materialise in production more rapidly.
