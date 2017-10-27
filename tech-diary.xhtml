@@ -75,9 +75,9 @@ but I was disappointed that he did not mention
 After that, <a href="http://szabgab.com/">Gabor</a> came and talked about
 what's new in perl-5.10.x and perl-5.12.x. He covered most bases and then
 when he got to perl-5.12.x's
-<tt>while (my ($index, $value) = each(@array))</tt> I asked
-him if there was also <tt>keys(@array)</tt> and he said he doesn't know.
-Today I tried it out and there is indeed <tt>keys(@array)</tt>:
+<code>while (my ($index, $value) = each(@array))</code> I asked
+him if there was also <code>keys(@array)</code> and he said he doesn't know.
+Today I tried it out and there is indeed <code>keys(@array)</code>:
 </p>
 
 <pre>
@@ -86,7 +86,7 @@ shlomif:~$ perl -E 'my @a=(50 .. 60); say join(",",keys(@a));'
 </pre>
 
 <p>
-There's also <tt>values(@array)</tt>, but it's likely the same as "@array".
+There's also <code>values(@array)</code>, but it's likely the same as "@array".
 There are many small and large improvements in perl-5.10.x and 5.12.x and he
 mentioned that the perl5-porters are now switching to a yearly release cycle,
 which will make improvements materialise in production more rapidly.
@@ -1153,7 +1153,7 @@ Gentoo Wiki's “W3C Validator HOWTO” document</a> provided some insights. Jus
 download
 <a href="http://validator.w3.org/sgml-lib.tar.gz">http://validator.w3.org/sgml-lib.tar.gz</a>,
 unpack it, cd to its directory and do
-<tt>export XML_CATALOG_FILES="$(pwd)/catalog.xml"</tt> to set the XML
+<code>export XML_CATALOG_FILES="$(pwd)/catalog.xml"</code> to set the XML
 catalogue appropriately. It's too bad I could not find a Mandriva Linux
 package for that.
 </p>
@@ -1178,7 +1178,7 @@ By default, the <a href="http://kate-editor.org/">Kate
 editor of the KDE project</a> displays Hebrew/Arabic text etc. left aligned
 in the window instead of aligned to the right edge of the window even after
 the "Enhanced support for languages written right-to-left" is
-checked in the <tt>qtconfig</tt> applet. To remedy this you need to
+checked in the <code>qtconfig</code> applet. To remedy this you need to
 enable in the settings “Appearance → General → Dynamic Word Wrap” and
 after doing that the mostly Hebrew lines will be properly aligned.
 </p>
@@ -1221,16 +1221,16 @@ To use it, do something like this:
 
 <p>
 I've originally thought I could do it by setting the value of
-<tt>_NET_DESKTOP_NAMES</tt> in xprop, but that turned out to be futile. Then
+<code>_NET_DESKTOP_NAMES</code> in xprop, but that turned out to be futile. Then
 I decided that imitation was the sincerest form of flattery and ripped the
 relevant code out of kdebase-workspace, and after some modifications, it
-worked. I'd like to thank <tt>pinotree</tt> from <tt>#kde-devel</tt> for
+worked. I'd like to thank <code>pinotree</code> from <code>#kde-devel</code> for
 some assistance.
 </p>
 
 <p>
 Here is the code, but the repository also contains a
-<tt>CMakeLists.txt</tt> file:
+<code>CMakeLists.txt</code> file:
 </p>
 
 <pre>
@@ -1437,7 +1437,7 @@ right before that, using
 <a href="http://vimdoc.sourceforge.net/htmldoc/motion.html#;">;</a>, and repeat
 in the opposite direction using
 <a href="http://vimdoc.sourceforge.net/htmldoc/motion.html#,">,</a>. I
-discovered those after starting to read through the vim <tt>usr_*</tt>
+discovered those after starting to read through the vim <code>usr_*</code>
 manuals.
 </p>
 </li>
@@ -1445,14 +1445,14 @@ manuals.
 <li>
 <p>
 One can get the Unicode value of the character under the cursor using the
-<tt>:ascii</tt> command-line command or the <tt>ga</tt> normal mode command.
+<code>:ascii</code> command-line command or the <code>ga</code> normal mode command.
 </p>
 </li>
 
 <li>
 <p>
 If you want to find how many lines/words/etc. are in a visual block, you can
-select it using "v" and friends and then type <tt>g-Ctrl+G</tt>.
+select it using "v" and friends and then type <code>g-Ctrl+G</code>.
 </p>
 </li>
 
@@ -1460,8 +1460,8 @@ select it using "v" and friends and then type <tt>g-Ctrl+G</tt>.
 <p>
 Finally, you can pipe the contents of the buffer or a range to an external
 program and view its output temporarily. So you can say
-<tt>:w !grep 'FOO' | wc -l</tt> to find the number of lines containing 'FOO',
-or <tt>:'a,'bw !grep 'FOO' | wc -l</tt> within a range.
+<code>:w !grep 'FOO' | wc -l</code> to find the number of lines containing 'FOO',
+or <code>:'a,'bw !grep 'FOO' | wc -l</code> within a range.
 </p>
 </li>
 
@@ -1469,8 +1469,8 @@ or <tt>:'a,'bw !grep 'FOO' | wc -l</tt> within a range.
 
 <p>
 I should note that one thing that annoyed me lately, is the fact that after I
-have a visual selection (<tt>v</tt> or <tt>V</tt>), I sometimes press
-<tt>u</tt> instead of <tt>y</tt> (because they are so nearby) and so cause
+have a visual selection (<code>v</code> or <code>V</code>), I sometimes press
+<code>u</code> instead of <code>y</code> (because they are so nearby) and so cause
 the selection to become lowercase instead of yanking it.
 </p>
 
@@ -1700,8 +1700,8 @@ Test::More can).
 So here's a tip for it: if you're writing your testing code in a different
 file, and you wish to check that no compile-time or run-time exception
 was thrown (which will cause qunit to report a success with zero assertions)
-you should wrap the testing code in a <tt>try { .. } catch</tt> block and in
-the catch block, run <tt>ok(false...)</tt>.
+you should wrap the testing code in a <code>try { .. } catch</code> block and in
+the catch block, run <code>ok(false...)</code>.
 </p>
 
 <p>
@@ -1982,8 +1982,8 @@ attend. See you there!
 <p>
 When working with the <a
 href="http://en.wikipedia.org/wiki/Git_%28software%29">git version control
-system</a> and editing <tt>.git/config</tt> to add a new remote, some people
-may be tempted to copy and change the <tt>origin</tt> remote that reads
+system</a> and editing <code>.git/config</code> to add a new remote, some people
+may be tempted to copy and change the <code>origin</code> remote that reads
 something like:
 </p>
 
@@ -1994,17 +1994,17 @@ something like:
 </pre>
 
 <p>
-However, note that <tt>origin</tt> also appears at the <tt>fetch = </tt>
+However, note that <code>origin</code> also appears at the <code>fetch = </code>
 and needs to be changed there as well, or else all the branches will be placed
-in <tt>remotes/origin</tt>. Maybe there's a better way to add a new remote
-using the <tt>git config</tt> commands.
+in <code>remotes/origin</code>. Maybe there's a better way to add a new remote
+using the <code>git config</code> commands.
 </p>
 
 <p>
 Other than that, I should note that there doesn't seem to be a consensus among
-git users whether <tt>git pull --rebase</tt> is better than a simple
-<tt>git pull</tt>: the perl people told me to use <tt>--rebase</tt> and the
-Amarok people and someone on Freenode's <tt>##programming</tt> told
+git users whether <code>git pull --rebase</code> is better than a simple
+<code>git pull</code>: the perl people told me to use <code>--rebase</code> and the
+Amarok people and someone on Freenode's <code>##programming</code> told
 me not to use it. Now I'm just confused.
 </p>
 
@@ -2021,9 +2021,9 @@ me not to use it. Now I'm just confused.
 
 <p>
 Here are some Vim tips I ran into recently. First of all, when opening
-<tt>scp://</tt> URLs, one should use two slashes after the hostname instead of
-1, like <tt>scp://hostname//home/myuser/foo.txt</tt> instead of
-<tt>scp://hostname/home/myuser/foo.txt</tt>. I don’t know why that is the
+<code>scp://</code> URLs, one should use two slashes after the hostname instead of
+1, like <code>scp://hostname//home/myuser/foo.txt</code> instead of
+<code>scp://hostname/home/myuser/foo.txt</code>. I don’t know why that is the
 case, but it does not work properly without it. It also seems that netrw
 is buggy as it displays an irritating grey line on the cursor, the syntax
 highlighting tends to be off and saving a file displays several lines at the
@@ -2032,17 +2032,17 @@ bottom.
 
 <p>
 Another tip is that gvim limits the number of tabs it opens when doing
-<tt>gvim -p [file1] [file2] [file3]</tt>. As a result, it is possible that
+<code>gvim -p [file1] [file2] [file3]</code>. As a result, it is possible that
 not all files will be opened. If you want to change it you can set
-<tt>set tabpagemax</tt> in your <tt>.vimrc</tt>.
+<code>set tabpagemax</code> in your <code>.vimrc</code>.
 </p>
 
 <p>
 Finally, I noticed that Vim c-indentation tends to indent parameters to
 functions on subsequent lines using 8 spaces instead of 4 by default. I was
 able to change it to 4, which is my preference by adding
-<tt>set cinoptions+='(0,W4'</tt> to my <tt>.vimrc</tt>. There is plenty
-of other nifty stuff available in the <tt>cinoptions</tt> parameter.
+<code>set cinoptions+='(0,W4'</code> to my <code>.vimrc</code>. There is plenty
+of other nifty stuff available in the <code>cinoptions</code> parameter.
 </p>
 
 <p>
@@ -2076,9 +2076,9 @@ default, and with which it works fine under subversion-1.7.x.
 <p>
 I discovered all that after I attempted to fix it the hard way by installing
 subversion-1.6.x under /opt/svn-1.6.x, which required building an old
-version of SWIG, and then setting <tt>PATH</tt>, <tt>LD_LIBRARY_PATH</tt>,
-and <tt>PYTHONPATH</tt> and then having to remove the global python-svn
-bindings from under <tt>/usr/lib</tt> (as root!) because hgsubversion did not
+version of SWIG, and then setting <code>PATH</code>, <code>LD_LIBRARY_PATH</code>,
+and <code>PYTHONPATH</code> and then having to remove the global python-svn
+bindings from under <code>/usr/lib</code> (as root!) because hgsubversion did not
 like them, a process which took me an entire evening and was frustrating and
 was ridden with a lot of trial and error, so I would not recommend it.
 </p>
@@ -2169,7 +2169,7 @@ please let me know what you think by commenting below.
 
 <p>
 In order to properly introduce the plugin, one first should introduce the
-different (and useful) commands of Vim of <tt>*</tt> and <tt>#</tt>. What they
+different (and useful) commands of Vim of <code>*</code> and <code>#</code>. What they
 do is search forward or backward for the complete word under the cursor (or
 somewhat before it or after it). Bram Moolenaar (the creator of Vim)
 covers them in his <a href="http://www.moolenaar.net/habits.html">“Seven
@@ -2188,9 +2188,9 @@ writing the “add-to-word-search” plugin.
 </p>
 
 <p>
-After installing it, and after having searched for a word using <tt>*</tt>
-or <tt>#</tt>, one can press <tt>\**</tt> to search forward for an additional
-word under the cursor (or <tt>\##</tt> to search backward), and then use it more
+After installing it, and after having searched for a word using <code>*</code>
+or <code>#</code>, one can press <code>\**</code> to search forward for an additional
+word under the cursor (or <code>\##</code> to search backward), and then use it more
 times to add additional words.
 </p>
 
@@ -2199,8 +2199,8 @@ After publishing this plugin and mentioning it on
 <a href="irc://irc.freenode.net/#vim">#vim</a>,
 “ironcamel” reported
 <a href="https://github.com/shlomif/add-to-word-search.vim/issues/1">an
-issue</a> that it gives an error if you have <tt>set nowrapscan</tt>. I fixed
-it, but was only able to do so by temporarily disabling <tt>nowrapscan</tt>,
+issue</a> that it gives an error if you have <code>set nowrapscan</code>. I fixed
+it, but was only able to do so by temporarily disabling <code>nowrapscan</code>,
 and then enabling it if it was previously enabled. (Apparently, vimscript’s
 exception-handling cannot handle some of the built-in errors.)
 </p>
@@ -2239,10 +2239,10 @@ compression based on the extension and uses the appropriate flag.
 </p>
 
 <p>
-So: “<tt>tar -cavf myarchive.tar.gz ./mydir/</tt>” is equivalent to
-“<tt>tar -czvf myarchive.tar.gz ./mydir/</tt>”,
-“<tt>tar -cavf myarchive.tar.bz2 ./mydir/</tt>” does the same thing
-as “<tt>tar -cjvf myarchive.tar.bz2 ./mydir/</tt>” and so forth. When
+So: “<code>tar -cavf myarchive.tar.gz ./mydir/</code>” is equivalent to
+“<code>tar -czvf myarchive.tar.gz ./mydir/</code>”,
+“<code>tar -cavf myarchive.tar.bz2 ./mydir/</code>” does the same thing
+as “<code>tar -cjvf myarchive.tar.bz2 ./mydir/</code>” and so forth. When
 unpacking archives, you can omit the “-a/-z/-j/-J” flags, because GNU tar
 will detect the compression of the archive based on the file magic of the
 compressed formats.
@@ -2253,7 +2253,7 @@ Another useful (and open-source) tool for manipulating tarballs and
 other archives is
 <a href="https://sourceforge.net/projects/patool/">patool</a>, but I've been
 meaning to suggest they do a short-circuiting when converting tarballs from
-<tt>.tar.gz</tt> to <tt>.tar.xz</tt> to <tt>.tar.bz2</tt> / etc.
+<code>.tar.gz</code> to <code>.tar.xz</code> to <code>.tar.bz2</code> / etc.
 </p>
 
 <p>
@@ -2351,7 +2351,7 @@ Happy listening.
 I spent a large part of today building Firefox on one of my Linux machines and
 trying to figure out why
 gdb did not display debugging symbols, and instead only displayed question
-marks in the backtrace (<tt>??</tt> ). Eeventually, I found  a solution, so
+marks in the backtrace (<code>??</code> ). Eeventually, I found  a solution, so
 I'd like to document the process for other people in the future.
 </p>
 
@@ -2373,8 +2373,8 @@ repository</a>
 
 <li>
 <p>
-Put something like the following in the <tt>.mozconfig</tt> file in the
-source's root (where <tt>client.mk</tt> can be found):
+Put something like the following in the <code>.mozconfig</code> file in the
+source's root (where <code>client.mk</code> can be found):
 </p>
 
 <pre>
@@ -2389,27 +2389,27 @@ ac_add_options --prefix="$HOME/opt/firefox-from-hg"
 </pre>
 
 <p>
-The important lines are the <tt>--enable-debug</tt>,
-<tt>--enable-debug-symbols</tt> and the <tt>LDFLAGS one</tt>.
+The important lines are the <code>--enable-debug</code>,
+<code>--enable-debug-symbols</code> and the <code>LDFLAGS one</code>.
 </p>
 </li>
 
 <li>
 <p>
-Type <tt>make -f client.mk</tt>. Now you'll need to wait.
+Type <code>make -f client.mk</code>. Now you'll need to wait.
 </p>
 </li>
 
 <li>
 <p>
-Type <tt>make -f client.mk install PKG_SKIP_STRIP=1</tt> and make sure
-you do not forget the <tt>PKG_SKIP_STRIP=1 parameter</tt>.
+Type <code>make -f client.mk install PKG_SKIP_STRIP=1</code> and make sure
+you do not forget the <code>PKG_SKIP_STRIP=1 parameter</code>.
 </p>
 </li>
 
 <li>
 <p>
-Now you can use <tt>gdb ~/opt/firefox-from-hg/bin/firefox</tt> to debug
+Now you can use <code>gdb ~/opt/firefox-from-hg/bin/firefox</code> to debug
 Firefox with all the debugging symbols.
 </p>
 </li>
@@ -2520,7 +2520,7 @@ Python is not spelled “PYTHON”, and it's MySQL - not “MYSQL”, “Mysql�
 If you have a successful business or planning on having one, then you should
 get your own
 <a href="http://en.wikipedia.org/wiki/Domain_Name_System">DNS domain</a>
-such as <tt>mycompany.com</tt>, set up E-mail hosting for it, and send the job
+such as <code>mycompany.com</code>, set up E-mail hosting for it, and send the job
 posts from there. Sending
 from a Webmail provider such as “@gmail.com”, “@hotmail.com” or “@yahoo.com”
 will make a bad impression, and indicate lack of professionalism.
@@ -2691,7 +2691,7 @@ production code) of the Ruby programming language’s
 debugger, which was a problem I've
 ran into lately when working on some Ruby code. Most of the other posts I
 found about the topic were either incomplete or out-of-date, but I got
-some help from <tt>#ruby-lang</tt> on Freenode, so I was able to figure it
+some help from <code>#ruby-lang</code> on Freenode, so I was able to figure it
 out.
 </p>
 
@@ -2703,19 +2703,19 @@ What you should do is:
 
 <li>
 <p>
-install the <tt>ruby-debug</tt> gem: <tt>gem install ruby-debug</tt>.
+install the <code>ruby-debug</code> gem: <code>gem install ruby-debug</code>.
 </p>
 </li>
 
 <li>
 <p>
-Add <tt>require 'ruby-debug'</tt> to the top of the test script.
+Add <code>require 'ruby-debug'</code> to the top of the test script.
 </p>
 </li>
 
 <li>
 <p>
-Add a <tt>debugger</tt> statement to lines where you want to place a
+Add a <code>debugger</code> statement to lines where you want to place a
 breakpoint. This is important because otherwise the debugger will never
 stop. (I am unhappy with it.)
 </p>
@@ -2723,8 +2723,8 @@ stop. (I am unhappy with it.)
 
 <li>
 <p>
-Use the <tt>--debug</tt> flag in rspec:
-<tt>rspec --debug t/parse-board.rb</tt>.
+Use the <code>--debug</code> flag in rspec:
+<code>rspec --debug t/parse-board.rb</code>.
 </p>
 </li>
 
@@ -2757,7 +2757,7 @@ to this page and <a href="http://www.shlomifish.org/">to my homepage</a>.
 <p>
 In this blog I’d like to blog about the newest edition to my
 <a href="http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29">Bash (the
-UNIX shell)</a> aliases file: the <tt>cache()</tt> function. What it
+UNIX shell)</a> aliases file: the <code>cache()</code> function. What it
 does is cache the result of a lengthy command in a file in a common place,
 and then simply output this file if it already exists. I found it of use
 when I compiled a report which involved some lengthy recursive grep operations
@@ -2865,7 +2865,7 @@ Relay Chat) for a while, I have witnessed my share of people coming up
 with unreasonable needs due to homework. However, some days ago, someone
 on <a href="http://perl-begin.org/FAQs/freenode-perl/">Freenode's #perl</a>
 came and ask for help in parsing a semicolon that does not occur inside
-shell quotes (e.g: <tt>echo "Semicolon in string - ; foobar" ; ls -l ; </tt>)
+shell quotes (e.g: <code>echo "Semicolon in string - ; foobar" ; ls -l ; </code>)
 using regular expressions. I suggested him to use a parser generator, and
 then said that his teacher has forbidden him from using it or any other
 external CPAN module and that he could only use regular expressions, in order
@@ -3020,7 +3020,7 @@ entry.
 
 <p>
 In the <b>Vim</b> text editor(<a href="http://www.vim.org/">homepage</a>),
-one can use the keybinding <tt>Ctrl+W ; O</tt> to close all windows except
+one can use the keybinding <code>Ctrl+W ; O</code> to close all windows except
 the current one, which will be the <b>only</b> one left open (hence
 the "O").
 </p>
@@ -3103,8 +3103,8 @@ a lot of platform-dependent code.
 <p>
 Next are the Qt bindings to Java -
 <a href="http://en.wikipedia.org/wiki/Qt_Jambi">Qt Jambi</a>. These require
-customising the <tt>build.properties</tt> (whereas the error and documentation
-says one should edit the <tt>buildpath.properties</tt> file), and after
+customising the <code>build.properties</code> (whereas the error and documentation
+says one should edit the <code>buildpath.properties</code> file), and after
 that fails compiling with this error:
 </p>
 
@@ -3267,7 +3267,7 @@ ffmpeg -i in_audio.wav -i in_video.ogv -map 0:0 -map 1:1 -shortest \
 
 <p>
 Some of these files are not needed if you're not dealing with Ogg Video files.
-<tt>-shortest</tt> is useful for making sure that the length of the output
+<code>-shortest</code> is useful for making sure that the length of the output
 is trimmed to that of the shortest input.
 </p>
 
@@ -4112,7 +4112,7 @@ of how to comply with it.
 
 <p>
 In the <a href="http://www.vim.org/">Vim</a> and GVim text editors, one can
-use <code>Ctrl+W;t</code> (or <tt>Ctrl+w;Ctrl+t</tt>) to go to the
+use <code>Ctrl+W;t</code> (or <code>Ctrl+w;Ctrl+t</code>) to go to the
 topmost/most top window (= a section of the screen in Vim terminology) and
 <code>Ctrl+W;b</code> to go to the bottommost/most bottom one.
 </p>
