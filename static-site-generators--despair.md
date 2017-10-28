@@ -4,13 +4,14 @@
 conscience recommend against writing your own custom/adhoc/home-grown
 [static site generator](https://davidwalsh.name/introduction-static-site-generators) based on some lower-level tools, rather than going through the trouble
 of learning an existing open source one. Feel free to publish it as open
-source as well, but you should expect that it will most probably not be popular.
+source as well, but you should expect that it is most probably not
+going to be popular.
 
 ## Introduction
 
 (A crowded room in a support group session:)
 
-Me: Hi all! My name is Shlomi and I wrote several of my own static site generatots!
+Me: Hi all! My name is Shlomi and I wrote several of my own static site generators!
 
 The others: Hello, Shlomi! We all love you!
 
@@ -41,7 +42,7 @@ or similar.
 
 <li>
 The other [best practices](https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn#what-are-some-best-practices-in-programming-that-i-should-adopt) related
-to software dev such as using version control, or CI.
+to software dev, such as using version control, or CI.
 </li>
 
 </ol>
