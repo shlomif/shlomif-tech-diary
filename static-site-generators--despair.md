@@ -122,4 +122,17 @@ I also found the hybrid approach of both an SSG and a server-side CMS taken
 by [ikiwiki](https://en.wikipedia.org/wiki/Ikiwiki) appealing and used
 git repositories containing markdown files for a good effect.
 
+Like I said earlier, I find that writing your own custom SSG is not hard,
+and probably less hard than learning an existing one. Also see
+[this](http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/). So I expect more of them to emerge in the future.
 
+Someone on chat told me he believed that SSGs wont survive the trend towards
+component-based client-side frameworks (such as React.js or Vue.js) but I'm
+skeptical of such predictions and in my time saw several similar ones not
+materialise. Also see [this funny critique of modern JS](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f).
+
+So static site generation has proven to be a valid approach in the past
+and into the near future. However, I maintain several sites using my own
+custom ones (with all their quirks) and don't expect them to be of much
+interest to anyone except me and future maintainers of the sites. And here
+lies my despair.
