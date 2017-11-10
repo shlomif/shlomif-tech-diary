@@ -118,4 +118,8 @@ quite a few levels of [indirection](https://en.wikipedia.org/wiki/Indirection)
 and preprocessing. So I cannot recommend using Latemp, due to this and because
 WML is quite complex.
 
+I also found the hybrid approach of both an SSG and a server-side CMS taken
+by [ikiwiki](https://en.wikipedia.org/wiki/Ikiwiki) appealing and used
+git repositories containing markdown files for a good effect.
+
 
