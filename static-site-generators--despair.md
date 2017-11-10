@@ -77,4 +77,45 @@ extract into [Latemp](http://www.shlomifish.org/open-source/projects/latemp/)
 (a play on "Template" and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)), which
 was a static site generator that was marketed as an “offline content management
 system”, which in turn caused me to be contacted by some people seeking
-a server-side CMS such as [Drupal](https://en.wikipedia.org/wiki/Drupal).
+a server-side CMS such as [Drupal](https://en.wikipedia.org/wiki/Drupal). To
+be fair: at that point, I wasn't aware that "static site generator" was the
+more conventional term.
+
+WML and Latemp proved to be powerful and flexible, but on the other hand,
+were relatively slow in comparison to other alternatives.
+
+## Facing some criticism
+
+Back in the early to mid-90s, a fellow Linux-IL worker kept telling me that I
+should not generate static HTML sections of our sites and instead should use
+PHP on the server side, implying that static HTML was no longer a valid
+approach.
+
+Furthermore, when a different contributor volunteered to create a site and I
+told him to use static HTML and not depend on PHP, he asked me if he could
+use HTML frames. Turns out that despite his years of experience in PHP, he
+didn't realise that static HTML can be generated from templates, something I
+had realised years ago.
+
+Nowadays, with the advent of [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software%29) and other popular SSGs,
+many clueful web-developers are more informed about them, but OTOH, someone
+recently argued that Jekyll was the only valid alternative to server-side PHP,
+and not SSG in general.
+
+## Recent developments
+
+After trying out Jekyll for [Vim-Begin](http://vim.begin-site.org/) and
+not liking it out of finding it too opaque and hard to use, I ended up creating
+a new SSG for it based on [Template Toolkit](https://en.wikipedia.org/wiki/Template_Toolkit). Later, I used it for the [www.linux.org.il site](http://www.linux.org.il/),
+and it was easy enough to figure out to receive some pull-requests on GitHub.
+It also seems it is much faster than Latemp.
+
+My sites now incorporate such [industry best practices](https://perlhacks.com/2012/03/you-must-hate-version-control-systems/) as
+using version control, having an automated test suite, and using a Continuous
+Integration service. They should also be mostly valid HTML/XHTML markup.
+However, the Latemp-based one take a while to build and sometimes involve
+quite a few levels of [indirection](https://en.wikipedia.org/wiki/Indirection)
+and preprocessing. So I cannot recommend using Latemp, due to this and because
+WML is quite complex.
+
+
