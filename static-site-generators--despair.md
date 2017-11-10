@@ -97,7 +97,7 @@ use HTML frames. Turns out that despite his years of experience in PHP, he
 didn't realise that static HTML can be generated from templates, something I
 had realised years ago.
 
-Nowadays, with the advent of [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software%29) and other popular SSGs,
+Nowadays, with the advent of [Jekyll](https://en.wikipedia.org/wiki/Jekyll_%28software%29) and other popular SSGs,
 many clueful web-developers are more informed about them, but OTOH, someone
 recently argued that Jekyll was the only valid alternative to server-side PHP,
 and not SSG in general.
