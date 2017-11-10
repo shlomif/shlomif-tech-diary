@@ -3,8 +3,9 @@
 **TL;DR**: the main take-away from this essay is that I cannot in good
 conscience recommend against writing your own custom/adhoc/home-grown
 [static site generator](https://davidwalsh.name/introduction-static-site-generators) based on some lower-level tools, rather than going through the trouble
-of learning an existing open source one. Feel free to publish it as open
-source as well, but you should expect that it is most probably not
+of learning an existing open source one. Feel free to publish your own
+creation as open
+source as well, but you should anticipate that it is most probably not
 going to be popular.
 
 ## Introduction
