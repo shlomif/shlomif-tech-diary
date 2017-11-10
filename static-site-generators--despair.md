@@ -48,4 +48,33 @@ to software dev, such as using version control, or CI.
 
 </ol>
 
+## How it started
 
+I originally learned how to write [HTML](https://en.wikipedia.org/wiki/HTML)
+from an article in an Internet magazine that my father bought me back
+around 1995. In 1996, I started working as a web developer for Cortext Web
+Design where I wrote HTML or CGI scripts generating it server-side in
+[Perl 5](https://en.wikipedia.org/wiki/Perl) and learned some other technologies.
+
+After a while, I set up my own web site consisting of several hand-maintained
+HTML pages and maintained it for many years this way. You can find an old
+[1998 snapshot](http://www.shlomifish.org/meta/old-site-snapshots/) of it.
+
+A bit later while working on the Israeli Group of Linux Users' site, I wrote
+my first static site generator, in PHP (version 3 if I recall correctly) where
+it used PHP to preprocess the pages offline and generate a static site. While
+it worked, the use of PHP for that seemed suboptimal.
+
+## The birth of Latemp
+
+[Website META Language](http://www.shlomifish.org/open-source/projects/website-meta-language/) or WML
+for short was a relatively early and open source offline HTML preprocessing
+toolkit that proved to be somewhat popular. I learnt about it in a news digest
+that one of the Linux-Israel members posted, and eventually decided to try
+it out. After writing some smaller projects with it, I ended up converting most
+of my sites to it. This resulted in some duplicate code, which I decided to
+extract into [Latemp](http://www.shlomifish.org/open-source/projects/latemp/)
+(a play on "Template" and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)), which
+was a static site generator that was marketed as an “offline content management
+system”, which in turn caused me to be contacted by some people seeking
+a server-side CMS such as [Drupal](https://en.wikipedia.org/wiki/Drupal).
