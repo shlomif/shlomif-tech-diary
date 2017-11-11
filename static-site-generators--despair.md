@@ -2,7 +2,7 @@
 
 **TL;DR**: the main take-away from this essay is that I cannot in good
 conscience recommend against writing your own custom/adhoc/home-grown
-[static site generator](https://davidwalsh.name/introduction-static-site-generators) based on some lower-level tools, rather than going through the trouble
+[static site generator](https://davidwalsh.name/introduction-static-site-generators) ("SSG") based on some lower-level tools, rather than going through the trouble
 of learning an existing open source one. Feel free to publish your own
 creation as open
 source as well, but you should anticipate that it is most probably not
@@ -18,7 +18,7 @@ The others: Hello, Shlomi! We all love you!
 
 (By inspiration from Kilmo.)
 
-Yes, I wrote several static site generators (follow [this link](https://davidwalsh.name/introduction-static-site-generators) to learn more about them and the motivation for them.), and while they have served me mostly well, I suspect few
+Yes, I wrote several static site generators (follow [this link](https://davidwalsh.name/introduction-static-site-generators) to learn more about SSGs in general and the motivation for them.), and while they have served me mostly well, I suspect few
 people use them except me. They all were built on existing
 [preprocessors or template systems](http://www.shlomifish.org/open-source/resources/text-processing-tools/), some of which could be considered static site gens
 in their own right.
@@ -104,11 +104,14 @@ and not SSG in general.
 
 ## Recent developments
 
-After trying out Jekyll for [Vim-Begin](http://vim.begin-site.org/) and
-not liking it out of finding it too opaque and hard to use, I ended up creating
-a new SSG for it based on [Template Toolkit](https://en.wikipedia.org/wiki/Template_Toolkit). Later, I used it for the [www.linux.org.il site](http://www.linux.org.il/),
-and it was easy enough to figure out to receive some pull-requests on GitHub.
-It also seems it is much faster than Latemp.
+I tried using Jekyll for [Vim-Begin](http://vim.begin-site.org/) and
+ended up not liking it out of finding it too opaque and hard to use.
+As a result, I ended up creating
+a new SSG for Vim-Begin based on [Template Toolkit](https://en.wikipedia.org/wiki/Template_Toolkit). Later, I used it for the [www.linux.org.il site](http://www.linux.org.il/).
+One possible indication of its ease-of-use is that it received some
+pull-requests from other contributors on GitHub.
+
+Moreover, it seems it is much faster than Latemp, as well.
 
 My sites now incorporate such [industry best practices](https://perlhacks.com/2012/03/you-must-hate-version-control-systems/) as
 using version control, having an automated test suite, and using a Continuous
