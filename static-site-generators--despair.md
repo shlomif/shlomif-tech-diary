@@ -84,6 +84,8 @@ more conventional term.
 WML and Latemp proved to be powerful and flexible, but on the other hand,
 were relatively slow in comparison to other alternatives.
 
+I should note that I ended up becoming the maintainer of WML.
+
 ## Facing some criticism
 
 Back in the early to mid-90s, a fellow Linux-IL worker kept telling me that I
@@ -103,6 +105,12 @@ recently argued that Jekyll was the only valid alternative to server-side PHP,
 and not SSG in general.
 
 ## Recent developments
+
+Some time after [GitHub](https://en.wikipedia.org/wiki/GitHub) started, it
+started offering the “GitHub pages” service for hosting static HTML sites,
+and shorly afterwards Jekyll and other SSGs emerged and made the concept of
+SSG more well-known. GitHub also allows previewing files in several formats
+as rich text HTML directly from the repository view.
 
 I tried using Jekyll for [Vim-Begin](http://vim.begin-site.org/) and
 ended up not liking it out of finding it too opaque and hard to use.
