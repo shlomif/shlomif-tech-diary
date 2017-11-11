@@ -29,24 +29,14 @@ In this essay, I'd also like to give some historical perspective.
 
 Your static site generator should have:
 
-<ol>
+1. A good preprocessor, generator, or template system.
 
-<li>
-A good preprocessor, generator, or template system.
-</li>
-
-<li>
-A good build system, but one that could be ad-hoc and hacked together in
+2. A good build system, but one that could be ad-hoc and hacked together in
 a [dynamic language](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 or similar.
-</li>
 
-<li>
-The other [best practices](https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn#what-are-some-best-practices-in-programming-that-i-should-adopt) related
+3. The other [best practices](https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn#what-are-some-best-practices-in-programming-that-i-should-adopt) related
 to software dev, such as using version control, or CI.
-</li>
-
-</ol>
 
 ## How it started
 
