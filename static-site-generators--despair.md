@@ -1,7 +1,7 @@
 # The Despair of a Static Site Generator Creator
 
 **TL;DR**: the main take-away from this essay is that I cannot in good
-conscience recommend against writing your own custom/adhoc/home-grown
+conscience recommend against writing your own custom/ad-hoc/home-grown
 [static site generator](https://davidwalsh.name/introduction-static-site-generators) ("SSG") based on some lower-level tools, rather than going through the trouble
 of learning an existing open source one. Feel free to publish your own
 creation as open
@@ -98,7 +98,7 @@ and not SSG in general.
 
 Some time after [GitHub](https://en.wikipedia.org/wiki/GitHub) started, it
 started offering the “GitHub pages” service for hosting static HTML sites,
-and shorly afterwards Jekyll and other SSGs emerged and made the concept of
+and shortly afterwards Jekyll and other SSGs emerged and made the concept of
 SSG more well-known. GitHub also allows previewing files in several formats
 as rich text HTML directly from the repository view.
 
