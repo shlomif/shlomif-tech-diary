@@ -137,3 +137,12 @@ and into the near future. However, I maintain several sites using my own
 custom ones (with all their quirks) and don't expect them to be of much
 interest to anyone except me and future maintainers of the sites. And here
 lies my despair.
+
+## Licence
+
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by-nc/3.0/">the Creative Commons
+Attribution Noncommercial 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
+of how to comply with it.
