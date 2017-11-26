@@ -18,7 +18,7 @@ The others: Hello, Shlomi! We all love you!
 
 (By inspiration from Kilmo.)
 
-Yes, I wrote several static site generators (follow [this link](https://davidwalsh.name/introduction-static-site-generators) to learn more about SSGs in general and the motivation for them.), and while they have served me mostly well, I suspect few
+Yes, I wrote several static site generators (follow [this link](https://davidwalsh.name/introduction-static-site-generators) to learn more about SSGs in general and the motivation for them), and while they have served me mostly well, I suspect few
 people use them except me. They all were built on existing
 [preprocessors or template systems](http://www.shlomifish.org/open-source/resources/text-processing-tools/), some of which could be considered static site gens
 in their own right.
@@ -145,4 +145,4 @@ You can reuse this entry under
 Attribution Noncommercial 3.0 Unported</a> licence, or at your option any later version.
 See the
 <a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
-of how to comply with it.
+on how to comply with it.
