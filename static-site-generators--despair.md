@@ -1,6 +1,8 @@
 # The Despair of a Static Site Generator Creator
 
-**TL;DR**: the main take-away from this essay is that I cannot in good
+## TL;DR
+
+The main take-away from this essay is that I cannot in good
 conscience recommend against writing your own custom/ad-hoc/home-grown
 [static site generator](https://davidwalsh.name/introduction-static-site-generators) ("SSG") based on some lower-level tools, rather than going through the trouble
 of learning an existing open source one. Feel free to publish your own
