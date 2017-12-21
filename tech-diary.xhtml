@@ -5015,6 +5015,164 @@ on how to comply with it.
 
 </div>
 
+<div class="entry" id="despair-SSG-creator">
+
+<!-- Tags: perl, open-source, foss, web
+-->
+
+<h2>2017-12-21: The Despair of a Static Site Generator Creator</h2>
+
+<h3>TL;DR</h3>
+
+<p>The main take-away from this essay is that I cannot in good
+conscience recommend against writing your own custom/ad-hoc/home-grown
+<a href="https://davidwalsh.name/introduction-static-site-generators">static site generator</a> ("SSG") based on some lower-level tools, rather than going through the trouble
+of learning an existing open source one. Feel free to publish your own
+creation as open
+source as well, but you should anticipate that it is most probably not
+going to be popular.</p>
+
+<h3>Introduction</h3>
+
+<p>(A crowded room in a support group session:)</p>
+
+<p>Me: Hi all! My name is Shlomi and I wrote several of my own static site generators!</p>
+
+<p>The others: Hello, Shlomi! We all love you!</p>
+
+<p>(By inspiration from Kilmo.)</p>
+
+<p>Yes, I wrote several static site generators (follow <a href="https://davidwalsh.name/introduction-static-site-generators">this link</a> to learn more about SSGs in general and the motivation for them), and while they have served me mostly well, I suspect few
+people use them except me. They all were built on existing
+<a href="http://www.shlomifish.org/open-source/resources/text-processing-tools/">preprocessors or template systems</a>, some of which could be considered static site gens
+in their own right.</p>
+
+<p>In this essay, I'd also like to give some historical perspective.</p>
+
+<h3>Requirements for a static site generator</h3>
+
+<p>Your static site generator should have:</p>
+
+<ol>
+<li><p>A good preprocessor, generator, or template system.</p></li>
+<li><p>A good build system, but one that could be ad-hoc and hacked together in
+a <a href="https://en.wikipedia.org/wiki/Dynamic_programming_language">dynamic language</a>
+or similar.</p></li>
+<li><p>The other <a href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn#what-are-some-best-practices-in-programming-that-i-should-adopt">best practices</a> related
+to software dev, such as using version control, or CI.</p></li>
+</ol>
+
+<h3>How it started</h3>
+
+<p>I originally learned how to write <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
+from an article in an Internet magazine that my father bought me back
+around 1995. In 1996, I started working as a web developer for Cortext Web
+Design where I wrote HTML or CGI scripts generating it server-side in
+<a href="https://en.wikipedia.org/wiki/Perl">Perl 5</a> and learned some other technologies.</p>
+
+<p>After a while, I set up my own web site consisting of several hand-maintained
+HTML pages and maintained it for many years this way. You can find an old
+<a href="http://www.shlomifish.org/meta/old-site-snapshots/">1998 snapshot</a> of it.</p>
+
+<p>A bit later while working on the Israeli Group of Linux Users' site, I wrote
+my first static site generator, in PHP (version 3 if I recall correctly) where
+it used PHP to preprocess the pages offline and generate a static site. While
+it worked, the use of PHP for that seemed suboptimal.</p>
+
+<h3>The birth of Latemp</h3>
+
+<p><a href="http://www.shlomifish.org/open-source/projects/website-meta-language/">Website META Language</a> or WML
+for short was a relatively early and open source offline HTML preprocessing
+toolkit that proved to be somewhat popular. I learnt about it in a news digest
+that one of the Linux-Israel members posted, and eventually decided to try
+it out. After writing some smaller projects with it, I ended up converting most
+of my sites to it. This resulted in some duplicate code, which I decided to
+extract into <a href="http://www.shlomifish.org/open-source/projects/latemp/">Latemp</a>
+(a play on "Template" and <a href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</a>), which
+was a static site generator that was marketed as an “offline content management
+system”, which in turn caused me to be contacted by some people seeking
+a server-side CMS such as <a href="https://en.wikipedia.org/wiki/Drupal">Drupal</a>. To
+be fair: at that point, I wasn't aware that "static site generator" was the
+more conventional term.</p>
+
+<p>WML and Latemp proved to be powerful and flexible, but on the other hand,
+were relatively slow in comparison to other alternatives.</p>
+
+<p>I should note that I ended up becoming the maintainer of WML.</p>
+
+<h3>Facing some criticism</h3>
+
+<p>Back in the early to mid-200xs, a fellow Linux-IL worker kept telling me that I
+should not generate static HTML sections of our sites and instead should use
+PHP on the server side, implying that static HTML was no longer a valid
+approach.</p>
+
+<p>Furthermore, when a different contributor volunteered to create a site and I
+told him to use static HTML and not depend on PHP, he asked me if he could
+use HTML frames. Turns out that despite his years of experience in PHP, he
+didn't realise that static HTML can be generated from templates, something I
+had realised years ago.</p>
+
+<p>Nowadays, with the advent of <a href="https://en.wikipedia.org/wiki/Jekyll_%28software%29">Jekyll</a> and other popular SSGs,
+many clueful web-developers are more informed about them, but OTOH, someone
+recently argued that Jekyll was the only valid alternative to server-side PHP,
+and not SSG in general.</p>
+
+<h3>Recent developments</h3>
+
+<p>Some time after <a href="https://en.wikipedia.org/wiki/GitHub">GitHub</a> started, it
+started offering the “GitHub pages” service for hosting static HTML sites,
+and shortly afterwards Jekyll and other SSGs emerged and made the concept of
+SSG more well-known. GitHub also allows previewing files in several formats
+as rich text HTML directly from the repository view.</p>
+
+<p>I tried using Jekyll for <a href="http://vim.begin-site.org/">Vim-Begin</a> and
+ended up not liking it out of finding it too opaque and hard to use.
+As a result, I ended up creating
+a new SSG for Vim-Begin based on <a href="https://en.wikipedia.org/wiki/Template_Toolkit">Template Toolkit</a>. Later, I used it for the <a href="http://www.linux.org.il/">www.linux.org.il site</a>.
+One possible indication of its ease-of-use is that it received some
+pull-requests from other contributors on GitHub.</p>
+
+<p>Moreover, it seems it is much faster than Latemp, as well.</p>
+
+<p>My sites now incorporate such <a href="https://perlhacks.com/2012/03/you-must-hate-version-control-systems/">industry best practices</a> as
+using version control, having an automated test suite, and using a Continuous
+Integration service. They should also be mostly valid HTML/XHTML markup.
+However, the Latemp-based one take a while to build and sometimes involve
+quite a few levels of <a href="https://en.wikipedia.org/wiki/Indirection">indirection</a>
+and preprocessing. So I cannot recommend using Latemp, due to this and because
+WML is quite complex.</p>
+
+<p>I also found the hybrid approach of both an SSG and a server-side CMS taken
+by <a href="https://en.wikipedia.org/wiki/Ikiwiki">ikiwiki</a> appealing and used
+git repositories containing markdown files for a good effect.</p>
+
+<p>Like I said earlier, I find that writing your own custom SSG is not hard,
+and probably less hard than learning an existing one. Also see
+<a href="http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/">this</a>. So I expect more of them to emerge in the future.</p>
+
+<p>Someone on chat told me he believed that SSGs wont survive the trend towards
+component-based client-side frameworks (such as React.js or Vue.js) but I'm
+skeptical of such predictions and in my time saw several similar ones not
+materialise. Also see <a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f">this funny critique of modern JS</a>.</p>
+
+<p>So static site generation has proven to be a valid approach in the past
+and into the near future. However, I maintain several sites using my own
+custom ones (with all their quirks) and don't expect them to be of much
+interest to anyone except me and future maintainers of the sites. And here
+lies my despair.</p>
+
+<h3>Licence</h3>
+
+<p>You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by-nc/3.0/">the Creative Commons
+Attribution Noncommercial 3.0 Unported</a> licence, or at your option any later version.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
+on how to comply with it.</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
