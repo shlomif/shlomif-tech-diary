@@ -80,7 +80,7 @@ I should note that I ended up becoming the maintainer of WML.
 
 ## Facing some criticism
 
-Back in the early to mid-90s, a fellow Linux-IL worker kept telling me that I
+Back in the early to mid-200xs, a fellow Linux-IL worker kept telling me that I
 should not generate static HTML sections of our sites and instead should use
 PHP on the server side, implying that static HTML was no longer a valid
 approach.
