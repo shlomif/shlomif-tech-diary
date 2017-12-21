@@ -1,7 +1,12 @@
-all:
+all: render
 
-render:
-	perl bin/render-markdown.pl static-site-generators--despair.md > dest/ssgen.xhtml
+SSG_DEST = dest/ssgen.xhtml
+SSG_SRC = static-site-generators--despair.md
+
+render: $(SSG_DEST)
+
+$(SSG_DEST): $(SSG_SRC)
+	perl bin/render-markdown.pl $< > $@
 
 upload: render
 	rsync -a -v --progress --rsh=ssh anchors.js tech-diary.xhtml \
