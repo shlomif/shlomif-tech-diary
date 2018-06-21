@@ -5238,6 +5238,46 @@ on how to comply with it.
 
 </div>
 
+<div class="entry" id="tech-tip--nested-tmux-session-w-diff-hotkey">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2018-06-21: Tech Tip: Nested Tmux Session</h2>
+
+<p>
+One can use the following command-line to start a new
+<a href="https://en.wikipedia.org/wiki/Tmux">tmux</a> session with a
+different hotkey than the default one (e.g.: for use as a nested session after
+su/sudo or in a nested ssh session, so both sessions can be controlled):
+</p>
+
+<pre>
+tmux new-session \; set-option prefix C-a
+</pre>
+
+<p>
+Replace "C-a" with the hotkey of your choice.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2018.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="http://creativecommons.org/licenses/by/3.0/">the Creative Commons
+Attribution 3.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
