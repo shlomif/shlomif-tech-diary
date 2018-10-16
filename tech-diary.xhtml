@@ -5322,20 +5322,52 @@ on how to comply with it.
 
 <h2>2018-10-10: Tech Tip: Some TypeScript Tips</h2>
 
-<pre>
-* If you get an import cannot be found error , add a leading ./.
+<ul>
+<li>
+<p>
+If you get an <q>error TS2307: Cannot find module 'web-fc-solve'.</q>
+error , try prefixing a "./" to the import name.
+</p>
+</li>
 
-* See https://stackoverflow.com/questions/12687779/how-do-you-produce-a-d-ts-typings-definition-file-from-an-existing-javascript
-and especially the tip about using dts-gen.
+<li>
+<p>
+See <a href="https://stackoverflow.com/questions/12687779/how-do-you-produce-a-d-ts-typings-definition-file-from-an-existing-javascript">"typescript - How do you produce a .d.ts "typings" definition file from an existing JavaScript library? - Stack Overflow" question</a>
+and especially the tip about using <a href="https://github.com/Microsoft/dts-gen">dts-gen</a>.
+</p>
+</li>
 
-* don't compile more than one module into an amd.
+<li>
+<p>
+Don't compile more than one module into an <a href="https://en.wikipedia.org/wiki/Asynchronous_module_definition">amd</a>.
+</p>
+</li>
 
-* Convert your js deps to ts bottom up.
+<li>
+<p>
+Convert your JS dependenciess to TypeScript bottom up.
+</p>
+</li>
 
-* https://github.com/palantir/tslint
-** https://github.com/vim-syntastic/syntastic
-** https://metacpan.org/pod/Code::TidyAll::Plugin::TSLint (by me).
-</pre>
+<li>
+<ul>
+<li>
+<a href="https://github.com/palantir/tslint">tslint</a>
+</li>
+<li>
+<p>
+<a href="https://github.com/vim-syntastic/syntastic">syntastic</a> as a vim
+interface and similar.
+</p>
+</li>
+<li>
+<p>
+<a href="https://metacpan.org/pod/Code::TidyAll::Plugin::TSLint">Code::TidyAll::Plugin::TSLint</a> - by me - provides caching and stuff.
+</p>
+</li>
+</ul>
+</li>
+</ul>
 
 <h2>Licence</h2>
 
