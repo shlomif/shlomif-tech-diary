@@ -60,7 +60,7 @@ my $strp = DateTime::Format::Strptime->new(
 foreach my $fn (@filenames)
 {
     my $doc = XML::LibXML->load_xml( location => $fn );
-    my $xc = XML::LibXML::XPathContext->new($doc);
+    my $xc  = XML::LibXML::XPathContext->new($doc);
     $xc->registerNs( 'xhtml', 'http://www.w3.org/1999/xhtml' );
 NODES:
     foreach my $node ( $xc->findnodes($div_xpath) )
