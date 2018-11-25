@@ -1,0 +1,8 @@
+y.txt
+
+:Author: Shlomi Fish
+:Email: shlomif@cpan.org
+:Date: 2018-11-20 19:06
+
+#linux #TechTip : you can speed up package install by setting PKGSYSTEM_ENABLE_FSYNC=0 - see https://bugzilla.redhat.com/show_bug.cgi?id=1052173 - this has to do with update-mime-database. #TIL #opensource
+that you can speed up package installation by setting PKGSYSTEM_ENABLE_FSYNC=0 - this has to do with running update-mime-database.
