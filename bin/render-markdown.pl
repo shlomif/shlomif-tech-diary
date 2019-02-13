@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-use Text::Markdown qw/ markdown /;
+use Markdent::Simple::Fragment ();
 use Path::Tiny qw/ path /;
 use Text::WrapAsUtf8 qw/ print_utf8 /;
 
@@ -20,7 +20,10 @@ print_utf8(
 </head>
 <body>
 EOF
-    markdown( path( shift @ARGV )->slurp_utf8 ),
+    Markdent::Simple::Fragment->new->markdown_to_html(
+        markdown => path( shift @ARGV )->slurp_utf8,
+        dialects => [qw/ GitHub /],
+    ),
     <<"EOF",
 </body>
 </html>
