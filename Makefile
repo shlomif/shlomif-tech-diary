@@ -20,6 +20,6 @@ TECH_TIPS_OUT = temp/tech-tips-out.xhtml
 
 test:
 	perl extract-tech-tips.pl --file=old-tech-diary.xhtml --file tech-diary.xhtml --output $(TECH_TIPS_OUT) --wrap
-	prove t/*.t
+	prove t/*.{py,t}
 
 check: test
