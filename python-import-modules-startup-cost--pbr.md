@@ -1,6 +1,6 @@
 # Tip: For a fast startup time, make sure that Python imported modules and their ancestor namespaces are lightweight (note pbr users)
 
-**TL;DR**: For a fast startup/load time of Python programs, make sure that Python imported modules and their ancestor namespaces are lightweight and free of fluff. This affects users of [pbr](https://github.com/openstack/cookiecutter) whose default `__init__.py` file contains `import pbr.version`.
+**TL;DR**: For a fast startup/load time of Python programs, make sure that Python imported modules and their ancestor namespaces are lightweight and free of fluff. Note that it seems to also affect reruns of the same programs, after the initial [bytecode](https://opensource.com/article/18/4/introduction-python-bytecode) compilation and caching took place. This especially affects users of [pbr](https://github.com/openstack/cookiecutter) whose default `__init__.py` file contains `import pbr.version`.
 
 # The longer story
 
