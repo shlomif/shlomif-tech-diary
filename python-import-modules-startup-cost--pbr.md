@@ -41,3 +41,11 @@ time was reduced to 30-35 seconds.
 One note is that one peculiar trait of the test suite that may have contributed to the slowdown is that we [test](https://github.com/shlomif/PySolFC/blob/master/scripts/gen_individual_importing_tests.py) that individually importing each module is working in its own program, which used to be broken for some modules in older versions of PySolFC.
 
 Also of note is [“Why Userspace Sucks”](https://www.kernel.org/doc/ols/2006/ols2006v1-pages-441-450.pdf) by Dave Jones which pinpoints various misbehaviours that make software applications slower.
+
+## Licence
+
+Copyright by [Shlomi Fish](https://www.shlomifish.org/) under the [Creative Commons Attribution License version 4.0 Unported](https://creativecommons.org/licenses/by/4.0/) (or at your option any later version). See the
+[instructions](http://www.shlomifish.org/meta/copyrights/#cc_by_intr)
+for how to comply with it.
+
+Whatever source code given is additionally available under [the Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
