@@ -38,9 +38,9 @@ __version__ = pbr.version.VersionInfo(
 I suspected that it was costly startup time-wise and emptied the file. And that indeed turned out to be the cause of the slowdown, and the test suite's
 time was reduced to 30-35 seconds.
 
-One note is that one peculiar trait of the test suite that may have contributed to the slowdown is that we [test](https://github.com/shlomif/PySolFC/blob/master/scripts/gen_individual_importing_tests.py) that individually importing each module is working in its own program, which used to be broken for some modules in older versions of PySolFC.
+One note is that one peculiar trait of the test suite that may have contributed to the slowdown is that we [test](https://github.com/shlomif/PySolFC/blob/master/scripts/gen_individual_importing_tests.py) that individually importing each of the `pysollib/**/*.py` modules is working, which used to be broken for some modules in older versions of PySolFC.
 
-Also of note is [“Why Userspace Sucks”](https://www.kernel.org/doc/ols/2006/ols2006v1-pages-441-450.pdf) by Dave Jones which pinpoints various misbehaviours that make software applications slower.
+Also of note is [“Why Userspace Sucks”](https://www.kernel.org/doc/ols/2006/ols2006v1-pages-441-450.pdf) by Dave Jones which pinpoints various similar misbehaviours that make software applications slower.
 
 ## Licence
 
