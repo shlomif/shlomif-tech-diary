@@ -9,7 +9,7 @@ time consuming.
 
 My home site's sources ( https://github.com/shlomif/shlomi-fish-homepage ) are
 quite large (but probably much smaller than https://salsa.debian.org/webmaster-team/webwml/ )
-and also has used WML(https://github.com/thewml/website-meta-language) along with
+and also has used [WML](https://github.com/thewml/website-meta-language) along with
 other technologies (some of which were created by me and made FOSS). A full
 rebuild of the site currently takes about 4 minutes on my sandy bridge Core i3
 machine and it used to be much worse, before it was optimised.
@@ -72,7 +72,7 @@ them in process and reuse them. This may be time consuming and may not make
 a big difference.
 
 I do not necessarily advocate using TT2 instead as there is no shortage of
-SSGs(https://staticsitegenerators.net/) and lower level template systems
+[SSGs](https://staticsitegenerators.net/) and lower level template systems
 and preprocessors ( https://www.shlomifish.org/open-source/resources/text-processing-tools/ ).
 I was told TT2 is slower than https://metacpan.org/pod/HTML::Template and
 https://metacpan.org/pod/Text::Template and yet it is still much faster than wml.
