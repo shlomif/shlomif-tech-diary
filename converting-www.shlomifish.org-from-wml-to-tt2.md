@@ -7,7 +7,7 @@ time consuming.
 
 ---
 
-My home site sources' ( https://github.com/shlomif/shlomi-fish-homepage ) are
+My home site's sources ( https://github.com/shlomif/shlomi-fish-homepage ) are
 quite large (but probably much smaller than https://salsa.debian.org/webmaster-team/webwml/ )
 and also has used WML(https://github.com/thewml/website-meta-language) along with
 other technologies (some of which were created by me and made FOSS). A full
@@ -34,7 +34,7 @@ doubt they will be adequate for debian.org where a parser-based approach
 may be needed (see https://perl-begin.org/uses/text-parsing/ and
 https://www.shlomifish.org/open-source/resources/text-processing-tools/ ).
 
-So far, the tt2 part seems to be much faster:
+So far, the TT2 part seems to be much faster:
 
 ```
 shlomif[homepage]:$trunk$ time make fastrender-wml
@@ -49,7 +49,7 @@ perl bin/tt-render.pl
 make fastrender-tt2  3.57s user 0.15s system 99% cpu 3.722 total
 ```
 
-Also note that the tt2 stage is not yet parallelised and that there are several
+Also note that the TT2 stage is not yet parallelised and that there are several
 potential optimisations I have in mind that are not there yet.
 
 Like I said the conversion took a long time and is not complete yet. I can
@@ -71,10 +71,10 @@ to https://en.wikipedia.org/wiki/Library_(computing)#Shared_libraries and load
 them in process and reuse them. This may be time consuming and may not make
 a big difference.
 
-I do not necessarily advocate using tt2 instead as there is no shortage of
+I do not necessarily advocate using TT2 instead as there is no shortage of
 SSGs(https://staticsitegenerators.net/) and lower level template systems
 and preprocessors ( https://www.shlomifish.org/open-source/resources/text-processing-tools/ ).
-I was told tt2 is slower than https://metacpan.org/pod/HTML::Template and
+I was told TT2 is slower than https://metacpan.org/pod/HTML::Template and
 https://metacpan.org/pod/Text::Template and yet it is still much faster than wml.
 
 Regards,
