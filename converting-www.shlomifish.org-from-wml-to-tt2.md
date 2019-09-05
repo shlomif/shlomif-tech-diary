@@ -57,4 +57,26 @@ merge in the branch into master even now thanks to https://github.com/shlomif/te
 
 It also motivated some fixes in the master branch.
 
+---
 
+While the debian.org site is large, I think the current 2-3 hours build is very bad, and
+deprives from the dev experience:
+
+* https://www.xkcd.com/303/
+* http://blogs.perl.org/users/ovid/2010/08/your-test-suite-is-broken.html
+
+While I maintain wml and applied many cleanups and optimisations, the only
+large scale improvement I can think of next is to convert the C executables
+to https://en.wikipedia.org/wiki/Library_(computing)#Shared_libraries and load
+them in process and reuse them. This may be time consuming and may not make
+a big difference.
+
+I do not necessarily advocate using tt2 instead as there is no shortage of
+SSGs(https://staticsitegenerators.net/) and lower level template systems
+and preprocessors ( https://www.shlomifish.org/open-source/resources/text-processing-tools/ ).
+I was told tt2 is slower than https://metacpan.org/pod/HTML::Template and
+https://metacpan.org/pod/Text::Template and yet it is still much faster than wml.
+
+Regards,
+
+— Shlomi Fish
