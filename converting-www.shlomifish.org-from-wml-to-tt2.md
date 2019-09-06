@@ -57,6 +57,9 @@ merge in the branch into master even now thanks to https://github.com/shlomif/te
 
 It also motivated some fixes in the master branch.
 
+Finally note that the site's build process has quite a lot of overhead which
+is common for both wml and tt2, e.g: DocBook rendering, generating ".epub"s / etc.
+
 ---
 
 While the debian.org site is large, I think the current 2-3 hours build is very bad, and
