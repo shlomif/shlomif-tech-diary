@@ -74,11 +74,14 @@ to https://en.wikipedia.org/wiki/Library_(computing)#Shared_libraries and load
 them in process and reuse them. This may be time consuming and may not make
 a big difference.
 
-I do not necessarily advocate using TT2 instead as there is no shortage of
+I do not necessarily advocate using TT2 instead, as there is no shortage of
 [SSGs](https://staticsitegenerators.net/) and lower level template systems
 and preprocessors ( https://www.shlomifish.org/open-source/resources/text-processing-tools/ ).
 I was told TT2 is slower than https://metacpan.org/pod/HTML::Template and
 https://metacpan.org/pod/Text::Template and yet it is still much faster than wml.
+
+Note that the conversion can be done incrementally and without breaking
+production, similar to the conversion process I've done for my sites.
 
 Regards,
 
