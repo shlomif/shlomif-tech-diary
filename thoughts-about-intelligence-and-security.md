@@ -10,7 +10,7 @@ Another conclusion I reached is that when protecting intelligence data or intell
 
 * Yoda - http://www.youtube.com/watch?v=kFnFr-DOPf8
 
-* Saladin vs. The Knights Templar - https://en.wikipedia.org/wiki/User:Shlomif/Saladin_Style
+* Saladin vs. The Knights Templar - http://shlomifishswiki.branchable.com/Saladin_Style/
 
 In the film [Mission: Impossible](http://en.wikipedia.org/wiki/Mission:_Impossible_%28film%29),
 the protagonists go to great lengths to steal the file containing the identities

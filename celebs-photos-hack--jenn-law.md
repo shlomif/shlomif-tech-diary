@@ -4,7 +4,7 @@ That put aside, here's some forward looking advice:
 
 1. Sulk a little without feeling bad about feeling bad (see http://simpsons.wikia.com/wiki/Moaning_Lisa ). If you feel OK about feeling bad, you'll already feel better.
 
-2. Realise that any sexualised activity, including starring in a porn film ("XXXX..." to infinity) or selling sexual services for money (= prostitution), is neither wrong nor ever disrespectful . A woman or a man who do some of that are still a lady or a gentleman and should be respected, loved, and trusted (see https://en.wikipedia.org/wiki/User:Shlomif/Saladin_Style#Trust_and_Respect ) and are no less of a role model. If any one did all that (including my close family) I won't think one iota less of them).
+2. Realise that any sexualised activity, including starring in a porn film ("XXXX..." to infinity) or selling sexual services for money (= prostitution), is neither wrong nor ever disrespectful . A woman or a man who do some of that are still a lady or a gentleman and should be respected, loved, and trusted (see http://shlomifishswiki.branchable.com/Saladin_Style/ ) and are no less of a role model. If any one did all that (including my close family) I won't think one iota less of them).
 
 3. Tell the media that you think that #2 is right, and enjoy the publicity ( https://duckduckgo.com/?q=all%20publicity%20good%20publicity - All Publicity is Good Publicity ).
 
