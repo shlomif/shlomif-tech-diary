@@ -5445,6 +5445,46 @@ on how to comply with it.
 
 </div>
 
+<div class="entry" id="tech-tip--assert-in-pari-gp">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2020-01-02: Tech Tip: Implementing assert() in PARI/GP</h2>
+
+<p>
+One can implement <code>assert()</code> in <a href="https://en.wikipedia.org/wiki/PARI/GP">PARI-GP</a>,
+a GPLed computer algebra system, using the <code>error()</code> function:
+</p>
+
+<pre>
+assert(cond,err)=if(!cond,error(err))
+myfunc()=4
+assert(myfunc()==5,"myfunc should return 5")
+</pre>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2020.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="https://creativecommons.org/licenses/by/4.0/">the Creative Commons
+Attribution 4.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+<p>
+Whatever code given here is provided under the <a href="https://tldrlegal.com/license/mit-license">MIT / Expat licence</a>.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
