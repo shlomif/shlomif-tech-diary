@@ -5485,6 +5485,70 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 
 </div>
 
+<div class="entry" id="tech-tip--set-up-remote-X11-over-TCP-to-Xephyr">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2020-02-19: Tech Tip: Set up remote X11 over TCP to Xephyr</h2>
+
+<p>
+<b>Warning! May be insecure</b>
+</p>
+
+<p>
+The <a href="https://linux.die.net/man/1/xephyr">Xephyr man page</a>
+omits info in <a href="https://linux.die.net/man/1/xnest">Xnest's man page</a>
+and that in <a href="https://linux.die.net/man/1/xserver">the Xserver man page</a>
+and supports most of the flags there.
+</p>
+
+<pre>
+Xephyr -listen tcp -listen unix -listen local -screen 1024x768 :1
+</pre>
+
+<pre>
+sudo systemctl stop firewalld.service
+</pre>
+
+<p>
+<a href="https://github.com/shlomif/shlomif-computer-settings/blob/e9de56aa212706f5c1fc3906c2f0b92065851965/shlomif-settings/home-bin-executables/bin/stop-iptables">stop-iptables script</a>.
+</p>
+
+<pre>
+# On the X server
+export DISPLAY=:1
+xterm &amp;
+xhost +
+# On the remote machine
+ipaddr=192.168.1.100
+export DISPLAY="$ipaddr":1
+xterm &amp;
+starticewm
+</pre>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2020.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="https://creativecommons.org/licenses/by/4.0/">the Creative Commons
+Attribution 4.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="http://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+<p>
+Whatever code given here is provided under the <a href="https://tldrlegal.com/license/mit-license">MIT / Expat licence</a>.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
