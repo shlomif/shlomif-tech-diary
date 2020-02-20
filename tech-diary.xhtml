@@ -5493,37 +5493,71 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 <h2>2020-02-19: Tech Tip: Set up remote X11 over TCP to Xephyr</h2>
 
 <p>
-<b>Warning! May be insecure</b>
+<b>Warning! May result in loss of security.</b>
+</p>
+
+<p>
+I recently wanted to set up a remote <a href="https://en.wikipedia.org/wiki/X.Org_Server">X.org / X11</a>
+connection to a Xephyr server, which is an X server that runs inside a window.
 </p>
 
 <p>
 The <a href="https://linux.die.net/man/1/xephyr">Xephyr man page</a>
-omits info in <a href="https://linux.die.net/man/1/xnest">Xnest's man page</a>
-and that in <a href="https://linux.die.net/man/1/xserver">the Xserver man page</a>
-and supports most of the flags there.
+omits the info in <a href="https://linux.die.net/man/1/xnest">Xnest's man page</a>
+and that in <a href="https://linux.die.net/man/1/xserver">the "Xserver" man page</a>
+and supports most of the flags in all of them.
+</p>
+
+<p>
+To facilitate customisation, we will declare and use the following shell constants:
 </p>
 
 <pre>
-Xephyr -listen tcp -listen unix -listen local -screen 1024x768 :1
+xephyr_port="1"
+remote_xephyr_ip_host="192.168.1.100"
 </pre>
+
+<p>
+You may need to stop the firewalls on both client and server using something like:
+</p>
 
 <pre>
 sudo systemctl stop firewalld.service
 </pre>
 
 <p>
+Or the
 <a href="https://github.com/shlomif/shlomif-computer-settings/blob/e9de56aa212706f5c1fc3906c2f0b92065851965/shlomif-settings/home-bin-executables/bin/stop-iptables">stop-iptables script</a>.
+</p>
+
+<p>
+Now start Xephyr on the local desktop:
+</p>
+
+<pre>
+Xephyr -listen tcp -listen unix -listen local -screen 1024x768 :"$xephyr_port"
+</pre>
+
+<p>
+Then connect to it and use <code>xhost</code>:
 </p>
 
 <pre>
 # On the X server
-export DISPLAY=:1
+export DISPLAY=":$xephyr_port"
 xterm &amp;
 xhost +
+</pre>
+
+<p>
+Now you should be able to connect to the Xephyr X server from the remote box:
+</p>
+
+<pre>
 # On the remote machine
-ipaddr=192.168.1.100
-export DISPLAY="$ipaddr":1
+export DISPLAY="$remote_xephyr_ip_host":"$xephyr_port"
 xterm &amp;
+# Or a different window manager.
 starticewm
 </pre>
 
