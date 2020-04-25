@@ -5664,6 +5664,49 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 
 </div>
 
+<div class="entry" id="tech-tip--GFile-python3-gio">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2020-04-25: Tech Tip: GFile type in python3 / gi / Gio / Gtk+</h2>
+
+<p>
+The <a href="https://developer.gnome.org/gio/stable/GFile.html">GFile</a>
+type in python can be retrieved using the following idiom:
+</p>
+
+<pre>
+import gi
+from gi.repository import Gio
+
+FILE_TYPE = Gio.File.__gtype__
+
+# Use FILE_TYPE
+</pre>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2020.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="https://creativecommons.org/licenses/by/4.0/">the Creative Commons
+Attribution 4.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="https://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+<p>
+Whatever code given here is provided under the <a href="https://tldrlegal.com/license/mit-license">MIT / Expat licence</a>.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
