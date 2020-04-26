@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- vim: set indentexpr=:   -->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+<title>Shlomif.org - shlomif_tech community beta</title>
+<meta charset="utf-8" />
+<style>
+div.entry
+{
+    border: darkgreen solid medium;
+    padding: 0.5em;
+    margin: 0.5em;
+}
+a:hover { background-color: palegreen; }
+</style>
+<script src="../js/jq.js"></script>
+
+</head>
+<body>
+
+<h2>2020-04-06: Tech Tip: Releasing / Uncapturing the keyboard input focus when using a KVM / virt-manager VM</h2>
+
+<p>
+In order to release the keyboard input focus when using <a href="https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine">KVM (Kernel-based
+Virtual Machine)</a> and <a href="https://en.wikipedia.org/wiki/Virtual_Machine_Manager">virt-manager</a>
+one can press "left control" and "left alt" together (not "left shift"). This was
+described in <a href="https://unix.stackexchange.com/questions/557853/how-to-configure-hotkeys-to-release-focus-with-qemu-virt-manager">this
+post</a> from StackExchange, where it shows how to set it to a different key combination.
+</p>
+
+<p>
+This was another post emulating <a href="https://twitter.com/lishevita">Lisha Sterling</a>'s
+old "know where the ledge is" blog (which seems to have disappeared).
+</p>
+
+<h2>2020-04-25: Tech Tip: Vim: Setting a different X.org/X11 Connection</h2>
+
+<p>
+If you are using <a href="https://www.vim.org/">Vim</a> or <a href="https://neovim.io/">neovim</a>
+and wish to set a different X.org connection (e.g: for copy+paste), you can use
+<code>:let $DISPLAY = 'myremotehost.tld:0.0'</code>. Other <a href="https://en.wikipedia.org/wiki/Environment_variable">environment variables</a>
+can be changed or set in a similar way using the dollar-sign notation.
+</p>
+
+
+<h2>2020-04-25: Tech Tip: GFile type in python3 / gi / Gio / Gtk+</h2>
+
+<p>
+The <a href="https://developer.gnome.org/gio/stable/GFile.html">GFile</a>
+type in python can be retrieved using the following idiom:
+</p>
+
+<pre>
+import gi
+from gi.repository import Gio
+
+FILE_TYPE = Gio.File.__gtype__
+
+# Use FILE_TYPE
+</pre>
+
+<h2>2020-04-25: Tech Tip: Search for file paths by pattern using DNF (on Fedora / CentOS / etc)</h2>
+
+<p>
+Using <a href="https://fedoraproject.org/wiki/DNF">DNF</a> one can search for file paths which
+are contained in uninstalled packages (similar to <a href="https://wiki.debian.org/apt-file">apt-file</a>
+on Debian / Ubuntu / etc. or <a href="https://en.wikipedia.org/wiki/Urpmi">urpmf</a> on Mageia)
+using <code>dnf whatprovides '/usr/bin/start*'</code>.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2020.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="https://creativecommons.org/licenses/by/4.0/">the Creative Commons
+Attribution 4.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="https://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+<p>
+Whatever code given here is provided under the <a href="https://tldrlegal.com/license/mit-license">MIT / Expat licence</a>.
+</p>
+
+<script src="anchors.js"></script>
+
+</body>
+</html>
