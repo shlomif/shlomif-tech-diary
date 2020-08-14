@@ -5743,6 +5743,48 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 
 </div>
 
+<div class="entry" id="tech-tip--making-pip-and-twine-faster-on-fedora">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2020-08-14: Tech Tip: Making pip, twine, and other python tools faster on Fedora Linux</h2>
+
+<p>
+Recently I noticed that using <a href="https://pip.pypa.io/en/stable/">pip</a>,
+and <a href="https://twine.readthedocs.io/en/latest/">twine upload</a> and
+other Python tools stalled for many seconds trying to poll dbus (at least on Fedora).
+</p>
+
+<p>
+I was able to fix it by issuing <code>sudo dnf remove python3-keyring</code>, but there
+are <a href="https://keyring.readthedocs.io/en/latest/#disabling-keyring">other ways to
+disable keyring</a> as referenced on <a href="https://github.com/jaraco/keyring/issues/434">this
+keyring ticket</a>, which may also work for you.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2020.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="https://creativecommons.org/licenses/by/4.0/">the Creative Commons
+Attribution 4.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="https://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+<p>
+Whatever code given here is provided under the <a href="https://tldrlegal.com/license/mit-license">MIT / Expat licence</a>.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
