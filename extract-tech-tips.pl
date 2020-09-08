@@ -10,10 +10,10 @@ package Shlomif::TechTips::Entry;
 use MooX qw/late/;
 use DateTime ();
 
-has 'date'  => ( is => 'ro', isa => 'DateTime', required => 1, );
-has 'tags'  => ( is => 'ro', isa => 'HashRef',  required => 1, );
-has 'title' => ( is => 'ro', isa => 'Str',      required => 1, );
-has 'xml' => ( is => 'ro', required => 1, );
+has 'date'  => ( is => 'ro', isa      => 'DateTime', required => 1, );
+has 'tags'  => ( is => 'ro', isa      => 'HashRef',  required => 1, );
+has 'title' => ( is => 'ro', isa      => 'Str',      required => 1, );
+has 'xml'   => ( is => 'ro', required => 1, );
 
 package main;
 
