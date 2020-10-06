@@ -5806,7 +5806,7 @@ similar to this one to build it: <code>make CMAKE_BUILD_TYPE=Release CMAKE_EXTRA
 </p>
 
 <p>
-It may be a testament to neovim's efficiency that I found its speed acceptable even when built in “Debug” mode.
+It may be a testament to neovim's efficiency that I found its speed acceptable even when it was built in “Debug” mode.
 </p>
 </li>
 
@@ -5824,7 +5824,7 @@ nginx: [alert] could not open error log file: open() "/var/log/nginx/error.log" 
 
 <p>
 This warning should be ignored, and is output even if the configuration file sets the log file's path
-to a different value. The errors that will follow it should be addressed instead. ( I was
+to a different value. Instead, one should handle the errors which follow it. ( I was
 told that eliminating this misfeature will be problematic for nginx, given its architecture, so
 I wanted to document that. )
 </p>
@@ -5834,15 +5834,16 @@ I wanted to document that. )
 <li>
 <p>
 Sometimes the sound gets muted on <a href="https://en.wikipedia.org/wiki/Fedora_(operating_system)">Fedora Linux</a> when
-using a desktop. What has been working to unmute it is to execute <code>systemctl --user stop pulseaudio.service</code> as
-your desktop (non-root) user in the command line. <code>systemctl --user restart pulseaudio.service</code> may be better.
+using a desktop. What has been working for me to unmute it is to execute <code>systemctl --user stop pulseaudio.service</code> as
+your desktop (non-root) user in the command line. <code>systemctl --user restart pulseaudio.service</code> may be even
+more preferable but on my system pulseaudio starts again automatically after being stopped.
 </p>
 </li>
 
 <li>
 <p>
-In order to add new users with commit or admin privileges to <a href="https://en.wikipedia.org/wiki/Fedora_(operating_system)">Fedora Linux</a>
-packages, one should go to the package's page on <a href="https://src.fedoraproject.org/">src.fedoraproject.org</a> and then
+In order to add new contributors with commit or admin privileges to <a href="https://en.wikipedia.org/wiki/Fedora_(operating_system)">Fedora Linux</a>
+packages, one should go to the package's page on <a href="https://src.fedoraproject.org/">src.fedoraproject.org</a> and then to
 <code>Settings → Users &amp; Groups</code>.
 </p>
 </li>
