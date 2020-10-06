@@ -5785,6 +5785,73 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 
 </div>
 
+<div class="entry" id="tech-tip--various-tips-2020-10-06">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2020-10-06: Tech Tips: Sound on Fedora; neovim build; add committers on src.fedoraproject.org; nginx warning on startup</h2>
+
+<p>
+This is a collection of recent tech tips I decided to share.
+</p>
+
+<ol>
+
+<li>
+<p>
+The <a href="https://github.com/neovim/neovim/blob/753a86c01a02383df5faab3831a5d275c81f0b6d/Makefile#L11">default CMAKE_BUILD_TYPE in
+neovim's wrapper makefile</a> is <code>Debug</code> which generates slower code than <code>Release</code>. So make sure you use a command
+similar to this one to build it: <code>make CMAKE_BUILD_TYPE=Release CMAKE_EXTRA_FLAGS="-DCMAKE_INSTALL_PREFIX:PATH=$HOME/apps/neovim"</code>.
+</p>
+
+<p>
+It may be a testament to neovim's efficiency that I found its speed acceptable even when built in “Debug” mode.
+</p>
+</li>
+
+<li>
+<p>
+Sometimes the sound gets muted on <a href="https://en.wikipedia.org/wiki/Fedora_(operating_system)">Fedora Linux</a> when
+using a desktop. What has been working to unmute it is to execute <code>systemctl --user stop pulseaudio.service</code> as
+your desktop (non-root) user in the command line. <code>systemctl --user restart pulseaudio.service</code> may be better.
+</p>
+</li>
+
+</ol>
+
+<p>
+* Tech Tip: adding users with commit / admin bits to src.fedora / git
+repos.
+
+* Tech Tip: "nginx -c " global error log error on startup.
+
+* Tech Tip: use a localhost http/s service for testing sites without
+caching getting in the way.
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2020.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="https://creativecommons.org/licenses/by/4.0/">the Creative Commons
+Attribution 4.0 Unported</a> licence, or at your option any later version of
+it.
+See the
+<a href="https://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+<p>
+Whatever code given here is provided under the <a href="https://tldrlegal.com/license/mit-license">MIT / Expat licence</a>.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
