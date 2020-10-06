@@ -5793,7 +5793,7 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 <h2>2020-10-06: Tech Tips: Sound on Fedora; neovim build; add committers on src.fedoraproject.org; nginx warning on startup</h2>
 
 <p>
-This is a collection of recent tech tips I decided to share.
+This is a collection of recent tech tips, which I decided to share.
 </p>
 
 <ol>
@@ -5846,12 +5846,16 @@ packages, one should go to the package's page on <a href="https://src.fedoraproj
 <code>Settings → Users &amp; Groups</code>.
 </p>
 </li>
-</ol>
 
+<li>
 <p>
-* Tech Tip: use a localhost http/s service for testing sites without
-caching getting in the way.
+When testing web sites and web applications, it is advisable to test <a href="https://en.wikipedia.org/wiki/Deployment_environment#Staging">staging</a>
+versions on a localhost web service (e.g: <code>http://127.0.0.1:8000/</code>) because caching may interfere
+with the version served to you on remote Internet hosts.
 </p>
+</li>
+
+</ol>
 
 <h2>Licence</h2>
 
