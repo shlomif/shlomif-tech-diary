@@ -5812,6 +5812,27 @@ It may be a testament to neovim's efficiency that I found its speed acceptable e
 
 <li>
 <p>
+When trying to use <a href="https://en.wikipedia.org/wiki/Nginx">nginx</a> with
+a custom configuration file, by executing for example: <code>nginx -c ~/conf/trunk/shlomif-settings/nginx/httpd/minimal-nginx.conf</code>
+using the <code>-c</code> flag, nginx may emit this warning:
+</p>
+
+<pre>
+[shlomif@localhost ~]$ nginx -c ~/conf/trunk/shlomif-settings/nginx/httpd/minimal-nginx.conf
+nginx: [alert] could not open error log file: open() "/var/log/nginx/error.log" failed (13: Permission denied)
+</pre>
+
+<p>
+This warning should be ignored, and is output even if the configuration file sets the log file's path
+to a different value. The errors that will follow it should be addressed instead. ( I was
+told that eliminating this misfeature will be problematic for nginx, given its architecture, so
+I wanted to document that. )
+</p>
+
+</li>
+
+<li>
+<p>
 Sometimes the sound gets muted on <a href="https://en.wikipedia.org/wiki/Fedora_(operating_system)">Fedora Linux</a> when
 using a desktop. What has been working to unmute it is to execute <code>systemctl --user stop pulseaudio.service</code> as
 your desktop (non-root) user in the command line. <code>systemctl --user restart pulseaudio.service</code> may be better.
@@ -5823,8 +5844,6 @@ your desktop (non-root) user in the command line. <code>systemctl --user restart
 <p>
 * Tech Tip: adding users with commit / admin bits to src.fedora / git
 repos.
-
-* Tech Tip: "nginx -c " global error log error on startup.
 
 * Tech Tip: use a localhost http/s service for testing sites without
 caching getting in the way.
