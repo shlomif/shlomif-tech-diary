@@ -8,3 +8,7 @@ Shlomi Fish <shlomif@cpan.org>
 Hydrogen bombs
 --------------
 
+The aptly named "Little Boy" bomb: https://en.wikipedia.org/wiki/Little_Boy weighed 4.4 tons
+and contained 64 kilograms of Uranium, and didn't destroy https://en.wikipedia.org/wiki/Hiroshima
+which was smaller then, and some locals survived. Furthermore, a prototype of it was tested
+in the western .us desert.
