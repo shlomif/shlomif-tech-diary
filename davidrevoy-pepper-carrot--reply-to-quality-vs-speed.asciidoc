@@ -1,4 +1,4 @@
-Thanks, David for the reply! I may have been wrong (as "all truth is God's truth" and "truth is a function of time"): https://twitter.com/shlomif/status/1351069373952360448 . Also one can never please everyone ( http://shlomifishswiki.branchable.com/Never_Try_to_Please_Everyone/ ). I also admit I have voiced opinions or advice that I take back now (or were not serious).
+Thanks, David for the reply! I may have been wrong (as https://twitter.com/shlomif/status/1351069373952360448["all truth is God's truth" and "truth is a function of time"]). Also one can never please everyone ( http://shlomifishswiki.branchable.com/Never_Try_to_Please_Everyone/ ). I also admit I have voiced opinions or advice that I take back now (or were said tongue-in-cheek).
 
 Furthermore, like I note in
 https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/departing_pope_about_twitter.xhtml
@@ -9,5 +9,20 @@ quality must be very high.
 
 A different suggestion from me is that you include the "midrash" (= "study") of each strip on its page, as a teaser for visiting the forum thread. See, e.g the ones in my image macros page:
 https://www.shlomifish.org/humour/image-macros/ .
-You may also opt to add further discussion and insights there (
+You may also opt to add further discussion and insights (by you and others)
+there as they develop,
+which is one advantage of using a
+(https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md)[statically-generated-site]
+with sources in a https://en.wikipedia.org/wiki/Version_control[VCS],
+or using a server-side CMS with versioning (e.g: MediaWiki).
 
+Anyway, stay cool, https://www.youtube.com/watch?v=eZQyVUTcpM4[Keep the Faith], etc.
+The "media", including social media fans or critics (including me sometimes)
+always generate a lot of white noise. I maintain a https://www.shlomifish.org/meta/FAQ/[large
+list of replies to common criticisms] about me or my work on my site, and it is
+not fully comprehensive. While I encourage
+http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[everybody
+to encourage everyone else to
+criticise them]
+I agree with https://en.wikipedia.org/wiki/Miranda_Sings[Miranda Sings' "Haters back off!"]
+sentiment. They are two sides of the same coin.
