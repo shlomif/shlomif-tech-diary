@@ -12,7 +12,7 @@ https://www.shlomifish.org/humour/image-macros/ .
 You may also opt to add further discussion and insights (by you and others)
 there as they develop,
 which is one advantage of using a
-(https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md)[statically-generated-site]
+https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md[statically-generated-site]
 with sources in a https://en.wikipedia.org/wiki/Version_control[VCS],
 or using a server-side CMS with versioning (e.g: MediaWiki).
 
