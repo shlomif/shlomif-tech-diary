@@ -18,7 +18,8 @@ or using a server-side CMS with versioning (e.g: MediaWiki).
 
 Anyway, stay cool, https://www.youtube.com/watch?v=eZQyVUTcpM4[Keep the Faith], etc.
 The "media", including social media fans or critics (including me sometimes)
-always generate a lot of white noise. I maintain a https://www.shlomifish.org/meta/FAQ/[large
+always generate a lot of https://en.wikipedia.org/wiki/White_noise[white noise].
+I maintain a https://www.shlomifish.org/meta/FAQ/[large
 list of replies to common criticisms] about me or my work on my site, and it is
 not fully comprehensive. While I encourage
 http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[everybody
