@@ -8,6 +8,8 @@ Shlomi Fish <shlomif@cpan.org>
 Hydrogen bombs
 --------------
 
+image::images/Atomic-bomb--Little_boy--Hiroshima.jpg[Model of The "Little Boy" Atomic Bomb]
+
 The aptly named "Little Boy" bomb: https://en.wikipedia.org/wiki/Little_Boy
 weighed 4.4 tons and contained 64 kilograms of Uranium, and didn't destroy
 the whole of https://en.wikipedia.org/wiki/Hiroshima which was smaller then, and some
@@ -24,4 +26,4 @@ city.
 https://www.youtube.com/watch?v=BkyYk1Jr-cg[Segment from the film "True Lies"]
 
 As this segment shows shooting missiles from
-a fighter jet does not detonate small nuclear missiles.
+a fighter jet does not detonate small nuclear bombs.
