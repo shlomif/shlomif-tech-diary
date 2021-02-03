@@ -9,6 +9,8 @@ Core(TM) i5-8259U CPU @ 2.30GHz (494MHz) • Memory: Physical: 30.5 GiB Total
 Uptime: 9h 4
 ------
 
+I am trying to get https://github.com/shlomif/fc-solve/blob/master/fc-solve/source/board_gen/find-freecell-deal-index-julia-opencl.py[this OpenCL-using program] to run successfully (which despite its basename also generates C code).
+
 However clinfo shows no devices:
 
 ------
