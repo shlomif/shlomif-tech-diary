@@ -1,0 +1,1 @@
+I am seeking a recommendation for a yoga instructor for me (1977-born; male; [openly bipolar](https://www.shlomifish.org/philosophy/psychology/why-openly-bipolar-people-should-not-be-medicated/) with a history of consumption of psychiatric drugs with side effects; [otherwise "clean"](https://www.shlomifish.org/meta/FAQ/diet.xhtml); lives in Ramat Aviv Gimel, Tel Aviv)
