@@ -8,9 +8,11 @@ the battle quickly. He permanently gave up on fighting Saladin, and ended up
 raising a family.
 
 Even if Joss Whedon was being mean, I'm sure whatever female (or male) warriors
-and action heroes ([and what I identify as "hackers"](https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/take2/#hacking_and_amateur__vs__conformism_and_professional) - think "bending the rules" like Indiana Jones' gun vs swordmaster scene)
-can forgive him for that, understanding that he was likely being candid even if tactless,
-under stress, and lacking delivery.
+and action heroes ([and what I identify as "hackers"](https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/take2/#hacking_and_amateur__vs__conformism_and_professional) - think "bending the rules" like Indiana Jones' gun vs swordmaster scene) can - forgive him for that, understanding that he was likely being candid even if - tactless, under stress, and lacking delivery.
+
+Even if they cannot let go emotionally, they should by words and deeds. What
+doesn't kill you make you stronger: https://www.youtube.com/watch?v=7OJZAmRFWEk .
+It's probably all for the best.
 
 Humanity's quest for [https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%C5%A1al%C4%81m-]("Salaam" / "Shalom")
 which I hypothesise meant "prosperity", "excitement", "enlightenment", "harmony"
@@ -20,8 +22,4 @@ Some people are being physically injured or are dying prematurely.
 And our most effective weapons are our technologies: both the tangible ones
 but also [education / entertainment](https://www.shlomifish.org/humour/fortunes/show.cgi?id=education-and-entertainment).
 
-I bring you: [The Commercial Fanfiction Initiative](https://www.shlomifish.org/meta/nav-blocks/blocks/#commercial_fanfic_initiative_sect)
-
-
-
-
+I bring you: [The Commercial Fanfiction Initiative](https://www.shlomifish.org/meta/nav-blocks/blocks/#commercial_fanfic_initiative_sect).
