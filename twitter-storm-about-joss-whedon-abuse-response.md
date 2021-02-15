@@ -2,13 +2,14 @@ I hope and believe Joss Whedon is a better person now. So whatever happened ( th
 
 Maybe Carpenter thought Whedon was being mean. He may have been, and [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) noted that "All language designers are arrogant. Comes with the territory." and I can attest that it is also true for creators of fiction too, so Whedon may have been conceit or mad or unreasonable too. I've been too when I was younger, but I [am hopefully wiser](https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-older-and-wiser) and [less being a dick](https://dontbeadickday.com/) and so hopefully Whedon is.
 
-A lot of the Christian conquerors that [Saladin forgave](https://duckduckgo.com/?t=ffab&q=saladin&atb=v140-1&ia=web) had killed many innocent civilians, but he knew that "an eye to an eye makes the whole world blind" and that punishing them was detrimental (and Saladin's military had to kill many Christians militants to protect themselves). I only know of [one Christian warrior to have returned](https://en.wikipedia.org/wiki/Kingdom_of_Heaven_%28film%29)
-and given Saladin forgave him for breaking his oath, fought so poorly that he lost
-the battle quickly. He permanently gave up on fighting Saladin, and ended up
-raising a family.
+A lot of the Christian conquerors that [Saladin forgave](https://duckduckgo.com/?t=ffab&q=saladin&atb=v140-1&ia=web) had killed many innocent civilians, but he knew that "an eye to an eye makes the whole world blind" and that punishing them was detrimental (and Saladin's military had to kill many Christians militants to protect themselves). I only know of [one Christian warrior who returned](https://en.wikipedia.org/wiki/Kingdom_of_Heaven_%28film%29)
+to fight Saladin.
+Moreover, given Saladin forgave him for breaking his oath, he fought so poorly
+that he quickly lost the battle. He permanently gave up on fighting Saladin,
+and ended up raising a family.
 
 Even if Joss Whedon was being mean, I'm sure whatever female (or male) warriors
-and action heroes ([and what I identify as "hackers"](https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/take2/#hacking_and_amateur__vs__conformism_and_professional) - think "bending the rules" like Indiana Jones' gun vs swordmaster scene) can - forgive him for that, understanding that he was likely being candid even if - tactless, under stress, and lacking delivery.
+and action heroes ([and what I identify as "hackers"](https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/take2/#hacking_and_amateur__vs__conformism_and_professional) - think "bending the rules" like Indiana Jones' gun vs swordmaster scene) can and should forgive him for that, understanding that he was likely being candid even if - tactless, under stress, and lacking delivery.
 
 Even if they cannot let go emotionally, they should by words and deeds. What
 doesn't kill you make you stronger: https://www.youtube.com/watch?v=7OJZAmRFWEk .
