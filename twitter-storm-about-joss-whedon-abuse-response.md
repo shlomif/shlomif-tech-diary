@@ -15,7 +15,7 @@ Even if they cannot let go emotionally, they should by words and deeds. What
 doesn't kill you make you stronger: https://www.youtube.com/watch?v=7OJZAmRFWEk .
 It's probably all for the best.
 
-Humanity's quest for [https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%C5%A1al%C4%81m-]("Salaam" / "Shalom")
+Humanity's quest for ["Salaam" / "Shalom"](https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%C5%A1al%C4%81m-)
 which I hypothesise meant "prosperity", "excitement", "enlightenment", "harmony"
 in addition to "well being", "welfare", and "peace" is not over.
 We still have to fight many guidelines mascarding as rules or laws or dogma.
