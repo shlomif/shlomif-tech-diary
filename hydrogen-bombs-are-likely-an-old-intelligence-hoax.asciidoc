@@ -4,6 +4,16 @@ Shlomi Fish <shlomif@cpan.org>
 :Date: 2020-01-01
 :Revision: $Id$
 
+[id="note"]
+Note:
+-----
+
+This is just a hypothesis! If you happen to gain access to an actual atomic bomb, then please https://duckduckgo.com/?q=%22don%27t+be+a+dick%22+wheaton%27s+law&atb=v140-1&ia=web[don't be a dick] and detonate it wherever:
+
+* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#all_people_are_good[All people are good]
+* https://www.youtube.com/watch?v=cTBx-hHf4BE["One Tin Soldier"] - why destruction is self-defeating
+* https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-internet-talk-is-cheap["Be a hero. Be a messiah."]
+
 [id="hydrogen_bombs"]
 Hydrogen bombs
 --------------
