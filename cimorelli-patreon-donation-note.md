@@ -4,7 +4,7 @@ From: https://www.shlomifish.org/me/contact-me/ (Shlomi Fish)
 
 To: https://www.youtube.com/watch?v=N8Z3xhR_QE4 (Cimorelli The Band regarding "Dani is leaving the band.")
 
-(In case Patreon mishandles the text, it can be read on https://github.com/shlomif/shlomif-tech-diary/blob/master/cimorelli-dani-leaving--protest.md ).
+(In case Patreon mishandles the text, it can be read on https://github.com/shlomif/shlomif-tech-diary/blob/master/cimorelli-patreon-donation-note.md ).
 
 Hi!
 
