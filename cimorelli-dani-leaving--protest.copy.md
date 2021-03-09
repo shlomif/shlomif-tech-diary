@@ -43,7 +43,7 @@ Anyway, if you want to read some more bite-sized writings, I also have some fact
 
 Anyway, it is up to you to do what you want to help me, and I'd be happy to hear any criticism of my works.
 
-Stay cool,
+Stay cool, be strong, become stronger, keep the faith, "never give up", you're awesome, "go out there, believe in the ball, and throw yourself" (and I believe in you!), etc. (but don't be too stubborn: https://www.youtube.com/watch?v=_FCld2UJMRg ).
 
 With love from Tel Aviv, Israel,
 
