@@ -29,11 +29,16 @@ E.g: If Dani would rather not go on tours, she can be filmed, recorded and be di
 
 As a fellow creator I can attest that I am often overflowing with many ideas for new stuff to write or older stuff to improve. But I try to prioritise the most important (or most fun) tasks first. Note however that I market myself as a writer, humorist, software developer, and unskillful graphics and video editor rather than as a musician. (I have some recordings of songs on my YouTube channel, but I admit many of them are worse than most of https://en.wikipedia.org/wiki/Miranda_Sings 's stuff.)
 
-Dani was one of my favourites singers in part due to her playfulness, the fact that she had sang off key in some early videos, and she being a lean&mean rapper. So I'd hate to see her go.
+Dani was one of my favourites singers in part due to her playfulness, the fact that she had sang off key in some early videos, and she being a lean and mean rapper. So I'd hate to see her permanently leave (and don't want her to needlessly be unhappy).
 
 ---
 
-Do note that I'd also appreciate some social media publicity for my web site (  https://www.shlomifish.org/ ; https://www.shlomifish.org/meta/FAQ/ ) and my other social media outlets ( https://www.shlomifish.org/me/contact-me/ ) and my latest (CC-BY-licensed) attempt to continue revolutionize the film/drama/fiction/gaming industry: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ . As I believe I to identify there, most talented, skillful, competent, and attractive individuals of any gender, age, belief or qualities, are increasingly both geeks (= "amateur"; love what they do) and hackers (= "action heroes"; bending or challenging the "rules", not accepting their fate, etc.).
+Do note that I'd also appreciate some social media publicity for my web site (  https://www.shlomifish.org/ ; https://www.shlomifish.org/meta/FAQ/ ) and my other social media outlets ( https://www.shlomifish.org/me/contact-me/ ) and my latest (CC-BY-licensed) attempt to continue revolutionize the film/drama/fiction/gaming industry: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ . As I believe I to have identified there, most talented, skillful, competent, and attractive individuals of any gender, age, belief or qualities, are increasingly both geeks (= "amateur"; love what they do) and hackers (= "action heroes"; bending or challenging the "rules", not accepting their fate, etc.). This means most new quality screenplays / stories are and are going to increasingly not only be fanfiction but also crossovers, parodies, and/or real person fiction - usually including recent "proprietary" franchises and recent (and often living) real people - and not written in the Hollywood-blessed format.
+
+People
+
+
+
 With love from Tel Aviv, Israel,
 
 — Shlomi "Rindolf" Fish.
