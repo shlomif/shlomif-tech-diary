@@ -1,4 +1,4 @@
-Date: 2021-03-03
+Date: 2021-03-09
 
 From: https://www.shlomifish.org/me/contact-me/ (Shlomi Fish)
 
@@ -35,7 +35,9 @@ Dani was one of my favourites singers in part due to her playfulness, the fact t
 
 ---
 
-Do note that I'd also appreciate some social media publicity for my web site (  https://www.shlomifish.org/ ; https://www.shlomifish.org/meta/FAQ/ ) and my other social media outlets ( https://www.shlomifish.org/me/contact-me/ ) and my latest (CC-BY-licensed) attempt to continue revolutionize the film/drama/fiction/gaming industry: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ . As I believe I to have identified there, most talented, skillful, competent, and attractive individuals of any gender, age, beliefs, qualities or professions, are increasingly both geeks (= "amateur"; love what they do) and hackers (= "action heroes"; bending or challenging the "rules", not accepting their fate, etc.). This means most new quality screenplays / stories are and are going to increasingly not only be fanfiction but also crossovers, parodies, and/or real person fiction - usually including recent "proprietary" franchises and recent (and often living) real people - and not written in the Hollywood-blessed format. Moreover, attractive actors (including female and/or inexperienced and obscure ones) are also geeky hackers and will not play in any badly written film (and usually dystopian, ending badly, pessimistic, politically correct and dishonest) even for all the money in the world.
+Do note that I'd also appreciate some social media publicity for my web site (  https://www.shlomifish.org/ ; https://www.shlomifish.org/meta/FAQ/ ) and my other social media outlets ( https://www.shlomifish.org/me/contact-me/ ) and my latest (CC-BY-licensed) attempt to continue revolutionize the film/drama/fiction/gaming industry: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ .
+
+As I believe I to have identified there, most talented, skillful, competent, and attractive individuals of any gender, age, beliefs, qualities or professions, are increasingly both geeks (= "amateur"; love what they do) and hackers (= "action heroes"; bending or challenging the "rules", not accepting their fate, etc.). This means most new quality screenplays / stories are and are going to increasingly not only be fanfiction but also crossovers, parodies, and/or real person fiction - usually including recent "proprietary" franchises and recent (and often living) real people - and not written in the Hollywood-blessed format. Moreover, attractive actors (including female and/or inexperienced and obscure ones) are also geeky hackers and will not play in any badly written film (and usually dystopian, ending badly, pessimistic, politically correct and dishonest) even for all the money in the world.
 
 ( While the proprietary and non-amateur nature of late 19th century - 20th-century copyright was acceptable and tolerated by Sarah Bernhardt back around 1900 and worked fairly well up to the 1990s, it is no longer acceptable today by actors of any age, and Cookie Monster disapproves of it too: https://www.youtube.com/watch?v=uCeMZccDMA0 )
 
