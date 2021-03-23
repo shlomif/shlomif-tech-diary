@@ -41,7 +41,7 @@ As I believe I to have identified there, most talented, skillful, competent, and
 
 This means most new quality screenplays / stories are and will increasingly not only be fanfiction but also crossovers, parodies, and/or real person fiction - usually including recent "proprietary" franchises and recent (and often living) real people.
 
-And they also will not be written in the Hollywood-blessed format, which takes a long time to prepare, is boring, and cannot be easily validated and "linted" ( https://github.com/caramelomartins/awesome-linters ) by automated software tools. Iit is pointless to require such a finicky format because screenplays are being mutated (or "hacked") during all of the production's stages.
+And they also will not be written in the Hollywood-blessed format, which takes a long time to prepare, is boring, and cannot be easily validated and "linted" ( https://github.com/caramelomartins/awesome-linters ) by automated software tools. It is pointless to require such a finicky format because screenplays are being mutated (or "hacked") during all of the production's stages.
 
 Moreover, attractive actors (including female and/or inexperienced and obscure ones) are also geeky hackers and will not play in any badly written film (and usually dystopian, ending badly, pessimistic, politically correct and dishonest) even for all the money in the world.
 
