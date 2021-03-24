@@ -78,7 +78,7 @@ For securing additional rights, please contact [Shlomi Fish][43] and see [the ex
   [12]: https://en.wikipedia.org/wiki/User-generated_content
   [13]: https://en.wikipedia.org/wiki/Crossover_(fiction)
   [14]: https://en.wikipedia.org/wiki/Real_person_fiction
-  [15]: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#the-plan
+  [15]: #the-plan
   [16]: https://en.wikipedia.org/wiki/IANAL
   [17]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite
   [18]: https://www.amazon.com/Quotable-Ustinov-Peter/dp/1573920258
