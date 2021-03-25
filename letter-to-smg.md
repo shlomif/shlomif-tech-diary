@@ -21,6 +21,8 @@ https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
 "Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as geeky
 imperatives (as of 2021)"
 
+"Let's make (fan)-fiction great again!"
+
 (Essay of mini essays embellished with quotes, image memes, and embedded
 youtube videos; CC-by licence)
 
@@ -34,11 +36,24 @@ user-generated content, generosity, etc.), it makes most screenwriters not
 bother massaging their screenplays into the Hollywood format, and worse - write
 their screenplays as crossovers, real person fiction, and parodies - including
 of recently created commercial and "all rights reserved" works and franchises,
-and living and young people.
+and living and relatively young people.
 
 Moreover, most geeky and attractive actors (from Emma Watson or the 2021
-Natalie Portman or the 2021 you to obscure attractive waiters or waitresses in
-Los Angeles) will refuse playing in non-geeky/hacky screenplays, even for all
-the money in the world.
+Natalie Portman or the 2021 Jack Black, Chuck Norris, or you, to obscure
+attractive waiters or waitresses in Los Angeles) will refuse playing in
+non-geeky/hacky screenplays, even for all the money in the world.
 
 I give a plan for the way forward to break this "vicious" cycle.
+
+----
+
+I'm a big fan of some of your work (Buffy, the Spiderman and LotR parodies)
+and consider you my "biggest celebrity
+crush" and a huge source of inspiration, and suggest you start producing
+quality fanfic screenplays (whether yours, mine, or others).
+
+Happy upcoming Passover, Easter, etc.
+
+— Shlomi Fish
+
+
