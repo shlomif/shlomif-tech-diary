@@ -39,11 +39,14 @@ parodies - including of recently created commercial and "all rights reserved"
 works and franchises, and living and relatively young real-world people.
 
 Moreover, most geeky and attractive actors (from Emma Watson or the 2021
-Natalie Portman or the 2021 Jack Black, Chuck Norris, or you, to obscure
-attractive waiters or waitresses in Los Angeles) will refuse playing in
+Natalie Portman or the 2021 Jack Black, Chuck Norris, or you, to
+most good-looking waiters or waitresses in Los Angeles) will refuse playing in
 non-geeky/hacky screenplays, even for all the money in the world.
 
-I give a plan for the way forward to break this "vicious" cycle.
+I give a plan for the way forward to break this "vicious" cycle, but note
+that like the Seldon Plan, may require some ammendments and improvisations,
+and likely won't be the final challenge faced by the film industry and humanity
+as a whole.
 
 ----
 
@@ -68,7 +71,11 @@ Perhaps he was also abusive to the men there, but they tended to have thicker
 skin and be less emotional than the women, which made the interactions
 escalate less.
 
-I think both Joss and his employees will be happier producing fanfics.
+I think both Joss and his (past and/or future) employees will be happier
+producing commercial fanfics in this day and age when even Cookie Monster
+endorses the sharing culture: https://www.youtube.com/watch?v=uCeMZccDMA0 .
+"Be excellent to each other [including to these who were not 100% kind
+to you.]."
 
 ----
 
