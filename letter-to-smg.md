@@ -53,7 +53,7 @@ crush" and a huge source of inspiration and a role model, and suggest you start 
 quality fanfic screenplays (whether yours, mine, or others) and I can help
 you by dedicating time and energy (since I'm not rich yet, I can only offer
 so little money that no "big name" film star will bother getting out of bed -
-hah! Just kidding.
+hah! Just kidding.)
 
 ----
 
@@ -64,11 +64,9 @@ wannabe screenwriters or writers, got their feet wet with learning HTML,
 software dev, graphics editing, etc. and publishing online.  Moreover, BtVS
 stopped being broadcast in Israel, and made some unfortunate plot decisions.
 
-I'm not sure whether he was less abusive toward the men employees, but most
-women have traditionally been more easily offended and they were relatively
-common in Whedon's shows. If not taken Stoically by either or both sides
-( https://shlomifish.livejournal.com/1747.html ) such relationships
-can escalate.
+Perhaps he was also abusive to the men there, but they tended to have thicker
+skin and be less emotional than the women, which made the interactions
+escalate less.
 
 I think both Joss and his employees will be happier producing fanfics.
 
