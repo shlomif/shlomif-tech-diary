@@ -46,3 +46,5 @@ How come (https://en.wikipedia.org/wiki/Iran)[Iran] has been working
 on an Atomic Bomb for 31 years now? It took (https://en.wikipedia.org/wiki/Manhattan_Project)[the Manhattan Project]
 less than 4 years. Iran wishes the uninformed to think they are developing
 an atomic bomb but have no intention of actually developing one.
+
+The Iranians cannot be stupid enough to allow https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] to happen given they were aware of Microsoft Windows being vulnerablein the 2000s. I'm fairly certain they cooperated with Israel/USA and possibly large parts of the international intelligence community.
