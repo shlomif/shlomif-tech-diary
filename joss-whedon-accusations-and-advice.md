@@ -29,7 +29,7 @@ and [Kim Kardashian](https://en.wikipedia.org/wiki/Kim_Kardashian) fight
 for who gets to ride [Princess Celestia](https://mlp.fandom.com/wiki/Princess_Celestia)
 next, with [Darth Vader](https://en.wikipedia.org/wiki/Darth_Vader)
 and [Haman](https://en.wikipedia.org/wiki/Haman) as two "evil" (but mutually
-resenting one another) arbitrators . Yes, it will be a legal
+resenting one another) arbitrers . Yes, it will be a legal
 and "ethical" minefield, but I'd bet it'd be easier to follow and more
 entertaining than [Tolkien's "Lord of the Rings"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 was even shortly after LotR was written.
