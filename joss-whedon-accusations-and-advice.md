@@ -23,15 +23,27 @@ and WhatsApp, and children and parents increasingly know to not be intimidated
 by each other's competence.
 
 Anyway, we can imagine a 10 years old child writing an informal screenplay
+using Google Docs,
 where [Emma Watson](https://en.wikipedia.org/wiki/Emma_Watson)
 and [Kim Kardashian](https://en.wikipedia.org/wiki/Kim_Kardashian) fight
 for who gets to ride [Princess Celestia](https://mlp.fandom.com/wiki/Princess_Celestia)
 next, with [Darth Vader](https://en.wikipedia.org/wiki/Darth_Vader)
 and [Haman](https://en.wikipedia.org/wiki/Haman) as two "evil" (but mutually
-resenting one another) arbitrators using Google Docs. Yes, it will be a legal
+resenting one another) arbitrators . Yes, it will be a legal
 and "ethical" minefield, but I'd bet it'd be easier to follow and more
 entertaining than [Tolkien's "Lord of the Rings"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 was even shortly after it was written.
+
+This has several implications:
+
+1. Screenplays are not getting written in Hollywood's blessed format.
+
+2. They are increasingly crossovers/parodies/RPFs.
+
+3. Screenwriters do not mind their peers taking their works in their own
+direction, but won't mutate them on their own initiative even for all the money in the world (being geeks aka [amateurs](https://en.wikipedia.org/wiki/Amateur) who wish to enjoy their work).
+
+4. The situation won't get better.
 
 I think both Joss and his (past and/or future) employees will be happier
 producing commercial fanfics in this day and age when even Cookie Monster
