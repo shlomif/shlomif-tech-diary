@@ -41,7 +41,7 @@ This has several implications:
 2. They are increasingly crossovers/parodies/RPFs.
 
 3. Screenwriters do not mind their peers taking their works in their own
-direction, but won't mutate them on their own initiative even for all the money in the world (being geeks aka [amateurs](https://en.wikipedia.org/wiki/Amateur) who wish to enjoy their work).
+direction, but won't mutate them on their own initiative even for all the money in the world without a good reason (being geeks aka [amateurs](https://en.wikipedia.org/wiki/Amateur) who wish to enjoy their work).
 
 4. The situation won't get better.
 
