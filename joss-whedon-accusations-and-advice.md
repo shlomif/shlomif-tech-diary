@@ -32,7 +32,7 @@ and [Haman](https://en.wikipedia.org/wiki/Haman) as two "evil" (but mutually
 resenting one another) arbitrators . Yes, it will be a legal
 and "ethical" minefield, but I'd bet it'd be easier to follow and more
 entertaining than [Tolkien's "Lord of the Rings"](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
-was even shortly after it was written.
+was even shortly after LotR was written.
 
 This has several implications:
 
