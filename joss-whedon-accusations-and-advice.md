@@ -45,6 +45,10 @@ direction, but won't mutate them on their own initiative even for all the money 
 
 4. The situation won't get better.
 
+Joss is not an isolated case. Here is [a video](https://www.youtube.com/watch?v=Bq30vO3K4Lw)
+of George Lucas physically ushering a younger peer creator for voicing
+a misbelief.
+
 I think both Joss and his (past and/or future) employees will be happier
 producing commercial fanfics in this day and age when even Cookie Monster
 endorses the sharing culture: https://www.youtube.com/watch?v=uCeMZccDMA0 .
