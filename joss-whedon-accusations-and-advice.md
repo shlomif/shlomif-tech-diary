@@ -13,10 +13,10 @@ culture ( ["I thought using loops was cheating"](https://www.reddit.com/r/edmpro
 more and more have been writing fanfiction including [crossovers](https://en.wikipedia.org/wiki/Crossover_28fiction%29), parodies, and even [Real Person Fiction (RPF)](https://en.wikipedia.org/wiki/Real_person_fiction): often at the same time!
 
 Worse: older, experienced, and/or acclaimed screenwriters, have also met enough
-inspirers to convert to "the dark side" and start thinking and writing in terms
+inspirers, or read their works, to convert to "the dark side" and start thinking and writing in terms
 of such fanfic and cannot be bothered to massage it into Hollywood's draconian,
 finicky and yet - boring (no images, embedded YouTube/etc. videos, hyperlinks, emoji,
-etc.) format. "ageism" works both ways: WhatsApp and Instagram were bought by
+etc.) format. "Ageism" works both ways: WhatsApp and Instagram were bought by
 facebook because it was believed children avoided facebook.com because
 their parents were there, but parents were smart enough to learn Instagram
 and WhatsApp, and children and parents increasingly know better than to
