@@ -19,8 +19,8 @@ finicky and yet - boring (no images, embedded YouTube/etc. videos, hyperlinks, e
 etc.) format. "ageism" works both ways: WhatsApp and Instagram were bought by
 facebook because it was believed children avoided facebook.com because
 their parents were there, but parents were smart enough to learn Instagram
-and WhatsApp, and children and parents increasingly know to not be intimidated
-by each other's competence.
+and WhatsApp, and children and parents increasingly know better than to
+be intimidated by each other's competence.
 
 Anyway, we can imagine a 10 years old child writing an informal screenplay
 using Google Docs,
