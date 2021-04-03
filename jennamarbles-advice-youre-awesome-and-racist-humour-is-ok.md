@@ -1,3 +1,6 @@
+Advice to Jenna: 1. You're awesome. I love you. 2. "Racist" humour is OK. 3. You don't have to absolutely do what you think you must.
+----------------------------------------------------
+
 I didn't realise how much I liked JennaMarbles until she removed a large number of her YouTube videos. ( Granted, I didn't like each and every one, but every creator had their low points. ) Anyway, I am a "warrior king", which is "a messiah", a world healer/advancer, a keeper of the faith - now one of a growing number of women and men of any age and a role I encourage everyone to undertake. See [this link](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs) for more info. As such it is my responsibility to make sure no fellow person is unnecessarily unhappy, so I'd like to say this to Jenna:
 
 First of all: you're awesome. Everyone is. All people are good and awesome and can become more and more competent and benevolent. ( [Reference](https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#all_people_are_good) ).
