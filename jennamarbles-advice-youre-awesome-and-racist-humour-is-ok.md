@@ -6,4 +6,4 @@ I didn't realise how much I liked JennaMarbles until she removed a large number 
 
 Joking about stereotypes is "good for business" and people who complain are being petty and paranoid. There is a freedom of speech and expression.
 
-3. Finally, [You don't have to do what you think you must](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#do_and_let_do__live_and_let_live) . I'm not a qualified psychotherapist, but I think it's the simple key to getting out of a [clinical depression](https://en.wikipedia.org/wiki/Major_depressive_disorder).
+3. Finally, realise that [you don't absolutely have to do what you think you must](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#do_and_let_do__live_and_let_live) . I'm not a qualified psychotherapist, but I think it's the simple key to getting out of a [clinical depression](https://en.wikipedia.org/wiki/Major_depressive_disorder).
