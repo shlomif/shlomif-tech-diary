@@ -29,9 +29,9 @@ I think Jenna or whoever can take a hiatus from youtube or social media. People 
 
 ----
 
-That put aside, I disapprove of the fact that she removed access to most of her videos from youtube and its searches (while I still love her as a person). These videos are (mostly) her intellectual children, and she can be creditted with writing, recording, editing, uploading (and may wish to gain fame, money, etc. from their popularity). Nevertheless, these videos effectively belong to everyone: those who watched them, built upon them ("remixing": comments, video replies, parodies).
+That put aside, I disapprove of the fact that she removed access to most of her videos from youtube and its searches (while I still love her as a person). These videos are (mostly) her intellectual children, and she can be creditted with writing, recording, editing, uploading (and may wish to gain fame, money, etc. from their popularity). Nevertheless, these videos effectively belong to everyone: those who watched them, and built upon them ("remixing": comments, video replies, parodies).
 
-Jenna could (or still can) selectively annotate some offensive videos saying she regrets posting them and that they should be viewed with viewers' caution. But like the ["NEVER GIVE UP!!!"](https://www.youtube.com/watch?v=KxGRhd_iWuE) meme video tells most good creators have many perfectly innocent works, many approving fans, many "critics" who are just joking or being playful, and some critics who "disapprove of What You Say, But Will Defend to the Death Your Right to Say It" ( [Reference](https://quoteinvestigator.com/2015/06/01/defend-say/) ). And they far outnumber those who proclaim that "Jenna should delete any and all 'offensive' videos", but may regret the censoring now.
+Jenna could (and still may be able to) selectively annotate some offensive videos saying she regrets posting them and that they should be viewed with viewers' caution. But like the ["NEVER GIVE UP!!!"](https://www.youtube.com/watch?v=KxGRhd_iWuE) meme video tells most good creators have many perfectly innocent works, many approving fans, many "critics" who are just joking or being playful, and some critics who "disapprove of What You Say, But Will Defend to the Death Your Right to Say It" ( [Reference](https://quoteinvestigator.com/2015/06/01/defend-say/) ). And they far outnumber those who proclaim that "Jenna should delete any and all 'offensive' videos", but may regret the censoring now.
 
 Like [this video by Jenna](https://www.shlomifish.org/Files/files/video/What%20Kid%20Shows%20Taught%20Me-ROZjaxT_0Hw.webm) ("what kid shows taught me") demonstrates kids and adults who have watched [Power Rangers](https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers)
 in the 1990s are as unlikely to be as politically incorrect as they were now as those
@@ -39,3 +39,11 @@ who have read the Bible will be to motivated to perform near-genocides (e.g:
 https://en.wikipedia.org/wiki/Levite%27s_concubine ).
 
 I'm not accusing Jenna of not practising what she preached, just using a work she happened to create for support.
+
+----
+
+Anyway, I suggest that Jenna restores the videos, for her benefit and that of her fans and supportive critics ("Keep your friends close and enemies closer" -- https://en.wikiquote.org/wiki/The_Godfather_Part_II ). There is no point in aggravting a minor offence (pardon the pun) with a graver real issue that inconvenciences many good fans. The "media" (= people, even well-intentioned ones) will always argue about [which colour the bikeshed should be](http://bikeshed.com/), but it is usually safe to not take them too seriously.
+
+And she should also know that I like her and believe in her and even if she erred in the past, she can forgive herself and learn from her past mistakes.
+
+As a Hebrew speaker I can testify that the Hebrew word ["Shalom"](https://en.wikipedia.org/wiki/Shalom) which stems from the proto-Semitic [salaam](https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%C5%A1al%C4%81m-) stems from the base root for "completeness" and "wholeness".
