@@ -29,4 +29,10 @@ I think Jenna or whoever can take a hiatus from youtube or social media. People 
 
 ----
 
-That put aside, I disapprove of the fact that she removed access to most of her videos from youtube and its searches (while still loving her as a person). These videos are (mostly) her intellectual children, and she can be creditted with writing, recording, editing, uploading (and may wish to gain fame, money, etc. on their popularity).
+That put aside, I disapprove of the fact that she removed access to most of her videos from youtube and its searches (while I still love her as a person). These videos are (mostly) her intellectual children, and she can be creditted with writing, recording, editing, uploading (and may wish to gain fame, money, etc. from their popularity). Nevertheless, these videos effectively belong to everyone: those who watched them, built upon them ("remixing": comments, video replies, parodies).
+
+Jenna could (or still can) selectively annotate some offensive videos saying she regrets posting them and that they should be viewed with viewers' caution. But like the ["NEVER GIVE UP!!!"](https://www.youtube.com/watch?v=KxGRhd_iWuE) meme video tells most good creators have many perfectly innocent works, many approving fans, many "critics" who are just joking or being playful, and some critics who "disapprove of What You Say, But Will Defend to the Death Your Right to Say It" ( [Reference](https://quoteinvestigator.com/2015/06/01/defend-say/) ). And they far outnumber those who proclaim that "Jenna should delete any and all 'offensive' videos", but may regret the censoring now.
+
+
+
+
