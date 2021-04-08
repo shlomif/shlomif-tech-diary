@@ -1,7 +1,9 @@
+( Reply to https://www.reddit.com/r/Jennamarbles/comments/mjfmsj/advice_to_jenna_1_youre_awesome_i_love_you_2/ .)
+
 Hi turdennis!
 
 First of all regarding 'promoting' my "weird religion", the concept of
-"everyone is a messiah" predates me. E.g: see the ["You are a Pope card"](https://www.principiadiscordia.com/downloads/pope_card.pdf)
+"everyone should be a messiah" predates me. E.g: see the ["You are a Pope card"](https://www.principiadiscordia.com/downloads/pope_card.pdf)
 from ["Principia Discordia"](https://en.wikipedia.org/wiki/Principia_Discordia)
 (which I have not read yet).
 
@@ -9,7 +11,7 @@ Otherwise, I decided to not care too much this time about people on this thread 
 
 * https://www.shlomifish.org/me/rindolf/ - about my nickname and idea system.
 * https://www.shlomifish.org/meta/FAQ/ - my personal FAQ.
-* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ - my latest intellectual and activist (and altruistic but somewhat self-indulging) project titled "Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as geeky imperatives (as of 2021)" about trying to make the film industry flourish again by subverting some unfortunate "rules" (= guidelines) that they adopted. I might fail, but I plan to try for now (and it likely won't be the ultimate challenge that humanity faces).
+* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ - my newest major project of activism titled "Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as geeky imperatives (as of 2021)" . It tries to make the film industry flourish again.
 
 These are all publicly and gratisly accessible web pages, which should be usable with client-side scripting disabled. I'll still love you if you don't wish to be better informed. I also do not mind people "diluting" my "Rindolfism" idea system as it's been done for most good or bad idea systems in the past, and I think people are good and will eventually find the truth. I believe in you.
 
@@ -29,17 +31,17 @@ Granted, it takes many people time to grow a thicker skin, and one likely always
 
 ----
 
-I think Jenna or whoever **are allowed** to take a hiatus from youtube or social media, if they feel like it. People often need a break, and there is [more than one way to make a difference in this world](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it).
+I think Jenna or whoever **are allowed** to take a hiatus from youtube or social media, if they feel like it. People often need a break or a change of life, and there is [more than one way to make a difference in this world](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it).
 
 ----
 
-That put aside, I disapprove of the fact that she removed access to most of her videos from youtube and its searches (while I still love her as a person). These videos are (mostly) her intellectual children, and she can be credited with writing, recording, editing, uploading (and may wish to gain fame, money, etc. from their popularity). Nevertheless, these videos effectively belong to everyone: those who watched them, and built upon them ("remixing": comments, video replies, parodies, etc.).
+That put aside, I disapprove of the fact that she removed access to most of her videos from youtube and its searches (while I still love her as a person). These videos are (mostly) her intellectual children, and she can be credited with writing, recording, editing, uploading (and may wish to gain fame, money, etc. from their popularity). Nevertheless, these videos effectively belong to everyone: those who watched them, and built upon them ("remixing": comments, video replies, parodies, hyperlinks, etc.).
 
 Jenna could (and still may be able to) selectively annotate some offensive videos saying she regrets posting them and that they should be viewed with caution and discretion. But like the ["NEVER GIVE UP!!!"](https://www.youtube.com/watch?v=KxGRhd_iWuE) meme video tells, most good creators have many perfectly innocent works, many approving fans, many "critics" who are just joking or being playful, and some critics who "disapprove of What You Say, But Will Defend to the Death Your Right to Say It" ( [Reference](https://quoteinvestigator.com/2015/06/01/defend-say/) ). And they far outnumber those who proclaimed that "Jenna should delete any and all 'offensive' videos" (some of whom may regret the censoring now).
 
 Like [this video by Jenna](https://www.shlomifish.org/Files/files/video/What%20Kid%20Shows%20Taught%20Me-ROZjaxT_0Hw.webm) ("what kid shows taught me") demonstrates, kids and adults who have watched [Power Rangers](https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers)
 in the 1990s are as unlikely to now be as politically incorrect as that show was, as those
-who have read the Bible will be to motivated to perform near-genocides (e.g:
+who have read the Bible will be motivated to perform near-genocides (e.g:
 https://en.wikipedia.org/wiki/Levite%27s_concubine ).
 
 I'm not accusing Jenna of not practising what she preached, just using a work she happened to create for support.
@@ -54,4 +56,4 @@ And she should also know that I like her and believe in her and even if she erre
 
 As a Hebrew speaker, I can testify that the Hebrew word ["Shalom"](https://en.wikipedia.org/wiki/Shalom), which stems from the proto-Semitic ["salaam"](https://en.wiktionary.org/wiki/Reconstruction:Proto-Semitic/%C5%A1al%C4%81m-), which stems from the base root for "completeness" and "wholeness", has a canonical meaning of "well-being", "welfare", and "harmony". But it can mean "prosperity" rather than "quiet" or tranquility. In the [ending of Kung Fu Panda 1](https://www.youtube.com/watch?v=UBN77b4P39s) the protagonist, Po, who is an obese Panda, gets tired of laying idle next to his master ( Shifu ) who has reached inner peace after Po defeated the dangerous antagonist. As a result, he suggests they both go and grab a bite, which Shifu accepts. I think humans [dislike being idle](http://www.paulgraham.com/opensource.html) for too long when awake.
 
-So I think while homicide and premature physical deaths are on a decline (minus a few outliers), we'll not see less verbal arguments on "the media" (= people who can comment) and humanity still has many intellectual and physical/natural issues to overcome. So "You gotta be bad, bold, and wiser" to quote [Des'ree's song](https://www.youtube.com/watch?v=pO40TcKa_5U). There are friends to support you though, including online ones.
+So I think while homicide and premature physical deaths are on a decline (minus a few outliers), we'll not see less verbal arguments on "the media" (= people who can comment) and humanity still has many intellectual and physical/natural issues to overcome. So "You gotta be bad, bold, wiser, hard, tough and stronger" to quote [Des'ree's song](https://www.youtube.com/watch?v=pO40TcKa_5U). There are friends who can help you though, including online ones.
