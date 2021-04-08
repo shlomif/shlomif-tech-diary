@@ -29,4 +29,4 @@ I think Jenna or whoever can take a hiatus from youtube or social media. People 
 
 ----
 
-That put aside
+That put aside, I disapprove of the fact that she removed access to most of her videos from youtube and its searches (while still loving her as a person). These videos are (mostly) her intellectual children, and she can be creditted with writing, recording, editing, uploading (and may wish to gain fame, money, etc. on their popularity).
