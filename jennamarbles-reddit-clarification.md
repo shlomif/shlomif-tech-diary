@@ -33,6 +33,9 @@ That put aside, I disapprove of the fact that she removed access to most of her 
 
 Jenna could (or still can) selectively annotate some offensive videos saying she regrets posting them and that they should be viewed with viewers' caution. But like the ["NEVER GIVE UP!!!"](https://www.youtube.com/watch?v=KxGRhd_iWuE) meme video tells most good creators have many perfectly innocent works, many approving fans, many "critics" who are just joking or being playful, and some critics who "disapprove of What You Say, But Will Defend to the Death Your Right to Say It" ( [Reference](https://quoteinvestigator.com/2015/06/01/defend-say/) ). And they far outnumber those who proclaim that "Jenna should delete any and all 'offensive' videos", but may regret the censoring now.
 
-
+Like [this video by Jenna](https://www.shlomifish.org/Files/files/video/What%20Kid%20Shows%20Taught%20Me-ROZjaxT_0Hw.webm) ("what kid shows taught me") demonstrates kids and adults who have watched [Power Rangers](https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers)
+in the 1990s are as unlikely to be as politically incorrect as they were now as those
+who have read the Bible will be to motivated to perform near-genocides (e.g:
+https://en.wikipedia.org/wiki/Levite%27s_concubine ).
 
 
