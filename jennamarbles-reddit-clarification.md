@@ -38,4 +38,4 @@ in the 1990s are as unlikely to be as politically incorrect as they were now as 
 who have read the Bible will be to motivated to perform near-genocides (e.g:
 https://en.wikipedia.org/wiki/Levite%27s_concubine ).
 
-
+I'm not accusing Jenna of not practising what she preached, just using a work she happened to create for support.
