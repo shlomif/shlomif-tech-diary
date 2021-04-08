@@ -15,4 +15,18 @@ These are all publicly and gratisly accessible web pages, which should be usable
 
 ----
 
-OK, enough about Rindolfism
+OK, enough about Rindolfism.
+
+Jenna is (AFAIK at least) a real life, living, intelligent, and physically healthy human being. As such, I want her to stay alive and not be unnecessarily unhappy. I wish it for every real life human being, even if they have traditionally been looked down upon. And Jenna AFAIK have never even physically injured someone else.
+
+Being naturally unhappy is, for example, saddenned by a loved friend or relative dying (e.g: [Tiffany Alvord's dad passing away when she was in her 20s](https://www.youtube.com/watch?v=V_yBN5J4Bjk) or the fact I, a man, cried at my grandmother's funeral.). OTOH, being **unnaturally** happy is, for example, taking offence at someone [calling you a "sick, degenerate, demented, barbaric, naughty, freak"](https://www.youtube.com/watch?v=KNYI3iINXrQ) which Alice Cooper took as a compliment.
+
+Granted, it takes many people time to grow a thick skin, and one likely always be offended at times, but it is doable.
+
+----
+
+I think Jenna or whoever can take a hiatus from youtube or social media. People often need a break, and there is [more than one way to make a difference in this world](https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it).
+
+----
+
+That put aside
