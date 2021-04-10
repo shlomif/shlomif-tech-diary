@@ -1,4 +1,4 @@
-( Reply to https://www.reddit.com/r/Jennamarbles/comments/mjfmsj/advice_to_jenna_1_youre_awesome_i_love_you_2/ .)
+( This document can be viewed on GitHub: https://github.com/shlomif/shlomif-tech-diary/blob/master/jennamarbles-reddit-clarification.md , but shall hopefully fit in Reddit's cap. It is my reply to https://www.reddit.com/r/Jennamarbles/comments/mjfmsj/advice_to_jenna_1_youre_awesome_i_love_you_2/ .)
 
 Hi turdennis!
 
@@ -7,13 +7,17 @@ First of all regarding 'promoting' my "weird religion", the concept of
 from ["Principia Discordia"](https://en.wikipedia.org/wiki/Principia_Discordia)
 (which I have not read yet).
 
-Otherwise, I decided to not care too much this time about people on this thread jumping to conclusions about my (personal and dynamic and non-missionary) idea system. If you wish to get the matters straight, read:
+Otherwise, I decided to not care too much this time about people on this thread jumping to conclusions about my (personal, dynamic, and non-missionary) idea system. If you wish to get the matters straight, read:
 
 * https://www.shlomifish.org/me/rindolf/ - about my nickname and idea system.
 * https://www.shlomifish.org/meta/FAQ/ - my personal FAQ.
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ - my newest major project of activism titled "Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as geeky imperatives (as of 2021)" . It tries to make the film industry flourish again.
 
 These are all publicly and gratisly accessible web pages, which should be usable with client-side scripting disabled. I'll still love you if you don't wish to be better informed. I also do not mind people "diluting" my "Rindolfism" idea system as it's been done for most good or bad idea systems in the past, and I think people are good and will eventually find the truth. I believe in you.
+
+Do note that I do not consider it a religion, and also tend to think more "serious" idea systems (including religions, but also, say, Socialism or Anarchism) should not be taken as gospel, and tend to relate to [Universalism](https://en.wikipedia.org/wiki/Universalism) lately.
+
+----
 
 Some people may think I have ulterior motives, but my main concern is helping Jenna, her viewers, fans of her works, and collaborators. I am "my brother's keeper"so to speak, and am content with helping or educating even only one person at a time, and I don't even require being credited. When [Christina Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) was killed, I was scorched by hot water, and so now I am careful when dealing with mildly warm water; I [try to tell people how I feel](https://www.youtube.com/watch?v=QUQsqBqxoR4) about what they do right and wrong, even if I am told I should not have said that.
 
