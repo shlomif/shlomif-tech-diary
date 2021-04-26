@@ -15,6 +15,10 @@ Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as 2021 geek/
 
 (Or the "case for commercial fan-fiction" for short)
 
-I think (and try to prove) that it (as well as screenreaders accepting screenplays in easier-to-validate format and pinpointing the precise faults for disapproval) are logical steps in the "open / share / remix" trend.
+I think (and try to prove) that it (as well as screenreaders accepting screenplays in easier-to-validate format and pinpointing the precise faults for disapproval) are logical steps in the "open / free / share / remix" trend.
 
 So I could use reposts / shares / comments / criticisms (see http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/ ) and will even try to link to them from the main article.
+
+Also note that you can contact me in private ( https://www.shlomifish.org/me/contact-me/ ) about adding real or virtual donations of money to my virtual donations' ledger while soliciting work on FOSS / free culture works. I trust you won't be dicks ( https://knowyourmeme.com/memes/wheatons-law ) and overcharge me, but in any case, the sums are just guidelines, and I'm not promising I will allocate time for them soon. (My preferred currency for virtual donations is US Dollars.)
+
+"Where they have burned books, they will end in burning human beings. -- Heinrich Heine"
