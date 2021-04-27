@@ -5,9 +5,9 @@ monetary donations ( see https://www.shlomifish.org/meta/donate/ ), I am current
 by my parents and national insurance, and have some savings, so I can even give
 you monetary donations. You may opt to return them or not return them, given my reluctance to overload my memory with who-owes-me-how-much, but more importantly my observation that generosity pays back in spades: https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time .
 
-But what I need more is Internet, social media/etc. publicity for my latest world healing / world-saving effort. Yes, fame! People have looked down upon fame recently, but I feel fame is a good thing: https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/meaning-of-able-competent.xhtml
+But what I need more is Internet, social media/etc. publicity for my latest world-benefiting initiative. Yes, fame! People have looked down upon fame recently, but I feel fame is a good thing: https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/meaning-of-able-competent.xhtml
 
-Anyway, the effort is:
+Anyway, the initiative is:
 
 https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
 
@@ -17,7 +17,7 @@ Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as 2021 geek/
 
 (Or the "Case for Commercial Fan-Fiction" for short)
 
-I think, and tried to prove, that accepting commercial fanfic, as well as screenreaders accepting screenplays in easier-to-validate format and pinpointing the precise faults for disapproving of them, are logical steps in the "open / free / share / remix" trend ( "open source", "open content" ).
+I think, and tried to prove, that accepting commercial fanfic, as well as screenreaders accepting screenplays in easier-to-validate format and pinpointing the precise faults for disapproving of them, are logical steps in the "open / free / share / remix" trend ( e.g: "open source", "open content", user-generated content ).
 
 So I could use reposts / shares / comments / criticisms (see http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/ ) and will even try to link to them from the main article. As an experiment, I enabled https://github.com/utterance/utterances/ - based comments on the page (which require a GitHub login to comment), and pull requests / patches to the sources are welcome as well.
 
