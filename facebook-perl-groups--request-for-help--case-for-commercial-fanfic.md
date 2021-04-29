@@ -21,6 +21,12 @@ I think, and tried to prove, that accepting commercial fanfic, as well as screen
 
 So I could use reposts / shares / comments / criticisms (see http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/ ) and will even try to link to them from the main article. As an experiment, I enabled https://github.com/utterance/utterances/ - based comments on the page (which require a GitHub login to comment), and pull requests / patches to the sources are welcome as well.
 
-Also note that you can contact me in private ( https://www.shlomifish.org/me/contact-me/ ) about having added financial donations (whether real or implied) to my  ledger of virtual donations, while requesting my future work on FOSS / free culture works. I trust you won't be dicks ( https://knowyourmeme.com/memes/wheatons-law ) and overcharge me, but in any case, the sums are just guidelines, and I'm not promising I will allocate time for them soon. (My preferred currency for virtual donations is US Dollars.)
+( If you're thinking that "Commercial fanfiction will never happen", then I tried to debunk it here: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/fighting_against_the_world.xhtml . I remember people thinking the same about open source, open content, and open-in-effect music, and even thinking CVS will remain the dominant version control system. I/we may fail or give up, but I still intend to try for now. )
+
+The canonical facebook announcement is:
+
+https://www.facebook.com/shlomi.fish/posts/10158008027336981
+
+Also note that you can contact me in private ( https://www.shlomifish.org/me/contact-me/ ) about having added financial donations (whether real or implied) to my  ledger of virtual donations, while soliciting future work on FOSS / free culture works. I trust you won't be dicks ( https://knowyourmeme.com/memes/wheatons-law ) and overcharge me, but in any case, the sums are just guidelines, and I'm not promising I will allocate time for them soon. (My preferred currency for virtual donations is US Dollars.)
 
 "Where they have burned books, they will end in burning human beings." -- Heinrich Heine
