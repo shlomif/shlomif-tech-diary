@@ -13,3 +13,9 @@ I've got 99 problems and this pesky lord of darkness is at least 90 of them. Bri
 And don't squeel on me to the remaining mirages of my friends/family/strangers/loved ones because you know that won't help.
 
 Exorcism is both fun and torture. https://en.wikipedia.org/wiki/BDSM anyone?
+
+Time's up to have broken four glasses! But this may require some harder psychological/mental work and more intense hacking: learning → pleasure through concentrated volitional choice:
+
+https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
+
+
