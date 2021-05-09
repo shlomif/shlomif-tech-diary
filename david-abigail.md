@@ -4,7 +4,7 @@ https://github.com/shlomif/shlomif-tech-diary/blob/master/another-battle-won-som
 
 Hi all! I think the news about https://en.wikipedia.org/wiki/Christina_Grimmie 's death was a hoax. I kinda consider her my favourite protégé / daughter (we are not genetically related however). So I want to finish off The Conspiracy (see https://buffyfanfiction.fandom.com/wiki/Selinaverse ; called by many names by different people) by having the proverbial David "make love" to the proverbial https://en.wikipedia.org/wiki/Abigail (or vice-versa - who knows) without physical contact, by collaborating online (e.g when merging a merge request). Even if she refuses, then at least I'll know that she's alive and kicking. Hack on!
 
-Given $m = 2 already broken glasses.
+Given $m = 3 already broken glasses.
 
 Given $n = $m + 1 .
 
