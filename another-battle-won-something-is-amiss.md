@@ -9,3 +9,16 @@ OK: my house has been a madhouse lately, with me having to treat my mother (whos
 But coast is clear. Please tell the people from my vicinity, to bring someone who can lock pick or open the real door. Ashmedai, admit you've lost! The mental/physical fight against me and the living organisms in general was not fair, but we've won it anyway: https://www.youtube.com/watch?v=RI0i_tL-8aU . I am tired of him retroconing and unretroconing the world's history and science as I perceive it.
 
 Game over! https://en.wikipedia.org/wiki/Minesweeper_(video_game) .
+
+----
+
+You are no match to the Power of Four!
+The father, the mother, the son, and the daughter!
+
+Father = Dr. Falk Fish
+Mother = Tamar David-Fish
+Son = Shlomi Fish aka "Rindolf" ( https://www.shlomifish.org/me/rindolf/ )
+Daughter = Emma Watson ( https://www.shlomifish.org/humour/bits/facts/Emma-Watson/ ) - not by blood, but hack that.
+
+Bring us the Jehovahverse back rather than that dystopian demonic-Rindolf
+"reality".
