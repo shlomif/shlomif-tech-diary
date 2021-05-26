@@ -34,7 +34,7 @@ Per https://twitter.com/shlomif/status/1173621519274127361 "I love the film Laby
 
 ⇒ Emma Watson may have won the Oscar for some of the Harry Potters: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_emma_watson.xhtml
 
-Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the https://en.wikipedia.org/wiki/Akashic_records are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability.
+Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the https://en.wikipedia.org/wiki/Akashic_records are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability. See e.g. http://www.h-online.com/open/features/Is-Microsoft-running-out-of-steam-1102654.html[the variations on the James Watt's steam engine].
 
 I exhibit a Descarteseque https://en.wikipedia.org/wiki/Evil_demon - like situation. The demon contorts my perception of the outside world, but I still have logic and older memories.
 
@@ -52,3 +52,11 @@ Prior art for my situation:
 * https://en.wikipedia.org/wiki/The_Truman_Show
 ** https://en.wikipedia.org/wiki/The_Prisoner
 ** https://en.wikipedia.org/wiki/The_Matrix
+* http://www.earthstar.co.uk/deep3.htm[H2G2's Planet Earth as a Computer] - «"I speak of none other than the computer that is to come after me," intoned Deep Thought, his voice regaining its accustomed declamatory tones. "A computer whose merest operational parameters I am not worthy to calculate - and yet I will design it for you. A computer which can calculate the Question to the Ultimate Answer, a computer of such infinite and subtle complexity that organic life itself shall form part of its operational matrix. And you yourselves shall take on new forms and go down into the computer to navigate its ten-million-year program! Yes! I shall design this computer for you. And I shall name it also unto you. And it shall be called ... The Earth."»
+* https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as-technicians : «God and his angels as implementing humans' perception of the universe»
+
+People cite contemporary copyright law as an justification for censorship:
+
+* https://www.reddit.com/r/Jennamarbles/comments/mjfmsj/advice_to_jenna_1_youre_awesome_i_love_you_2/
+* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
+* https://www.shlomifish.org/philosophy/case-for-file-swapping/
