@@ -2,6 +2,8 @@ Date: 2021-05-19
 
 From: https://www.shlomifish.org/me/contact-me/[Shlomi Fish]
 
+URL: https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc
+
 Here are some reasons the outside world as I perceive it makes little sense:
 
 We seem to be dealing with epistemological demons.
