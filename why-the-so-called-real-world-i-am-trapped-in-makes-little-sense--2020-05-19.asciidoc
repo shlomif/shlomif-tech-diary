@@ -84,7 +84,7 @@ https://freenode.net/[freenode] has a relatively small number of users. Many are
 The Selinaverse Vision
 ----------------------
 
-The Selinaverse is a starting point for the multiverse as I (= https://www.shlomifish.org/[Shlomi Fish] ) want it to be, not as what I was told it must be. Namely:
+https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starting point for the multiverse as I (= https://www.shlomifish.org/[Shlomi Fish] ) want it to be, not as what I was told it must be. Namely:
 
 * There is no shortage of electrical/etc. energy, raw materials, tangible products.
 * One can be as fat or as thin as they wish while eating as much as they want.
@@ -92,7 +92,12 @@ The Selinaverse is a starting point for the multiverse as I (= https://www.shlom
 * There is a shortage of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml[sentient beings' "love"] - education and entertainment and conception of new values (whether tangible or spiritual). Akin to the Biblical verb xref:#biblical_to_know[to know].
 * Organisms can live indefinitely
 * Even "poor"er people have homes, and enough to eat.
-* One can request a portal to some place else.
+* One can open a portal to a different location on Earth or the multiverse.
 * Menial / drudgerous works are done by robots.
+* https://is.gd/A7rkAh[Geeky Hackers] are the attractive, competent, cool kids. Even non-perfect-looking men and women can be alphas.
+* Earth has no environmental problems.
+** There is no problem eating meat, dairy, eggs, honey, etc. because they are duplicated using https://buffyfanfiction.fandom.com/wiki/Q_Continuum_(Selinaverse)[Q Continuum] tehnology.
+* Copyright cannot be used for censoring works.
+* There is https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[no risk of a nuclear winter]
 
-I'd be happy living in "The Terrestrial Bubble" for now, where
+I'd be happy living in "The Terrestrial Bubble" for now, where people don't run into "supernatural" activity often and https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/the-master.xhtml[when they do, they think it may be a trick].
