@@ -89,6 +89,15 @@ https://freenode.net/[freenode] has a relatively small number of users. Many are
 
 Most people I see on the streets in my neighbourhood, are clearly zombies.
 
+
+[id="improve_freenode"]
+How Freenode Should Improve?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Freenode's "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout. When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother's keeper?"] (after freaking killing him out of jealousy!) he meant that he'd let the whole world go to hell rather than care!
+
+Having been banned
+
 [id="selinaverse_vision"]
 The Selinaverse Vision
 ----------------------
