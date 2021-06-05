@@ -104,7 +104,9 @@ Having been banned from:
 * ##programming due to "self-promotion" despite https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md[maintaining the FAQ]
 * ##reddit for "self-promotion" despite sustaining 11:11 for several years
 * #Philosophy for an unspecified reason
-* #reddit-judaism for "flirting" despite being a Jew by blood, an Israeli resident and citizen.
+* #reddit-judaism for "flirting" despite being a Jew by blood, and an Israeli resident and citizen.
+* ##English for "self-promotion"
+
 
 [id="selinaverse_vision"]
 The Selinaverse Vision
