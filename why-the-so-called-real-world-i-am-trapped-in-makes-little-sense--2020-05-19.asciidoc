@@ -85,7 +85,6 @@ People cite contemporary copyright law as an justification for censorship:
 
 I lost contact with many online friends due to discontinues of IM services and me not receiving their email/etc replies. The devils are clouding my perception of the world using https://twitter.com/shlomif/status/1395025361138761729[my media].
 
-https://freenode.net/[freenode] has a relatively small number of users. Many are anti-geek / anti-hackers ( see https://is.gd/A7rkAh[a definition of "geeks" and "hacking"] ) who have unhappy jobs, paranoid about "privacy", are bound by many "rules", and produce little of true value. Where are the truly great, competent, and sexy, creators?
 
 Most people I see on the streets in my neighbourhood, are clearly zombies.
 
@@ -93,6 +92,10 @@ Most people I see on the streets in my neighbourhood, are clearly zombies.
 [id="improve_freenode"]
 How Freenode Should Improve?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://freenode.net/[freenode] has a relatively small number of users. Many are anti-geek / anti-hackers ( see https://is.gd/A7rkAh[a definition of "geeks" and "hacking"] ) who have unhappy jobs, paranoid about "privacy", are bound by many "rules", and produce little of true value. Where are the truly great, competent, and sexy, creators?
+
+Maybe https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] would be too much to ask. But https://www.shlomifish.org/humour/bits/facts/Larry-Wall/[lwall] left, and before that was only active on #perl6/#raku which is a cursed https://en.wikipedia.org/wiki/Second-system_effect project. http://www.catb.org/esr/[esr] seems like a shadow of his former self.
 
 Freenode's "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout. When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother's keeper?"] (after freaking killing him out of jealousy!) he meant that he'd let the whole world go to hell rather than care!
 
