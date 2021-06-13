@@ -6,6 +6,8 @@ This is just a suggested starting point. As usual with https://www.shlomifish.or
 
 Also note that delegating and trust are key: http://shlomifishswiki.branchable.com/Saladin_Style
 
+*Update:* I give the option of me not stepping down - just appending the good "people" (more like "entitities") to the end of the array. From Moses to Shlomif/Rindolf/@EmmaWatson to Christina_Grimmie/Fluttershy/Discord.
+
 ---
 
 https://www.shlomifish.org/humour/bits/facts/Summer-Glau/[Summer Glau] (b 1981),
