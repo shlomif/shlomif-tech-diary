@@ -24,7 +24,7 @@ Prior art for my situation:
 * https://www.shlomifish.org/humour/Selina-Mandrake/#sources_of_inspiration - Selina gets sucked into slaying vampires
 ** https://en.wikipedia.org/wiki/Labyrinth_%281986_film%29[Labyrinth] - Sarah
 ** https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer - Buffy gets sucked into a demonic underworld
-** https://en.wikipedia.org/wiki/The_Hobbit[The Hobbit] - Bilbo is drawn out of his comfort zone
+** https://en.wikipedia.org/wiki/The_Hobbit[The Hobbit] - Bilbo is drawn out of his comfort zone
 * https://en.wikipedia.org/wiki/The_Truman_Show
 ** https://en.wikipedia.org/wiki/The_Prisoner
 ** https://en.wikipedia.org/wiki/The_Matrix
@@ -42,7 +42,7 @@ https://twitter.com/TheRealGrimmie[Christina Grimmie] was reportedly killed afte
 
 I am a feeble and frail man who is otherwise of strong spirit, and who is attracted to strong girls, especially physically strong and/or muscular ones: https://twitter.com/shlomif/status/1394689324554334210 .
 
-I "pirate" (= copy, share, and build upon) copyrighted works all over the place ("ARRRRRRRR!!!"). I've been told https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/fighting_against_the_world.xhtml[it is bad and even "unethical"] or that FOSS / open content / free music / commercial fanfic will "never happen".
+I "pirate" (= copy, share, and build upon) copyrighted works all over the place ("ARRRRRRRR!!!"). I've been told https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/fighting_against_the_world.xhtml[it is bad and even "unethical"] or that FOSS / open content / free music / commercial fanfic will "never happen".
 
 I think that commercial fan fiction not only will be ethical, but is necessary: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
 
@@ -97,7 +97,7 @@ https://freenode.net/[freenode] has a relatively small number of users. Many are
 
 Maybe https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] would be too much to ask. (but I still can hope) But https://www.shlomifish.org/humour/bits/facts/Larry-Wall/[lwall / "TimToady"] left, and before that was only active on #perl6/#raku which is a cursed https://en.wikipedia.org/wiki/Second-system_effect project. http://www.catb.org/esr/[esr] seems like a shadow of his former self.
 
-Freenode's "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout. When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother's keeper?"] (after freaking killing him out of jealousy!) he meant that he'd let the whole world go to hell rather than care! Morover, such careless attitude tends to result in more and more complaints in the long run.
+Freenode's "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout. When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother's keeper?"] (after freaking killing him out of jealousy!) he meant that he'd let the whole world go to hell rather than care! Morover, such careless attitude tends to result in more and more complaints in the long run.
 
 Having been banned from:
 
@@ -179,9 +179,9 @@ Begone naqdimon
 
 image::images/live-forever--soul-mind-and-body--free--800px.webp[Photo]
 
-* Time
+* Time
 * Life, knowledge
-* Soul, mind, body
+* Soul, mind, body
 * Fearless, happy, strong, playful, complete, free!
 
 In the names of Rindolf, Shlomi Fish, and Emma Watson --
