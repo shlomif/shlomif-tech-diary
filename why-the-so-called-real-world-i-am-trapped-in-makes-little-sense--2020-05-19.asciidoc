@@ -30,6 +30,7 @@ Prior art for my situation:
 ** https://en.wikipedia.org/wiki/The_Matrix
 * http://www.earthstar.co.uk/deep3.htm[H2G2's Planet Earth as a Computer] - «"I speak of none other than the computer that is to come after me," intoned Deep Thought, his voice regaining its accustomed declamatory tones. "A computer whose merest operational parameters I am not worthy to calculate - and yet I will design it for you. A computer which can calculate the Question to the Ultimate Answer, a computer of such infinite and subtle complexity that organic life itself shall form part of its operational matrix. And you yourselves shall take on new forms and go down into the computer to navigate its ten-million-year program! Yes! I shall design this computer for you. And I shall name it also unto you. And it shall be called ... The Earth."»
 * https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as-technicians : «God and his angels as implementing humans' perception of the universe»
+* https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers - my chat friends become inhuman.
 
 More thoughts:
 --------------
@@ -89,6 +90,9 @@ I lost contact with many online friends due to discontinues of IM services and m
 
 Most people I see on the streets in my neighbourhood, are clearly zombies.
 
+We went from killing women to raping them to sexual harrassment.
+Some say one cannot even compliment a woman for her looks.
+
 [id="improve_freenode"]
 How Freenode Should Improve?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -138,6 +142,7 @@ https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starti
 * There are no calamities of nature: no extreme colds or extreme heats, no killer bees, no over-population, no world hunger, no extinctions of species, no diseases, epidemics or pandemics.
 * Companies, NPOs, individuals, franchises, idea systems, etc. are paid by the development time and brands given duplication and distribution are costless. One can "pirate" such goods or create bootleg products, but it is considered noble to transfer profits upstream, downstream or sideways.
 * People's minds emitting **thoughts** of "gods" (= "guideline-generators") with the https://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Ego[Ego] as an arbitter is a happy and virtuous state of being: https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/
+* Unlimited computing power.
 
 I'd be happy living in "The Terrestrial Bubble" for now, where people don't run into "supernatural" activity often and https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/the-master.xhtml[when they do, they think it may be a trick].
 
@@ -218,7 +223,7 @@ image::images/live-forever--soul-mind-and-body--free--800px.webp[Photo]
 * Time
 * Life, knowledge
 * Soul, mind, body
-* Brave, happy, strong, playful, complete, free!
+* Brave, happy, competent, playful, complete, free!
 
 In the names of Rindolf, Shlomi Fish, and Emma Watson --
 Begone Naqdimon
