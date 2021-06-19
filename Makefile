@@ -1,5 +1,7 @@
 all: render
 
+SHELL = /bin/bash
+
 SSG_DEST = dest/ssgen.xhtml
 SSG_SRC = static-site-generators--despair.md
 
