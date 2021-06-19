@@ -191,6 +191,7 @@ I was convinced I was good , noble, well-intentioned and benevolent. I refused t
 Success in the Selinaverse; Living in a hell hole
 -------------------------------------------------
 
+
 I suspect I lived in a hell-hole spawned by my fears, and that in the
 https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc[Selinaverse],
 I was highly successful, rich, revered, famous and admired. I was a
@@ -224,7 +225,7 @@ it: The Unforgettable Realms!
 ____
 +
 ( https://twitter.com/shlomif/status/1403950285668732928[Tweet]. )
-. Shlomi Fish (me).
+. https://www.shlomifish.org/meta/FAQ/[Shlomi Fish (me)].
 . https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma
 Watson], the award-winning and acclaimed actress / model / creator. She
 is known for portraying
