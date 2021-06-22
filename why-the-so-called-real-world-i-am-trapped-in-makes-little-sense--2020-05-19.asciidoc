@@ -236,6 +236,14 @@ and other roles.
 
 Each of the three of us has been playing or guiding the other two, and
 themselves and others, using various online and offline mediums.
+https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
+circular logic, circular feedback, etc.] are common in Fantasia, and
+part of what makes sentience and humour work:
+
+* https://www.youtube.com/watch?v=GibiNy4d4gc["The Circle of Life"]
+* https://www.youtube.com/watch?v=O9MvdMqKvpU["We are all connected to
+each other, in a circle, in a hoop that never ends"]
+
 
 Begone Fear
 ===========
