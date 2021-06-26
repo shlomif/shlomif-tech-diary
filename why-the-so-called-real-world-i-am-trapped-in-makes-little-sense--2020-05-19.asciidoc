@@ -133,7 +133,7 @@ https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starti
 * Menial / drudgerous works are done by robots.
 * https://is.gd/A7rkAh[Geeky Hackers] are the attractive, competent, cool kids. Even non-perfect-looking men and women can be alphas.
 * Earth has no environmental problems.
-** There is no ethhical problem with eating meat, dairy, eggs, honey, etc. because they are duplicated using https://buffyfanfiction.fandom.com/wiki/Q_Continuum_(Selinaverse)[Q Continuum] technology.
+** There is no ethical problem with eating meat, dairy, eggs, honey, etc. because they are duplicated using https://buffyfanfiction.fandom.com/wiki/Q_Continuum_(Selinaverse)[Q Continuum] technology.
 * There is https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[no risk of a nuclear winter]
 * Copyright, Patents, and trademarks cannot be used for censoring works.
 ** Goods are evaluated and sold based on brand, marketing, and development time.
@@ -149,7 +149,7 @@ https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starti
 * People's minds emitting **thoughts** of "gods" (= "guideline-generators") with the https://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Ego[Ego] as an arbitter is a happy and virtuous state of being: https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/
 * Unlimited computing power.
 * There are mind-reading text-editors, graphics-editors, etc.
-* A kiss is enough to conceive children.
+* A kiss is enough to conceive children, without needing pregnancy. https://en.wikipedia.org/wiki/Menopause[Menopause] does not happen.
 
 I'd be happy living in "The Terrestrial Bubble" for now, where people don't run into "supernatural" activity often and https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/the-master.xhtml[when they do, they think it may be a trick].
 
@@ -199,6 +199,8 @@ Other notable Terran terminators:
 
 . https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau] - my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/["Summerschool at the NSA" film] likely earned her the Oscar and may have been a reboot.
 . https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar] - https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-next-film["Summerschool at the NSA"] starring her may have been a thing.
+. Likely https://en.wikipedia.org/wiki/Melissa_Joan_Hart[MJH] (who ascended during https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[CEIA]
+. Likely https://en.wikipedia.org/wiki/J._K._Rowling[JKRowling]
 
 
 [id="real_shlomif_success"]
