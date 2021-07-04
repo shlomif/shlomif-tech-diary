@@ -105,6 +105,12 @@ People are opposed to the fact that sexual attractiveness strongly correlates wi
 * https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#meaning-of-able-competent
 * https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html
 
+People become non-responsive on social media:
+
+* https://slashdot.org/submission/13002768/queen-padm-amidala-tales-star-trekstar-warsreal-world-crossover
+
+People https://github.com/shlomif/shlomif-tech-diary/blob/master/about-censorship.asciidoc[censor me] saying https://www.youtube.com/watch?v=UF4_WnXhHFM["I Would Not Say Such Things If I Were You"] rather than http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["why thank you"]
+
 [id="improve_freenode"]
 How Freenode Should Improve?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
