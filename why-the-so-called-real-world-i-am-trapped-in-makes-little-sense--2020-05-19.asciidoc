@@ -99,6 +99,12 @@ The other day I was talking with a friend about https://en.wikipedia.org/wiki/J.
 
 ⇒ The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss_Whedon]'s alleged "sexual harassment" claims. ( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] ).
 
+People are opposed to the fact that sexual attractiveness strongly correlates with competence:
+
+* https://www.shlomifish.org/humour/image-macros/indiv-nodes/say_no_to_an_alpha_female.xhtml
+* https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#meaning-of-able-competent
+* https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html
+
 [id="improve_freenode"]
 How Freenode Should Improve?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
