@@ -113,6 +113,13 @@ People become non-responsive on social media:
 
 People https://github.com/shlomif/shlomif-tech-diary/blob/master/about-censorship.asciidoc[censor me] saying https://www.youtube.com/watch?v=UF4_WnXhHFM["I Would Not Say Such Things If I Were You"] rather than http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["why thank you"]
 
+There are many one song guest performances in larger live shows. E.g:
+
+. https://www.youtube.com/watch?v=edV1Px8NHk4[Rolling Stones - with Lady Gaga　"Gimme Shelter"　@ Newark, N.J. 15/12/12 - YouTube]
+. https://www.youtube.com/watch?v=eZgc8-ry3rc[Taylor Swift Ft. Sara Bareilles - Brave (DVD The RED Tour) Bônus - YouTube]
+
+Would they travel by plane/automobile for 10 minutes?
+
 [id="improve_freenode"]
 How Freenode Should Improve?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
