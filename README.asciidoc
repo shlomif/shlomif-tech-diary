@@ -1,0 +1,4 @@
+Repository for drafts of posts to
+http://www.shlomifish.org/me/blogs/[Shlomi Fish’s blogs].
+
+Various licences.
