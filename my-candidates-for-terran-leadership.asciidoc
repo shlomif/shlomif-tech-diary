@@ -1,3 +1,7 @@
+[id="intro"]
+Introduction
+------------
+
 I am planning to take a (hopefully temporary) break from being "The [Invisible] Messiah" to catch up with the Earth outside my "brain clouding" illusions. I will not rest on my laurels, but I need both rest and exercise for my mind and body.
 
 So we could use a new leadership.
@@ -6,13 +10,24 @@ This is just a suggested starting point. As usual with https://www.shlomifish.or
 
 Also note that delegating and trust are key: http://shlomifishswiki.branchable.com/Saladin_Style
 
+[id="appending"]
+Appending:
+~~~~~~~~~~
+
 *Update:* I give the option of me not stepping down - just appending the good "people" (more like "entities") to the end of the array. From Moses to Shlomif/Rindolf/@EmmaWatson to Christina Grimmie/Fluttershy/Discord.
+
+[id="slain-by-a-vampire"]
+Satisfying the "being Slain-by-a-vampire" requirement
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Update:* In https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html , The Guide (Wil Wheaton) notes that "a vampire can only be slain by another vampire." which was a joke, but may have been a quote from The-Codex™. Luckily, the Codex has a  very fuzzy definition (if any) of "vampire". Fluttershy already had https://mlp.fandom.com/wiki/Bats![the vampire nature], and Discord can use his magic to become a vampire.
 
 As for https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie], having allegedly died, we can pretend that she was resurrected as a vampirella (e.g a la https://www.youtube.com/watch?v=riemZC4J7GE[this] or https://www.youtube.com/watch?v=lQALLGsn-Fk[that] franchises).
 
 ---
+
+Candidates
+----------
 
 https://www.shlomifish.org/humour/bits/facts/Summer-Glau/[Summer Glau] (b 1981),
 https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie] (b 1994),
