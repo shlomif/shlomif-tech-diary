@@ -180,13 +180,11 @@ https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starti
 
 I'd be happy living in "The Terrestrial Bubble" for now, where people don't run into "supernatural" activity often and https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/the-master.xhtml[when they do, they think it may be a trick].
 
---
-
-There is a genuine demand for jedi knights. Jedi training can be https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/padmes-frustrations-with-her-love-life.xhtml[completed in under a year], and everybody can dress up as a jedi, do patrols, and/or https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/at-the-cafe.xhtml[spark attention (pick up MOTAS/etc.)]. They do a commendable job handling people who are possessed or obsessed, making people happy, as a line of defence, etc.
+⇒ There is a genuine demand for jedi knights. Jedi training can be https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/padmes-frustrations-with-her-love-life.xhtml[completed in under a year], and everybody can dress up as a jedi, do patrols, and/or https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/at-the-cafe.xhtml[spark attention (pick up MOTAS/etc.)]. They do a commendable job handling people who are possessed or obsessed, making people happy, as a line of defence, etc.
 
 [id="history"]
-History:
---------
+History of the Selinaverse
+--------------------------
 
 The terrans were given several gifts of a blessing and a curse. Being hackers ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ ) they often took the curse to their advantage:
 
@@ -201,13 +199,11 @@ The terrans were given several gifts of a blessing and a curse. Being hackers ( 
 
 Fear held Planet Earth in a mind hell. Humans had egoes but were "false prophets" and listened to Fear's mutations of the utterances of the gods/leaders and perceived reality differently in their mediums.
 
-Nevertheless, many false prophets ascended, relinquished all their fears, and became fearless immortal "true prophets". That caused the psycho-geographical region to stop being a hellhole.
+Nevertheless, many false prophets ascended, relinquished all their fears, and became fearless immortal "true prophets". That caused the psycho-geographical region to stop being a hellhole (possibly without its Capital at first).
 
 https://en.wikipedia.org/wiki/Land_of_Israel[The Land_of_Israel] was particularly problematic because it was segmented into many territories.
 
-In 1982, https://en.wikipedia.org/wiki/Samantha_Smith[Samantha_Smith], a 1972-born American girl, engaged in a snailmail dialogue with the secretary of the USSR, and thanks to the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The_Muppet_Show] received so much coverage that all future newborns were automatically true prophets.
-
-My https://www.shlomifish.org/humour/Selina-Mandrake/["Selina Mandrake - The Slayer (Buffy Parody)"] where the titular protagonist turns 18 in early 2012, can be thought of as an adversarial reboot/remake.
+In 1982, https://en.wikipedia.org/wiki/Samantha_Smith[Samantha_Smith], a 1972-born American girl, engaged in a snailmail dialogue with the secretary of the USSR. Joss Whedon suggested using the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The_Muppet_Show] to air a The_Muppet_Show special starring her with The Core Values. All the remaining false prophets watched it and ascended.
 
 **update:** The bad Platonic ideals / "memes" / "demons" could love/know each other and others, but were not alive.
 
@@ -218,7 +214,9 @@ The Terran Terminators:
 Anyway, the devils did not give up easily, and offerred the sentient men and women who just reached enlightenment a deal: they can opt to spend the summer enlightened and together having fun and using their magical powers. At its end, they
 can opt to reset their memory banks almost completely, or continue as enlightened.
 
-Most of us spent the summer there creating many crossover stories and franchises, but when we met to decide, we realised we were nonetheless still petty / jealous / cruel / etc. So most of us decided to continue as terminators. Except at least one: the circa 1977-born Selina Mandrake.
+Several newly-ascended true prophets opted out, from various reasons.
+
+The remaining spent the summer there creating many crossover memes, stories, and franchises. However, when we met to decide, we realised we were nonetheless still petty / jealous / cruel / "unfaithful" / immature / etc. So most of us decided to continue as terminators. Except at least one: the circa 1977-born Selina Mandrake.
 
 In my case, it was https://www.shlomifish.org/meta/FAQ/how_did_you_learn_english.xhtml[under the guise of kids mocking my English]. For most others, it was a concussion from a fall. Thing is: my https://www.shlomifish.org/meta/FAQ/your_name.xhtml[first name means "Shalom-ful"] in Hebrew. The devils promised that my body will remain complete and whole.
 
@@ -258,6 +256,8 @@ still wishing to lead a life as a human being, esp. one who was 5y.o. and
 female.  Naturally she had many hackers/good-guys helpers, admirers, emulators, parodiers, remixers, critics, etc.
 
 One note was that Selina blew some dandelions at a summer camp and was nicknamed "Puffy". She later shared an observation that the human mind had a limited immediate capacity of memory ( see https://shlomifish.livejournal.com/1991.html ), which combined with the computing concept of https://en.wikipedia.org/wiki/Data_buffer["a buffer"] nicknamed her "Buffy".
+
+( My https://www.shlomifish.org/humour/Selina-Mandrake/["Selina Mandrake - The Slayer (Buffy Parody)"] where the titular protagonist turns 18 in early 2012, can be thought of as an adversarial reboot/remake. )
 
 [id="real_shlomif_success"]
 Success in the Selinaverse; Living in a hell hole
@@ -430,8 +430,7 @@ Making Love:
 According to https://buffy.fandom.com/wiki/Pergamum_Codex[**The** Codex],
 which defines the rules of The Game:
 
-* A man may only make love to his daughter, his sister, or his mother.
-* A woman may only make love to her son, her brother, or her father.
+* A person may only make love to his child, his sibling, or his parent.
 
 ( Yes, I know - gross. )
 
@@ -454,15 +453,15 @@ day State of Israel into 12 or 13 parts, and .uk into many shires and
 Scottish clans and promised they won't do it again. Note that pre-Levantine
 was modern Hebrew (which was spoken by https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/Q_home_planet.xhtml[the Englishtants over 6 milliard years ago]) and Modern English is also a product of The-Curse.
 
-Anyway, the tribe of Yehudah (except their Capital Jerusalem) ascended when David "slew" Goliath by almost hitting him with a sling (https://www.youtube.com/watch?v=EE2TZAdoaS8["I missed on purpose; I can kill you now"]) and telling him the Judeans and Philistines should become friends.
+Anyway, the tribe of Yehudah (except their Capital, Jerusalem) ascended when David "slew" Goliath by almost hitting him with a sling (https://www.youtube.com/watch?v=EE2TZAdoaS8["I missed on purpose; I can kill you now"]) and telling him the Judeans and Philistines should become friends.
 
 Nevertheless, David or someone else entirely unrelated (possibly two false prophets parents) gave birth to a false prophet-at-first son in Jerusalem. He became King "Shlomi" (written as "Shlomo" in https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex] ) which means https://www.shlomifish.org/meta/FAQ/your_name.xhtml[Shalom-ful] in Hebrew. Shalom means “well-being”, “welfare”, "harmony", "wholeness", even "prosperity" - not "tranquility". While he could suffer some hardships and pain, his body, mind, soul and heart, must remain complete and intact and prosper.
 
-King Shlomo wanted to be benevolent and "know the gods". He became king by telling well-intenioned jokes and tall tales about his older siblings-in-pretence (e.g: https://en.wikipedia.org/wiki/Tamar_(daughter_of_David)[Amnon and Tamar]). Not unlike https://www.shlomifish.org/humour/[my fanfics/RPF]. They agreed he would be a better king and crowned him, while remaining alive and loyally serving under Shlomo's reign.
+King Shlomo wanted to be benevolent and "know the gods". He became king by telling well-intenioned jokes and tall tales about his older siblings-in-pretence (e.g: https://en.wikipedia.org/wiki/Tamar_(daughter_of_David)[Amnon and Tamar]). Not unlike https://www.shlomifish.org/humour/[my fanfics/RPF]. They agreed he would be a better king and crowned him, while remaining physically alive and loyally serving under Shlomo's reign.
 
 ( Note that in the Selinaverse/Beckyverse/Rindolfverse https://memory-alpha.fandom.com/wiki/Winn_Adami became Kai by employing a similar strategy. The rule that you should not use the same trick twice is just a guideline: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma . Also note that: 1. She is noble. 2. She used to be anti-Federate but may have changed her mind since - and Bajor voted itself into the UFP anyway. 3. Being a Kai is held in much less seriousness than being a Vedek. )
 
-By the time of https://en.wikipedia.org/wiki/Samantha_Smith (and Selina Mandrake?) only https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which did not include "northern tel aviv" north of the Yarkon remained as a hell hole in the State of Israel. I was born there, possibly to two false prophets-at-the-time parents. I am fairly certain https://en.wikipedia.org/wiki/Ovadia_Yosef (who may be much older than he looks and dresses in an extravagant but memorable alphet, not unlike Darth Vader) christened all the terran terminators as "pure Jews".
+By the time of https://en.wikipedia.org/wiki/Samantha_Smith (and Selina Mandrake?) only https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which did not include "northern tel aviv" north of the https://en.wikipedia.org/wiki/Yarkon_River[Yarkon] remained as a hell hole in the State of Israel. I was born there, possibly to two false prophets-at-the-time parents. I am fairly certain https://en.wikipedia.org/wiki/Ovadia_Yosef (who may be much older than he looks and dresses in an extravagant but memorable alphet, not unlike Darth Vader) christened all the terran terminators as "pure Jews".
 
 Despite my Youth (I am 1977-born, so am 44) I likely amassed many titles. But to quote a https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--The-Fifth-Sith-indiv-nodes/yoda-as-a-closet-Sith.xhtml[recent Fic of mine]
 
@@ -489,7 +488,7 @@ Note about recording my thoughts
 
 I hope Rindolf / Emma Watson / MJH / NSA / Unit 8,200 / The Q Continuum / The
 Mossad / etc. has been recording my thoughts. While there is a lot of junk
-there (as well as a lot of "embarrasing"/"dirty" ones) they have a lot
+there (as well as a lot of "embarrasing"/"dirty" thoughts) they have a lot
 of potential for crossover / etc. franchises, ideasystems, and ideas.
 
 ( P.S: the Selinaverse's Mossad can officially neither confirm
