@@ -14,7 +14,11 @@ Also note that delegating and trust are key: http://shlomifishswiki.branchable.c
 Appending:
 ~~~~~~~~~~
 
-*Update:* I give the option of me not stepping down - just appending the good "people" (more like "entities") to the end of the array. From Moses to Shlomif/Rindolf/@EmmaWatson to Christina Grimmie/Fluttershy/Discord.
+*Update:* I give the option of me not stepping down - just appending the good "people" (more like "entities") to the end of the array. From Moses to Shlomif/Rindolf/@EmmaWatson to Christina Grimmie/Fluttershy/Discord:
+
+* Slayer: Christina Grimmie
+* Watcher: https://is.gd/rYa3On[Fluttershy]
+* Witch/"whicher": https://www.shlomifish.org/meta/nav-blocks/blocks/#mlp_fim_sect[Discord]
 
 [id="slain-by-a-vampire"]
 Satisfying the "being Slain-by-a-vampire" requirement
