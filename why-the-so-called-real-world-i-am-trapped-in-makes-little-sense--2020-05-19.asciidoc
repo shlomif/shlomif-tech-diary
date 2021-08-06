@@ -1,4 +1,4 @@
-Date: 2021-06-23
+   e: 2021-06-23
 
 From: https://www.shlomifish.org/me/contact-me/[Shlomi Fish]
 
@@ -31,7 +31,7 @@ Prior art for my situation:
 * http://www.earthstar.co.uk/deep3.htm[H2G2's Planet Earth as a Computer] - «"I speak of none other than the computer that is to come after me," intoned Deep Thought, his voice regaining its accustomed declamatory tones. "A computer whose merest operational parameters I am not worthy to calculate - and yet I will design it for you. A computer which can calculate the Question to the Ultimate Answer, a computer of such infinite and subtle complexity that organic life itself shall form part of its operational matrix. And you yourselves shall take on new forms and go down into the computer to navigate its ten-million-year program! Yes! I shall design this computer for you. And I shall name it also unto you. And it shall be called ... The Earth."»
 * https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as-technicians[God and his angels as implementing humans' perception of the universe] - an epistemological allegory
 * https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers - my chat friends become inhuman.
-* https://www.youtube.com/watch?v=gdbh6GUJ5XY[Ghost story] - food tastes the same (despite proclemation of being freshly made).
+* https://www.youtube.com/watch?v=gdbh6GUJ5XY[Ghost story] - food tastes the same (despite proclemation of being freshly made).
 
 More thoughts:
 --------------
