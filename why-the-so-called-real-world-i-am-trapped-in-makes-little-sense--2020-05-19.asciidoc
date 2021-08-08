@@ -123,24 +123,7 @@ Would they travel by plane/automobile for 10 minutes?
 
 ⇒ I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late.
 
-[id="improve_freenode"]
-How Freenode Should Improve?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-https://freenode.net/[freenode] has a relatively small number of users. Many are anti-geek / anti-hackers ( see https://is.gd/A7rkAh[a definition of "geeks" and "hacking"] ) who have unhappy jobs, paranoid about "privacy", are bound by many "rules", and produce little of true value. Where are the truly great, competent, and sexy, creators?
-
-Maybe https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] would be too much to ask. (but I still can hope) But https://www.shlomifish.org/humour/bits/facts/Larry-Wall/[lwall / "TimToady"] left, and before that was only active on #perl6/#raku which is a cursed https://en.wikipedia.org/wiki/Second-system_effect project. http://www.catb.org/esr/[esr] seems like a shadow of his former self.
-
-Freenode's "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout. When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother's keeper?"] (after freaking killing him out of jealousy!) he meant that he'd let the whole world go to hell rather than care! Morover, such careless attitude tends to result in more and more complaints in the long run.
-
-Having been banned from:
-
-* ##programming due to "self-promotion" despite https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md[maintaining the FAQ]
-* ##reddit for "self-promotion" despite sustaining 11:11 for several years
-* #Philosophy for an unspecified reason
-* #reddit-judaism for "flirting" despite being a Jew by blood, and an Israeli resident and citizen.
-* ##English for "self-promotion"
-
+https://twitter.com/shlomif/status/1418433188091793412["If you're the smartest person in the world - you are in the wrong world."]
 
 [id="selinaverse_vision"]
 The Selinaverse Vision
@@ -483,3 +466,22 @@ of potential for crossover / etc. franchises, ideasystems, and ideas.
 nor deny having https://is.gd/rYa3On[a cabal leadership headed by Fluttershy],
 the animated Pegasus pony from https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic]
 .)
+
+[id="improve_freenode"]
+How Freenode Should Improve?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+https://freenode.net/[freenode] has a relatively small number of users. Many are anti-geek / anti-hackers ( see https://is.gd/A7rkAh[a definition of "geeks" and "hacking"] ) who have unhappy jobs, paranoid about "privacy", are bound by many "rules", and produce little of true value. Where are the truly great, competent, and sexy, creators?
+
+Maybe https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] would be too much to ask. (but I still can hope) But https://www.shlomifish.org/humour/bits/facts/Larry-Wall/[lwall / "TimToady"] left, and before that was only active on #perl6/#raku which is a cursed https://en.wikipedia.org/wiki/Second-system_effect[Second system effect] project. http://www.catb.org/esr/[esr] seems like a shadow of his former self.
+
+Freenode's "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout. When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother's keeper?"] (after freaking killing him out of jealousy!) he meant that he'd let the whole world go to hell rather than care! Morover, such careless attitude tends to result in more and more complaints in the long run.
+
+Having been banned from:
+
+* ##programming due to "self-promotion" despite https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md[maintaining the FAQ]
+* ##reddit for "self-promotion" despite sustaining 11:11 for several years
+* #Philosophy for an unspecified reason
+* #reddit-judaism for "flirting" despite being a Jew by blood, and an Israeli resident and citizen.
+* ##English for "self-promotion"
+
