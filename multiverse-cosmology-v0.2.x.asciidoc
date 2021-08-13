@@ -21,4 +21,10 @@ The "open" value implies "openness" / "openmindedness": https://www.shlomifish.o
 
 The devils did not include it in their founding values.
 
+[id="the-devils"]
+The devils:
+-----------
 
+At one point, a finite subset of the xlink:the-demons[the demons], which didn't include "open" (and other values) placed echoes
+of them in a collective and created "Fanatecha". These echoes will hereby referred to as "the devils" although they are not fully
+evil.
