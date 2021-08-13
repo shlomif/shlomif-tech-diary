@@ -44,3 +44,17 @@ The gods:
 
 Every conscious organism imagines "gods": voices/sights of other xref:#the-demons[demons] (or himself/herself) that act as guideline-generators. It is up to the soul to arbitrate between them and decide what to do (and when/where/how/etc.).
 
+[id="self-ref"]
+Self-reference / circularity:
+-----------------------------
+
+https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
+circular logic, circular feedback, etc.] are common in Fantasia, and
+part of what makes sentience and humour work:
+
+* https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Godel,_Escher, Bach]
+* https://www.youtube.com/watch?v=GibiNy4d4gc["The Circle of Life"]
+* https://www.youtube.com/watch?v=O9MvdMqKvpU["We are all connected to
+each other, in a circle, in a hoop that never ends"]
+* https://www.shlomifish.org/philosophy/books-recommends/#mathematics_and_humor[Mathematics and Humor book]
+* https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I think therefore I laugh" book]
