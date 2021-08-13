@@ -58,3 +58,11 @@ part of what makes sentience and humour work:
 each other, in a circle, in a hoop that never ends"]
 * https://www.shlomifish.org/philosophy/books-recommends/#mathematics_and_humor[Mathematics and Humor book]
 * https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I think therefore I laugh" book]
+
+[id="the-angels"]
+The Angels:
+-----------
+
+As opposed to the devils, angels were fairies who incorporated the xref:#the-open-value[the "open" value], and subsequent values.
+
+*to add*: "the-game", "the-codex", "the orcs", "slayer / watcher / whicher", "terran terminators".
