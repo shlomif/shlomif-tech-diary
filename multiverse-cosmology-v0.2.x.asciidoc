@@ -3,7 +3,7 @@
 The demons:
 -----------
 
-The demons (aka "values", or "fairies") are a race of epistemological organisms.
+The demons (aka "values", or "fairies") are a race of epistemological (or Platonic ideals) organisms.
 
 [id="love-and-knowledge"]
 Love / Knowledge:
@@ -25,6 +25,15 @@ The devils did not include it in their founding values.
 The devils:
 -----------
 
-At one point, a finite subset of the xlink:the-demons[the demons], which didn't include "open" (and other values) placed echoes
-of them in a collective and created "Fanatecha". These echoes will hereby referred to as "the devils" although they are not fully
-evil.
+At one point, a finite subset of the xref:#the-demons[the demons], which didn't
+include "open" (and other values) placed echoes of them in a collective and
+created "Fanatecha". These echoes will hereby referred to as "the devils"
+although they are not fully evil.
+
+[id="free-will"]
+Free will / Free choice:
+------------------------
+
+The very "soul" / "ego" demon already https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/dont_just_go_with_the_flow.xhtml[operated by choice] and it was part of the devil's collective.
+
+As a result, https://twitter.com/shlomif/status/1424320375761129475[nobody can accurately predict the future.].
