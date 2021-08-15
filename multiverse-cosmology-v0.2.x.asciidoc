@@ -19,7 +19,7 @@ Both the devils and the angels could 'make love' / experience pleasure.
 
 The "open" value implies "openness" / "openmindedness": https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#open_free_share_steal[Reference]
 
-The devils did not include it in their founding values.
+The xref:#the-devils[devils] did not include it in their founding values.
 
 [id="the-devils"]
 The devils:
@@ -44,6 +44,8 @@ The gods:
 
 Every conscious organism imagines "gods": voices/sights of other xref:#the-demons[demons] (or himself/herself) that act as guideline-generators. It is up to the soul to arbitrate between them and decide what to do (and when/where/how/etc.).
 
+Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/ about the etymology of the Hebrew word "elohim"
+
 [id="self-ref"]
 Self-reference / circularity:
 -----------------------------
@@ -52,7 +54,7 @@ https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
 circular logic, circular feedback, etc.] are common in Fantasia, and
 part of what makes sentience and humour work:
 
-* https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Godel,_Escher, Bach]
+* https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Godel, Escher, Bach]
 * https://www.youtube.com/watch?v=GibiNy4d4gc["The Circle of Life"]
 * https://www.youtube.com/watch?v=O9MvdMqKvpU["We are all connected to
 each other, in a circle, in a hoop that never ends"]
@@ -69,17 +71,22 @@ As opposed to the devils, angels were fairies who incorporated the xref:#the-ope
 The-Game™:
 ----------
 
-The devils challenged angels with The-Game: they would willingly lose their earlier memories as souls, and have their media (= "in between") mutated by the devils. Physically dying was against the rules, but for true Shalom-of-mind, they must be "slain" by another "vampire"; one cannot constantly win.
+The devils challenged angels with The-Game: volunteering angels would willingly lose their earlier memories as souls, and have their media (= "in between") mutated by the devils. Physically dying was against the rules, but for true Shalom-of-mind, they must be "slain" by another "vampire"; one cannot constantly win.
 
 At first, there were few takers, but eventually starting as a "false prophet"-at-first was prestigious and coveted.
 
 [id="the-orcs"]
 The Orcs:
-~~~~~~~~~
+---------
 
-The devils solicited help from https://villains.fandom.com/wiki/Orcs_(Middle-earth)["orcs"], non-capacitanciated angels, who helped them due to the fact that the "false prophets" found The-Game™ increasingly easy. Not only did the orcs have a great time, but they booby-trapped The-Codex and the devils' requests, and https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[drove the devils bananas], just like a smart patient https://en.wikipedia.org/wiki/Don_Juan_DeMarco[hospitalised at a mental institute].
+The devils solicited help from https://villains.fandom.com/wiki/Orcs_(Middle-earth)["orcs"], non-capacitanciated angels, who helped them due to the fact that the "false prophets" found The-Game™ increasingly easy. Not only did the orcs have a great time, but they booby-trapped The-Codex and the devils' requests. Moreover, they https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[drove the devils bananas], just like a smart patient https://en.wikipedia.org/wiki/Don_Juan_DeMarco[hospitalised at a mental institute].
 
 The canonical https://en.wikipedia.org/wiki/Hebrew_Bible[Tanakh], Plato's Republic, Lord of the Rings, Atlas Shrugged, https://en.wikipedia.org/wiki/Crime_and_Punishment , Shakespeare's Plays, etc. have likely undergone lengthening and mutation by the Orcs. However, often the originators liked the mutated versions better.
 
+[id="slayer-watcher-whicher"]
+Slayer, Watcher, Whicher:
+-------------------------
+
+The slayer in the trio is the actual "false prophet" who sees the "real world" as magic-less and mutated.
 
 *to add*: "the-codex", "the orcs", "slayer / watcher / whicher", "terran terminators".
