@@ -123,4 +123,13 @@ If you think that Emma Watson or MJH are not comparable to Maimonides, then see:
 The whicher (aka "the witch" / "the witcher")'s job is to provide ideas and
 choices into their slayer's mind. In my case it was https://www.shlomifish.org/me/rindolf/[Rindolf]. In Saladin's case, it may have been https://en.wikipedia.org/wiki/Aladdin[Aladdin].
 
+[id="hell-hole"]
+"Hell hole":
+------------
+
+A person born in a hell hole started his/her life as a false prophet. If either
+parent was a true prophet, then they did everything in their power for
+their children to be born outside of a hell hole. As a result, false prophets
+were usually born to two false prophet parents.
+
 *to add*: "the-codex", "the orcs", "slayer / watcher / whicher", "terran terminators", "hell holes"
