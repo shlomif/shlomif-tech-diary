@@ -262,7 +262,9 @@ Aside from being "The-Messiah", I was:
 . Most people's favourite candidate for being The Terminal Terran
 Terminator (with the runner up likely being
 https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian], who was
-The-Alpha-Female for a large part of the years between 2013-2021).
+The-Alpha-Female for a large part of the years between 2013-2021). See
+https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc#user-content-terran-terminators[the
+definition of "Terran Terminators"].
 . A blogger whose blogging and thoughts have caused many other
 terminators to ascend.
 . Likely The Emperor of
@@ -275,8 +277,8 @@ Together with two companions, we formed a trio:
 from The Unforgettable Realms.
 +
 ____
-«We also joked that Rindolf the Dwarf plays Shlomi Fish in an Advanced
-21st-Century Earth Adventures campaign.» - It is real and I'm okay with
+“We also joked that Rindolf the Dwarf plays Shlomi Fish in an Advanced
+21st-Century Earth Adventures campaign.” - It is real and I'm okay with
 it: The Unforgettable Realms!
 ____
 +
@@ -286,20 +288,25 @@ ____
 Watson], the award-winning and acclaimed actress / model / creator. She
 is known for portraying
 https://harrypotter.fandom.com/wiki/Hermione_Granger[Hermione] in the
-Harry Potter films,
-https://www.shlomifish.org/humour/Selina-Mandrake/cast.html#selina[Selina],
-and other roles.
+Harry Potter films, for portraying
+https://www.shlomifish.org/humour/Selina-Mandrake/cast.html#selina[Selina
+in "Selina Mandrake"], and for other roles.
 
 Each of the three of us has been playing or guiding the other two, and
 themselves and others, using various online and offline mediums.
 https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
-circular logic, circular feedback, etc.] are common in Fantasia, and
+circular logic, circular feedback, etc.] are common in Fantasia, and are
 part of what makes sentience and humour work:
 
+* https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Godel, Escher,
+Bach]
 * https://www.youtube.com/watch?v=GibiNy4d4gc["The Circle of Life"]
 * https://www.youtube.com/watch?v=O9MvdMqKvpU["We are all connected to
-each other, in a circle, in a hoop that never ends"]
-
+each other, in a circle, in a hoop, that never ends"]
+* https://www.shlomifish.org/philosophy/books-recommends/#mathematics_and_humor[Mathematics
+and Humor book]
+* https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I
+think therefore I laugh" book]
 
 Begone Fear
 ===========
