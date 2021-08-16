@@ -6,12 +6,13 @@ The demons:
 The demons (aka "values", or "fairies") are a race of epistemological (or Platonic ideals) organisms.
 
 [id="love-and-knowledge"]
-Love / Knowledge:
------------------
+Love / Knowledge / Creativity:
+------------------------------
 
 See https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[Education = Entertainment = Conception of Values]
 
-Both the devils and the angels could 'make love' / experience pleasure.
+Both the devils and the angels could "make love" / experience pleasure / create
+new value.
 
 [id="the-open-value"]
 "open":
@@ -36,7 +37,7 @@ Free will / Free choice:
 
 The very "soul" / "ego" demon already https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/dont_just_go_with_the_flow.xhtml[operated by choice] and it was part of the devils' collective.
 
-As a result, https://twitter.com/shlomif/status/1424320375761129475[nobody can accurately predict the future.].
+As a result, https://twitter.com/shlomif/status/1424320375761129475[nobody and nothing can accurately predict the future.].
 
 [id="the-gods"]
 The gods:
@@ -66,6 +67,16 @@ The Angels:
 -----------
 
 As opposed to the devils, angels were fairies who incorporated the xref:#the-open-value[the "open" value], and subsequent values.
+
+[id="the-heart-and-mercy-value"]
+Heart / mercy / forgiveness:
+----------------------------
+
+The heart value implied mercy and forgiveness. http://shlomifishswiki.branchable.com/Saladin_Style/[Saladin-style].
+
+Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#do_and_let_do__live_and_let_live["Live and let live; do and let do"].
+
+The devils may have excluded "mercy" which may explain their cruelty.
 
 [id="the-game"]
 The-Game™:
