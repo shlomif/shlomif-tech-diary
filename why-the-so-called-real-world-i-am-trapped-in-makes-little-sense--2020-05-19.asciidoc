@@ -500,3 +500,6 @@ Having been banned from:
 * #reddit-judaism for "flirting" despite being a Jew by blood, and an Israeli resident and citizen.
 * ##English for "self-promotion"
 
+[id="license"]
+License:
+--------

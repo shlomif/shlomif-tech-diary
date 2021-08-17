@@ -181,4 +181,10 @@ Other notable Terran terminators:
 
 I was convinced I was good , noble, well-intentioned and benevolent. I refused to permanently consider the opposite! Even if it meant the whole media of mine and "mainstream science" were wrong.
 
+[id="license"]
+License:
+--------
+
+https://creativecommons.org/licenses/by/4.0/[CC-by], Shlomi Fish, 2021
+
 *to add*: "the-codex", "the orcs", "slayer / watcher / whicher", "terran terminators", "hell holes"
