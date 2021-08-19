@@ -200,9 +200,6 @@ All the remaining false prophets were avid fans of The_Muppet_Show , but may hav
 
 The false prophets watched it and ascended.
 
-**update:** The bad Platonic ideals / "memes" / "demons" could love/know each other and others, but were not openminded.
-
-[id="terran-terminators"]
 The Terran Terminators:
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -327,6 +324,16 @@ each other, in a circle, in a hoop, that never ends"]
 and Humor book]
 * https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I
 think therefore I laugh" book]
+
+[id="the-open-value"]
+"open":
+~~~~~~~
+
+The "open" value implies "openness" / "openmindedness": https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#open_free_share_steal[Reference]
+
+The xref:#the-devils[devils] did not include it in their founding values,
+while they did have xref:#love-and-knowledge[Love / Knowledge / Creativity].
+As a result, the importance of love was often used by them as a decoy.
 
 Begone Fear
 ===========

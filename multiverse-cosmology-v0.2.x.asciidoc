@@ -20,7 +20,9 @@ new values.
 
 The "open" value implies "openness" / "openmindedness": https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#open_free_share_steal[Reference]
 
-The xref:#the-devils[devils] did not include it in their founding values.
+The xref:#the-devils[devils] did not include it in their founding values,
+while they did have xref:#love-and-knowledge[Love / Knowledge / Creativity].
+As a result, the importance of love was often used by them as a decoy.
 
 [id="the-devils"]
 The devils:
@@ -146,8 +148,6 @@ In 1982, https://en.wikipedia.org/wiki/Samantha_Smith[Samantha_Smith], a 1972-bo
 All the remaining false prophets were avid fans of The_Muppet_Show , but may have thought it was considered silly and childish among the general public. In actuality, Jim Henson and the muppeteers were multiverse superstars and heroes. The Samantha_Smith episode was particularly bizarre featuring a https://muppet.fandom.com/wiki/Muppet_Labs[Muppet_Labs] skit where Bunsen and Beaker tested a membrane to contain a real https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bomb]; the membrane didn't work and yet there was only a local sand splash.
 
 The false prophets watched it and ascended.
-
-**update:** The bad Platonic ideals / "memes" / "demons" could love/know each other and others, but were not openminded.
 
 [id="the-terran-terminators--rematch"]
 The Terran Terminators: Rematch
