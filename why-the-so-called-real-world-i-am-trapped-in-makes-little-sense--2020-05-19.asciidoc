@@ -129,6 +129,18 @@ https://twitter.com/shlomif/status/1418433188091793412["If you're the smartest p
 
 "People" online are afraid of hearing contrasting views, yet are often cruel enough to block/ban/devoice contrarians. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage criticism].
 
+____
+
+https://twitter.com/shlomif/status/1407204486985175043
+
+The latest obsession of 'geeks' with Japanese culture is a mirage of my fears done to make me feel unpopular: https://youtube.com/watch?v=xZLwtc9x4yA ; https://shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
+
+Likewise with the 'Asperger syndrome': https://shlomifish.org/meta/FAQ/asperger_syndrome.xhtml ; obesity ; environmental issues ; etc.
+
+arduino is a mirage of mr. fear. just like Angular / react.js and bitcoin and
+discord.gg .
+____
+
 [id="selinaverse_vision"]
 The Selinaverse Vision
 ----------------------
