@@ -6,6 +6,8 @@ URL: https://is.gd/1vNvze
 
 Here are some reasons the outside world as I perceive it makes little sense:
 
+( Also see https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.2.x.asciidoc[multiverse cosmology v0.2.x document]. )
+
 The epistemological demons:
 ---------------------------
 
@@ -124,6 +126,8 @@ Would they travel by plane/automobile for 10 minutes?
 ⇒ I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late.
 
 https://twitter.com/shlomif/status/1418433188091793412["If you're the smartest person in the world - you are in the wrong world."]
+
+"People" online are afraid of hearing contrasting views, yet are often cruel enough to block/ban/devoice contrarians. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage criticism].
 
 [id="selinaverse_vision"]
 The Selinaverse Vision

@@ -189,6 +189,12 @@ Other notable Terran terminators:
 
 I was convinced I was good , noble, well-intentioned and benevolent. I refused to permanently consider the opposite! Even if it meant the whole media of mine and "mainstream science" were wrong.
 
+[id="see-also"]
+See Also:
+---------
+
+* https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc[A less organised but more comprehensive doc about the devils and the "real world"].
+
 [id="license"]
 License:
 --------
