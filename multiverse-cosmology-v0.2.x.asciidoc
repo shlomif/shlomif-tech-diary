@@ -30,8 +30,8 @@ The devils:
 
 At one point, a finite subset of the xref:#the-demons[the demons], which didn't
 include "open" (and other values) placed echoes of them in a collective and
-created "Fanatecha". These echoes will hereby referred to as "the devils"
-although they are not fully evil.
+created "Fanatecha" / "Fanatica". These echoes will hereby referred to as "the
+devils" although they are not fully evil.
 
 [id="free-will"]
 Free will / Free choice:
@@ -48,6 +48,14 @@ The gods:
 Every conscious organism imagines "gods": voices/sights of other xref:#the-demons[fairies] / characters (or himself/herself) that act as guideline-generators. It is up to the soul to arbitrate between them and decide what to do (and when/where/how/etc.).
 
 Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/ about the etymology of the Hebrew word "elohim"
+
+[id="the-multiverse-of-imagination"]
+Fantasia / Fantastica / Fantastecha: the multiverse of imagination:
+-------------------------------------------------------------------
+
+https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia" / "Fantastica" / "Fantastecha"] are the names of the multiverse of imagination where beings and entities spawn worlds and values of one another using xref:#love-and-knowledge[Love / Knowledge / Creativity].
+
+Hyperlinks and references are common in Fantastecha ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before digital computers ). Moreover, even xref:#self-ref[self-referencial or circular links] are prevalent and tolerated.
 
 [id="self-ref"]
 Self-reference / circularity:
