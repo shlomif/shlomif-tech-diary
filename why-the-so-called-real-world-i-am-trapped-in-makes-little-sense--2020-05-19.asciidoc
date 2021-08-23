@@ -141,6 +141,10 @@ arduino is a mirage of mr. fear. just like Angular / react.js and bitcoin and
 discord.gg .
 ____
 
+Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang crossed streams] only on 2021? Has @EricIdle been living under a rocck?
+
+"People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
+
 [id="selinaverse_vision"]
 The Selinaverse Vision
 ----------------------
