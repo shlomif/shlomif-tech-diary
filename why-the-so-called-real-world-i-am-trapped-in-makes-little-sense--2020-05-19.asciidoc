@@ -145,6 +145,19 @@ Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and 
 
 "People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
 
+Obstacles:
+
+. Pro/anti-Israel; Pro/anti-"Zionism" - https://www.shlomifish.org/philosophy/politics/define-zionism/ / https://www.shlomifish.org/meta/FAQ/zionist.xhtml
+.. "Israel is a Nazi Country"
+.. "Zionism = Racism"
+.. "Tel Aviv is a rock in the desert"
+. https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[Criticism against Static Site Generation]
+. Licence Proliferation and incompatiblity: https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/rev2/ ; https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#i-want-to-release-my-code---which-open-source-licence-should-i-use .
+. "your writings are 'too smart'"
+. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml["No self-promotion"]
+.
+
+
 [id="selinaverse_vision"]
 The Selinaverse Vision
 ----------------------
