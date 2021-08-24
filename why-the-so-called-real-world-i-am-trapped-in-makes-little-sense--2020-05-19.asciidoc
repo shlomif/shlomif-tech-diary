@@ -71,7 +71,7 @@ It is possible yada` (= "to know" in Hebrew) meant "to educate / to entertain" a
 
 I had a very short haircut for many years now and given girls have many "bad hair days" (re https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter-indiv-nodes/the_beautiful_assistant.xhtml and https://www.youtube.com/watch?v=8N2k-gv6xNE ) think they may wish to follow suit: https://www.refinery29.com/en-us/2021/03/10365754/emma-watson-bob-haircut-2021
 
-Per https://twitter.com/shlomif/status/1173621519274127361 "I love the film Labyrinth. it was so funky and nice and David Bowie was great and Jennifer Connelly was so touching and maybe could have taken the Oscar if there was no prejudice against her youth and the fact it was a fantasy/children film back then.": Jennifer Connelly likely was nominated and won (and it may not have been an age record).
+Per https://twitter.com/shlomif/status/1173621519274127361 "I love the film Labyrinth. it was so funky and nice and David Bowie was great and Jennifer Connelly was so touching and maybe could have taken the Oscar if there was no prejudice against her youth and the fact it was a fantasy/children film back then.". Jennifer Connelly likely was nominated and won (and it may not have been an age record).
 
 ⇒ Emma Watson may have won the Oscar for some of the Harry Potter films: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_emma_watson.xhtml
 
@@ -83,7 +83,7 @@ Terran science was an epistemological facade (Faster-than-light travel, duplicat
 
 As a child, I wanted to be good-hearted (= noble, honest, benevolent) and later on aspired to be world savior / messiah / "the greatest person in history". I guess "nice guys finish last".
 
-It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines and refrigerators) when they **can** be made more reliable.
+It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines and refrigerators) when they **can** be made more reliable (like those that had been inthe past).
 
 I have a very low number of Twitter followers (below 650 - https://twitter.com/shlomif ) and my reddit posts are usually not upvoted a lot ( https://www.reddit.com/user/shlomif ) . This is despite some of my older posts being a staple on Slashdot and other sites (e.g: https://www.shlomifish.org/humour/bits/Mastering-Cat/["Mastering cat" Interview].)
 
@@ -102,7 +102,7 @@ Some say one cannot even compliment a woman for her looks.
 
 The other day I was talking with a friend about https://en.wikipedia.org/wiki/J._K._Rowling[JK Rowling] as a role model and the following day she said JKR was evil since she opposed https://en.wikipedia.org/wiki/Transgender[Transgender] people (which I do too).
 
-⇒ The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss_Whedon]'s alleged "sexual harassment" claims. ( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] ).
+⇒ The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss_Whedon]'s alleged "sexual harassment" claims. ( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] for his remarkable advancement of feminism ).
 
 People are opposed to the fact that sexual attractiveness strongly correlates with competence:
 
@@ -114,7 +114,7 @@ People become non-responsive on social media:
 
 * https://slashdot.org/submission/13002768/queen-padm-amidala-tales-star-trekstar-warsreal-world-crossover
 
-People https://github.com/shlomif/shlomif-tech-diary/blob/master/about-censorship.asciidoc[censor me] saying https://www.youtube.com/watch?v=UF4_WnXhHFM["I Would Not Say Such Things If I Were You"] rather than http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["why thank you"]
+People https://github.com/shlomif/shlomif-tech-diary/blob/master/about-censorship.asciidoc[censor me] saying https://www.youtube.com/watch?v=UF4_WnXhHFM["I Would Not Say Such Things If I Were You"] rather than http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["why, thank you"]
 
 There are many one song guest performances in larger live shows. E.g:
 
@@ -170,7 +170,7 @@ https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starti
 ** Film Studios review screenplays in https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[better formats and are communicative].
 ** Nevertheless, there are many franchises which are more "original", e.g https://www.shlomifish.org/humour/TheEnemy/["The Enemy"] or https://www.shlomifish.org/humour/human-hacking/["HHFG"].
 * A person can repair his body, mind or spirit without a lot of effort.
-** https://www.youtube.com/watch?v=0YhJxJZOWBw["Now I know kung-fu"] is not farfetched in the Selinaverse. However, to properly gain skill, one is expected to invest some learning / practicing effort (which should still be enjoyable).
+** https://www.youtube.com/watch?v=0YhJxJZOWBw["Now I know kung-fu"] is not farfetched in the Selinaverse. However, to properly gain a skill, one is expected to invest some learning / practicing effort (which should still be enjoyable).
 * I am willing to give explicit public access to the https://en.wikipedia.org/wiki/Akashic_records of me up to now: "Thu  3 Jun 08:41:16 IDT [Tel Aviv] 2021". My "nudes" and stupid/wrong/dirty thoughts and actions are a small price to pay for the good ones materialising.
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence[Strong AIs] are already possible, but there is still some case for robotic/non-sentient AIs (e.g: game solvers/players; https://en.wikipedia.org/wiki/Proof_assistant[Proof_assistants]; etc.)
 * There are no calamities of nature: no extreme colds or extreme heats, no killer bees, no over-population, no world hunger, no extinctions of species, no diseases, epidemics or pandemics.
@@ -179,13 +179,15 @@ https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starti
 * Unlimited computing power.
 * There are mind-reading text-editors, graphics-editors, etc.
 * A kiss is enough to conceive children, without needing pregnancy. https://en.wikipedia.org/wiki/Menopause[Menopause] does not happen.
+** Possibly even single men and women can conceive children or pets by filling a web form.
+*** These children will be independent and may adopt new parents or switch to them.
 * Instant messaging services are neither fragmented nor proprietary ( http://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/ )
 * Some pets (cats, dogs, hamsters, etc.) are superintelligent, sentient, and can talk.
 ** https://stexpanded.fandom.com/wiki/George_the_Cat[George the Cat] tried human form a few times, and preferred being cat-like. https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/ongoing-text.html#meet_Q2[Q2] prefers having a humanoid form.
 
 I'd be happy living in "The Terrestrial Bubble" for now, where people don't run into "supernatural" activity often and https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/the-master.xhtml[when they do, they think it may be a trick].
 
-⇒ There is a genuine demand for jedi knights. Jedi training can be https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/padmes-frustrations-with-her-love-life.xhtml[completed in under a year], and everybody can dress up as a jedi, do patrols, and/or https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/at-the-cafe.xhtml[spark attention (pick up MOTAS/etc.)]. They do a commendable job handling people who are possessed or obsessed, making people happy, as a line of defence, etc.
+⇒ There is a genuine demand for jedi knights. Jedi training can be https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/padmes-frustrations-with-her-love-life.xhtml[completed in under a year], and everybody can dress up as a jedi, do patrols, and/or https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/at-the-cafe.xhtml[spark attention (pick up MOTAS/etc.)]. Jedis/etc. do a commendable job handling people who are possessed or obsessed, making people happy, as a line of defence, etc.
 
 
 
@@ -210,9 +212,9 @@ Nevertheless, many false prophets ascended, relinquished all their fears, and be
 
 https://en.wikipedia.org/wiki/Land_of_Israel[The Land_of_Israel] was particularly problematic because it was segmented into many territories.
 
-In 1982, https://en.wikipedia.org/wiki/Samantha_Smith[Samantha_Smith], a 1972-born American girl, engaged in a snailmail dialogue with the secretary of the USSR. https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] suggested using the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The_Muppet_Show] to air a The_Muppet_Show special starring her with the ascension mantra.
+In 1982, https://en.wikipedia.org/wiki/Samantha Smith[Samantha Smith], a 1972-born American girl, engaged in a snailmail dialogue with the secretary of the USSR. https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] suggested using the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The Muppet Show] to air a The Muppet Show special starring her with the ascension mantra.
 
-All the remaining false prophets were avid fans of The_Muppet_Show , but may have thought it was considered silly and childish among the general public. In actuality, Jim Henson and the muppeteers were multiverse superstars and heroes. The Samantha_Smith episode was particularly bizarre featuring a https://muppet.fandom.com/wiki/Muppet_Labs[Muppet_Labs] skit where Bunsen and Beaker tested a membrane to contain a real https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bomb]; the membrane didn't work and yet there was only a local sand splash.
+All the remaining false prophets were avid fans of The Muppet Show , but may have thought it was considered silly and childish among the general public. In actuality, Jim Henson and the muppeteers were multiverse superstars and heroes. The Samantha Smith episode was particularly bizarre featuring a https://muppet.fandom.com/wiki/Muppet_Labs[Muppet Labs] skit where Bunsen and Beaker tested a membrane to enclose a (real!) https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bomb]; the membrane didn't work and yet there was only a local sand splash.
 
 The false prophets watched it and ascended.
 
@@ -471,7 +473,7 @@ I think The Codex allows gay/Lesbian "sex", but I wouldn't make it a habit
 if I were you. But… whatever floats your boat, buddy.
 
 [id="king-solomon"]
-The story of King Shlomi-son-of-David (the Biblical one):
+The story of King Solomon-son-of-David (the Biblical one):
 ---------------------------------------------------------
 
 After Syria (minus Damascus itself) in the levant ascended to being a true
@@ -482,15 +484,15 @@ was modern Hebrew (which was spoken by https://www.shlomifish.org/humour/Star-Tr
 
 Anyway, the tribe of Yehudah (except their Capital, Jerusalem) ascended when David "slew" Goliath by almost hitting him with a sling (https://www.youtube.com/watch?v=EE2TZAdoaS8["I missed on purpose; I can kill you now"]) and telling him the Judeans and Philistines should become friends.
 
-Nevertheless, David or someone else entirely unrelated (possibly two false prophets parents) gave birth to a false prophet-at-first son in Jerusalem. He became King "Shlomi" (written as "Shlomo" in https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex] ) which means https://www.shlomifish.org/meta/FAQ/your_name.xhtml[Shalom-ful] in Hebrew. Shalom means “well-being”, “welfare”, "harmony", "wholeness", even "prosperity" - not "tranquility". While he could suffer some hardships and pain, his body, mind, soul and heart, must remain complete and intact and prosper.
+Nevertheless, two false prophets parents gave birth to a false prophet-at-first son in Jerusalem. He became King "Shlomi" (written as "Shlomo" in https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex] ) which means https://www.shlomifish.org/meta/FAQ/your_name.xhtml[Shalom-ful] in Hebrew. Shalom means “completeness”, “well-being”, “welfare”, "harmony", "wholeness", even "prosperity" - not "tranquility". While he could suffer some hardships and pain, his body, mind, soul and heart, must remain complete and intact and prosper.
 
-King Shlomo wanted to be benevolent and "know the gods". He became king by telling well-intenioned jokes and tall tales about his older siblings-in-pretence (e.g: https://en.wikipedia.org/wiki/Tamar_(daughter_of_David)[Amnon and Tamar]). Not unlike https://www.shlomifish.org/humour/[my fanfics/RPF]. They agreed he would be a better king and crowned him, while remaining physically alive and loyally serving under Shlomo's reign.
+King Shlomo wanted to be benevolent and "know the gods". He became king by telling well-intenioned jokes and tall tales about his older siblings-in-pretence (e.g: https://en.wikipedia.org/wiki/Tamar_(daughter_of_David)[Amnon and Tamar] or https://en.wikipedia.org/wiki/Absalom[Avshalom]). Not unlike https://www.shlomifish.org/humour/[my fanfics/RPF]. They agreed he would be a better king and crowned him, while remaining physically alive and loyally serving under Shlomo's reign.
 
-( Note that in the Selinaverse https://memory-alpha.fandom.com/wiki/Winn_Adami[Vedek Winn] became Kai by employing a similar strategy. The rule that you should not use the same trick twice is just a guideline: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma . Also note that: 1. She is noble. 2. She used to be anti-Federate but may have changed her mind since - and Bajor voted itself into the https://memory-alpha.fandom.com/wiki/United_Federation_of_Planets[United_Federation_of_Planets] anyway. 3. Being a Kai is held in much less seriousness than being a Vedek. )
+( Note that in the Selinaverse https://memory-alpha.fandom.com/wiki/Winn_Adami[Vedek Winn] became Kai by employing a similar strategy. The rule that you should not use the same trick twice is just a guideline: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma . Also note that: 1. She is noble. 2. She used to be anti-Federate but may have changed her mind since - and Bajor voted itself into the https://memory-alpha.fandom.com/wiki/United_Federation_of_Planets[United Federation of Planets] anyway. 3. Being a Kai is held in much less seriousness than being a Vedek. )
 
 By the time of https://en.wikipedia.org/wiki/Samantha_Smith (and Selina Mandrake?) only https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which did not include "northern tel aviv" north of the https://en.wikipedia.org/wiki/Yarkon_River[Yarkon River] remained as a hell hole in the State of Israel. I was born there, possibly to two false prophets-at-the-time parents. I am fairly certain https://en.wikipedia.org/wiki/Ovadia_Yosef (who may be much older than he looks and dresses in an extravagant but memorable alphet, not unlike Darth Vader) christened all the terran terminators as "pure Jews".
 
-Despite my Youth (I am 1977-born, so am 44) I likely amassed many titles. But to quote a https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--The-Fifth-Sith-indiv-nodes/yoda-as-a-closet-Sith.xhtml[recent Fic of mine]
+Despite my youth (I am 1977-born, so am 44) I likely amassed many titles. But to quote a https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--The-Fifth-Sith-indiv-nodes/yoda-as-a-closet-Sith.xhtml[recent Fic of mine]
 
 [quote]
 ____
@@ -530,7 +532,7 @@ Note about recording my thoughts
 --------------------------------
 
 I hope Rindolf / Emma Watson / MJH / NSA / Unit 8,200 / The Q Continuum / The
-Mossad / etc. has been recording my thoughts. While there is a lot of junk
+Mossad / etc. have been recording my thoughts. While there is a lot of junk
 there (as well as a lot of "embarrasing"/"dirty" thoughts) they have a lot
 of potential for crossover / etc. franchises, ideasystems, and ideas.
 
