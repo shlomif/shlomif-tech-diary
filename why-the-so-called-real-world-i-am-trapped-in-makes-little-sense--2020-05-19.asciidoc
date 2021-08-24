@@ -35,6 +35,7 @@ Prior art for my situation:
 * https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers - my chat friends become inhuman.
 * https://www.youtube.com/watch?v=gdbh6GUJ5XY[Ghost story] - food tastes the same (despite proclemation of being freshly made).
 
+[id="more-thoughts"]
 More thoughts:
 --------------
 
@@ -145,7 +146,9 @@ Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and 
 
 "People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
 
-Obstacles:
+[id="obstacles-and-delays"]
+Obstacles and Delays:
+~~~~~~~~~~~~~~~~~~~~~
 
 . Pro/anti-Israel; Pro/anti-"Zionism" - https://www.shlomifish.org/philosophy/politics/define-zionism/ / https://www.shlomifish.org/meta/FAQ/zionist.xhtml
 .. "Israel is a Nazi Country"
@@ -155,7 +158,7 @@ Obstacles:
 . Licence Proliferation and incompatiblity: https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/rev2/ ; https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#i-want-to-release-my-code---which-open-source-licence-should-i-use .
 . "your writings are 'too smart'"
 . https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml["No self-promotion"]
-.
+. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[Hollywood’s mandated screenplay format] - finicky and boring.
 
 
 [id="selinaverse_vision"]
