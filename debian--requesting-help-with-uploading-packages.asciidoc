@@ -14,4 +14,23 @@ and https://packages.debian.org/search?keywords=fortune-mod and other packages I
 am upstream for. Their current debian packages are out-of-date, and contain
 known bugs including crashes.
 
+Another bug report that fell between the cracks is
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992996 :
+
+[quote]
+_____
+
+Subject: dbtoepub creates temporary directories unsecurely and unreliably
+Date: Thu, 26 Aug 2021 08:53:47 +0300
+
+Package: dbtoepub
+Version: 0+svn9904-4
+
+Hi all! This security/reliability patch is not present in Debian
+stable's dbtoepub:
+
+https://github.com/docbook/xslt10-stylesheets/commit/10c1f2e3a565c4799ec1106784c76f6cd7f2f2ea
+
+As a result, my home site's `*.epub`s have been building unreliably.
+_____
 
