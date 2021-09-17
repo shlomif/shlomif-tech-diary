@@ -1,0 +1,9 @@
+# Debian:  requesting help with uploading packages
+
+Hi all,
+
+first of all note that I've been enjoying using Debian (Bookworm now) as
+my main desktop OS: it is stable, and functional.
+
+Anyway, this intent-to-package of rinutils: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=993764
+received no review or was submitted.
