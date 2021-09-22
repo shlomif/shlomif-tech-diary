@@ -34,3 +34,7 @@ quits MAME.
 mame sf2ce
 ----
 
+== License
+
+The authors (Shlomi Fish) hereby place this work, written in 2021, under https://creativecommons.org/choose/zero/[CC0 / Public Domain].
+
