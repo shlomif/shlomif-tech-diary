@@ -1,0 +1,5 @@
+Getting Street Fighter 2 Up and Runnning in MAME (on Linux)
+===========================================================
+
+Run `+sudo apt -y install mame+` (or equivalent on non-Debian-derivatives).
+
