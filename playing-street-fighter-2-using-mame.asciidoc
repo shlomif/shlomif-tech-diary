@@ -1,5 +1,12 @@
-Getting Street Fighter 2 Up and Runnning in MAME (on Linux)
-===========================================================
+Getting Street Fighter 2 Up and Running in MAME (on Linux)
+==========================================================
 
-Run `+sudo apt -y install mame+` (or equivalent on non-Debian-derivatives).
+Run `sudo apt -y install mame` (or equivalent on non-Debian-derivatives).
+Look at `less /etc/mame/mame.ini` and note the `rompath` line, e.g:
+
+.rompath
+[source]
+----
+rompath                 $HOME/mame/roms;/usr/local/share/games/mame/roms;/usr/share/games/mame/roms
+----
 
