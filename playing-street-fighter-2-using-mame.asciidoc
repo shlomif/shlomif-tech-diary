@@ -10,3 +10,13 @@ Look at `less /etc/mame/mame.ini` and note the `rompath` line, e.g:
 rompath                 $HOME/mame/roms;/usr/local/share/games/mame/roms;/usr/share/games/mame/roms
 ----
 
+The important path for us is the one under `$HOME` (i.e `$HOME/mame/roms` in our case).
+
+
+.As user commands:
+[source,sh]
+----
+$ mkdir -p ~/mame/roms
+$ cp ~/sf2ce.zip ~/mame/roms
+$ mame sf2ce
+----
