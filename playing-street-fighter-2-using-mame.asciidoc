@@ -12,6 +12,10 @@ rompath                 $HOME/mame/roms;/usr/local/share/games/mame/roms;/usr/sh
 
 The important path for us is the one under `$HOME` (i.e `$HOME/mame/roms` in our case).
 
+Now go to this page: https://www.romsformame.com/index.php?a=342 , press the "Download
+game" link and place `sf2ce.zip` in your home directory.
+
+Now copy it to the ROMs' path:
 
 .As user commands:
 [source,sh]
@@ -20,3 +24,13 @@ $ mkdir -p ~/mame/roms
 $ cp ~/sf2ce.zip ~/mame/roms
 $ mame sf2ce
 ----
+
+Note that currently the only keyboard key that appears to work is "Escape", which
+quits MAME.
+
+.Type this to run the game again.
+[source,sh]
+----
+mame sf2ce
+----
+
