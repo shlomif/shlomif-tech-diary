@@ -25,8 +25,13 @@ $ cp ~/sf2ce.zip ~/mame/roms
 $ mame sf2ce
 ----
 
-Note that currently the only keyboard key that appears to work is "Escape", which
-quits MAME.
+The following keyboard keys appear to work:
+
+* "Escape", which quits MAME.
+* "5" (the digit key) - insert a coin.
+* "1" (the digit key) - start the game.
+
+( Thanks to https://wiki.debian.org/Mame[the Debian Wiki "Mame" page] for the information. )
 
 .Type this to run the game again.
 [source,sh]
