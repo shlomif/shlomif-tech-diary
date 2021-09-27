@@ -30,6 +30,8 @@ The following keyboard keys appear to work:
 * "Escape", which quits MAME.
 * "5" (the digit key) - insert a coin.
 * "1" (the digit key) - start the game.
+* Arrow keys - movement/attack.
+* Left Ctrl, Left Alt - movement/attack.
 
 ( Thanks to https://wiki.debian.org/Mame[the Debian Wiki "Mame" page] for the information. )
 
