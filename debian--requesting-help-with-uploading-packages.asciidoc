@@ -34,7 +34,7 @@ https://github.com/docbook/xslt10-stylesheets/commit/10c1f2e3a565c4799ec1106784c
 As a result, my home site's `*.epub`s have been building unreliably.
 _____
 
-Can these reports be given the sufficient attention, and the issue-handling process be improved into the future? I believe the bottleneck is not me.
+Can these reports be given the sufficient attention, and the issue-handling process be improved into the future? I believe the bottleneck is not me. From my experience in contributing to Fedora (see https://pagure.io/user/shlomif[my user page] ), getting packages reviewed and accepted and uploading new versions was a far quicker process.
 
 Regards,
 
