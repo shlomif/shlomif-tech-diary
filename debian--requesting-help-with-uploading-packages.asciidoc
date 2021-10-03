@@ -11,7 +11,7 @@ received no review or was submitted. An email I sent on 14 September to https://
 
 rinutils is a build-time dep of https://packages.debian.org/search?keywords=freecell-solver
 and https://packages.debian.org/search?keywords=fortune-mod and other packages I
-am upstream for. Their current debian packages are out-of-date, and contain
+am the upstream for. Their current debian packages are out-of-date, and contain
 known bugs including crashes.
 
 Another bug report that fell between the cracks is
@@ -34,3 +34,8 @@ https://github.com/docbook/xslt10-stylesheets/commit/10c1f2e3a565c4799ec1106784c
 As a result, my home site's `*.epub`s have been building unreliably.
 _____
 
+Can these reports be given the sufficient attention, and the issue-handling process be improved into the future? I believe the bottleneck is not me.
+
+Regards,
+
+— Shlomi Fish
