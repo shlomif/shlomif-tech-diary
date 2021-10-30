@@ -35,10 +35,9 @@ Test::HTML::Tidy::Recursive::XML->new(
     {
         filename_filter => sub {
             my $fn = shift;
-            return not(
-                exists $whitelist{$fn}
-                or $fn =~ m#\A \Q$POST_DEST\E (?: does-not-match ) #x,
-            );
+            return
+                not( exists $whitelist{$fn}
+                or $fn =~ m#\A \Q$POST_DEST\E (?: does-not-match ) #x, );
         },
         targets => [$POST_DEST],
     }
