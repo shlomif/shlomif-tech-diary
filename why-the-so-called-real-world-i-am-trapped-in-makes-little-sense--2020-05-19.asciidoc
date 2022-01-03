@@ -362,6 +362,8 @@ and Humor book]
 * https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I
 think therefore I laugh" book]
 
+Note that Emma Watson took over the project management / "watching" role of Rindolfism from https://en.wikipedia.org/wiki/Melissa_Joan_Hart[MJH]
+
 [id="the-open-value"]
 "open":
 ~~~~~~~
