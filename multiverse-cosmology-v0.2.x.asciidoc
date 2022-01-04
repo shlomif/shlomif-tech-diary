@@ -108,6 +108,9 @@ At first, there were few takers, but eventually starting as a "false prophet"-at
 
 Outcomes of actions in The-Game were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/["Second Foundation"].
 
+Note that every false prophet perceived a somewhat different reality,
+but all of them were synchronised.
+
 [id="the-orcs"]
 The Orcs:
 ---------
