@@ -303,6 +303,9 @@ https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators
 I didn't heed them. They were likely mirages of the devils
 and the orcs.
 
+I was led to believe it was unpopular and obscure, while in fact it was
+very popular (and parodied/built-upon) outside my mind's hellhole.
+
 [id="see-also"]
 See Also:
 ---------
