@@ -139,6 +139,13 @@ If you think that Emma Watson or MJH are not comparable to Maimonides, then see:
 The whicher (aka "the witch" / "the witcher")'s job is to provide ideas and
 choices into their slayer's mind. In my case it was https://www.shlomifish.org/me/rindolf/[Rindolf]. In Saladin's case, it may have been https://en.wikipedia.org/wiki/Aladdin[Aladdin].
 
+[id="hearts-keyring"]
+Hearts-Keyring:
+~~~~~~~~~~~~~~~
+
+Every vampire carries an abstract-but-real keyring of keys to the hearts of the
+the vampires he slew directly-or-recursively.
+
 [id="hell-hole"]
 "Hell hole":
 ------------
