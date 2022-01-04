@@ -298,6 +298,11 @@ all other terminators. I suspect they were right.
 I joked that, similar to https://hoover.blogs.archives.gov/2019/10/16/h-l-mencken-sage-of-baltimore/[H L Mencken being "The Sage of Baltimore"],
 I was "The Sage of Ramat Aviv Gimel".
 
+My slaying was boosted after https://www.shlomifish.org/meta/FAQ/site_history.xhtml[I set up a static home site] which became www.shlomifish.org. The devils promised it will be displayed verbatim among other terminators. Various losers told me I https://www.shlomifish.org/meta/FAQ/#please_delete_offensive_stuff[should delete offensive content] or
+https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[convert to PHP/RoR/etc.], but
+I didn't heed them. They were likely mirages of the devils
+and the orcs.
+
 [id="see-also"]
 See Also:
 ---------
