@@ -6,7 +6,7 @@ URL: https://is.gd/1vNvze
 
 Here are some reasons the outside world as I perceive it makes little sense:
 
-( Also see https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.2.x.asciidoc[multiverse cosmology v0.2.x document]. )
+( Also see https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc[multiverse cosmology v0.4.x document]. )
 
 The epistemological demons:
 ---------------------------
@@ -602,6 +602,16 @@ Having been banned from:
 שלום, קוראים  לי שלומי פיש. הייתי יכול להרוג את עצמי מזמן אבל לא עשיתי זאת. עליי להחשיב את עצמי כאדם שחיסל את עצמו ועכשיו וחופשי.
 
 Hello, I am Shlomi Fish. I could have killed myself a long time ago. I should consider myself a terminated man. And a free one.
+
+[id="The-GrimmieVerse"]
+Welcome-to-the-Grimmieverse:
+----------------------------
+
+The Terran Terminators have admitted inferiority to one another and the last one
+standing admitted defeat to their philosophical brainchildren: the YouTube
+cover/etc. scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and
+https://en.wikipedia.org/wiki/Christina_Grimmie (Taytay is great too, but she
+is/was a terminator.)
 
 [id="license"]
 License:
