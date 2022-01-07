@@ -322,7 +322,13 @@ In the multiverse of imagination, there are many https://www.shlomifish.org/meta
 Boredom:
 --------
 
-People get bored of everything, including sex, playing videogames, or discussing software development. They also need change. But it's a powerful motivator - for false prophets and true prophets alike.
+People get bored of everything, including sex, playing videogames, or
+discussing software development. They also need change. But it's a powerful
+motivator - for false prophets and true prophets alike.
+
+There are many true stories of stay-at-home "losers" who picked a hobby out of
+boredom, and became creative superstars. Many predate the Internet, e.g
+https://en.wikipedia.org/wiki/Jules_Verne[Jules Verne].
 
 [id="ramatavivgimel"]
 Ramat Aviv Gimel
