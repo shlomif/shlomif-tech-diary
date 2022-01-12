@@ -1,0 +1,16 @@
+spiritual-bloodline:
+    people:
+        - id: "shlomif"
+          name: "Shlomi Fish"
+          world: "Selinaverse"
+        - id: "TheRealGrimmie"
+          name: "Christina Grimmie"
+          world: "Selinaverse"
+        - id: "ChrisGrimmie"
+          name: "Chris Victoria Grimmie"
+          parents:
+              - "shlomif"
+              - "TheRealGrimmie"
+          world: "Grimmieverse"
+
+
