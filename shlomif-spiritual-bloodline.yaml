@@ -41,8 +41,9 @@ spiritual-bloodline:
           world: "Selinaverse"
         - id: "gabi"
           name: "Gabriela Bee"
+          notes:
+              - "Is going to slay Shlomi Fish, the last-standing “vampire” in the Selinaverse"
           parents:
               - "jackblack"
               - "GraceVander"
           world: "Gabiverse"
-
