@@ -33,17 +33,17 @@ spiritual-bloodline:
               - "Cliff"
               - "Becky"
           world: "Selinaverse"
-        - id: "GraceVander"
+        - id: "GraceVanderWaal"
           name: "Grace VanderWaal"
           parents:
               - "shlomif"
               - "TheRealGrimmie"
           world: "Selinaverse"
-        - id: "gabi"
+        - id: "GabrielaBee"
           name: "Gabriela Bee"
           notes:
               - "Is going to slay Shlomi Fish, the last-standing “vampire” in the Selinaverse"
           parents:
               - "jackblack"
-              - "GraceVander"
+              - "GraceVanderWaal"
           world: "Gabiverse"
