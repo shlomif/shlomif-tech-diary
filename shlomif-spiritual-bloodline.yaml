@@ -33,5 +33,16 @@ spiritual-bloodline:
               - "Cliff"
               - "Becky"
           world: "Selinaverse"
-
+        - id: "GraceVander"
+          name: "Grace VanderWaal"
+          parents:
+              - "shlomif"
+              - "ChrisGrimmie"
+          world: "Selinaverse"
+        - id: "gabi"
+          name: "Gabriela Bee"
+          parents:
+              - "jackblack"
+              - "GraceVander"
+          world: "Gabiverse"
 
