@@ -12,16 +12,16 @@ spiritual-bloodline:
               - "shlomif"
               - "TiffanyAlvord"
           world: "Grimmieverse"
-        - id: "taytay"
+        - id: "Taylorswift13"
           name: "Taylor Swift"
           world: "Selinaverse"
         - id: "Becky"
           name: "Becky Shepherd"
           parents:
               - "shlomif"
-              - "taytay"
+              - "Taylorswift13"
           world: "Beckyverse"
-        - id: "Cliff"
+        - id: "CliffFarrel"
           name: "Cliff Farrel"
           parents:
               - "shlomif"
@@ -30,7 +30,7 @@ spiritual-bloodline:
         - id: "jackblack"
           name: "Jack Black"
           parents:
-              - "Cliff"
+              - "CliffFarrel"
               - "Becky"
           world: "Selinaverse"
         - id: "GraceVanderWaal"
