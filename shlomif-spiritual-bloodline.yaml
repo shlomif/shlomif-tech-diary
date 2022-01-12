@@ -12,5 +12,14 @@ spiritual-bloodline:
               - "shlomif"
               - "TheRealGrimmie"
           world: "Grimmieverse"
+        - id: "taytay"
+          name: "Taylor Swift"
+          world: "Selinaverse"
+        - id: "Becky"
+          name: "Becky Shepherd"
+          parents:
+              - "shlomif"
+              - "taytay"
+          world: "Beckyverse"
 
 
