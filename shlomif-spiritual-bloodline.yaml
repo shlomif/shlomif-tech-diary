@@ -21,5 +21,17 @@ spiritual-bloodline:
               - "shlomif"
               - "taytay"
           world: "Beckyverse"
+        - id: "Cliff"
+          name: "Cliff Farrel"
+          parents:
+              - "shlomif"
+              - "Becky"
+          world: "Beckyverse"
+        - id: "jackblack"
+          name: "Jack Black
+          parents:
+              - "Cliff"
+              - "Becky"
+          world: "Selinaverse"
 
 
