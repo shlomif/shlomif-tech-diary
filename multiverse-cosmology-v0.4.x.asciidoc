@@ -220,7 +220,17 @@ and my parents' wishes to have more children.
 The Terran Terminators:
 -----------------------
 
-In 1982, https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], a 1972-born American girl and a false prophet, engaged in a snailmail dialogue with the secretary of the USSR. https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] suggested using the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The Muppet Show] to air a The Muppet Show special starring her with the ascension mantra. A die roll determined it will have 100% viewership, will be passed verbatim, but there may be a surprise at the end.
+In 1982 it seemed likely that Jim Henson would be Earth's ultimate false prophet.
+But Henson was increasingly unhappy: worried about a possible Nuclear Winter,
+about Environmental issues, and thinking the Muppets franchise was unpopular
+and silly.
+
+But he admitted inferiority to the team of https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], Joss Whedon (and
+https://buffy.fandom.com/wiki/Buffy_Summers[Buffy Summers]?), and was slain
+and relieved. If Jim Henson was the new Walt Disney, then Joss Whedon was
+poised to be the new Henson.
+
+https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], a 1972-born American girl and a false prophet, engaged in a snailmail dialogue with the secretary of the USSR. https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] joined forces with Henson and they both suggested using the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The Muppet Show] to air a The Muppet Show special starring her with the ascension mantra. A die roll determined it will have 100% viewership, will be passed verbatim, but there may be a surprise at the end.
 
 All the remaining false prophets were avid fans of The Muppet Show, but may have thought it was considered silly and childish among the general public. In actuality, Jim Henson and the muppeteers were multiverse superstars and heroes. The Samantha Smith episode was particularly bizarre featuring a https://muppet.fandom.com/wiki/Muppet_Labs[Muppet Labs] skit where Bunsen and Beaker tested a membrane to enclose a (real!) https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bomb]; the membrane didn't work and yet there was only a local sand splash.
 
@@ -250,6 +260,11 @@ But he admitted inferiority to the team of Samantha Smith, Joss Whedon (and
 https://buffy.fandom.com/wiki/Buffy_Summers[Buffy Summers]?), and was slain
 and relieved. If Jim Henson was the new Walt Disney, then Joss Whedon was
 poised to be the new Henson.
+
+One should note that Samantha Smith had written a funny story titled
+"Buffy the Vampire Slayer" that she believed received a lukewarm reception
+from her friends. Its original manuscript was later auctioned for
+millions of USD.
 
 [id="the-terran-terminators--rematch"]
 The Terran Terminators: Rematch
