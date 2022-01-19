@@ -174,9 +174,15 @@ Obstacles and Delays:
 . https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[Criticism against Static Site Generation]
 . Licence Proliferation and incompatiblity: https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/rev2/ ; https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#i-want-to-release-my-code---which-open-source-licence-should-i-use .
 . "your writings are 'too smart'"
+. "Act naturally"
+.. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml
+. "XHTML is deprecated"
+. "People are stupid"
 . https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml["No self-promotion"]
 . https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[Hollywood’s mandated screenplay format] - finicky and boring.
-
+. "Geeks are shy and anti-social"
+.. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml
+.. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml
 
 [id="selinaverse_vision"]
 The Selinaverse Vision
