@@ -100,6 +100,13 @@ each other, in a circle, in a hoop that never ends"]
 * https://www.shlomifish.org/philosophy/books-recommends/#mathematics_and_humor[Mathematics and Humor book]
 * https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I think therefore I laugh" book]
 
+[quote]
+____
+Mr. Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29 ) is TheCreator. ;)
+____
+
+( — https://twitter.com/shlomif/status/1485024317062717440 )
+
 [id="the-angels"]
 The Angels:
 -----------
@@ -255,16 +262,6 @@ to a new false prophet was now impossible.
 Hypothesis: Slaying Jim Henson
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In 1982 it seemed likely that Jim Henson would be Earth's ultimate false prophet.
-But Henson was increasingly unhappy: worried about a possible Nuclear Winter,
-about Environmental issues, and thinking the Muppets franchise was unpopular
-and silly.
-
-But he admitted inferiority to the team of Samantha Smith, Joss Whedon (and
-https://buffy.fandom.com/wiki/Buffy_Summers[Buffy Summers]?), and was slain
-and relieved. If Jim Henson was the new Walt Disney, then Joss Whedon was
-poised to be the new Henson.
-
 One should note that Samantha Smith had written a funny story titled
 "Buffy the Vampire Slayer" that she believed received a lukewarm reception
 from her friends. Its original manuscript was later auctioned for
@@ -313,7 +310,7 @@ Other notable Terran terminators include:
 . https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau] - my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/["Summerschool at the NSA" film] likely earned her the Oscar and may have been an inadversarial reboot.
 . Likely https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)] (who ascended during https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[CEIA] or earlier and as a result was the https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/indiv-nodes/alpha-beta-gamma-omega.xhtml["beta" female] during the https://websitebuilders.com/how-to/glossary/web1/[Web 1.0 period] when SMG was "queen of the Web")
 . Likely https://twitter.com/AliciaSilv[Alicia Silverstone]
-. Likely https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith]
+. Likely https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith] herself
 . Likely https://en.wikipedia.org/wiki/Natalie_Portman[Natalie Portman]
 . Likely https://en.wikipedia.org/wiki/J._K._Rowling[J. K. Rowling]
 . Likely https://en.wikipedia.org/wiki/Will_Smith[Will Smith]
@@ -339,7 +336,8 @@ Nevertheless, I still
 wouldn't pit the petite and frail-looking Summer Glau in
 an https://en.wikipedia.org/wiki/Mixed_martial_arts[MMA] match
 against https://memory-alpha.fandom.com/wiki/Worf[Worf] or
-even against https://en.wikipedia.org/wiki/Ronda_Rousey , but note that Glau has won
+even against https://en.wikipedia.org/wiki/Ronda_Rousey . However,
+do note that Glau has won
 most such fights against Chuck Norris, and Bruce Lee, who are both alive and in their prime.
 https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/becky_in_the_library__chit_chat.xhtml[She still drops out of MMA tournaments early.]. Life is a circular graph: https://www.youtube.com/watch?v=GibiNy4d4gc .
 
@@ -457,11 +455,13 @@ While I hopefully will be a true prophet and will have access to magic and
 advanced tangible tech, I don't want to stray too far from what I experienced as
 a terminator. Balance between yin and yang.
 
-I wish to live on a spherical planet with a 24 hours clock, and https://en.wikipedia.org/wiki/Gregorian_calendar . However, there should be no known risk of environmental or astronomical calamities.
+I wish to live on a spherical planet with a 24 hours clock, and https://en.wikipedia.org/wiki/Gregorian_calendar[the Gregorian calendar]. However, there should be no known risk of environmental or astronomical calamities.
 
 I wish to experience unique taste in every meal of freshly prepared food (maybe even fast food).
 
 I wish to meet https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[truly great hackers]: award-winning creators and polymaths.
+
+I wish mass duplication to be available.
 
 [id="elves-vs-orcs"]
 The blurry line between elves and orcs:
@@ -524,7 +524,7 @@ entertainment in my life, then I'd go watch grass grow. It will be a legal and
 than Tolkien's "Lord of the Rings" was even shortly after LotR was written.
 ____
 
-That girl is making love to all these meme-generators!
+That proverbial girl is making love to all these meme-generators!
 
 This has several implications:
 
