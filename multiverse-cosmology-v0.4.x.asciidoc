@@ -478,7 +478,7 @@ Furthermore, I sided with Emma Watson that "your time is everybody's time" rathe
 https://www.shlomifish.org/humour/Summerschool-at-the-NSA/#the-resentful-beggar["A resentful beggar"]:
 
 [quote, Shlomi Fish]
-----
+____
 A resentful beggar whose name I forgot, and who accused the people sitting on
 benches in Rabin Square of being misers, which prompted me to give him a 20
 sheqel note and asking that we'll converse in return.
@@ -487,7 +487,7 @@ After talking for a while, I decided to give him 50 more sheqel and he told me
 he believes I'll get lucky because I was so generous. And a few weeks after
 that, I attended Olamot Con, and came up with the idea to write Summerschool at
 the NSA as a screenplay.
-----
+____
 
 It was clearly a test (given my bank credentials and those of many large corporations
 are public knowledge).
@@ -510,11 +510,11 @@ Re:
 * https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] - believed pre-Ascension that her biological father divorced her mother.
 
 Given most organisms wish to xref:#love-and-knowledge[experience "pleasure" / "love" / happiness]
-even if they http://shlomifishswiki.branchable.com/99_Problems/["have 99 problems but a SO ain't one"],
+even if they http://shlomifishswiki.branchable.com/99_Problems/["have 99 problems but a significant other ain't one"],
 then love is unstoppable.
 
 [quote, Shlomi Fish]
-----
+____
 As an example, we can imagine a young girl to write a funny screenplay using
 GitHub or Google Docs which pities Emma Watson vs. Kim Kardashian on who gets to ride
 Princess Celestia next, with Darth Vader and Haman as two "evil", but mutually
@@ -522,9 +522,15 @@ hating one another, arbiters. Might seem ridiculus, but if I didn't want
 entertainment in my life, then I'd go watch grass grow. It will be a legal and
 "ethical" minefield, but I'd bet it'd be easier to follow and more entertaining
 than Tolkien's "Lord of the Rings" was even shortly after LotR was written.
-----
+____
 
 That girl is making love to all these meme-generators!
+
+This has several implications:
+
+. No one owns 100% of anyone else's sex life or love life.
+
+. No one is a virgin.
 
 [id="see-also"]
 See Also:
