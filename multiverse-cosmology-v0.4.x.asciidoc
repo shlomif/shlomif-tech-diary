@@ -107,6 +107,9 @@ ____
 
 ( — https://twitter.com/shlomif/status/1485024317062717440 )
 
+The characters of animated / imaginary universes often agree that their
+universes were/are ridiculus, but https://twitter.com/shlomif/status/1479063972934565893[so is ours.]
+
 [id="the-angels"]
 The Angels:
 -----------
@@ -236,7 +239,7 @@ But Henson was increasingly unhappy: worried about a possible Nuclear Winter,
 about Environmental issues, and thinking the Muppets franchise was unpopular
 and silly.
 
-But he admitted inferiority to the team of https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], Joss Whedon (and
+But he admitted inferiority to the team of https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] (and
 https://buffy.fandom.com/wiki/Buffy_Summers[Buffy Summers]?), and was slain
 and relieved. If Jim Henson was the new Walt Disney, then Joss Whedon was
 poised to be the new Henson.
@@ -262,7 +265,7 @@ to a new false prophet was now impossible.
 Hypothesis: Slaying Jim Henson
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-One should note that Samantha Smith had written a funny story titled
+One should note that Samantha Smith had previously written a funny story titled
 "Buffy the Vampire Slayer" that she believed received a lukewarm reception
 from her friends. Its original manuscript was later auctioned for
 millions of USD.
@@ -291,7 +294,7 @@ they wanted to get rid of. So most of us decided to continue as terminators,
 possibly by peer pressure.
 
 Like the story of https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/indiv-nodes/the_celts_trip_to_damascus.xhtml[the Celts trip] we had a policy of not resisting
-rapekisses or rapehugs , but there was little if any romance.
+rapekisses or rapehugs , but there was little if any romance and intimacy.
 
 Except at least one: the circa 1977-born Selina Mandrake. She decided to
 continue as a true prophet since "it was the best summer ever" for her.
@@ -339,7 +342,7 @@ against https://memory-alpha.fandom.com/wiki/Worf[Worf] or
 even against https://en.wikipedia.org/wiki/Ronda_Rousey . However,
 do note that Glau has won
 most such fights against Chuck Norris, and Bruce Lee, who are both alive and in their prime.
-https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/becky_in_the_library__chit_chat.xhtml[She still drops out of MMA tournaments early.]. Life is a circular graph: https://www.youtube.com/watch?v=GibiNy4d4gc .
+https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/becky_in_the_library__chit_chat.xhtml[She still drops out of MMA tournaments early.]. Life is a circular graph: xref:#self-ref[Reference]
 
 Anyway, I was convinced I was good , noble, well-intentioned and benevolent. I refused to permanently consider the opposite! Even if it meant the whole media of mine and "mainstream science" were wrong.
 
@@ -422,7 +425,7 @@ The first country to completely ascend was Greece, which was a team effort of
 many false prophets and their players.
 
 I contemplated that Damascus finally ascended after https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/ongoing-text.html[the author of Qoheleth, who was its "hacker king"/"master vampire" admitted inferiority]
-to a trio of false prophet Celtic girls tourists from Austria
+to a trio of false prophet Celtic girls tourists from Austria.
 
 [id="the-schwartz"]
 "The Schwartz is in us":
@@ -566,4 +569,4 @@ License:
 
 https://creativecommons.org/licenses/by/4.0/[CC-by], Shlomi Fish, 2021
 
-*to add*: "the-codex", "slayer / watcher / whicher"
+*to add*: "the-codex"
