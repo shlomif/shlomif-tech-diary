@@ -14,6 +14,14 @@ Also note that delegating and trust are key: http://shlomifishswiki.branchable.c
 Appending:
 ~~~~~~~~~~
 
+*Update 2:* Switching pony at midwater, I give the option of making @TiffanyAlvord the watcher instead of Fluttershy. This is given the requirement that they will be a "real-life" Terran human. I https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/what-wayne-and-garth-think.xhtml[associated Tiffany Alvord and Fluttershy as similar enough anyway], and Fluttershy can still be one of the xref:#mossad-cabal["mysterious" overseers]. In practice, everybody will advise, roleplay, guide, befriend, collaborate, and compete with all their friends and frenemies.
+
+So:
+
+* Slayer: Christina Grimmie
+* Watcher: https://www.shlomifish.org/humour/Queen-Padme-Tales/[Tiffany Alvord]
+* Witch/"whicher": https://www.shlomifish.org/meta/nav-blocks/blocks/#mlp_fim_sect[Discord]
+
 *Update:* I give the option of me not stepping down - just appending the good "people" (more like "entities") to the end of the array. From Moses / Aharon / Jehovah (who slew https://en.wikipedia.org/wiki/Tukulti-Ninurta_I[Nimrod] ) to Shlomi Fish / Rindolf / @EmmaWatson to Christina Grimmie / Fluttershy / Discord:
 
 * Slayer: Christina Grimmie
@@ -47,6 +55,7 @@ with https://www.youtube.com/watch?v=ZcCp7488puc&lc=UgzuaKhXA8jh_vD5ojp4AaABAg[G
 
 https://muppet.fandom.com/wiki/The_Moopets[The Moopets] as the "evil, bad, guys". UserFriendly.org's http://ars.userfriendly.org/cartoons/?id=20021202[Cthulhu] is welcome too (he's so cute!).
 
+[id="mossad-cabal"]
 https://is.gd/rYa3On[Fluttershy, Princess of Princesses, head of the secret cabal leadership of the Mossad, the already top secret intelligence agency of the Zionist conspiracy] and her long time companion, https://www.shlomifish.org/meta/nav-blocks/blocks/#mlp_fim_sect[Discord], as the mysterious "Invisibles".
 
 C's `void *` type and https://www.wired.com/2015/11/null/[Christopher Null] as the "void"/emptiness/the "nothing". In addition https://theneverendingstory.fandom.com/wiki/G%27mork and the rest of the nothingers / voiders will remain there. We still need them and love them, even if they cannot be destroyed or filled with love. https://discworld.fandom.com/wiki/Death[Discworld's Death] is so cute too ( ♥ !).
