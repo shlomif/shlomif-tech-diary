@@ -600,7 +600,7 @@ ____
 Sorry for the inconvenience:
 ----------------------------
 
-If we are to believe https://en.wikipedia.org/wiki/Cogito,_ergo_sum , the only thing I ccan be sure of is that I exist. However, as cool as I may be, I doubt my mind alone could conceive the awesome action heroes listed https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/notable-hacker-monarchs.xhtml[on this page], most of whom have ample evidence for being real. And given my mediocre Inkscape 2-D vector graphics skills, I am enthralled by the 2-and-a-half dimensions graphics of 1990s games (e.g: https://en.wikipedia.org/wiki/Monkey_Island_2%3A_LeChuck%27s_Revenge ; https://streetfighter.fandom.com/wiki/Street_Fighter_II_%28series%29 ; ) and of https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic .
+If we are to believe https://en.wikipedia.org/wiki/Cogito%2c%5fergo%5fsum , the only thing I can be sure of is that I exist. However, as cool as I may be, I doubt my mind alone could conceive the awesome action heroes listed https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/notable-hacker-monarchs.xhtml[on this page], most of whom have ample evidence for being real. And given my mediocre Inkscape 2-D vector graphics skills, I am enthralled by the 2-and-a-half dimensions graphics of 1990s games (e.g: https://en.wikipedia.org/wiki/Monkey_Island_2%3A_LeChuck%27s_Revenge ; https://streetfighter.fandom.com/wiki/Street_Fighter_II_%28series%29 ; ) and of https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic .
 
 
 [id="see-also"]
