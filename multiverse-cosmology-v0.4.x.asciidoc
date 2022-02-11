@@ -634,6 +634,11 @@ If we are to believe https://en.wikipedia.org/wiki/Cogito%2c%5fergo%5fsum , the 
 
 Let me share a non-secret: what I wrote is a simplification ( https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/willow_putting_her_daughter_to_bed.xhtml["Honesty is a process"], https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/orientation_day__team.xhtml["can't help speaking in riddles"] ).
 
+[id="share-the-love"]
+"There's more to see than can ever be seen; more to do than can ever be done"
+-----------------------------------------------------------------------------
+
+There are thousands of villages in Africa, each one with a different culture.
 
 [id="see-also"]
 See Also:
