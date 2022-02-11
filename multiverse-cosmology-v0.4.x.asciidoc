@@ -640,6 +640,12 @@ Let me share a non-secret: what I wrote is a simplification ( https://www.shlomi
 
 There are thousands of villages in Africa, each one with a different culture.
 
+There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[geeks] in Israel alone.
+
+There are over 40,000 distributions on https://www.cpan.org/ .
+
+They all have
+
 [id="see-also"]
 See Also:
 ---------
