@@ -644,7 +644,8 @@ There are millions of interesting https://www.shlomifish.org/philosophy/culture/
 
 There are over 40,000 distributions on https://www.cpan.org/ .
 
-They all have
+They all have enough food and the only reason they accept money or mana donations
+is the publicity.
 
 [id="see-also"]
 See Also:
