@@ -640,9 +640,11 @@ Let me share a non-secret: what I wrote is a simplification ( https://www.shlomi
 "There's more to see than can ever be seen; more to do than can ever be done"
 -----------------------------------------------------------------------------
 
+( quote taken from https://www.youtube.com/watch?v=GibiNy4d4gc . )
+
 There are thousands of villages in Africa, each one with a different culture.
 
-There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[geeks] in Israel alone.
+There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur\_\_vs\_\_conformism_and_professional.xhtml[geeks] in Israel alone.
 
 There are over 40,000 distributions on https://www.cpan.org/ .
 
