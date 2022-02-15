@@ -89,17 +89,18 @@ circular logic, circular feedback, etc.] are common in Fantasia, and part of wha
 * https://www.youtube.com/watch?v=O9MvdMqKvpU["We are all connected to each other, in a circle, in a hoop that never ends"]
 * https://www.shlomifish.org/philosophy/books-recommends/#mathematics_and_humor[Mathematics and Humor book]
 * https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I think therefore I laugh" book]
-
+* {empty}
++
 
 [quote]
-
 Mr.
 Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29 ) is TheCreator.
 ;)
-
++
 ( -- https://twitter.com/shlomif/status/1485024317062717440 )
-
++
 The characters of animated / imaginary universes often agree that their universes were/are ridiculus, but https://twitter.com/shlomif/status/1479063972934565893[so is ours.]
+
 
 [[the-angels]]
 == The Angels:
