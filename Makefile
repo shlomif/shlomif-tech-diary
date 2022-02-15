@@ -30,3 +30,8 @@ check: test
 docbook5:
 	asciidoctor -b docbook5 ./multiverse-cosmology-v0.4.x.asciidoc -o multiverse-cosmology-v0.4.x.db5.xml
 
+multiverse-cosmology-v0.4.x.asciidoc: multiverse-cosmology-v0.4.x.db5.xml
+	perl render-cosmology.pl
+	git add $@
+
+render: multiverse-cosmology-v0.4.x.asciidoc
