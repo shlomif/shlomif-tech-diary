@@ -26,3 +26,7 @@ test:
 	prove t/*.{py,t}
 
 check: test
+
+docbook5:
+	asciidoctor -b docbook5 ./multiverse-cosmology-v0.4.x.asciidoc -o multiverse-cosmology-v0.4.x.db5.xml
+
