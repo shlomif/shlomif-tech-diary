@@ -6,6 +6,11 @@ Given there are many women (and likely many men) whom my mismanagement as https
 
 ---
 
+Given I enjoy
+https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml[hacky acting], I may need to kiss fellow actresses on stage.
+
+---
+
 Nevertheless, I still have the need for an intimate, Romantic relationship. With a woman. I cannot guarantee I'll love you forever, but let me know when and if I'm taking you too much for granted.
 
 One of my favourite pastimes is crossover https://www.shlomifish.org/humour/image-macros/indiv-nodes/standup_philosopher.xhtml[stand-up comedy/philosophy] (or one done on online chats). Other pasttimes I enjoy are:
@@ -19,6 +24,9 @@ One of my favourite pastimes is crossover https://www.shlomifish.org/humour/imag
 * playing ping-pong
 * eating at restaurants
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml[acting in a hacky way]
+* playing computer games
+* watching youtube videos
+* listening to music
 
 ---
 
