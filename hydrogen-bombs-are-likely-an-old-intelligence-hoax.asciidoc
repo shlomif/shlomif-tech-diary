@@ -30,7 +30,7 @@ image::ride-bomb_528_poster.jpg[Girl sitting on a bomb]
 
 This young lady, made to look mock-Israeli-like, is sitting on
 a small nuclear bomb. Even if it was made of pure
-Plotunium, I doubt it could wipe an entire middle eastern
+Plutonium, I doubt it could wipe an entire middle eastern
 city.
 
 image::images/true-lies--segment--vlcsnap-2021-02-04-15h49m51s131.png["True Lies" shot]
@@ -50,6 +50,8 @@ an atomic bomb but have no intention of actually developing one.
 The Iranians cannot be stupid enough to allow https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] to happen given they were aware of Microsoft Windows being vulnerable in the 2000s. I'm fairly certain they cooperated with Israel/USA and possibly large parts of the greater international intelligence community.
 
 ---
+
+image::images/raiders-lost-ark.png["Raiders of the Last Ark" shot]
 
 https://www.youtube.com/watch?v=0APF3SO9tqE[Segment from Indiana Jones' "Raiders of the Last Ark"]
 
