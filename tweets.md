@@ -36,3 +36,7 @@ Cast your bread upon the water… or your short-term quarterly gains will suffer
 Hi Wil! A little offtopic, but I started writing a new screenplay starring you as a fictionalised you (not unlike TBBT) - https://www.shlomifish.org/humour/The-10th-Muse/The-10th-Muse--Athena-Gets-Laid.html . Crossover / comedy / parody , and CC-by-nc-sa .
 
 Regarding Ukraine vs. Russia see https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc
+
+----
+
+Building on https://disney.fandom.com/wiki/Toy_Story_(franchise) , a toy or other artefact desires love / knowledge (= https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc#user-content-love-and-knowledge ). Museums shud allow visitor to play w the artefacts, & even take them home.
