@@ -40,3 +40,7 @@ Regarding Ukraine vs. Russia see https://github.com/shlomif/shlomif-tech-diary/b
 ----
 
 Building on https://disney.fandom.com/wiki/Toy_Story_(franchise) , a toy or other artefact desires love / knowledge (= https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc#user-content-love-and-knowledge ). Museums shud allow visitor to play w the artefacts, & even take them home.
+
+----
+
+Hi all! my favourite balloon animal is a cat ;). My name is Shlomi Fish, and I'm 1977-born, cis&mostly-straight male, secular pluralist&universalist of Jewish descent who lives in Tel Aviv.
