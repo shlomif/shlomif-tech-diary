@@ -44,3 +44,11 @@ Building on https://disney.fandom.com/wiki/Toy_Story_(franchise) , a toy or othe
 ----
 
 Hi all! my favourite balloon animal is a cat ;). My name is Shlomi Fish, and I'm 1977-born, cis&mostly-straight male, secular pluralist&universalist of Jewish descent who lives in Tel Aviv. I have been classed as an enemy of some geek Feminist forums due to lack of tact, but see https://www.shlomifish.org/meta/FAQ/are_you_a_sexist__are_you_a_feminist.xhtml . You can learn more about me from my FAQ: https://www.shlomifish.org/meta/FAQ/ .
+
+----
+
+I suspect #SelinaMandrake was christened "Selena Hope Mandrake", which she later changed to "Selina Hope Mandrake", often abbr "SHeM" or "SeM". https://buffyfanfiction.fandom.com/wiki/Selina_Mandrake_-_The_Slayer
+
+----
+
+In accordance w https://youtu.be/dIeuBPDUzB0 and https://www.shlomifish.org/humour/bits/true-stories/socialising-with-a-young-hermione-cosplayer/ [prolonging the gameplay]
