@@ -51,4 +51,4 @@ I suspect #SelinaMandrake was christened "Selena Hope Mandrake", which she later
 
 ----
 
-In accordance w https://youtu.be/dIeuBPDUzB0 and https://www.shlomifish.org/humour/bits/true-stories/socialising-with-a-young-hermione-cosplayer/ [prolonging the gameplay]
+In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour/bits/true-stories/socialising-with-a-young-hermione-cosplayer/ [prolonging the gameplay], I'll try2not ascend ASAP&trust the guideline-generators- https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc .
