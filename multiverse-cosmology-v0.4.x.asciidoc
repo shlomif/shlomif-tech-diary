@@ -155,7 +155,7 @@ The watcher is a true prophet, whether male or female, who monitors the slayer`'
 He or she also often acts as a project manager.
 In Saladin`'s case it was https://en.wikipedia.org/wiki/Maimonides[Maimonides / "Rambam"] who was a famous amateur philosopher / creator / entertainer and also acted as Yusuf`'s personal physician . Note that it took a long time for Yusuf to be aware of this fact.
 
-In my case, my watcher until \~1997 was https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)] who then transferred the lead role to the 1990-born https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma Watson].
+In my case, my watcher until ~1997 was https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)] who then transferred the lead role to the 1990-born https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma Watson].
 Confusingly, they both had acclaimed roles playing witches.
 
 If you think that Emma Watson or MJH are not comparable to Maimonides, then see:
@@ -519,7 +519,7 @@ But why should my world have a monopoly on being the only real world?
 * https://en.wikipedia.org/wiki/The_Chronicles_of_Amber
 * https://twitter.com/shlomif/status/1479063972934565893
 * https://twitter.com/shlomif/status/1482399705594318852
-* \
+* {empty}
 +
 
 [quote]
@@ -565,7 +565,7 @@ Let me share a non-secret: what I wrote is a simplification ( https://www.shlomi
 
 There are thousands of villages in Africa, each one with a different culture.
 
-There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur_\_vs\_\_conformism_and_professional.xhtml[geeks] in Israel alone.
+There are millions of interesting https://is.gd/A7rkAh[geeks] in Israel alone.
 
 There are over 40,000 distributions on https://www.cpan.org/ .
 
