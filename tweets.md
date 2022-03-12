@@ -55,4 +55,4 @@ In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour
 
 ----
 
-Hi all! my favourite balloon animal is a cat. Recently I shared a link to Taylor Swift's "Bad Blood" videoclip since it depicts truly awesome [and intimidating] female fighers here. Then I was told by an op that it is "my last warning"
+Hi all! my favourite balloon animal is a cat. Recently I shared here a link to Taylor Swift's "Bad Blood" videoclip since it depicts truly awesome [and intimidating] female fighers. Then I was told by a chanop that it is "my last warning". It is hard for me to participate under such a threat.
