@@ -55,4 +55,6 @@ In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour
 
 ----
 
-Hi all! my favourite balloon animal is a cat. Recently I shared here a link to Taylor Swift's "Bad Blood" videoclip since it depicts truly awesome [and intimidating] female fighers. Then I was told by a chanop that it is "my last warning". It is hard for me to participate under such a threat.
+Hi all! my favourite balloon animal is a cat. Recently I shared here a link to Taylor Swift's "Bad Blood" videoclip since it depicts truly awesome [and intimidating] female fighers. Then I was told by a chanop that it is "my last warning". It is hard for me to participate under such a threat. I support gender equality (see https://www.shlomifish.org/meta/FAQ/are_you_a_sexist__are_you_a_feminist.xhtml ) and mean well, and suspect I am being demonised.
+
+Human resources workers who go over a candidate's web/social-media presence,
