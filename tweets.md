@@ -63,4 +63,4 @@ Hi all! my favourite balloon animal is a cat. Recently I shared here a link to T
 
 Human resources workers who go over a candidate's web/social-media presence, looking for faults will likely always be unhappy. I'd prefer to be able to chat on #feminism , but have developed thick-enough skin to care too much about being outcast from Internet subforums where the moderators are hostile towards my contrarianism / blasphemy / truths ( see http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/ ).
 
-If you have any issues with something I said, feel free to voice them - in public or in private.
+If you have any issues with something I said, feel free to voice them - in public or in private. I am fallible. But please use dialogue rather than violence - https://en.wikipedia.org/wiki/Kamsa_and_Bar_Kamsa .
