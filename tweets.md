@@ -55,6 +55,10 @@ In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour
 
 ----
 
+"A vampire may only be slain by other vampires, except for the last standing vampire who will be slain by his favourite children." — The-Codex™ of The-Game™.
+
+----
+
 # sharp-feminism
 
 **Objective**: try to prevent me getting banned from the "#feminism" chatroom on the freenode IRC network.
