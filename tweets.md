@@ -57,6 +57,8 @@ In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour
 
 "A vampire may only be slain by other vampires, except for the last standing vampire who will be slain by his favourite children." — The-Codex™ of The-Game™.
 
+"Yoda: Matters not Sith [= wizard] number, as much as short-term quarterly gains."
+
 ----
 
 # sharp-feminism
