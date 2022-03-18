@@ -61,6 +61,10 @@ In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour
 
 ----
 
+Most cars in my neighbourhood used to not stop for letting pedestrians cross. Then i started waving2thank those that did, like what i saw at Scotland. Now mostofthem stop. Positive feedback often does work.
+
+----
+
 # sharp-feminism
 
 **Objective**: try to prevent me getting banned from the "#feminism" chatroom on the freenode IRC network.
