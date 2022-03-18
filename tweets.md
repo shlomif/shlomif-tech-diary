@@ -59,7 +59,7 @@ In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour
 
 "Yoda: Matters not Sith [= wizard] number, as much as short-term quarterly gains."
 
-The point is that "being slain" / ascension / Catharsis is a team effort. i'm the last vamp partly coz
+The point is that "being slain" / ascension / Catharsis is a team effort. i'm the last vamp partly coz I preferred to err on naivity than on cynicism.
 
 ----
 
