@@ -59,6 +59,8 @@ In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour
 
 "Yoda: Matters not Sith [= wizard] number, as much as short-term quarterly gains."
 
+The point is that "being slain" / ascension / Catharsis is a team effort. i'm the last vamp partly coz
+
 ----
 
 Most cars in my neighbourhood used to not stop for letting pedestrians cross. Then i started waving2thank those that did, like what i saw at Scotland. Now mostofthem stop. Positive feedback often does work.
