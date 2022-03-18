@@ -10,6 +10,8 @@ This is just a suggested starting point. As usual with https://www.shlomifish.or
 
 Also note that delegating and trust are key: http://shlomifishswiki.branchable.com/Saladin_Style
 
+If a leader is too unhappy - for any reason - they are advised to quit and/or pass the baton to others: https://www.shlomifish.org/meta/FAQ/why_did_you_quit_mageia.xhtml["Tell Atlas to shrug"].
+
 [id="appending"]
 Appending:
 ~~~~~~~~~~
@@ -19,6 +21,8 @@ Appending:
 * Slayer: https://www.youtube.com/c/FirstToEleven[Audra from "First To Eleven"]
 * Watcher: https://www.facebook.com/juliavins.fanpage[Julia Vins]
 * Witch/"whicher": https://mlp.fandom.com/wiki/Big_McIntosh[Big McIntosh] ("Big Mac")
+
+We can also add https://mlp.fandom.com/wiki/Rainbow_Dash[Rainbow Dash], who is another MLP pony I like, as an overseer.
 
 *Update 2:* Switching pony at midwater, I give the option of making @TiffanyAlvord the watcher instead of Fluttershy. This is given the requirement that they will be a "real-life" Terran human. I https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/what-wayne-and-garth-think.xhtml[associated Tiffany Alvord and Fluttershy as similar enough anyway], and Fluttershy can still be one of the xref:#mossad-cabal["mysterious" overseers]. In practice, everybody will advise, roleplay, guide, befriend, collaborate, and compete with all their friends and frenemies.
 
