@@ -64,13 +64,3 @@ In accordance w https://youtu.be/dIeuBPDUzB0 & https://www.shlomifish.org/humour
 Most cars in my neighbourhood used to not stop for letting pedestrians cross. Then i started waving2thank those that did, like what i saw at Scotland. Now mostofthem stop. Positive feedback often does work.
 
 ----
-
-# sharp-feminism
-
-**Objective**: try to prevent me getting banned from the "#feminism" chatroom on the freenode IRC network.
-
-Hi all! my favourite balloon animal is a cat. Recently I shared here a link to Taylor Swift's "Bad Blood" videoclip since it depicts truly awesome [and intimidating] female fighers. Then I was told by a chanop that it is "my last warning" before getting blocked. It is hard for me to participate under such a threat. I support Feminism and gender equality (see my FAQ at https://www.shlomifish.org/meta/FAQ/are_you_a_sexist__are_you_a_feminist.xhtml ) and my intentions are good, so I suspect I am being demonised.
-
-Human resources workers who go over a candidate's web/social-media presence, looking for faults will likely always be unhappy. I'd prefer to be able to chat on #feminism , but have developed thick-enough skin to care too much about being outcast from Internet subforums where the moderators are hostile towards my contrarianism / blasphemy / truths ( see http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/ ).
-
-If you have any issues with something I said, feel free to voice them - in public or in private. I am fallible. But please use dialogue rather than violence - https://en.wikipedia.org/wiki/Kamsa_and_Bar_Kamsa . Otherwise, I will leave your lala-land / echo chamber where one cannot share a SFW video with more than a milliard views, by an acclaimed female creator, and which is an antithesis of the fact that Hollywood's action heroines could be much more intimidating. I'll miss you, but you'll miss me much more.
