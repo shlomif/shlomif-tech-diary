@@ -66,3 +66,6 @@ The point is that "being slain" / ascension / Catharsis is a team effort. i'm t
 Most cars in my neighbourhood used to not stop for letting pedestrians cross. Then i started waving2thank those that did, like what i saw at Scotland. Now mostofthem stop. Positive feedback often does work.
 
 ----
+
+Like it or not, in the Selinaverse and shlomifverse, pleasure (and a possible precluding temp pain), education, and creativity/conception are intertwined. While we can imagine realities where they arent, theyll be… different. https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc .
+
