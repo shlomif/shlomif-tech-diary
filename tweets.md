@@ -69,3 +69,6 @@ Most cars in my neighbourhood used to not stop for letting pedestrians cross. Th
 
 Like it or not, in the Selinaverse and shlomifverse, pleasure (and a possible precluding temp pain), education, and creativity/conception are intertwined. While we can imagine realities where they arent, theyll be… different. https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc .
 
+----
+
+Wrt the Aleppo Codex, it wasn't perfect to begin with - had typos: https://en.wikipedia.org/wiki/Qere_and_Ketiv . Now it may have food stains (e.g: from icecream or shawarmah) , and it likes it this way.
