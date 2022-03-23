@@ -78,3 +78,5 @@ Wrt the Aleppo Codex, it wasn't perfect to begin with - had typos: https://en.wi
 I have fanfics w #EmmaWatson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasnt made a film in years yet every1 talk abt her
 
 @TiffanyAlvord 's manager told me she wants2rec orig songs, but she hasnt uploaded them or covers.
+
+Occam's Razor tells me there is a conspiracy—https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/ .
