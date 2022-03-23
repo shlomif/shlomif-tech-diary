@@ -72,3 +72,7 @@ Like it or not, in the Selinaverse and shlomifverse, pleasure (and a possible pr
 ----
 
 Wrt the Aleppo Codex, it wasn't perfect to begin with - had typos: https://en.wikipedia.org/wiki/Qere_and_Ketiv . Now it may have food stains (e.g: from icecream or shawarmah) , and it likes it this way.
+
+----
+
+I have fanfics w #EmmaWatson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasnt made a film in years yet every1 talk abt her
