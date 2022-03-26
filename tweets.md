@@ -80,3 +80,7 @@ I have fanfics w #EmmaWatson - https://www.shlomifish.org/meta/nav-blocks/blocks
 @TiffanyAlvord 's manager told me she wants2rec orig songs, but she hasnt uploaded them or covers.
 
 Occam's Razor tells me there is a conspiracy—https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/ .
+
+----
+
+Quark, after years of torment by Brunt ( https://memory-alpha.fandom.com/wiki/Brunt ) offered the FCA the lionsshare of profits. Feeling gratitude, Brunt&co contribed&made profits explode. #StarTrekDS9 #FriendshipIsMagic .
