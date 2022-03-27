@@ -84,3 +84,7 @@ Occam's Razor tells me there is a conspiracy—https://www.shlomifish.org/art/re
 ----
 
 Quark, after years of torment by Brunt ( https://memory-alpha.fandom.com/wiki/Brunt ) offered the FCA the lionsshare of profits. Feeling gratitude, Brunt&co contribed&made profits explode. #StarTrekDS9 #FriendshipIsMagic .
+
+----
+
+Parodies such as https://www.shlomifish.org/humour/Queen-Padme-Tales/ not withstanding, I suspect one can donate cash while wishing and expecting it to *not* bounce back.
