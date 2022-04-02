@@ -1,4 +1,4 @@
 = sharp-fedora
 
 Hi all! I am an active pro-bono Fedora contributor ( https://src.fedoraproject.org/user/shlomif ) and contributed to Mandrake and Mageia previously and to upstream open source/content projects (e.g: https://github.com/shlomif ). I wish to protest the decision of a chanop on the #fedora channel to threaten to ban me if I don't stop sharing links to my websites, which I feel is ableist, ungrateful, and insensitive.
-I've detailed the reasons on https://paste.centos.org/view/bb80ea1c and note that I'm planning to continue to use and contribute to Fedora even if I am outcast from #fedora (per https://www.worldhistory.org/Saladin/ 's ethics.)
+I've detailed the reasons on https://paste.centos.org/view/bb80ea1c and note that I'm planning to continue to use and contribute to Fedora even if I am outcast from the #fedora channel (per https://www.worldhistory.org/Saladin/ 's ethics.)
