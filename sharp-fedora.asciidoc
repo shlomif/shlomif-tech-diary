@@ -1,0 +1,3 @@
+= sharp-fedora
+
+Hi all! I am an active pro-bono Fedora contributor (  )
