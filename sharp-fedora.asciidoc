@@ -1,3 +1,3 @@
 = sharp-fedora
 
-Hi all! I am an active pro-bono Fedora contributor ( https://src.fedoraproject.org/user/shlomif ) and contributed to Mandrake and Mageia previously and to upstream open source/content projects (e.g: https://github.com/shlomif ).
+Hi all! I am an active pro-bono Fedora contributor ( https://src.fedoraproject.org/user/shlomif ) and contributed to Mandrake and Mageia previously and to upstream open source/content projects (e.g: https://github.com/shlomif ). I wish to protest the decision of a chanop on the #fedora channel to threaten to ban me if I don't stop sharing links to my websites
