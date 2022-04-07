@@ -234,7 +234,7 @@ One should note that Samantha Smith had previously written a funny story titled 
 Its original manuscript was later auctioned for millions of USD.
 
 [[the-terran-terminators--rematch]]
-=== The Terran Terminators: Rematch
+== The Terran Terminators: Rematch
 
 Anyway, the <<the-devils,devils>> and the <<the-orcs,orcs>> approached the sentient men and women who just reached enlightenment, and offered them a deal: they can opt to spend the summer enlightened and together having fun and using their magical powers.
 At its end, they can opt to reset their memory banks almost completely and become false prophets again, this time called "Terran Terminators" or continue as enlightened true prophets.
@@ -302,6 +302,7 @@ Life is a circular graph: <<self-ref,Reference>>
 
 Anyway, I was convinced I was good , noble, well-intentioned and benevolent.
 I refused to permanently consider the opposite! Even if it meant the whole media of mine and "mainstream science" were wrong.
+Moreover, similarly to jesus, i have been willing to suffer more if it meant that future generations suffer much less.
 
 [[who-created-time]]
 == Who created time
