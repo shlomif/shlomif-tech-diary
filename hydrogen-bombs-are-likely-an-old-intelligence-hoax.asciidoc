@@ -66,7 +66,9 @@ cameras melt?
 
 ---
 
+[id="dispelling-myths-about-israel"]
 Dispelling some myths about Israel:
+-----------------------------------
 
 . Most Israeli civilians are not soldiers in active duty (or policemen for that matter)
 
@@ -74,7 +76,7 @@ Dispelling some myths about Israel:
 
 . Most Israeli soldiers do not carry guns (as most of them are not combat fighters), nor do the vast majority of Israeli civilians (who will need a very good reason to get a gun license).
 
-. Neither Israelis nor the Palestinians have been genociding each other: https://www.shlomifish.org/meta/FAQ/is_it_true_that_israel_genocides_palestinians.xhtml . Whatever acts of murder and brutality did not exceed the population growth.
+. Neither Israelis nor the Palestinians have been genociding each other: https://www.shlomifish.org/meta/FAQ/is_it_true_that_israel_genocides_palestinians.xhtml . Whatever acts of murder and brutality were a far cry from exceeding the population growth.
 
 . Not all Israelis are https://www.shlomifish.org/meta/FAQ/are_you_an_agent.xhtml[Mossad agents] (this document is just my attempt at hobbyist espionage based on publicly-accessible sources) and naturally most of them are a far cry from having received https://en.wikipedia.org/wiki/You_Don%27t_Mess_with_the_Zohan["Zohan"-like] commando training. (But see:
 https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ongoing-text.html#summer%5fglau%5fpresents%5f%5fthe%5ftalk%5f%5famateur%5ffighters[Amateur fighters] and https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-english-play-to-lose["Play to Lose"] .)
