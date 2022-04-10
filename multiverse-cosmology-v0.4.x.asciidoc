@@ -81,6 +81,11 @@ https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia" / "Fantastica"
 
 Hyperlinks and references are common in Fantastecha ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before digital computers ). Moreover, even <<self-ref,self-referencial or circular links>> are prevalent and tolerated.
 
+There *is* a difference between real and imaginary.
+We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or https://shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
+  's death] and feature them in fics and essays.
+However, they were not really real for us. 
+
 [[self-ref]]
 == Self-reference / circularity:
 
