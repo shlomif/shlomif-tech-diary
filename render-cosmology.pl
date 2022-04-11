@@ -42,17 +42,16 @@ if ( not -e $repo )
 {
     my_system(
         [
-"set -e -x ; git clone -b shlomify1 https://github.com/shlomif/docbookrx ; cd $repo ; bundle --path=.bundle/gems"
+"set -e -x ; git clone -b shlomify1 https://github.com/shlomif/docbookrx ; cd $repo ; bundle --path=.bundle/gems",
         ],
-        "git clone"
+        "git clone",
     );
 }
 my_system(
     [
-"set -e -x ; cd $repo ; bundle exec docbookrx ../multiverse-cosmology-v0.4.x.db5.xml
-        "
+"set -e -x ; cd $repo ; bundle exec docbookrx ../multiverse-cosmology-v0.4.x.db5.xml",
     ],
-    "render"
+    "render",
 );
 path("multiverse-cosmology-v0.4.x.db5.adoc")
     ->copy("multiverse-cosmology-v0.4.x.asciidoc");
