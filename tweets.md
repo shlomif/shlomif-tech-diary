@@ -88,3 +88,7 @@ Quark, after years of torment by Brunt ( https://memory-alpha.fandom.com/wiki/Br
 ----
 
 Parodies such as https://www.shlomifish.org/humour/Queen-Padme-Tales/ not withstanding, I suspect one can donate cash while wishing and expecting it to *not* bounce back.
+
+----
+
+On Fedora #Linux v35 `sudo pkill -HUP pipewire` restored audio playback. #techtip
