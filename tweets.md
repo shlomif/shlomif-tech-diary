@@ -92,3 +92,13 @@ Parodies such as https://www.shlomifish.org/humour/Queen-Padme-Tales/ not withst
 ----
 
 On Fedora #Linux v35 `sudo pkill -HUP pipewire` restored audio playback. #techtip
+
+----
+
+I recently tweeted this:
+
+«https://quoteinvestigator.com/2014/03/31/gun-hand/ - "When in Doubt Have a Man Come Through a Door with a Gun in His Hand" - keep your fics [ = works of fanfiction ] short & staccato, but break rules, and be anti-politcorrect. "War is good for business."»
+
+This reddit post likely made Ms. Strong's twitter more popular. And good for her, because I'm a big fan of her.
+
+I also have a hypothesis that, like it or not, here in the Selinaverse and shlomifverse, pleasure (and a possible precluding temporary pain), education, and creativity/conception are intertwined. While we can imagine realities where they arent, they'll be… different. https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc . While I do not encourage adults to try to "4th-base" 3 years olds in reallife, I cannot expect children not to learn or have fun either. And that implies they'll have conceptual/sexual experiences.
