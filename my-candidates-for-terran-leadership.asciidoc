@@ -16,43 +16,23 @@ If a leader is too unhappy - for any reason - they are advised to quit and/or pa
 Appending:
 ~~~~~~~~~~
 
-*Update 3:* Given there are two worlds in question: The Selinaverse, and its Shlomifverse / Rindolfverse fork, we need leaders for the latter as well, so:
-
-* Slayer: https://www.youtube.com/c/FirstToEleven[Audra from "First To Eleven"]
-* Watcher: https://www.facebook.com/juliavins.fanpage[Julia Vins]
-* Witch/"whicher": https://mlp.fandom.com/wiki/Big_McIntosh[Big McIntosh] ("Big Mac")
+[width="50%"]
+|================================================
+|Universe |Slayer |Watcher |Whicher
+|Both     |Shlomi Fish |https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma Watson] |https://www.shlomifish.org/me/rindolf/[Rindolf]
+|Selinaverse |https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] |https://www.tiffanyalvord.com/[Tiffany Alvord] |https://www.shlomifish.org/meta/nav-blocks/blocks/#mlp_fim_sect[Discord]
+|Shlomifverse |https://www.youtube.com/c/FirstToEleven[Audra from "First To Eleven"] |https://www.shlomifish.org/humour/fortunes/show.cgi?id=the-story-of-Julia-Vins-in-the-Shlomifverse[Julia Vins] |https://mlp.fandom.com/wiki/Big_McIntosh[Big McIntosh] ("Big Mac")
+|================================================
 
 We can also add https://mlp.fandom.com/wiki/Rainbow_Dash[Rainbow Dash], who is another MLP pony I like, as an overseer.
 
-*Update 2:* Switching pony at midwater, I give the option of making @TiffanyAlvord the watcher instead of Fluttershy. This is given the requirement that they will be a "real-life" Terran human. I https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/what-wayne-and-garth-think.xhtml[associated Tiffany Alvord and Fluttershy as similar enough anyway], and Fluttershy can still be one of the xref:#mossad-cabal["mysterious" overseers]. In practice, everybody will advise, roleplay, guide, befriend, collaborate, and compete with all their friends and frenemies.
+https://is.gd/rYa3On[Fluttershy]
 
-So:
+[id="codex-quote"]
+Codex quote:
+~~~~~~~~~~~~
 
-* Slayer: Christina Grimmie
-* Watcher: https://www.shlomifish.org/humour/Queen-Padme-Tales/[Tiffany Alvord]
-* Witch/"whicher": https://www.shlomifish.org/meta/nav-blocks/blocks/#mlp_fim_sect[Discord]
-
-*Update:* I give the option of me not stepping down - just appending the good "people" (more like "entities") to the end of the array. From Moses / Aharon / Jehovah (who slew https://en.wikipedia.org/wiki/Tukulti-Ninurta_I[Nimrod] ) to Shlomi Fish / Rindolf / @EmmaWatson to Christina Grimmie / Fluttershy / Discord:
-
-* Slayer: Christina Grimmie
-* Watcher: https://is.gd/rYa3On[Fluttershy]
-* Witch/"whicher": https://www.shlomifish.org/meta/nav-blocks/blocks/#mlp_fim_sect[Discord]
-
-[id="slain-by-a-vampire"]
-Satisfying the "being Slain-by-a-vampire" requirement
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Update2:* "a vampire can only be slain by another vampire except for the last vampire standing, who will be slain by his favourite children."
-
-*Update:* In https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html , The Guide (Wil Wheaton) notes that "a vampire can only be slain by another vampire." which was a joke, but may have been a quote from The-Codex™. Luckily, the Codex has a  very fuzzy definition (if any) of "vampire". Fluttershy already had https://mlp.fandom.com/wiki/Bats![the vampire nature], and Discord can use his magic to become a vampire.
-
-As for https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie], having allegedly died, we can pretend that she was resurrected as a vampirella (e.g a la https://www.youtube.com/watch?v=riemZC4J7GE[this] or https://www.youtube.com/watch?v=lQALLGsn-Fk[that] franchises).
-
-https://twitter.com/shlomif/status/1478204806481293317 reads:
-
-Christina Grimmie, Fluttershy, and https://mlp.fandom.com/wiki/Discord - you are our children. We're not worthy of you. We hereby offer you our keyring of keys to hearts with the keys to ours added. Please take it.
-
-Christina Grimmie, you are my child. I'm not worthy of you. I hereby offer you my keyring of keys to hearts with the key to mine added. Please take it.
+*Update2:* "a vampire can only be slain by other vampires except for the last vampire standing, who will be slain by his favourite children."
 
 Candidates
 ----------
