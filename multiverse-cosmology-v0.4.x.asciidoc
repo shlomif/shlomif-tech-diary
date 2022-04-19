@@ -527,11 +527,20 @@ One doesn`'t have to be a sex addict, and even if you are <<boredom,you`'ll like
 +
 -- https://www.youtube.com/watch?v=kCl3ho6_gbg
 +
-https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-beauty-products-as-the-stone-soup-effect
+https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-beauty-products-as-the-stone-soup-effect[Beauty Products as the Stone Soup Effect]
 +
 ( As an example, https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/be_communicative.xhtml[writing and publishing some short poems] and tactfully avoiding a fistfight are attractive.
 )
 
+
+[[forking-and-merging]]
+== Forking and Merging
+
+link:#love-and-knowledge[Pleasure and "knowledge"] allows two or more memes or memes generators to spawn new ones, as well as be educated themselves. 
+
+However, using link:#magic[magic] one can duplicate anything while giving the duplicates new souls.
+E.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Valentine Gellar], https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker].
+The devils/orcs used it to fork entire universes. 
 
 [[rationality]]
 == "Rationality":
