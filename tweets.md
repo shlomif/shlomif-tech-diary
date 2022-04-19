@@ -102,3 +102,9 @@ I recently tweeted this:
 This reddit post likely made Ms. Strong's twitter more popular. And good for her, because I'm a big fan of her.
 
 I also have a hypothesis that, like it or not, here in the Selinaverse and shlomifverse, pleasure (and a possible precluding temporary pain), education, and creativity/conception are intertwined. While we can imagine realities where they arent, they'll be… different. https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc . While I do not encourage adults to try to "4th-base" 3 years olds in reallife, I cannot expect children not to learn or have fun either. And that implies they'll have conceptual/sexual experiences.
+
+----
+
+I gave some ppl who were walking a toddler my card which reads "humorist, writer, and software geek" [ https://www.shlomifish.org/me/business-card/ ]. One of them told me "you don't look like a geek".
+
+Given https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml , I wonder if it's a compliment.
