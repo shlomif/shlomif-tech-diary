@@ -539,8 +539,10 @@ https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-beauty-products-a
 link:#love-and-knowledge[Pleasure and "knowledge"] allows two or more memes or memes generators to spawn new ones, as well as be educated themselves. 
 
 However, using link:#magic[magic] one can duplicate anything while giving the duplicates new souls.
-E.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Valentine Gellar], https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker].
+E.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Valentine Gellar], or https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker].
 The devils/orcs used it to fork entire universes. 
+
+Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix fork() system call], wizard souls in forked universes are aware that they are the "child process". False prophet souls however didn't have that privilege! 
 
 [[rationality]]
 == "Rationality":
