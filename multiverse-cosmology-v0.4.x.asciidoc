@@ -637,6 +637,7 @@ In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_diale
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
 * Hacks: 
 +
+.. https://www.youtube.com/watch?v=ehjGPlehIow[Singalong cover of "Feelin' Good" (by Christina Grimmie) - YouTube]
 .. https://www.youtube.com/watch?v=qImhVeEXfIU[Shlomi Fish singalong cover of First to 11's "you shook me all night long" - YouTube]
 .. https://www.youtube.com/watch?v=tb3_XJxx8Mg["Hurt me tomorrow [Tiffany Alvord] singalong cover - YouTube"]
 .. https://www.shlomifish.org/humour/fortunes/show.cgi?id=the-story-of-Julia-Vins-in-the-Shlomifverse["The story of Julia Vins in the Shlomifverse [RPF] - Fortune"]
