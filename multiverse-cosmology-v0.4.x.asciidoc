@@ -619,7 +619,7 @@ Etc.
 
 They all have enough food and the main reason they still accept money or mana donations is the publicity.
 
-But like in https://www.youtube.com/watch?v=QNJL6nfu__Q[Michael Jackson's "They don't care about us"] , they crave link:#love-and-knowledge[love] and selfesteem.
+But like in https://www.youtube.com/watch?v=QNJL6nfu__Q[Michael Jackson's "They don't care about us"] , they crave link:#love-and-knowledge[love], attention, selfesteem and even https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/meaning-of-able-competent.xhtml[fame].
 
 So I/we will always play catchup. 
 
@@ -651,6 +651,7 @@ In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_diale
 .. https://www.youtube.com/watch?v=qImhVeEXfIU[Shlomi Fish singalong cover of First to 11's "you shook me all night long" - YouTube]
 .. https://www.youtube.com/watch?v=tb3_XJxx8Mg["Hurt me tomorrow [Tiffany Alvord] singalong cover - YouTube"]
 .. https://www.shlomifish.org/humour/fortunes/show.cgi?id=the-story-of-Julia-Vins-in-the-Shlomifverse["The story of Julia Vins in the Shlomifverse [RPF] - Fortune"]
+.. https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Take-It-Over-indiv-nodes/Gul-Dukat-and-TheRealGrimmie-live-on-metaPlanet1.xhtml["Queen Padmé Tales: Gul Dukat and @TheRealGrimmie Live on meta-Planet-1"]
 
 
 [[license]]
