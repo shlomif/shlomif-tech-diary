@@ -145,7 +145,7 @@ arduino is a mirage of mr. fear. just like Angular / react.js and bitcoin and
 discord.gg .
 ____
 
-Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang crossed streams] only on 2021? Has @EricIdle been living under a rocck?
+Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rocck?
 
 "People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
 
@@ -165,6 +165,22 @@ Microbiology is a pseudoscience - most of its processes are unexplained.
 
 The terrestrial food supply is unsustainable.
 
+''''
+
+I have fanfics with Emma Watson - https://shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasnt made a film in years yet everyone talk abt her
+
+Tiffany Alvord's manager told me she wants tp record original songs, but she hasnt uploaded them or covers.
+
+Occam's Razor tells me there's a conspiracy— https://is.gd/kSLGdP
+
+''''
+
+Someone on freenode told me my site is a "waste of space" even though:
+
+. https://mirrors.edge.kernel.org/pub/linux/kernel/ is far more wasteful
+. https://en.wikipedia.org/wiki/Nazi_book_burnings
+. https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning
+. https://www.chabad.org/library/bible_cdo/aid/16186
 
 [id="obstacles-and-delays"]
 Obstacles and Delays:
