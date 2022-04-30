@@ -108,3 +108,7 @@ I also have a hypothesis that, like it or not, here in the Selinaverse and shlom
 I gave some ppl who were walking a toddler my card which reads "humorist, writer, and software geek" [ https://www.shlomifish.org/me/business-card/ ]. One of them told me "you don't look like a geek".
 
 Given https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml , I wonder if it's a compliment.
+
+----
+
+I suspect the reason that Christina's introes/outroes had so many videos' interruptions is that they were lying to me: https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/ . Occam's Razor tells me there *is* a conspiracy.
