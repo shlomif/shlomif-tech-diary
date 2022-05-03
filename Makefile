@@ -34,4 +34,8 @@ multiverse-cosmology-v0.4.x.asciidoc: multiverse-cosmology-v0.4.x.db5.xml
 	perl render-cosmology.pl
 	git add $@
 
+multiverse-cosmology-v0.4.x.xhtml: multiverse-cosmology-v0.4.x.db5.xml
+	docmake -v --stringparam "docbook.css.source=" --stringparam "root.filename=lib/docbook/5/essays/The-Enemy-English-v7/all-in-one.xhtml.temp.xml" --basepath /usr/share/sgml/docbook/xsl-ns-stylesheets -x "$${homepage:-$$HOME/Docs/homepage/homepage/trunk/}"/lib/sgml/shlomif-docbook/xsl-5-stylesheets/shlomif-essays-5-xhtml-onechunk.xsl -o $@ xhtml5 $<
+
 render: multiverse-cosmology-v0.4.x.asciidoc
+render: multiverse-cosmology-v0.4.x.xhtml
