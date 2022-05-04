@@ -47,11 +47,21 @@ if ( not -e $repo )
         "git clone",
     );
 }
-my_system(
-    [
-"set -e -x ; cd $repo ; bundle exec docbookrx ../multiverse-cosmology-v0.4.x.db5.xml",
-    ],
-    "render",
-);
-path("multiverse-cosmology-v0.4.x.db5.adoc")
-    ->copy("multiverse-cosmology-v0.4.x.asciidoc");
+foreach my $basename (
+    qw#
+    multiverse-cosmology-v0.4.x.docbook5.xml
+    why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.docbook5.xml
+
+    #
+    )
+{
+    # body...
+    my_system(
+        [ "set -e -x ; cd $repo ; bundle exec docbookrx ../${basename}", ],
+        "render", );
+    my $adoc = $basename;
+    $adoc =~ s#\.docbook5\.xml\z#.docbook5.adoc#ms or die;
+    my $asciidoc = $basename;
+    $asciidoc =~ s#\.docbook5\.xml\z#.asciidoc#ms or die;
+    path($adoc)->copy($asciidoc);
+}

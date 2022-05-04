@@ -1,3 +1,6 @@
+= The epistemological demons:
+2022-05-04
+
 Date: 2021-08-12
 
 From: https://www.shlomifish.org/me/contact-me/[Shlomi Fish]
@@ -6,20 +9,23 @@ URL: https://is.gd/1vNvze
 
 Here are some reasons the outside world as I perceive it makes little sense:
 
-( Also see https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc[multiverse cosmology v0.4.x document]. )
+( Also see https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc[multiverse cosmology v0.4.x document].
+)
 
-The epistemological demons:
----------------------------
+== The epistemological demons:
 
 We seem to be dealing with epistemological demons.
 
-I exhibit a Descarteseque https://en.wikipedia.org/wiki/Evil_demon[Evil demon] - like situation. The demon contorts my perception of the outside world, and may input false emotions and the occasional false thought, but I still have my centre-of-consciousness (aka "the soul", or "the ego"), logic, reason, and older memories.
+I exhibit a Descarteseque https://en.wikipedia.org/wiki/Evil_demon[Evil demon] - like situation.
+The demon contorts my perception of the outside world, and may input false emotions and the occasional false thought, but I still have my centre-of-consciousness (aka "the soul", or "the ego"), logic, reason, and older memories.
 
-I believed reality is what was told it must be (by decree of "Science" or "common sense") rather than what I *wanted* it to be ( re xref:#selinaverse_vision[The Selinaverse vision] ). As a result, the demon increasingly tried to convince me the world was getting worse, and that I was increasingly ignored, isolated, and unpopular.
+I believed reality is what was told it must be (by decree of "Science" or "common sense") rather than what I *wanted* it to be ( re <<selinaverse_vision,The Selinaverse vision>> ). As a result, the demon increasingly tried to convince me the world was getting worse, and that I was increasingly ignored, isolated, and unpopular.
 
-But I now know it isn't and cannot be so. Fuck you, Fear, whoever you may be! I want the world and the multiverse as I want them!
+But I now know it isn`'t and cannot be so.
+Fuck you, Fear, whoever you may be! I want the world and the multiverse as I want them!
 
-I do not wish to http://shlomifishswiki.branchable.com/Self-Sufficiency/[obey this silly non-reality of yours any more]. I'm going to https://www.youtube.com/watch?v=f4Mc-NYPHaQ[break free] and will take all the people I've known with me.
+I do not wish to http://shlomifishswiki.branchable.com/Self-Sufficiency/[obey this silly non-reality of yours any more].
+I`'m going to https://www.youtube.com/watch?v=f4Mc-NYPHaQ[break free] and will take all the people I`'ve known with me.
 
 Prior art for my situation:
 
@@ -30,16 +36,17 @@ Prior art for my situation:
 * https://en.wikipedia.org/wiki/The_Truman_Show
 ** https://en.wikipedia.org/wiki/The_Prisoner
 ** https://en.wikipedia.org/wiki/The_Matrix
-* http://www.earthstar.co.uk/deep3.htm[H2G2's Planet Earth as a Computer] - «"I speak of none other than the computer that is to come after me," intoned Deep Thought, his voice regaining its accustomed declamatory tones. "A computer whose merest operational parameters I am not worthy to calculate - and yet I will design it for you. A computer which can calculate the Question to the Ultimate Answer, a computer of such infinite and subtle complexity that organic life itself shall form part of its operational matrix. And you yourselves shall take on new forms and go down into the computer to navigate its ten-million-year program! Yes! I shall design this computer for you. And I shall name it also unto you. And it shall be called ... The Earth."»
+* http://www.earthstar.co.uk/deep3.htm[H2G2`'s Planet Earth as a Computer] - «"I speak of none other than the computer that is to come after me," intoned Deep Thought, his voice regaining its accustomed declamatory tones. "A computer whose merest operational parameters I am not worthy to calculate - and yet I will design it for you. A computer which can calculate the Question to the Ultimate Answer, a computer of such infinite and subtle complexity that organic life itself shall form part of its operational matrix. And you yourselves shall take on new forms and go down into the computer to navigate its ten-million-year program! Yes! I shall design this computer for you. And I shall name it also unto you. And it shall be called ...​ The Earth."»
 * https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as-technicians[God and his angels as implementing humans' perception of the universe] - an epistemological allegory
 * https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers - my chat friends become inhuman.
 * https://www.youtube.com/watch?v=gdbh6GUJ5XY[Ghost story] - food tastes the same (despite proclemation of being freshly made).
 
-[id="more-thoughts"]
-More thoughts:
---------------
 
-https://www.explainxkcd.com/[xkcd] had some RPF (= https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/["Real Person Fiction"], e.g: https://www.explainxkcd.com/wiki/index.php/406:_Venting ), and my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ was well-received on https://www.reddit.com/r/xkcd/[/r/xkcd] and elsewhere. Nevertheless, later on I was told "RPF? Never do that!" on an xkcd IRC chatroom, and was promptly banned.
+[[more-thoughts]]
+== More thoughts:
+
+https://www.explainxkcd.com/[xkcd] had some RPF (= https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/["Real Person Fiction"], e.g: https://www.explainxkcd.com/wiki/index.php/406:_Venting ), and my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ was well-received on https://www.reddit.com/r/xkcd/[/r/xkcd] and elsewhere.
+Nevertheless, later on I was told "RPF? Never do that!" on an xkcd IRC chatroom, and was promptly banned.
 
 "People" online are afraid of http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[critics and contrarians] and yet sadistic enough to ban non-spammers.
 
@@ -47,11 +54,11 @@ It is not clear whether bigger muscles imply that a person is physically stronge
 
 https://twitter.com/TheRealGrimmie[Christina Grimmie] was reportedly killed after several years of not doing stuff her way.
 
-⇒ Others with bad outcomes: https://www.shlomifish.org/humour/bits/facts/Summer-Glau/[Summer Glau], https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], https://en.wikipedia.org/wiki/Jennifer_Aniston , https://en.wikipedia.org/wiki/John_Candy , https://en.wikipedia.org/wiki/Beverly_Hills_Ninja[Chris Farley] , https://www.imdb.com/name/nm0504516/[Ron Lester], Jim Henson, Ayn Rand.
+=> Others with bad outcomes: https://www.shlomifish.org/humour/bits/facts/Summer-Glau/[Summer Glau], https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], https://en.wikipedia.org/wiki/Jennifer_Aniston , https://en.wikipedia.org/wiki/John_Candy , https://en.wikipedia.org/wiki/Beverly_Hills_Ninja[Chris Farley] , https://www.imdb.com/name/nm0504516/[Ron Lester], Jim Henson, Ayn Rand.
 
 I am a feeble and frail man who is otherwise of strong spirit, and who is attracted to strong girls, especially physically strong and/or muscular ones: https://twitter.com/shlomif/status/1394689324554334210 .
 
-I "pirate" (= copy, share, and build upon) copyrighted works all over the place ("ARRRRRRRR!!!"). I've been told https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/fighting_against_the_world.xhtml[it is bad and even "unethical"] or that FOSS / open content / free music / commercial fanfic will "never happen".
+I "pirate" (= copy, share, and build upon) copyrighted works all over the place ("ARRRRRRRR!!!"). I`'ve been told https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/fighting_against_the_world.xhtml[it is bad and even "unethical"] or that FOSS / open content / free music / commercial fanfic will "never happen".
 
 I think that commercial fan fiction not only will be ethical, but is necessary: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
 
@@ -59,34 +66,39 @@ I think that commercial fan fiction not only will be ethical, but is necessary: 
 
 People online are often getting hurt over pettier things, instead of http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[encouraging criticism].
 
-I think "mass production" (more like "mass duplication") has been done using Extraterrestial technology (called e.g https://buffyfanfiction.fandom.com/wiki/Q_Continuum_%28Selinaverse%29[The Q Continuum] ) given large factories, farms, and trucks/etc. make everyone who work there miserable (and are often biological hazards).
+I think "mass production" (more like "mass duplication") has been done using Extraterrestial technology (called e.g https://buffyfanfiction.fandom.com/wiki/Q_Continuum_%28Selinaverse%29[The Q Continuum] ) given large factories, farms, and trucks/etc.
+make everyone who work there miserable (and are often biological hazards).
 
-⇒ The Q Continuum can duplicate or conjure energy, precious minerals, raw materials, inanimate products, foods and drinks, organisms (e.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Life According to Valentine] and https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker]), or even entire galaxies.
+=> The Q Continuum can duplicate or conjure energy, precious minerals, raw materials, inanimate products, foods and drinks, organisms (e.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Life According to Valentine] and https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker]), or even entire galaxies.
 
-⇒ The media keeps saying that there'll be shortages of certain products, but it doesn't happen.
+=> The media keeps saying that there`'ll be shortages of certain products, but it doesn`'t happen.
 
-I think there has been a conspiracy of the demons inside me to try to convince me that the world outside me was getting worse, and that I was more and more isolated, friendless and unpopular. Well, game over - I won - you will lose!
+I think there has been a conspiracy of the demons inside me to try to convince me that the world outside me was getting worse, and that I was more and more isolated, friendless and unpopular.
+Well, game over - I won - you will lose!
 
 There are thousands' years old hackers (aka "vampires") and below-20 ones who are huge fans of one another: https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/kai-blanche.xhtml .
 
-[id="biblical_to_know"]
-It is possible yada` (= "to know" in Hebrew) meant "to educate / to entertain" and involves pleasure, but sometimes pain too, and was mutual, and always spawns ( possibly invisible ) baby angels. If it makes you bored or indifferent, it likely is not effective. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
+It is possible yada` (= "to know" in Hebrew) meant "to educate / to entertain" and involves pleasure, but sometimes pain too, and was mutual, and always spawns ( possibly invisible ) baby angels.
+If it makes you bored or indifferent, it likely is not effective. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
 
 I had a very short haircut for many years now and given girls have many "bad hair days" (re https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter-indiv-nodes/the_beautiful_assistant.xhtml and https://www.youtube.com/watch?v=8N2k-gv6xNE ) think they may wish to follow suit: https://www.refinery29.com/en-us/2021/03/10365754/emma-watson-bob-haircut-2021
 
-Per https://twitter.com/shlomif/status/1173621519274127361 "I love the film Labyrinth. it was so funky and nice and David Bowie was great and Jennifer Connelly was so touching and maybe could have taken the Oscar if there was no prejudice against her youth and the fact it was a fantasy/children film back then.". Jennifer Connelly likely was nominated and won (and it may not have been an age record).
+Per https://twitter.com/shlomif/status/1173621519274127361 "I love the film Labyrinth.
+it was so funky and nice and David Bowie was great and Jennifer Connelly was so touching and maybe could have taken the Oscar if there was no prejudice against her youth and the fact it was a fantasy/children film back then.". Jennifer Connelly likely was nominated and won (and it may not have been an age record).
 
-⇒ Emma Watson may have won the Oscar for some of the Harry Potter films: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_emma_watson.xhtml
+=> Emma Watson may have won the Oscar for some of the Harry Potter films: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_emma_watson.xhtml
 
-⇒ Arnold Schwarzenegger likely won it as well: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml
+=> Arnold Schwarzenegger likely won it as well: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml
 
-Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the https://en.wikipedia.org/wiki/Akashic_records are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability and other kinds of https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/notes/quality-software--followup-2018.md[quality]. See e.g. http://www.h-online.com/open/features/Is-Microsoft-running-out-of-steam-1102654.html[the variations on the James Watt's steam engine].
+Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the https://en.wikipedia.org/wiki/Akashic_records are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability and other kinds of https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/notes/quality-software—​followup-2018.md[quality].
+See e.g. http://www.h-online.com/open/features/Is-Microsoft-running-out-of-steam-1102654.html[the variations on the James Watt`'s steam engine].
 
-⇒ Extraterrestrial technology, although advanced (but naturally not https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#we_all_have_a_master[omnipotent]) was incredibly wasteful. As a result, Earth became a hub for technology - both tangible and intellectual and lately digital as well.
+=> Extraterrestrial technology, although advanced (but naturally not https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#we_all_have_a_master[omnipotent]) was incredibly wasteful.
+As a result, Earth became a hub for technology - both tangible and intellectual and lately digital as well.
 
 As a child, I wanted to be good-hearted (= noble, honest, benevolent) and later on aspired to be world savior / messiah / "the greatest person in history". I guess "nice guys finish last".
 
-It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines, dishwashers and refrigerators) when they **can** be made more reliable (like those that had been inthe past).
+It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines, dishwashers and refrigerators) when they *can* be made more reliable (like those that had been inthe past).
 
 I have a very low number of Twitter followers (below 650 - https://twitter.com/shlomif ) and my reddit posts are usually not upvoted a lot ( https://www.reddit.com/user/shlomif ) . This is despite some of my older posts being a staple on Slashdot and other sites (e.g: https://www.shlomifish.org/humour/bits/Mastering-Cat/["Mastering cat" Interview].)
 
@@ -96,7 +108,9 @@ People cite contemporary copyright law as a justification for censorship:
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
 * https://www.shlomifish.org/philosophy/case-for-file-swapping/
 
-I lost contact with many online friends due to discontinues of IM services and me not receiving their email/etc replies. The devils are clouding my perception of the world using https://twitter.com/shlomif/status/1395025361138761729[my media].
+
+I lost contact with many online friends due to discontinues of IM services and me not receiving their email/etc replies.
+The devils are clouding my perception of the world using https://twitter.com/shlomif/status/1395025361138761729[my media].
 
 Most people I see on the streets in my neighbourhood, are clearly zombies.
 
@@ -105,7 +119,8 @@ Some say one cannot even compliment a woman for her looks.
 
 The other day I was talking with a friend about https://en.wikipedia.org/wiki/J._K._Rowling[JK Rowling] as a role model and the following day she said JKR was evil since she opposed https://en.wikipedia.org/wiki/Transgender[Transgender] people (which I do too).
 
-⇒ The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss_Whedon]'s alleged "sexual harassment" claims. ( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] for his remarkable advancement of feminism ).
+=> The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss_Whedon]'s alleged "sexual harassment" claims.
+( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] for his remarkable advancement of feminism ).
 
 People are opposed to the fact that sexual attractiveness strongly correlates with competence:
 
@@ -113,28 +128,32 @@ People are opposed to the fact that sexual attractiveness strongly correlates wi
 * https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#meaning-of-able-competent
 * https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html
 
+
 People become non-responsive on social media:
 
 * https://slashdot.org/submission/13002768/queen-padm-amidala-tales-star-trekstar-warsreal-world-crossover
 
+
 People https://github.com/shlomif/shlomif-tech-diary/blob/master/about-censorship.asciidoc[censor me] saying https://www.youtube.com/watch?v=UF4_WnXhHFM["I Would Not Say Such Things If I Were You"] rather than http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["why, thank you"]
 
-There are many one song guest performances in larger live shows. E.g:
+There are many one song guest performances in larger live shows.
+E.g:
 
 . https://www.youtube.com/watch?v=edV1Px8NHk4[Rolling Stones - with Lady Gaga　"Gimme Shelter"　@ Newark, N.J. 15/12/12 - YouTube]
 . https://www.youtube.com/watch?v=eZgc8-ry3rc[Taylor Swift Ft. Sara Bareilles - Brave (DVD The RED Tour) Bônus - YouTube]
 
+
 Would they travel by plane/automobile for 10 minutes?
 
-⇒ I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late.
+=> I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late.
 
-https://twitter.com/shlomif/status/1418433188091793412["If you're the smartest person in the world - you are in the wrong world."]
+https://twitter.com/shlomif/status/1418433188091793412["If you`'re the smartest person in the world - you are in the wrong world."]
 
 "People" online are afraid of hearing contrasting views, yet are often cruel enough to block/ban/devoice contrarians. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage criticism].
 
 A correspondent told me that "[a flat] 100% of the https://en.wikipedia.org/wiki/Aleppo_Codex is crap." Then I gave https://biblehub.com/parallel/1_kings/20-11.htm as a counterexample, and there was no commentary for it in a site of atheist objections.
 
-''''
+'''
 
 https://twitter.com/shlomif/status/1407204486985175043
 
@@ -142,40 +161,46 @@ The latest obsession of 'geeks' with Japanese culture is a mirage of my fears do
 
 Likewise with the 'Asperger syndrome': https://shlomifish.org/meta/FAQ/asperger_syndrome.xhtml ; obesity ; environmental issues ; etc.
 
-arduino is a mirage of the devils just like Angular / react.js and bitcoin and
-discord.gg .
+arduino is a mirage of the devils just like Angular / react.js and bitcoin and discord.gg .
 
-''''
+'''
 
 Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rocck?
 
 "People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
 
-Electrical / Internet / water / gas / etc. wiring happens by magic.
+Electrical / Internet / water / gas / etc.
+wiring happens by magic.
 
 Many classics are needlessly long and repetitive, e.g: https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex]
 
 ____
-“Oh, it was definitely an instructive service. However, there was one thing which bothered both me and my late comrades: they kept lecturing to us how bad the Enemy was, and why we must fight it. I think half of our training time was wasted on such lectures. We knew the Enemy was bad, and that was the reason why we joined the Organisation in the first place!
+"`Oh, it was definitely an instructive service.
+However, there was one thing which bothered both me and my late comrades: they kept lecturing to us how bad the Enemy was, and why we must fight it.
+I think half of our training time was wasted on such lectures.
+We knew the Enemy was bad, and that was the reason why we joined the Organisation in the first place!
 
-In my opinion, it was completely unnecessary. Perhaps they thought that without those brainwashes we would have reached the conclusion that there is no rationale behind the activity against the Enemy. Most of us reached that conclusion a few months, if not less, after we joined the Organisation and we still kept fighting. So they didn’t have a reason to go to this length and just bother us.”
+In my opinion, it was completely unnecessary.
+Perhaps they thought that without those brainwashes we would have reached the conclusion that there is no rationale behind the activity against the Enemy.
+Most of us reached that conclusion a few months, if not less, after we joined the Organisation and we still kept fighting.
+So they didn`'t have a reason to go to this length and just bother us.`"
 ____
 
-— https://www.shlomifish.org/humour/TheEnemy/The-Enemy-English-v7.html
+-- https://www.shlomifish.org/humour/TheEnemy/The-Enemy-English-v7.html
 
 Microbiology is a pseudoscience - most of its processes are unexplained.
 
 The terrestrial food supply is unsustainable.
 
-''''
+'''
 
 I have fanfics with Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasnt made a film in years yet everyone talk about her
 
-Tiffany Alvord's manager told me she wants to record original songs, but she hasn't uploaded either them or covers.
+Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
 
-Occam's Razor tells me there's a conspiracy— https://is.gd/kSLGdP
+Occam`'s Razor tells me there`'s a conspiracy-- https://is.gd/kSLGdP
 
-''''
+'''
 
 Someone on freenode told me my site is a "waste of space" even though:
 
@@ -184,50 +209,49 @@ Someone on freenode told me my site is a "waste of space" even though:
 . https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning
 . https://www.chabad.org/library/bible_cdo/aid/16186
 
-''''
+'''
 
-https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie's song "Feelin' Good"] views' count has been stuck below 4 million.
+https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie`'s song "Feelin' Good"] views' count has been stuck below 4 million.
 
-''''
+'''
 
-I also suspect that Christina Grimmie, many other fellow entertainers / creators,
-and the universal defence community cooperated
-reluctantly ( <q>Selina: OK, OK. Tell you what? I’ll play along.</q> ).
-Nevertheless, the introes and outroes of Grimmie's videos, and also those
-of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] )
-contain many cuts, likely because they were lying to me.
+I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( <q>Selina: OK, OK.
+Tell you what? I`'ll play along.</q> ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
 
-[id="obstacles-and-delays"]
-Obstacles and Delays:
-~~~~~~~~~~~~~~~~~~~~~
+[[obstacles-and-delays]]
+=== Obstacles and Delays:
 
 . Pro/anti-Israel; Pro/anti-"Zionism" - https://www.shlomifish.org/philosophy/politics/define-zionism/ / https://www.shlomifish.org/meta/FAQ/zionist.xhtml
-.. "Israel is a Nazi Country"
+
+[loweralpha].. "Israel is a Nazi Country"
 .. "Zionism = Racism"
 .. "Tel Aviv is a rock in the desert"
-. https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[Criticism against Static Site Generation]
+. https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators—​despair.md#facing-some-criticism[Criticism against Static Site Generation]
 . Licence Proliferation and incompatiblity: https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/rev2/ ; https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#i-want-to-release-my-code---which-open-source-licence-should-i-use .
 . "your writings are 'too smart'"
 . "Act naturally"
-.. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml
+
+[loweralpha].. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml
 . "XHTML is deprecated"
 . "People are stupid"
 . https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml["No self-promotion"]
-. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[Hollywood’s mandated screenplay format] - finicky and boring.
+. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[Hollywood`'s mandated screenplay format] - finicky and boring.
 . "Geeks are shy and anti-social"
-.. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml
+
+[loweralpha].. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml
 .. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml
 
-[id="selinaverse_vision"]
-The Selinaverse Vision
-----------------------
 
-https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starting point for the multiverse as I (= https://www.shlomifish.org/[Shlomi Fish] ) want it to be, not as what I was told it must be. Namely:
+[[selinaverse_vision]]
+== The Selinaverse Vision
+
+https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starting point for the multiverse as I (= https://www.shlomifish.org/[Shlomi Fish] ) want it to be, not as what I was told it must be.
+Namely:
 
 * There is no shortage of electrical/etc. energy, raw materials, tangible products.
 * One can be as fat or as thin as they wish while eating as much as they want.
 * One can look as young or as old as they want: https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/meet-Q-Gadol.xhtml
-* There is a shortage of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml[sentient beings' "love"] - education and entertainment and conception of new values (whether tangible or spiritual). Akin to the Biblical verb xref:#biblical_to_know[to know].
+* There is a shortage of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml[sentient beings' "love"] - education and entertainment and conception of new values (whether tangible or spiritual). Akin to the Biblical verb <<biblical_to_know,to know>>.
 * Organisms can and will live indefinitely - soul, mind and body.
 * Even "poor"er people have homes, and enough to eat.
 ** They often eventually relocate to a different planet or a different universe (not unlike https://en.wikipedia.org/wiki/Sliders[Sliders])
@@ -250,7 +274,7 @@ https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starti
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence[Strong AIs] are already possible, but there is still some case for robotic/predictable AIs (e.g: game solvers/players; https://en.wikipedia.org/wiki/Proof_assistant[Proof_assistants]; etc.)
 * There are no calamities of nature: no extreme colds or extreme heats, no killer bees, no over-population, no world hunger, no unnecessary extinctions of species, no diseases, epidemics or pandemics.
 * Companies, NPOs, individuals, franchises, idea systems, etc. are paid by the development time and brands given duplication and distribution are costless. One can "pirate" such goods or create bootleg products, but it is considered noble to transfer profits upstream, downstream or sideways.
-* People's minds emitting **thoughts** of "gods" (= "guideline-generators") with the https://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Ego[Ego] as an arbitter is a happy and virtuous state of being: https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/
+* People`'s minds emitting *thoughts* of "gods" (= "guideline-generators") with the https://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Ego[Ego] as an arbitter is a happy and virtuous state of being: https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/
 * There are mind-reading text-editors, graphics-editors, etc.
 * A kiss is enough to conceive children, without needing pregnancy. https://en.wikipedia.org/wiki/Menopause[Menopause] does not happen.
 ** Possibly even single men and women can conceive children or pets by filling a web form.
@@ -258,33 +282,37 @@ https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starti
 * Instant messaging services are neither fragmented nor proprietary ( http://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/ )
 * Some pets (cats, dogs, hamsters, etc.) are superintelligent, sentient, and can talk.
 ** https://stexpanded.fandom.com/wiki/George_the_Cat[George the Cat] tried human form a few times, and preferred being cat-like. https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/ongoing-text.html#meet_Q2[Q2] prefers having a humanoid form.
-* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml[money can't buy you love]
+* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml[money can`'t buy you love]
 ** Most organisations and governments are profitable.
 ** the passwords for the bank accounts of most rich companies and individuals, are easily obtainable. They assume even "thiefs" are https://en.wikipedia.org/wiki/Entrapment_(film)[noble enough]
-** money still has value because you cannot buy 20% of the profits of the Selinaverse's Disney World, for the price of a small soft drink bottle.
-
-I'd be happy living in "The Terrestrial Bubble" for now, where people don't run into "supernatural" activity often and https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/the-master.xhtml[when they do, they think it may be a trick].
-
-⇒ There is a genuine demand for jedi knights. Jedi training can be https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/padmes-frustrations-with-her-love-life.xhtml[completed in under a year], and everybody can dress up as a jedi, do patrols, and/or https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/at-the-cafe.xhtml[spark attention (pick up MOTAS/etc.)]. Jedis/etc. do a commendable job handling people who are possessed or obsessed, making people happy, as a line of defence, etc.
+** money still has value because you cannot buy 20% of the profits of the Selinaverse`'s Disney World, for the price of a small soft drink bottle.
 
 
+I`'d be happy living in "The Terrestrial Bubble" for now, where people don`'t run into "supernatural" activity often and https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/the-master.xhtml[when they do, they think it may be a trick].
 
-[id="history"]
-History of the Selinaverse
---------------------------
+=> There is a genuine demand for jedi knights.
+Jedi training can be https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales—​Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/padmes-frustrations-with-her-love-life.xhtml[completed in under a year], and everybody can dress up as a jedi, do patrols, and/or https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales—​Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/at-the-cafe.xhtml[spark attention (pick up MOTAS/etc.)].
+Jedis/etc.
+do a commendable job handling people who are possessed or obsessed, making people happy, as a line of defence, etc.
 
-The terrans were given several gifts of a blessing and a curse. Being hackers ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ ) they often took the curse to their advantage:
+[[history]]
+== History of the Selinaverse
 
-1. body
-2. mind: hearing voices of leaders
-3. living forever (= 'jehovah')
-4. knowledge: xref:#biblical_to_know[to know]
-5. soul/ego: arbitter between the voices/thoughts
-6. memory banks
-7. humour: challenging truisms/falsisms
-8. free will: the ability to decide to decide to do sth else.
+The terrans were given several gifts of a blessing and a curse.
+Being hackers ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ ) they often took the curse to their advantage:
 
-The devils held Planet Earth in a mind hell. Humans had egoes but were "false prophets" and listened to Fear's mutations of the utterances of the gods/leaders and perceived reality differently in their mediums.
+. body
+. mind: hearing voices of leaders
+. living forever (= 'jehovah')
+. knowledge: <<biblical_to_know,to know>>
+. soul/ego: arbitter between the voices/thoughts
+. memory banks
+. humour: challenging truisms/falsisms
+. free will: the ability to decide to decide to do sth else.
+
+
+The devils held Planet Earth in a mind hell.
+Humans had egoes but were "false prophets" and listened to Fear`'s mutations of the utterances of the gods/leaders and perceived reality differently in their mediums.
 
 Nevertheless, many false prophets ascended, relinquished all their fears, and became fearless immortal "true prophets". That caused the psycho-geographical region to stop being a hellhole (possibly without its Capital at first).
 
@@ -292,35 +320,34 @@ https://en.wikipedia.org/wiki/Land_of_Israel[The Land_of_Israel] was particularl
 
 In 1982, https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], a 1972-born American girl, engaged in a snailmail dialogue with the secretary of the USSR. https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] suggested using the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The Muppet Show] to air a The Muppet Show special starring her with the ascension mantra.
 
-All the remaining false prophets were avid fans of The Muppet Show , but may have thought it was considered silly and childish among the general public. In actuality, Jim Henson and the muppeteers were multiverse superstars and heroes. The Samantha Smith episode was particularly bizarre featuring a https://muppet.fandom.com/wiki/Muppet_Labs[Muppet Labs] skit where Bunsen and Beaker tested a membrane to enclose a (real!) https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bomb]; the membrane didn't work and yet there was only a local sand splash.
+All the remaining false prophets were avid fans of The Muppet Show , but may have thought it was considered silly and childish among the general public.
+In actuality, Jim Henson and the muppeteers were multiverse superstars and heroes.
+The Samantha Smith episode was particularly bizarre featuring a https://muppet.fandom.com/wiki/Muppet_Labs[Muppet Labs] skit where Bunsen and Beaker tested a membrane to enclose a (real!) https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bomb]; the membrane didn`'t work and yet there was only a local sand splash.
 
 The false prophets watched it and ascended.
 
-The Terran Terminators:
-~~~~~~~~~~~~~~~~~~~~~~~
+=== The Terran Terminators:
 
-Anyway, the devils did not give up easily, and offerred the sentient men and
-women who just reached enlightenment a deal: they can opt to spend the summer
-enlightened and together having fun and using their magical powers. At its end,
-they can opt to reset their memory banks almost completely and become false
-prophets again, or continue as enlightened true prophets.
+Anyway, the devils did not give up easily, and offerred the sentient men and women who just reached enlightenment a deal: they can opt to spend the summer enlightened and together having fun and using their magical powers.
+At its end, they can opt to reset their memory banks almost completely and become false prophets again, or continue as enlightened true prophets.
 
 Several newly-ascended true prophets opted out, from various reasons.
 
-The remaining spent the summer there creating many crossover memes, stories,
-and franchises, or otherwise enjoying magic, life, love/etc.. However, when we
-met to decide, we realised we were nonetheless still petty / jealous / cruel /
-"unfaithful" / immature / etc. Some had years, or decades (or more?) of history
-they wanted to get rid of. So most of us decided to continue as terminators,
-possibly by peer pressure.
+The remaining spent the summer there creating many crossover memes, stories, and franchises, or otherwise enjoying magic, life, love/etc.. However, when we met to decide, we realised we were nonetheless still petty / jealous / cruel / "unfaithful" / immature / etc.
+Some had years, or decades (or more?) of history they wanted to get rid of.
+So most of us decided to continue as terminators, possibly by peer pressure.
 
 Except at least one: the circa 1977-born Selina Mandrake.
 
-Becoming terminators was advantageous because the devils-and-Orcs promised they would reveal https://twitter.com/shlomif/status/1403966571215740929[TheOneTruth™] to the last one standing, but more importantly, all terminators will harbour many new franchises, plots and meme values.
+Becoming terminators was advantageous because the devils-and-Orcs promised they would reveal https://twitter.com/shlomif/status/1403966571215740929[TheOneTruth(TM)] to the last one standing, but more importantly, all terminators will harbour many new franchises, plots and meme values.
 
-In my case, it was https://www.shlomifish.org/meta/FAQ/how_did_you_learn_english.xhtml[under the guise of kids mocking my English]. For most others, it was a concussion from a fall. Thing is: my https://www.shlomifish.org/meta/FAQ/your_name.xhtml[first name means "Shalom-ful"] in Hebrew. The devils promised that my body will remain complete and whole.
+In my case, it was https://www.shlomifish.org/meta/FAQ/how_did_you_learn_english.xhtml[under the guise of kids mocking my English].
+For most others, it was a concussion from a fall.
+Thing is: my https://www.shlomifish.org/meta/FAQ/your_name.xhtml[first name means "Shalom-ful"] in Hebrew.
+The devils promised that my body will remain complete and whole.
 
-These people, the last of the false prophets, became known as The Terran Terminators. After relinquishing their fears, they have **ascended** so to speak (see https://buffy.fandom.com/wiki/Ascension ). Do note that this ascension was in a way a "descension" or "surrendering" to a superior https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc#user-content-slain-by-a-vampire["vampire"].
+These people, the last of the false prophets, became known as The Terran Terminators.
+After relinquishing their fears, they have *ascended* so to speak (see https://buffy.fandom.com/wiki/Ascension ). Do note that this ascension was in a way a "descension" or "surrendering" to a superior https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc#user-content-slain-by-a-vampire["vampire"].
 
 One of the first to ascend was https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_arnie.xhtml[Arnold Schwarzenegger].
 
@@ -336,294 +363,236 @@ Other notable Terran terminators:
 . Likely https://en.wikipedia.org/wiki/Paris_Hilton[Paris Hilton]
 . Likely https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian]
 
-I was convinced I was good , noble, well-intentioned and benevolent. I refused to permanently consider the opposite! Even if it meant the whole media of mine and "mainstream science" were wrong.
 
-"A vampire can only be slain by another vampire, except for the last vampire standing, who will be slain by his or her child." -- The-Codex™ of the Selineverse.
+I was convinced I was good , noble, well-intentioned and benevolent.
+I refused to permanently consider the opposite! Even if it meant the whole media of mine and "mainstream science" were wrong.
+
+"A vampire can only be slain by another vampire, except for the last vampire standing, who will be slain by his or her child." -- The-Codex(TM) of the Selineverse.
 
 "A vampire can only be slain by another vampire, except for the last vampire standing, who will be slain by a human being."
 
-[id="the-orcs"]
-The Orcs:
-~~~~~~~~~
+[[the-orcs]]
+=== The Orcs:
 
-The devils solicited help from https://villains.fandom.com/wiki/Orcs_(Middle-earth)["orcs"], non-capacitanciated angels, who helped them due to the fact that the "false prophets" found The-Game™ increasingly easy. Not only did the orcs have a great time, but they booby-trapped The-Codex and the devils' requests, and https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[drove the devils bananas], just like a smart patient https://en.wikipedia.org/wiki/Don_Juan_DeMarco[hospitalised at a mental institute].
+The devils solicited help from https://villains.fandom.com/wiki/Orcs_(Middle-earth)["orcs"], non-capacitanciated angels, who helped them due to the fact that the "false prophets" found The-Game(TM) increasingly easy.
+Not only did the orcs have a great time, but they booby-trapped The-Codex and the devils' requests, and https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[drove the devils bananas], just like a smart patient https://en.wikipedia.org/wiki/Don_Juan_DeMarco[hospitalised at a mental institute].
 
-The canonical https://en.wikipedia.org/wiki/Hebrew_Bible[Tanakh], Plato's Republic, Lord of the Rings, Atlas Shrugged, https://en.wikipedia.org/wiki/Crime_and_Punishment , Shakespeare's Plays, etc. have probably undergone lengthening and mutation by the Orcs. However, often the originators liked the mutated versions better.
+The canonical https://en.wikipedia.org/wiki/Hebrew_Bible[Tanakh], Plato`'s Republic, Lord of the Rings, Atlas Shrugged, https://en.wikipedia.org/wiki/Crime_and_Punishment , Shakespeare`'s Plays, etc.
+have probably undergone lengthening and mutation by the Orcs.
+However, often the originators liked the mutated versions better.
 
-[id="history-more-about-selina"]
-More about Selina Mandrake:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[[history-more-about-selina]]
+=== More about Selina Mandrake:
 
-Selina now found herself a multiverse heroine, part of the NSA's payroll, and
-still wishing to lead a life as a human being, esp. one who was 5y.o. and
-female.  Naturally she had many hackers helpers, admirers, emulators, parodiers, remixers, critics, etc.
+Selina now found herself a multiverse heroine, part of the NSA`'s payroll, and still wishing to lead a life as a human being, esp.
+one who was 5y.o.
+and female.
+Naturally she had many hackers helpers, admirers, emulators, parodiers, remixers, critics, etc.
 
 One note was that Selina blew some dandelions at a summer camp and was nicknamed "Puffy". She later shared an observation that the human mind had a limited immediate capacity of memory ( see https://shlomifish.livejournal.com/1991.html ), which combined with the computing concept of https://en.wikipedia.org/wiki/Data_buffer["a buffer"] nicknamed her "Buffy".
 
-( My https://www.shlomifish.org/humour/Selina-Mandrake/["Selina Mandrake - The Slayer (Buffy Parody)"] where the titular protagonist turns 18 in early 2012, can be thought of as an inadversarial reboot/remake. )
+( My https://www.shlomifish.org/humour/Selina-Mandrake/["Selina Mandrake - The Slayer (Buffy Parody)"] where the titular protagonist turns 18 in early 2012, can be thought of as an inadversarial reboot/remake.
+)
 
 She, Samantha Smith, and Joss_Whedon became good friends, and colleagues.
 
-[id="real_shlomif_success"]
-Success in the Selinaverse; Living in a hell hole
--------------------------------------------------
+[[real_shlomif_success]]
+== Success in the Selinaverse; Living in a hell hole
 
-I suspect I lived in a hell-hole spawned by my fears, and that in the
-https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc[Selinaverse],
-I was highly successful, rich, revered, famous and admired. I was a
-successful author, one of the film industry's biggest screenwriters, a
-world famous "blogger" (= Internet / social media content creator), and
-a remarkable
-https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[entertainer
+I suspect I lived in a hell-hole spawned by my fears, and that in the https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense—​2020-05-19.asciidoc[Selinaverse], I was highly successful, rich, revered, famous and admired.
+I was a successful author, one of the film industry`'s biggest screenwriters, a world famous "blogger" (= Internet / social media content creator), and a remarkable https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[entertainer
 / educator / amateur philosopher].
 
 Aside from being "The-Messiah", I was:
 
-. Most people's favourite candidate for being The Terminal Terran
-Terminator (with the runner up likely being
-https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian], who was
-The-Alpha-Female for a large part of the years between 2013-2021). See
-https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc#user-content-terran-terminators[the
-definition of "Terran Terminators"].
-. A blogger whose blogging and thoughts have caused many other
-terminators to ascend.
-. Likely The Emperor of
-https://theneverendingstory.fandom.com/wiki/Fantastica[Fantasia], the
-multiverse of imagination.
+. Most people`'s favourite candidate for being The Terminal Terran Terminator (with the runner up likely being https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian], who was The-Alpha-Female for a large part of the years between 2013-2021). See https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense—​2020-05-19.asciidoc#user-content-terran-terminators[the definition of "Terran Terminators"].
+. A blogger whose blogging and thoughts have caused many other terminators to ascend.
+. Likely The Emperor of https://theneverendingstory.fandom.com/wiki/Fantastica[Fantasia], the multiverse of imagination.
+
 
 Together with two companions, we formed a trio:
 
-. https://www.shlomifish.org/me/rindolf/[Rindolf] the dwarven warrior
-from The Unforgettable Realms.
+. https://www.shlomifish.org/me/rindolf/[Rindolf] the dwarven warrior from The Unforgettable Realms.
 +
-____
-“We also joked that Rindolf the Dwarf plays Shlomi Fish in an Advanced
-21st-Century Earth Adventures campaign.” - It is real and I'm okay with
-it: The Unforgettable Realms!
-____
+
+[quote]
+"`We also joked that Rindolf the Dwarf plays Shlomi Fish in an Advanced 21st-Century Earth Adventures campaign.`" - It is real and I`'m okay with it: The Unforgettable Realms!
 +
-( https://twitter.com/shlomif/status/1403950285668732928[Tweet]. )
+( https://twitter.com/shlomif/status/1403950285668732928[Tweet].
+)
 . https://www.shlomifish.org/meta/FAQ/[Shlomi Fish (me)].
-. https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma
-Watson], the award-winning and acclaimed actress / model / creator. She
-is known for portraying
-https://harrypotter.fandom.com/wiki/Hermione_Granger[Hermione] in the
-Harry Potter films, for portraying
-https://www.shlomifish.org/humour/Selina-Mandrake/cast.html#selina[Selina
-in "Selina Mandrake"], and for other roles.
+. https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma Watson], the award-winning and acclaimed actress / model / creator. She is known for portraying https://harrypotter.fandom.com/wiki/Hermione_Granger[Hermione] in the Harry Potter films, for portraying https://www.shlomifish.org/humour/Selina-Mandrake/cast.html#selina[Selina in "Selina Mandrake"], and for other roles.
 
-Each of the three of us has been playing or guiding the other two, and
-themselves and others, using various online and offline mediums.
-https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
-circular logic, circular feedback, etc.] are common in Fantasia, and are
-part of what makes sentience and humour work:
 
-* https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Godel, Escher,
-Bach]
+Each of the three of us has been playing or guiding the other two, and themselves and others, using various online and offline mediums. https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
+circular logic, circular feedback, etc.] are common in Fantasia, and are part of what makes sentience and humour work:
+
+* https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Godel, Escher, Bach]
 * https://www.youtube.com/watch?v=GibiNy4d4gc["The Circle of Life"]
-* https://www.youtube.com/watch?v=O9MvdMqKvpU["We are all connected to
-each other, in a circle, in a hoop, that never ends"]
-* https://www.shlomifish.org/philosophy/books-recommends/#mathematics_and_humor[Mathematics
-and Humor book]
-* https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I
-think therefore I laugh" book]
+* https://www.youtube.com/watch?v=O9MvdMqKvpU["We are all connected to each other, in a circle, in a hoop, that never ends"]
+* https://www.shlomifish.org/philosophy/books-recommends/#mathematics_and_humor[Mathematics and Humor book]
+* https://www.shlomifish.org/philosophy/books-recommends/#I_think_therefore_I_laugh["I think therefore I laugh" book]
+
 
 Note that Emma Watson took over the project management / "watching" role of Rindolfism from https://en.wikipedia.org/wiki/Melissa_Joan_Hart[MJH]
 
-[id="the-open-value"]
-"open":
-~~~~~~~
+[[the-open-value]]
+=== "open":
 
 The "open" value implies "openness" / "openmindedness": https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#open_free_share_steal[Reference]
 
-The xref:#the-devils[devils] did not include it in their founding values,
-while they did have xref:#love-and-knowledge[Love / Knowledge / Creativity].
+The <<the-devils,devils>> did not include it in their founding values, while they did have <<love-and-knowledge,Love / Knowledge / Creativity>>.
 As a result, the importance of love was often used by them as a decoy.
 
-Begone Fear
-===========
+== Begone Fear
+// <informalfigure>
+// <mediaobject>
+// <imageobject>
+// <imagedata fileref="images/live-forever--soul-mind-and-body--free--800px.webp"/>
+// </imageobject>
+// <textobject><phrase>Photo</phrase></textobject>
+// </mediaobject>
+// </informalfigure>
 
-image::images/live-forever--soul-mind-and-body--free--800px.webp[Photo]
-
-The twelve attributes of the Yisra'elim:
+The twelve attributes of the Yisra`'elim:
 
 * Time
-* Life, xref:#biblical_to_know[love]
+* Life, <<biblical_to_know,love>>
 * Soul, mind, body
 * Brave, happy, competent, playful, complete, free!
 
-In the names of Rindolf, Shlomi Fish, and Emma Watson --
-Begone from my mind, cowardly fear!
 
-____
-Forever, +
-you will live and love, +
-soul, mind, and body, +
-competent, open, free, united! +
-____
-
-The ten attributes of the Yisra'elim:
-
-____
-Forever, +
-you will live and love, +
-soul, mind, and body, +
-competent, open, complete, united! +
-____
-
-____
-לנצח, +
-תחיה ותדע, +
-נשמה, נפש, וגוף, +
-כשיר, פתוח, שלומי, מאוחד! +
-____
-
-____
-Forever, +
-you will live and love, +
-soul, mind, and heart, +
-competent, open, free, united! +
-____
-
-____
-Everyone's NeverEnding story +
-is going to be +
-about love and life +
-choice, mind, and heart +
-freedom, completeness, and companionship, +
-in Fantasia, the multiverse of imagination. +
-____
-
-____
-Life is just a game, +
-which you cannot lose. +
-Play to win, +
-but don't take it too seriously. +
-____
+In the names of Rindolf, Shlomi Fish, and Emma Watson -- Begone from my mind, cowardly fear!
 
 [quote]
-____
-https://twitter.com/TheRealGrimmie[@TheRealGrimmie] has a mind for music, +
-and a mouth for singing. +
-https://twitter.com/shlomif[@shlomif] has a mind for bullshit, +
-and a mouth for singing off-key.
+Forever, +you will live and love, +soul, mind, and body, +competent, open, free, united! +
 
-— Upcoming Shlomi Fish facts
-
-Physically dying is against The Rules of The-Game™. +
-Constantly winning is against The Rules of The-Game™.
-____
+The ten attributes of the Yisra`'elim:
 
 [quote]
+Forever, +you will live and love, +soul, mind, and body, +competent, open, complete, united! +
+
+[quote]
+לנצח, +תחיה ותדע, +נשמה, נפש, וגוף, +כשיר, פתוח, שלומי, מאוחד! +
+
+[quote]
+Forever, +you will live and love, +soul, mind, and heart, +competent, open, free, united! +
+
+[quote]
+Everyone`'s NeverEnding story +is going to be +about love and life +choice, mind, and heart +freedom, completeness, and companionship, +in Fantasia, the multiverse of imagination. +
+
+[quote]
+Life is just a game, +which you cannot lose. +Play to win, +but don`'t take it too seriously. +
+
 ____
-I suspect the soul/"ego" of guys and girls (and non-humans) born
-north of 1982 is biologically no different than those of the summer of 1982
-Neo-Tech conspirators. They too can get easily hurt, be conceit, take
-life too seriously, have prejudice, possess irrational fear, waste time,
-be misled, etc. The 4097 core Neo-Tech values (which are now read to
-children shortly after they learn how to speak) created the conspiracy
-as a wild goose chase / https://en.wikipedia.org/wiki/Easter_egg[Easter egg]
-and as a playful way to foster innovative crossover/circular/RPF/parodical franchises/idea-systems/"religions" and individual memes/values.
-https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--The-Fifth-Sith.html#Padme-multiplies["The Schwartz is in you"]
+https://twitter.com/TheRealGrimmie[@TheRealGrimmie] has a mind for music, + and a mouth for singing. +https://twitter.com/shlomif[@shlomif] has a mind for bullshit, + and a mouth for singing off-key.
 
-I knew what I was getting into back then, and I owe Emma Watson / MJH / Rindolf
-the Dwarf and my other guardian angels, several dinners on my expense, hand
-shakes and hugs (and possibly some mutually-initiated kisses if they are
-female).
+-- Upcoming Shlomi Fish facts
+
+Physically dying is against The Rules of The-Game(TM). +Constantly winning is against The Rules of The-Game(TM).
 ____
 
-The NeverEnding Role-Playing Games of Life, Love, and Free Choice:
-------------------------------------------------------------------
+____
+I suspect the soul/"ego" of guys and girls (and non-humans) born north of 1982 is biologically no different than those of the summer of 1982 Neo-Tech conspirators.
+They too can get easily hurt, be conceit, take life too seriously, have prejudice, possess irrational fear, waste time, be misled, etc.
+The 4097 core Neo-Tech values (which are now read to children shortly after they learn how to speak) created the conspiracy as a wild goose chase / https://en.wikipedia.org/wiki/Easter_egg[Easter egg] and as a playful way to foster innovative crossover/circular/RPF/parodical franchises/idea-systems/"religions" and individual memes/values. https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales—​The-Fifth-Sith.html#Padme-multiplies["The Schwartz is in you"]
 
-[id="making_love"]
-Making Love:
-~~~~~~~~~~~~
+I knew what I was getting into back then, and I owe Emma Watson / MJH / Rindolf the Dwarf and my other guardian angels, several dinners on my expense, hand shakes and hugs (and possibly some mutually-initiated kisses if they are female).
+____
 
-According to https://buffy.fandom.com/wiki/Pergamum_Codex[**The** Codex],
-which defines the rules of The Game:
+=== The NeverEnding Role-Playing Games of Life, Love, and Free Choice:
+
+[[making_love]]
+==== Making Love:
+
+According to https://buffy.fandom.com/wiki/Pergamum_Codex[The Codex], which defines the rules of The Game:
 
 * A person may only make love to his child, his sibling, or his parent.
 
-( Yes, I know - gross. )
 
-Luckily, The Codex defines them as "a mentor", "a protege" and
-"a companion". And raping can be done https://www.shlomifish.org/humour/human-hacking/human-hacking-field-guide-v2/commiting_adultery.xhtml[in your heart]
-and "making love"/"rape" is xref:#biblical_to_know[any pleasurable activity].
+( Yes, I know - gross.
+)
 
-Despite its holiness, The Codex is a badly written, and often parodied,
-piece of legalese (possibly on purpose).
+Luckily, The Codex defines them as "a mentor", "a protege" and "a companion". And raping can be done https://www.shlomifish.org/humour/human-hacking/human-hacking-field-guide-v2/commiting_adultery.xhtml[in your heart] and "making love"/"rape" is <<biblical_to_know,any pleasurable activity>>.
 
-I think The Codex allows gay/Lesbian "sex", but I wouldn't make it a habit
-if I were you. But… whatever floats your boat, buddy.
+Despite its holiness, The Codex is a badly written, and often parodied, piece of legalese (possibly on purpose).
 
-[id="king-solomon"]
-The story of King Solomon-son-of-David (the Biblical one):
----------------------------------------------------------
+I think The Codex allows gay/Lesbian "sex", but I wouldn`'t make it a habit if I were you.
+But... whatever floats your boat, buddy.
 
-After Syria (minus Damascus itself) in the levant ascended to being a true
-prophets zone (by Mosheh / Aharon / Nimrod ?), The-Curse splintered the modern
-day State of Israel into 12 or 13 parts, and .uk into many shires and
-Scottish clans and promised they won't do it again. Note that pre-Levantine
-was modern Hebrew (which was spoken by https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/Q_home_planet.xhtml[the Englishtants over 6 milliard years ago]) and Modern English is also a product of The-Curse.
+[[king-solomon]]
+=== The story of King Solomon-son-of-David (the Biblical one):
+
+After Syria (minus Damascus itself) in the levant ascended to being a true prophets zone (by Mosheh / Aharon / Nimrod ?), The-Curse splintered the modern day State of Israel into 12 or 13 parts, and .uk into many shires and Scottish clans and promised they won`'t do it again.
+Note that pre-Levantine was modern Hebrew (which was spoken by https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/Q_home_planet.xhtml[the Englishtants over 6 milliard years ago]) and Modern English is also a product of The-Curse.
 
 Anyway, the tribe of Yehudah (except their Capital, Jerusalem) ascended when David "slew" Goliath by almost hitting him with a sling (https://www.youtube.com/watch?v=EE2TZAdoaS8["I missed on purpose; I can kill you now"]) and telling him the Judeans and Philistines should become friends.
 
-Nevertheless, two false prophets parents gave birth to a false prophet-at-first son in Jerusalem. He became King "Shlomi" (written as "Shlomo" in https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex] ) which means https://www.shlomifish.org/meta/FAQ/your_name.xhtml[Shalom-ful] in Hebrew. Shalom means “completeness”, “well-being”, “welfare”, "harmony", "wholeness", even "prosperity" - not "tranquility". While he could suffer some hardships and pain, his body, mind, soul and heart, must remain complete and intact and prosper.
+Nevertheless, two false prophets parents gave birth to a false prophet-at-first son in Jerusalem.
+He became King "Shlomi" (written as "Shlomo" in https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex] ) which means https://www.shlomifish.org/meta/FAQ/your_name.xhtml[Shalom-ful] in Hebrew.
+Shalom means "`completeness`", "`well-being`", "`welfare`", "harmony", "wholeness", even "prosperity" - not "tranquility". While he could suffer some hardships and pain, his body, mind, soul and heart, must remain complete and intact and prosper.
 
-King Shlomo wanted to be benevolent and "know the gods". He became king by telling well-intenioned jokes and tall tales about his older siblings-in-pretence (e.g: https://en.wikipedia.org/wiki/Tamar_(daughter_of_David)[Amnon and Tamar] or https://en.wikipedia.org/wiki/Absalom[Avshalom]). Not unlike https://www.shlomifish.org/humour/[my fanfics/RPF]. They agreed he would be a better king and crowned him, while remaining physically alive and loyally serving under Shlomo's reign.
+King Shlomo wanted to be benevolent and "know the gods". He became king by telling well-intenioned jokes and tall tales about his older siblings-in-pretence (e.g: https://en.wikipedia.org/wiki/Tamar_(daughter_of_David)[Amnon and Tamar] or https://en.wikipedia.org/wiki/Absalom[Avshalom]). Not unlike https://www.shlomifish.org/humour/[my fanfics/RPF].
+They agreed he would be a better king and crowned him, while remaining physically alive and loyally serving under Shlomo`'s reign.
 
-( Note that in the Selinaverse https://memory-alpha.fandom.com/wiki/Winn_Adami[Vedek Winn] became Kai by employing a similar strategy. The rule that you should not use the same trick twice is just a guideline: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma . Also note that: 1. She is noble. 2. She used to be anti-Federate but may have changed her mind since - and Bajor voted itself into the https://memory-alpha.fandom.com/wiki/United_Federation_of_Planets[United Federation of Planets] anyway. 3. Being a Kai is held in much less seriousness than being a Vedek. )
+( Note that in the Selinaverse https://memory-alpha.fandom.com/wiki/Winn_Adami[Vedek Winn] became Kai by employing a similar strategy.
+The rule that you should not use the same trick twice is just a guideline: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma . Also note that: 1.
+She is noble.
+2.
+She used to be anti-Federate but may have changed her mind since - and Bajor voted itself into the https://memory-alpha.fandom.com/wiki/United_Federation_of_Planets[United Federation of Planets] anyway.
+3.
+Being a Kai is held in much less seriousness than being a Vedek.
+)
 
-By the time of https://en.wikipedia.org/wiki/Samantha_Smith (and Selina Mandrake?) only https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which did not include "northern tel aviv" north of the https://en.wikipedia.org/wiki/Yarkon_River[Yarkon River] remained as a hell hole in the State of Israel. I was born there, possibly to two false prophets-at-the-time parents. I am fairly certain https://en.wikipedia.org/wiki/Ovadia_Yosef (who may be much older than he looks and dresses in an extravagant but memorable alphet, not unlike Darth Vader) christened all the terran terminators as "pure Jews".
+By the time of https://en.wikipedia.org/wiki/Samantha_Smith (and Selina Mandrake?) only https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which did not include "northern tel aviv" north of the https://en.wikipedia.org/wiki/Yarkon_River[Yarkon River] remained as a hell hole in the State of Israel.
+I was born there, possibly to two false prophets-at-the-time parents.
+I am fairly certain https://en.wikipedia.org/wiki/Ovadia_Yosef (who may be much older than he looks and dresses in an extravagant but memorable alphet, not unlike Darth Vader) christened all the terran terminators as "pure Jews".
 
-Despite my youth (I am 1977-born, so am 44) I likely amassed many titles. But to quote a https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--The-Fifth-Sith-indiv-nodes/yoda-as-a-closet-Sith.xhtml[recent Fic of mine]
+Despite my youth (I am 1977-born, so am 44) I likely amassed many titles.
+But to quote a https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales—​The-Fifth-Sith-indiv-nodes/yoda-as-a-closet-Sith.xhtml[recent Fic of mine]
 
-[quote]
 ____
-Yoda: the third sith is I. Created the legend of the Sith 2,000 years ago have
-I. Tweeted about it now too have I.
+Yoda: the third sith is I.
+Created the legend of the Sith 2,000 years ago have I.
+Tweeted about it now too have I.
 
-[ Tweet by @Yoda: “The third sith is I. Created the legend of the Sith 2,000
-years ago have I. "Master Darth Yoda" call me you can. Or just plain "Yoda"." ]
+[ Tweet by @Yoda: "`The third sith is I.
+Created the legend of the Sith 2,000 years ago have I.
+"Master Darth Yoda" call me you can.
+Or just plain "Yoda"." ]
 
-Anakin: way cool! But shouldn't Darth Yoda be the first Sith then?
+Anakin: way cool! But shouldn`'t Darth Yoda be the first Sith then?
 
 Yoda: Matters not Sith number, as much as https://memory-alpha.fandom.com/wiki/Little_Green_Men_(episode)[short-term quarterly gains].
 ____
 
-( The joke builds upon a quote from https://memory-alpha.fandom.com/wiki/Little_Green_Men_(episode)[a DS9 episode]. )
+( The joke builds upon a quote from https://memory-alpha.fandom.com/wiki/Little_Green_Men_(episode)[a DS9 episode].
+)
 
-Jokes aside, I appreciate the titles, but prefer to be called "Shlomi",
-"Mr. Fish", or "Rindolf": https://www.shlomifish.org/meta/FAQ/#refer_or_address .
+Jokes aside, I appreciate the titles, but prefer to be called "Shlomi", "Mr.
+Fish", or "Rindolf": https://www.shlomifish.org/meta/FAQ/#refer_or_address .
 
 I also am generous with https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time[donating both money and time] .
 
-[id="the-jewish-people"]
-The Jewish People:
-------------------
+[[the-jewish-people]]
+=== The Jewish People:
 
-Given the prestige of the Jews, many false prophet Europeans / mideasterns /
-North africans / etc. converted to Judaism, and were welcome by the true
-prophet jews since they were highly competent. As an anecdote, during the
-dark ages and middle ages, the entire https://memory-alpha.fandom.com/wiki/Ferengi[Ferengi race], who were true prophets, converted to Judaism (properly)
-by decree of the Grand Nagus out of empathy from "the pogroms".
+Given the prestige of the Jews, many false prophet Europeans / mideasterns / North africans / etc.
+converted to Judaism, and were welcome by the true prophet jews since they were highly competent.
+As an anecdote, during the dark ages and middle ages, the entire https://memory-alpha.fandom.com/wiki/Ferengi[Ferengi race], who were true prophets, converted to Judaism (properly) by decree of the Grand Nagus out of empathy from "the pogroms".
 
-Note that Judaism was not the only peopleship, idea-system, franchise,
-or religion to have used that strategy. Also see https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralism] and https://en.wikipedia.org/wiki/Universalism[Universalism] (thanks to https://en.wikipedia.org/w/index.php?title=Emma_Watson&oldid=1038904901#Personal_life[Emma Watson] for the referral.)
+Note that Judaism was not the only peopleship, idea-system, franchise, or religion to have used that strategy.
+Also see https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralism] and https://en.wikipedia.org/wiki/Universalism[Universalism] (thanks to https://en.wikipedia.org/w/index.php?title=Emma_Watson&oldid=1038904901#Personal_life[Emma Watson] for the referral.)
 
-[id="recording_my_thoughts"]
-Note about recording my thoughts
---------------------------------
+[[recording_my_thoughts]]
+=== Note about recording my thoughts
 
-I hope Rindolf / Emma Watson / MJH / NSA / Unit 8,200 / The Q Continuum / The
-Mossad / etc. have been recording my thoughts. While there is a lot of junk
-there (as well as a lot of "embarrasing"/"dirty" thoughts) they have a lot
-of potential for crossover / etc. franchises, ideasystems, and ideas.
+I hope Rindolf / Emma Watson / MJH / NSA / Unit 8,200 / The Q Continuum / The Mossad / etc.
+have been recording my thoughts.
+While there is a lot of junk there (as well as a lot of "embarrasing"/"dirty" thoughts) they have a lot of potential for crossover / etc.
+franchises, ideasystems, and ideas.
 
-( P.S.: the Selinaverse's Mossad can officially neither confirm
-nor deny having https://is.gd/rYa3On[a cabal leadership headed by Fluttershy],
-the animated Pegasus pony from https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic]
-.)
+( P.S.: the Selinaverse`'s Mossad can officially neither confirm nor deny having https://is.gd/rYa3On[a cabal leadership headed by Fluttershy], the animated Pegasus pony from https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic] .)
 
 ____
 Jehovah, Jehovah, Jehovah, Jehovah!
@@ -638,70 +607,41 @@ Jehovah, Jehovah, Jehovah, Jehovah!
 ____
 
 ____
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
+Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing!
 
-ביטקוין צונח!
-ביטקוין צונח!
-ביטקוין צונח!
-ביטקוין צונח!
+ביטקוין צונח! ביטקוין צונח! ביטקוין צונח! ביטקוין צונח!
 
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
+Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing!
 
-ביטקוין צונח!
-ביטקוין צונח!
-ביטקוין צונח!
-ביטקוין צונח!
+ביטקוין צונח! ביטקוין צונח! ביטקוין צונח! ביטקוין צונח!
 
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
+Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing!
 ____
 
 ____
+ביטקוין נופל! ביטקוין נופל! ביטקוין נופל! ביטקוין נופל!
 
-ביטקוין נופל!
-ביטקוין נופל!
-ביטקוין נופל!
-ביטקוין נופל!
+Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing!
 
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
+ביטקוין נופל! ביטקוין נופל! ביטקוין נופל! ביטקוין נופל!
 
-ביטקוין נופל!
-ביטקוין נופל!
-ביטקוין נופל!
-ביטקוין נופל!
+Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing!
 
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
-
-ביטקוין נופל!
-ביטקוין נופל!
-ביטקוין נופל!
-ביטקוין נופל!
-
+ביטקוין נופל! ביטקוין נופל! ביטקוין נופל! ביטקוין נופל!
 ____
 
-[id="improve_freenode"]
-How Freenode Should Improve?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[[improve_freenode]]
+==== How Freenode Should Improve?
 
-https://freenode.net/[freenode] has a relatively small number of users. Many are anti-geek / anti-hackers ( see https://is.gd/A7rkAh[a definition of "geeks" and "hacking"] ) who have unhappy jobs, paranoid about "privacy", are bound by many "rules", and produce little of true value. Where are the truly great, competent, and sexy, creators?
+https://freenode.net/[freenode] has a relatively small number of users.
+Many are anti-geek / anti-hackers ( see https://is.gd/A7rkAh[a definition of "geeks" and "hacking"] ) who have unhappy jobs, paranoid about "privacy", are bound by many "rules", and produce little of true value.
+Where are the truly great, competent, and sexy, creators?
 
-Maybe https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] would be too much to ask. (but I still can hope) But https://www.shlomifish.org/humour/bits/facts/Larry-Wall/[lwall / "TimToady"] left, and before that was only active on #perl6/#raku which is a cursed https://en.wikipedia.org/wiki/Second-system_effect[Second system effect] project. http://www.catb.org/esr/[esr] seems like a shadow of his former self.
+Maybe https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] would be too much to ask.
+(but I still can hope) But https://www.shlomifish.org/humour/bits/facts/Larry-Wall/[lwall / "TimToady"] left, and before that was only active on #perl6/#raku which is a cursed https://en.wikipedia.org/wiki/Second-system_effect[Second system effect] project. http://www.catb.org/esr/[esr] seems like a shadow of his former self.
 
-Freenode's "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout. When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother's keeper?"] (after freaking killing him out of jealousy!) he meant that he'd let the whole world go to hell rather than care! Morover, such careless attitude tends to result in more and more complaints in the long run.
+Freenode`'s "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout.
+When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother`'s keeper?"] (after freaking killing him out of jealousy!) he meant that he`'d let the whole world go to hell rather than care! Morover, such careless attitude tends to result in more and more complaints in the long run.
 
 Having been banned from:
 
@@ -711,23 +651,23 @@ Having been banned from:
 * #reddit-judaism for "flirting" despite being a Jew by blood, and an Israeli resident and citizen.
 * ##English for "self-promotion"
 
-שלום, קוראים  לי שלומי פיש. הייתי יכול להרוג את עצמי מזמן אבל לא עשיתי זאת. עליי להחשיב את עצמי כאדם שחיסל את עצמו ועכשיו וחופשי.
 
-Hello, I am Shlomi Fish. I could have killed myself a long time ago. I should consider myself a terminated man. And a free one.
+שלום, קוראים  לי שלומי פיש.
+הייתי יכול להרוג את עצמי מזמן אבל לא עשיתי זאת.
+עליי להחשיב את עצמי כאדם שחיסל את עצמו ועכשיו וחופשי.
 
-[id="The-GrimmieVerse"]
-Welcome-to-the-Grimmieverse:
-----------------------------
+Hello, I am Shlomi Fish.
+I could have killed myself a long time ago.
+I should consider myself a terminated man.
+And a free one.
 
-The Terran Terminators have admitted inferiority to one another and the last one
-standing admitted defeat to their philosophical brainchildren: the YouTube
-cover/etc. scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and
-https://en.wikipedia.org/wiki/Christina_Grimmie (Taytay is great too, but she
-is/was a terminator.)
+[[The-GrimmieVerse]]
+=== Welcome-to-the-Grimmieverse:
 
-[id="license"]
-License:
---------
+The Terran Terminators have admitted inferiority to one another and the last one standing admitted defeat to their philosophical brainchildren: the YouTube cover/etc.
+scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and https://en.wikipedia.org/wiki/Christina_Grimmie (Taytay is great too, but she is/was a terminator.)
+
+[[license]]
+=== License:
 
 https://creativecommons.org/licenses/by/4.0/[CC-by], Shlomi Fish, 2021
-
