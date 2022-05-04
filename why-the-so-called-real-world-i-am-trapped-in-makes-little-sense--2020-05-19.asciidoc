@@ -133,7 +133,8 @@ https://twitter.com/shlomif/status/1418433188091793412["If you're the smartest p
 "People" online are afraid of hearing contrasting views, yet are often cruel enough to block/ban/devoice contrarians. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage criticism].
 
 A correspondent told me that "[a flat] 100% of the https://en.wikipedia.org/wiki/Aleppo_Codex is crap." Then I gave https://biblehub.com/parallel/1_kings/20-11.htm as a counterexample, and there was no commentary for it in a site of atheist objections.
-____
+
+''''
 
 https://twitter.com/shlomif/status/1407204486985175043
 
@@ -143,7 +144,8 @@ Likewise with the 'Asperger syndrome': https://shlomifish.org/meta/FAQ/asperger_
 
 arduino is a mirage of the devils just like Angular / react.js and bitcoin and
 discord.gg .
-____
+
+''''
 
 Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rocck?
 
@@ -153,11 +155,11 @@ Electrical / Internet / water / gas / etc. wiring happens by magic.
 
 Many classics are needlessly long and repetitive, e.g: https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex]
 
-----
+____
 “Oh, it was definitely an instructive service. However, there was one thing which bothered both me and my late comrades: they kept lecturing to us how bad the Enemy was, and why we must fight it. I think half of our training time was wasted on such lectures. We knew the Enemy was bad, and that was the reason why we joined the Organisation in the first place!
 
 In my opinion, it was completely unnecessary. Perhaps they thought that without those brainwashes we would have reached the conclusion that there is no rationale behind the activity against the Enemy. Most of us reached that conclusion a few months, if not less, after we joined the Organisation and we still kept fighting. So they didn’t have a reason to go to this length and just bother us.”
-----
+____
 
 — https://www.shlomifish.org/humour/TheEnemy/The-Enemy-English-v7.html
 
@@ -623,8 +625,7 @@ nor deny having https://is.gd/rYa3On[a cabal leadership headed by Fluttershy],
 the animated Pegasus pony from https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic]
 .)
 
----
-
+____
 Jehovah, Jehovah, Jehovah, Jehovah!
 
 יהוה, יהוה, יהוה, יהוה!
@@ -634,19 +635,9 @@ Jehovah, Jehovah, Jehovah, Jehovah!
 יהוה, יהוה, יהוה, יהוה!
 
 Jehovah, Jehovah, Jehovah, Jehovah!
+____
 
----
-
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
-Bitcoin is crashing!
-
-ביטקוין צונח!
-ביטקוין צונח!
-ביטקוין צונח!
-ביטקוין צונח!
-
+____
 Bitcoin is crashing!
 Bitcoin is crashing!
 Bitcoin is crashing!
@@ -662,7 +653,18 @@ Bitcoin is crashing!
 Bitcoin is crashing!
 Bitcoin is crashing!
 
----
+ביטקוין צונח!
+ביטקוין צונח!
+ביטקוין צונח!
+ביטקוין צונח!
+
+Bitcoin is crashing!
+Bitcoin is crashing!
+Bitcoin is crashing!
+Bitcoin is crashing!
+____
+
+____
 
 ביטקוין נופל!
 ביטקוין נופל!
@@ -688,6 +690,8 @@ Bitcoin is crashing!
 ביטקוין נופל!
 ביטקוין נופל!
 ביטקוין נופל!
+
+____
 
 [id="improve_freenode"]
 How Freenode Should Improve?
