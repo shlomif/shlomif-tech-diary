@@ -1,5 +1,5 @@
-= The demons:
-2022-02-12
+= the Multiverse's cosmology v0.4.x [by Shlomi Fish]
+2022-05-06
 
 [[the-demons]]
 == The demons:
@@ -558,7 +558,8 @@ The devils/orcs used it to fork entire universes.
 Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix fork() system call], wizard souls in forked universes are aware that they are the "child process". False prophet souls however didn't have that privilege! 
 
 There are https://www.reddit.com/r/linux/comments/9m8yi7/there_are_forks_of_existing_projects_but_are/[mergers / joins] too.
-Also note https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/starved_of_employees.xhtml[Microsoft Windows being merged into GNU, Linux, and WINE]. 
+Also note https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/starved_of_employees.xhtml[Microsoft Windows being merged into GNU, Linux, and WINE].
+Do note that the two-or-more original souls remain intact and may reappear in different contexts in the future. 
 
 [[rationality]]
 == "Rationality":
