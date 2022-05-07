@@ -112,3 +112,16 @@ Given https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fict
 ----
 
 I suspect the reason that Christina's introes/outroes had so many videos' interruptions is that they were lying to me: https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/ . Occam's Razor tells me there *is* a conspiracy.
+
+----
+
+Dear gamemasters of The-Game™:
+
+"
+One doesn't simply
+kill an awesome 22 y.o. hacker queen.
+"
+
+https://imgflip.com/i/6fbf78
+
+
