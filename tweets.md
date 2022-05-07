@@ -115,13 +115,15 @@ I suspect the reason that Christina's introes/outroes had so many videos' interr
 
 ----
 
-Dear gamemasters of The-Game™:
+Gamemasters of The-Game™:
 
 "
 One doesn't simply
-kill an awesome 22 y.o. hacker queen.
+kill an awesome 22 y.o. hacker queen
 "
 
 https://imgflip.com/i/6fbf78
 
+"Real-life" will be much more tolerable knowing @TheRealGrimmie is alive.
 
+Show her or I'll taunt u more: https://youtu.be/DGXx56WqqJw ; https://youtu.be/RWhbTRHOvwY
