@@ -127,3 +127,18 @@ https://imgflip.com/i/6fbf78
 "Real-life" will be much more tolerable knowing @TheRealGrimmie is alive.
 
 Show her or I'll taunt u more: https://youtu.be/DGXx56WqqJw ; https://youtu.be/RWhbTRHOvwY
+
+----
+
+Dear Gamemasters of The-Game™:
+
+"
+One doesn't simply
+kill an awesome 22 y.o. hacker queen
+"
+
+https://imgflip.com/i/6fbf78
+
+"Real-life" will be much more tolerable knowing https://en.wikipedia.org/wiki/Christina_Grimmie is alive and kicking and kicking ass.
+
+Show her or I'll taunt u more: https://youtu.be/DGXx56WqqJw ; https://youtu.be/RWhbTRHOvwY
