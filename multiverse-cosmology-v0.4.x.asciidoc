@@ -1,4 +1,4 @@
-= the Multiverse's cosmology v0.4.x [by Shlomi Fish]
+= The multiverse's cosmology v0.4.x [by Shlomi Fish]
 2022-05-06
 
 [[the-demons]]
