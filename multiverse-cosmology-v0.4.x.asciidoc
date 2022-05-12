@@ -135,7 +135,7 @@ I admit that the relationship between technology and link:#magic[magic] is still
 One fact I know is that technology is often spiritual, or digital.
 Human language is not only a tool of communication, but also a tool of thought. 
 
-.
+. One can say "cry wolf" to refer to https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf[The Boy Who Cried Wolf], e.g. in "saying that Microsoft plans to embrace&extend GNU is 'cry wolf'". 
 
 
 [[prevalence-of-souls]]
@@ -658,6 +658,9 @@ SMG and her team also joined mine.
 One thing Emma Watson disapproved of was a liberal use of time wraps and time travel.
 She wanted to have a rough sense of the passage of the "real time" and so used them only during emergencies.
 MJH agreed to disagree on that with her given Watson and her team still got a lot done. 
+
+however, at ~1998, MJH was hoping to get me slain ASAP, but the devils fought back and filled my head with fictional delusions.
+After I sided with Watson, MJH passed the leadership to her, and decided to limit her own use of time wraps. 
 
 [[sorry]]
 == Sorry for the inconvenience:
