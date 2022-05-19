@@ -11,6 +11,7 @@
 <para>URL: <link xl:href="https://is.gd/1vNvze">https://is.gd/1vNvze</link></para>
 <para>Here are some reasons the outside world as I perceive it makes little sense:</para>
 <para>( Also see <link xl:href="https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc">multiverse cosmology v0.4.x document</link>. )</para>
+
 <section xml:id="_the_epistemological_demons">
 <title>The epistemological demons:</title>
 <para>We seem to be dealing with epistemological demons.</para>
@@ -59,8 +60,11 @@
 </listitem>
 </itemizedlist>
 </section>
+
 <section xml:id="more-thoughts">
+
 <title>More thoughts:</title>
+
 <para><link xl:href="https://www.explainxkcd.com/">xkcd</link> had some RPF (= <link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/">"Real Person Fiction"</link>, e.g: <link xl:href="https://www.explainxkcd.com/wiki/index.php/406:_Venting">https://www.explainxkcd.com/wiki/index.php/406:_Venting</link> ), and my <link xl:href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/">https://www.shlomifish.org/humour/Summerschool-at-the-NSA/</link> was well-received on <link xl:href="https://www.reddit.com/r/xkcd/">/r/xkcd</link> and elsewhere. Nevertheless, later on I was told "RPF? Never do that!" on an xkcd IRC chatroom, and was promptly banned.</para>
 <para>"People" online are afraid of <link xl:href="http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/">critics and contrarians</link> and yet sadistic enough to ban non-spammers.</para>
 <para>It is not clear whether bigger muscles imply that a person is physically stronger or not.</para>
@@ -184,32 +188,44 @@ reluctantly ( &lt;q&gt;Selina: OK, OK. Tell you what? I’ll play along.&lt;/q&g
 Nevertheless, the introes and outroes of Grimmie&#8217;s videos, and also those
 of other artists I liked (e.g.: <link xl:href="https://www.tiffanyalvord.com/">Tiffany Alvord</link> )
 contain many cuts, likely because they were lying to me.</para>
+
 <section xml:id="obstacles-and-delays">
+
 <title>Obstacles and Delays:</title>
+
 <orderedlist numeration="arabic">
+
 <listitem>
 <para>Pro/anti-Israel; Pro/anti-"Zionism" - <link xl:href="https://www.shlomifish.org/philosophy/politics/define-zionism/">https://www.shlomifish.org/philosophy/politics/define-zionism/</link> / <link xl:href="https://www.shlomifish.org/meta/FAQ/zionist.xhtml">https://www.shlomifish.org/meta/FAQ/zionist.xhtml</link></para>
+
 <orderedlist numeration="loweralpha">
+
 <listitem>
 <para>"Israel is a Nazi Country"</para>
 </listitem>
+
 <listitem>
 <para>"Zionism = Racism"</para>
 </listitem>
+
 <listitem>
 <para>"Tel Aviv is a rock in the desert"</para>
 </listitem>
+
 </orderedlist>
 </listitem>
+
 <listitem>
 <para><link xl:href="https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators&#8212;&#8203;despair.md#facing-some-criticism">Criticism against Static Site Generation</link></para>
 </listitem>
 <listitem>
 <para>Licence Proliferation and incompatiblity: <link xl:href="https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/rev2/">https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/rev2/</link> ; <link xl:href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#i-want-to-release-my-code---which-open-source-licence-should-i-use">https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#i-want-to-release-my-code---which-open-source-licence-should-i-use</link> .</para>
 </listitem>
+
 <listitem>
 <para>"your writings are 'too smart'"</para>
 </listitem>
+
 <listitem>
 <para>"Act naturally"</para>
 <orderedlist numeration="loweralpha">
@@ -218,18 +234,23 @@ contain many cuts, likely because they were lying to me.</para>
 </listitem>
 </orderedlist>
 </listitem>
+
 <listitem>
 <para>"XHTML is deprecated"</para>
 </listitem>
+
 <listitem>
 <para>"People are stupid"</para>
 </listitem>
+
 <listitem>
 <para><link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml">"No self-promotion"</link></para>
 </listitem>
+
 <listitem>
 <para><link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml">Hollywood’s mandated screenplay format</link> - finicky and boring.</para>
 </listitem>
+
 <listitem>
 <para>"Geeks are shy and anti-social"</para>
 <orderedlist numeration="loweralpha">
@@ -237,13 +258,41 @@ contain many cuts, likely because they were lying to me.</para>
 <para><link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml">https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml</link></para>
 </listitem>
 <listitem>
-<para><link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur">https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur</link><emphasis>vs</emphasis>conformism_and_professional.xhtml</para>
+<para><link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml">Geek/hackers</link></para>
 </listitem>
 </orderedlist>
 </listitem>
+
+<listitem>
+<para>
+My 9th grade literature teacher said Philosophy is bad (she must have studied Philosophy for her B.A.)
+</para>
+</listitem>
+
+<listitem>
+<para>
+Labelled as "self-centred"
+</para>
+</listitem>
+
+<listitem>
+<para>
+Labelled as "passive-aggressive"
+</para>
+</listitem>
+
+<listitem>
+<para>
+Labelled as <link xlink:href="https://www.shlomifish.org/meta/FAQ/asperger_syndrome.xhtml">asperger</link>
+</para>
+</listitem>
+
 </orderedlist>
+
 </section>
+
 </section>
+
 <section xml:id="selinaverse_vision">
 <title>The Selinaverse Vision</title>
 <para><link xl:href="https://buffyfanfiction.fandom.com/wiki/Selinaverse">The Selinaverse</link> is a starting point for the multiverse as I (= <link xl:href="https://www.shlomifish.org/">Shlomi Fish</link> ) want it to be, not as what I was told it must be. Namely:</para>

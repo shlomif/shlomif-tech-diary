@@ -235,7 +235,11 @@ Tell you what? I`'ll play along.</q> ). Nevertheless, the introes and outroes of
 . "Geeks are shy and anti-social"
 
 [loweralpha].. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml
-.. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml
+.. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Geek/hackers]
+. My 9th grade literature teacher said Philosophy is bad (she must have studied Philosophy for her B.A.) 
+. Labelled as "self-centred" 
+. Labelled as "passive-aggressive" 
+. Labelled as link:asperger
 
 
 [[selinaverse_vision]]
