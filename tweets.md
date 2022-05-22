@@ -142,3 +142,7 @@ https://imgflip.com/i/6fbf78
 "Real-life" will be much more tolerable knowing https://en.wikipedia.org/wiki/Christina_Grimmie is alive and kicking and kicking ass.
 
 Show her or I'll taunt u more: https://youtu.be/DGXx56WqqJw ; https://youtu.be/RWhbTRHOvwY
+
+----
+
+Note that given the choice, I'd rather throw a small twig down a chasm than a kitten or a puppy. I'd also delete an empty file instead of the last known copy of GNU coreutils' sources.
