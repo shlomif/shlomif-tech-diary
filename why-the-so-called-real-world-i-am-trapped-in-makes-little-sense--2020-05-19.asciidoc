@@ -39,7 +39,7 @@ Prior art for my situation:
 * http://www.earthstar.co.uk/deep3.htm[H2G2`'s Planet Earth as a Computer] - «"I speak of none other than the computer that is to come after me," intoned Deep Thought, his voice regaining its accustomed declamatory tones. "A computer whose merest operational parameters I am not worthy to calculate - and yet I will design it for you. A computer which can calculate the Question to the Ultimate Answer, a computer of such infinite and subtle complexity that organic life itself shall form part of its operational matrix. And you yourselves shall take on new forms and go down into the computer to navigate its ten-million-year program! Yes! I shall design this computer for you. And I shall name it also unto you. And it shall be called ...​ The Earth."»
 * https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as-technicians[God and his angels as implementing humans' perception of the universe] - an epistemological allegory
 * https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers - my chat friends become inhuman.
-* https://www.youtube.com/watch?v=gdbh6GUJ5XY[Ghost story] - food tastes the same (despite proclemation of being freshly made).
+* https://www.youtube.com/watch?v=gdbh6GUJ5XY[Pirates of the Caribean: Ghost story] - food tastes the same (despite proclemation of being freshly made).
 
 
 [[more-thoughts]]
@@ -161,7 +161,7 @@ arduino is a mirage of the devils just like Angular / react.js and bitcoin and d
 
 '''
 
-Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rocck?
+Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rock?
 
 "People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
 
@@ -213,6 +213,10 @@ https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie`'s song "Feelin' G
 
 I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( <q>Selina: OK, OK.
 Tell you what? I`'ll play along.</q> ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
+
+My 9th grade literature teacher told us that https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[philosophy / philosophising] was bad! 
+
+I saw badly photoshopped people on the streets while I was walking outside. 
 
 [[obstacles-and-delays]]
 === Obstacles and Delays:
