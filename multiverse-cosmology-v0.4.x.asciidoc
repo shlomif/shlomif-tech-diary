@@ -751,6 +751,9 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-ca
 .. https://www.youtube.com/watch?v=tb3_XJxx8Mg["Hurt me tomorrow [Tiffany Alvord] singalong cover - YouTube"]
 .. https://www.shlomifish.org/humour/fortunes/show.cgi?id=the-story-of-Julia-Vins-in-the-Shlomifverse["The story of Julia Vins in the Shlomifverse [RPF] - Fortune"]
 .. https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Take-It-Over-indiv-nodes/Gul-Dukat-and-TheRealGrimmie-live-on-metaPlanet1.xhtml["Queen Padmé Tales: Gul Dukat and @TheRealGrimmie Live on meta-Planet-1"]
+* Precursors: 
+** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-2022)"]
+** https://www.shlomifish.org/meta/nav-blocks/blocks/#commercial_fanfic_initiative_nav_block["Commercial Fan-fiction Initiative"]
 
 
 [[license]]
