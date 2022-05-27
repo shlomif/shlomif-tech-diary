@@ -711,7 +711,8 @@ They all have enough food and the main reason they still accept money or mana do
 
 But like in https://www.youtube.com/watch?v=QNJL6nfu__Q[Michael Jackson's "They don't care about us"] , they crave link:#love-and-knowledge[love], attention, self-esteem and even https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/meaning-of-able-competent.xhtml[fame].
 
-So I/we will always play catchup. 
+So I/we will always play catchup.
+I was also unaware of many details of link:#ramatavivgimel[my neighbourhood] despite having lived here for decades. 
 
 Nevertheless, when a friend gives you a link to a tweet, or a song, or a captioned image, or a short Sesame Street skit - don't tell him you are now focusing on Ancient Greek philosophy.
 Moreover, traditional classical music concerts are the https://en.wikipedia.org/wiki/The_Emperor's_New_Clothes["The Emperor's New Clothes"] syndrome, as http://esr.ibiblio.org/?p=4229[Noted by Eric Raymond] and exemplified by https://exploringyourmind.com/a-violinist-in-the-subway-proof-that-we-look-without-really-seeing/[the Joshua Bell "Violinist in the Subway" experiment]. 
@@ -723,9 +724,9 @@ https://www.youtube.com/watch?v=LnSYihRoGA4[I want to try everything]
 I also want to attend some Satanists' conventions.
 I'm still a big fan of the Satans despite them deceiving me, and I likely had an easier time than even my father's father who escaped from the Nazis through the west USSR, and Iran, until settling in Tel Aviv.
 I have been willing to suffer a little more, if it meant that future generations will suffer much less.
-And as I like to say "If I didn't want excitement in my life https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/[I'd go watch grass grow]". 
+And as I like to say "If I didn't want excitement in my life, then https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/[I'd go watch grass grow]". 
 
-I believe most of their conventions happen at day time, and are attended by attractive https://en.wiktionary.org/wiki/MOTAS[MOTASs], only a minority of whom have a Goth look. 
+I believe most of their conventions happen at day time, and are attended by attractive https://en.wiktionary.org/wiki/MOTAS[MOTASs], of whom only a minority have a Goth look. 
 
 In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic[a Hegelian dialectic] of "thesis -> antithesis -> synthesis". I also have been "changing ponies in midwater": changing intermediate conclusions, while keeping a similar end result. 
 
@@ -739,7 +740,7 @@ I disbelieve it.
 == See Also:
 
 * https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Fan page for Christina Grimmie]
-* https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc[A less organised but more comprehensive doc about the devils and the "real world"].
+* https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc[A less organised, but more comprehensive in parts, document about the devils and the "real world"].
 +
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
