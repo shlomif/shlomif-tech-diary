@@ -4,7 +4,13 @@
 [[the-demons]]
 == The demons:
 
-The demons (aka "values", or "fairies" or "memes") are a race of epistemological (or https://en.wikipedia.org/wiki/Theory_of_forms[Platonic ideals]) organisms.
+The demons are a race of epistemological (or https://en.wikipedia.org/wiki/Theory_of_forms[Platonic ideals]) organisms.
+they are a.k.a: 
+
+* "values" 
+* "memes" 
+* "fairies" 
+
 
 [[love-and-knowledge]]
 == Love / Knowledge / Creativity:
@@ -84,7 +90,7 @@ https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia" / "Fantastica"
 Hyperlinks and references are common in Fantastecha ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referencial or circular links] are prevalent and tolerated.
 
 There *is* a difference between real and imaginary.
-We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or https://shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
+We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
   's death] and feature them in artworks (e.g.
 "fics") and essays.
 However, they were not really real for us. 
@@ -166,6 +172,8 @@ Angels starting like that are hereby referred to as "false prophets" (where http
 Outcomes of actions in The-Game were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"].
 
 Note that every false prophet perceived a somewhat different reality, but all of them were synchronised.
+
+*note:* many humans were born as wizards, and still had their share of flaws, and were/are part of The-Game(TM). 
 
 [[the-orcs]]
 == The Orcs:
