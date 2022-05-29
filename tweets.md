@@ -152,3 +152,9 @@ Note that given the choice, I'd rather throw a small twig down a chasm than a ki
 Hi all. After tweaking https://www.shlomifish.org/humour/Queen-Padme-Tales/teaser/ [orig] into https://www.shlomifish.org/__Beta-kmor/humour/Queen-Padme-Tales/teaser/ [deriv], then div.story 's lower edge is wrong (after pressing 'play'), and its height does not encompass the whole height of the viewport. How to fix?
 
 See https://www.shlomifish.org/Files/files/images/Screenshot_2022-05-24_13-35-04.webp for a screenshot, and the problem changes are https://github.com/shlomif/Star-Wars-opening-crawl-from-1977-Remake/commit/1fa44c374aa739c0e95ea36bbba8b4e44f32d886 .
+
+----
+
+I recently have been picking up litter objects from the pavements lest future pedestrians will slip or get injured. "be excellent2each other." https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/ ; #TheGoldenRule
+
+
