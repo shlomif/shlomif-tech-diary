@@ -223,6 +223,8 @@ As a result, false prophets were usually born to two false prophet parents.
 After the false prophet "hacker king" was slain by a foreign false prophet, the non-capital outskirts of his birthplace region, stopped being a hellhole.
 One more time and the mystical capital was liberated.
 
+When a liberation happened, the universe link:#forking-and-merging[was forked] into a parent and child universes. 
+
 [[zionism]]
 == "Zionism":
 
@@ -245,8 +247,9 @@ This was probably due to the effect of The Muppet Show and other Television seri
 
 In 1982 it seemed likely that https://en.wikipedia.org/wiki/Jim_Henson[Jim Henson] would be Earth`'s ultimate false prophet.
 But Henson was increasingly unhappy: worried about a possible Nuclear Winter, about Environmental issues, and thinking the Muppets franchise was unpopular and silly.
+Moreover, hell holes' liberation [followed by universe forks] happened at a dazzling rate.
 
-https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] thought "it is too easy! where's the challenge in that?", and eventually Henson admitted inferiority to the team of https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], Whedon, (and https://buffy.fandom.com/wiki/Buffy_Summers[Buffy Summers]?), and was slain and relieved.
+https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] thought to himself "it is too easy! where's the challenge in that?", and eventually Henson admitted inferiority to the team of https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], Whedon, (and https://buffy.fandom.com/wiki/Buffy_Summers[Buffy Summers]?), and was slain and relieved.
 If Jim Henson was the new Walt Disney, then Joss Whedon was poised to be the new Jim Henson.
 
 https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], a 1972-born American girl and a false prophet, engaged in a snailmail dialogue with the secretary of the USSR. https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] joined forces with Henson and they both suggested using the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The Muppet Show] to air a The Muppet Show special starring her with the ascension mantra.
@@ -283,7 +286,7 @@ At its end, they can opt to reset their memory banks almost completely and becom
 Several newly-ascended true prophets opted out, from various reasons, mostly because they had children or enjoyed their newfound powers . E.g: https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/[Chuck Norris] or https://zak.co.il/[Omer Zak] or https://en.wikipedia.org/wiki/Elizabeth_II[Queen Elizabeth II] or https://en.wikipedia.org/wiki/%22Weird_Al%22_Yankovic["`Weird
 Al`" Yankovic] . They still often "got sucked" into The-Game(TM). I shall call them "the dropouts". 
 
-The remaining spent the summer there creating many crossover memes, stories, and franchises, or otherwise enjoying magic, life, love/etc.. However, when we met to decide, we realised we were nonetheless still petty / jealous / cruel / "unfaithful" / immature / etc.
+The remaining spent the summer there creating many crossover memes, stories, hacks, and franchises, or otherwise enjoying magic, life, love/etc.. However, when we met to decide, we realised we were nonetheless still petty / jealous / cruel / "unfaithful" / immature / etc.
 Some had years, or decades (or centuries) of history they wanted to get rid of.
 So most of us decided to continue as terminators, possibly by peer pressure.
 
@@ -398,9 +401,11 @@ Do note that despite the geek stereotype, I haven't been shy, just prone to stut
 
 I joked that, similar to https://hoover.blogs.archives.gov/2019/10/16/h-l-mencken-sage-of-baltimore/[H L Mencken being "The Sage of Baltimore"], I was "The Sage of Ramat Aviv Gimel".
 
-My slaying was boosted after https://www.shlomifish.org/meta/FAQ/site_history.xhtml[I set up a static personal website] which became https://www.shlomifish.org/[www.shlomifish.org].
+My slaying was boosted after https://www.shlomifish.org/meta/FAQ/site_history.xhtml[I
+set up a static personal website] which became https://www.shlomifish.org/[www.shlomifish.org].
 The devils promised it will be displayed verbatim among other terminators.
-Various Internet people told me I https://www.shlomifish.org/meta/FAQ/#please_delete_offensive_stuff[should delete offensive content] or https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[convert the service to use PHP/RoR/etc.], but I didn`'t heed them.
+Various Internet people told me I https://www.shlomifish.org/meta/FAQ/#please_delete_offensive_stuff[should delete offensive content] or https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[convert
+the service to use PHP/RoR/etc.], but I didn`'t heed them.
 They were likely mirages of the devils and the orcs.
 
 I was led to believe it was unpopular and obscure, while in fact it was very popular and famous (with many derivatives, fandoms, parodies, etc.) outside my mind`'s hellhole.
