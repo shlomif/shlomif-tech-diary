@@ -711,7 +711,7 @@ When Emma Watson volunteered to help manage me and Rindolf, she started as a Sys
 When news broke about it, Watson was in tears, but MJH told her they saw an increase in donations and that "War is good for business". So she gave Emma a raise, and made her "a vice president in charge of marketing". 
 
 In 1995, Emma Watson and her parents relocated from Paris, to Tel Aviv and Greater London, as by that time, she provided most income, and her parents were helping her.
-This was motivated to reduce context switches, and because the Parisians she talked with were annoyed by her absentmindedly using English and Hebrew paradigms in speech. 
+This was motivated by the desire to reduce context switches, and because the Parisians she talked with were annoyed by her absentmindedly using English and Hebrew paradigms in speech. 
 
 With Emma's help, https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] was terminated by my team, and ascended into a true prophet.
 SMG and her team also joined mine. 
@@ -740,7 +740,7 @@ The lives of Emma, https://buffyfanfiction.fandom.com/wiki/Kate_(Selinaverse)[Mi
 
 If we are to believe https://en.wikipedia.org/wiki/Cogito%2c%5fergo%5fsum[Cogito, ergo sum] , the only thing I can be sure of is that I exist.
 However, as cool as I may be, I doubt my mind alone could conceive the awesome action heroes listed https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/notable-hacker-monarchs.xhtml[on this page] including Saladin, Walt Disney, Jim Henson, and Aristotle - most of whom have ample evidence for being real.
-And given my present mediocre Inkscape 2-D vector graphics skills, I am enthralled even by the 2-and-a-half dimensions graphics of 1990s games (e.g: https://en.wikipedia.org/wiki/Monkey_Island_2%3A_LeChuck%27s_Revenge[Monkey Island 2] ; https://streetfighter.fandom.com/wiki/Street_Fighter_II_%28series%29[Street Fighter II] ; ) and those of https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic] .
+And given my present mediocre Inkscape 2-D vector graphics skills, I am enthralled even by the 2-and-a-half dimensions graphics of 1990s computer games (e.g: https://en.wikipedia.org/wiki/Monkey_Island_2%3A_LeChuck%27s_Revenge[Monkey Island 2] ; https://streetfighter.fandom.com/wiki/Street_Fighter_II_%28series%29[Street Fighter II] ; https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War[Quest for Glory III]) and those of https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony: Friendship is Magic] .
 
 Let me share a non-secret: what I wrote is a simplification ( https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/willow_putting_her_daughter_to_bed.xhtml["Honesty is a process"], https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/orientation_day__team.xhtml["can`'t help speaking in riddles"] ). 
 
@@ -751,7 +751,7 @@ Let me share a non-secret: what I wrote is a simplification ( https://www.shlomi
 
 There are thousands of villages in Africa, each one with a different culture.
 
-There are millions of interesting https://is.gd/A7rkAh[geeks] in the Israel's electorate alone.
+There are millions of interesting https://is.gd/A7rkAh[geeks] in the Israeli electorate alone.
 
 There are over 40,000 distributions on https://www.cpan.org/[CPAN] .
 
