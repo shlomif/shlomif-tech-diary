@@ -680,18 +680,13 @@ Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29 ) is TheCreator.
 ( I`'m speaking in generalisations.
 )
 
-https://memory-alpha.fandom.com/wiki/Bajoran[The Bajorans] became wizards by interpreting the 'prophecies' of the timeless aliens of the wormhole.
+* https://memory-alpha.fandom.com/wiki/Bajoran[The Bajorans] became wizards by interpreting the 'prophecies' of the timeless aliens of the wormhole.
+* The https://memory-alpha.fandom.com/wiki/Klingon[Klingons] became wizards by using metaphors for physical warfare. (e.g: https://is.gd/zfQlsH[Queen Padmé Tales: Pilot: Queen Amidala vs. the Klingon Warriors] )
+* The https://memory-alpha.fandom.com/wiki/Ferengi[Ferengi] became wizards by advocating greed, trickery - and even deceit.
+* https://starwars.fandom.com/wiki/Yoda[Yoda] became a wizard by advocating self-control, peacefulness, and a Stoic state of mind.
+* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml[Ezekiel] became a wizard by being a standup comedian.
+* https://en.wikipedia.org/wiki/Felicia_Day[Felicia Day] started as a computer games' addict, which I had been one as well (and she wasn`'t a one-trick-pony).
 
-The https://memory-alpha.fandom.com/wiki/Klingon[Klingons] became wizards by using metaphors for physical warfare.
-(e.g: https://is.gd/zfQlsH[Queen Padmé Tales: Pilot: Queen Amidala vs. the Klingon Warriors] )
-
-The https://memory-alpha.fandom.com/wiki/Ferengi[Ferengi] became wizards by advocating greed, trickery - and even deceit.
-
-https://starwars.fandom.com/wiki/Yoda[Yoda] became a wizard by advocating self-control, peacefulness, and a Stoic state of mind.
-
-https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml[Ezekiel] became a wizard by being a standup comedian.
-
-https://en.wikipedia.org/wiki/Felicia_Day[Felicia Day] started as a computer games' addict, which I had been one as well (and she wasn`'t a one-trick-pony).
 
 [[shlomif-watchers-and-whichers]]
 == My watchers and whichers
@@ -732,7 +727,7 @@ Anyway, part of Emma's motivation in playing Hermione in the first Harry Potter 
 She and the other actors were also instructed to play https://twitter.com/shlomif/status/1486799232971464704[hackily and in a "so bad it's good" manner]. 
 
 At ~2011 when I wrote https://www.shlomifish.org/humour/Selina-Mandrake/cast.html[the proposed cast page of Selina Mandrake - The Slayer], I picked her to play Selina.
-At 2014 when https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-jobs-EmWatson-Saladin-knights-Templar[someone on freenode`'s #perl insulted her looks], I felt like he was being blasphemous (= https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%9C%D7%95%D7%9C_%D7%94%D7%A7%D7%95%D7%93%D7%A9["חילול הקודש"]). Watson was not a mere actress for me.
+At 2014 when https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-jobs-EmWatson-Saladin-knights-Templar[someone on freenode`'s #perl insulted Emma`'s looks], I felt like he was being blasphemous (= https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%9C%D7%95%D7%9C_%D7%94%D7%A7%D7%95%D7%93%D7%A9["חילול הקודש"]). Watson was not a mere actress for me.
 Someone on freenode noted that Selina resembled me at ~2020.
 The lives of Emma, https://buffyfanfiction.fandom.com/wiki/Kate_(Selinaverse)[Milady Kate] and me have paralleled (non-coincidentally). 
 
@@ -807,6 +802,7 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-ca
 * Precursors: 
 ** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-2022)"]
 ** https://www.shlomifish.org/meta/nav-blocks/blocks/#commercial_fanfic_initiative_nav_block["Commercial Fan-fiction Initiative"]
+** https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc["Hydrogen Bombs are likely an old intelligence hoax"]
 
 
 [[license]]
