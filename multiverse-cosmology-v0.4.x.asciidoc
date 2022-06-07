@@ -793,8 +793,7 @@ I disbelieve it.
 
 * https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Fan page for Christina Grimmie]
 * A less organised, but more comprehensive in parts, document about the devils and the "real world". 
-
-https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
+** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
 * Hacks: 
 +
