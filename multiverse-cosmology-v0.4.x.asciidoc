@@ -1,5 +1,10 @@
 = The multiverse's cosmology v0.4.x [by Shlomi Fish]
-2022-05-06
+2022-06-10
+
+[[intro]]
+== Introduction
+
+This essay aims to document the cosmology of our universes. 
 
 [[the-demons]]
 == The demons:
@@ -26,7 +31,12 @@ Love *was not* the last word of memetics.
 Like it or not, in the Selinaverse and Shlomifverse, pleasure (and a possible precluding temporary pain), education, and creativity/conception are intertwined.
 While we can imagine realities where they are not, they will be, well, different to ours. 
 
-The education of the participants https://www.shlomifish.org/humour/fortunes/show.cgi?id=learned-a-lot-from-my-teachers[happens in all directions]: "I learned a lot from my teachers, and from my friends more than my teachers, and from my pupils the most.". All meme-generators involved change. 
+The education of the participants https://www.shlomifish.org/humour/fortunes/show.cgi?id=learned-a-lot-from-my-teachers[happens in all directions]:
+
+[quote]
+I learned a lot from my teachers, and from my friends more than my teachers, and from my pupils the most. 
+
+All meme-generators involved change. 
 
 Also note that leadership, politics, and marketing, all involve a large degree of applied education. 
 
