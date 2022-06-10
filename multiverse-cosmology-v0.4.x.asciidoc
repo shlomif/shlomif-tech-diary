@@ -652,7 +652,7 @@ E.g:
 . https://en.wikipedia.org/wiki/Wizarding_World[Wizarding World] (= Terrestrial spin on Harry Potter) 
 . https://bigbangtheory.fandom.com/wiki/Main_Page[bigbangtheory]
 . https://en.wikipedia.org/wiki/La_Linea_(TV_series)[La Linea]
-. https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic[MLP FiM]
+. https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic[My Little Pony: Friendship Is Magic]
 
 
 [[rationality]]
@@ -686,7 +686,7 @@ Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29 ) is TheCreator.
 )
 
 * https://memory-alpha.fandom.com/wiki/Bajoran[The Bajorans] became wizards by interpreting the 'prophecies' of the timeless aliens of the wormhole.
-* The https://memory-alpha.fandom.com/wiki/Klingon[Klingons] became wizards by using metaphors for physical warfare. (e.g: https://is.gd/zfQlsH[Queen Padmé Tales: Pilot: Queen Amidala vs. the Klingon Warriors] )
+* The https://memory-alpha.fandom.com/wiki/Klingon[Klingons] became wizards by using metaphors for physical warfare. (e.g: https://is.gd/zfQlsH["Queen Amidala vs. the Klingon Warriors"] )
 * The https://memory-alpha.fandom.com/wiki/Ferengi[Ferengi] became wizards by advocating greed, trickery - and even deceit.
 * https://starwars.fandom.com/wiki/Yoda[Yoda] became a wizard by advocating self-control, peacefulness, and a Stoic state of mind.
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml[Ezekiel] became a wizard by being a standup comedian.
@@ -741,7 +741,7 @@ The lives of Emma, https://buffyfanfiction.fandom.com/wiki/Kate_(Selinaverse)[Mi
 
 If we are to believe https://en.wikipedia.org/wiki/Cogito%2c%5fergo%5fsum[Cogito, ergo sum] , the only thing I can be sure of is that I exist.
 However, as cool as I may be, I doubt my mind alone could conceive the awesome action heroes listed https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/notable-hacker-monarchs.xhtml[on this page] including Saladin, Walt Disney, Jim Henson, and Aristotle - most of whom have ample evidence for being real.
-And given my present mediocre Inkscape 2-D vector graphics skills, I am enthralled even by the 2-and-a-half dimensions graphics of 1990s computer games (e.g: https://en.wikipedia.org/wiki/Monkey_Island_2%3A_LeChuck%27s_Revenge[Monkey Island 2] ; https://streetfighter.fandom.com/wiki/Street_Fighter_II_%28series%29[Street Fighter II] ; https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War[Quest for Glory III]) and those of https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony: Friendship is Magic] .
+And given my present mediocre Inkscape 2-D vector graphics skills, I am enthralled even by the 2-and-a-half dimensions graphics of 1990s computer games (e.g: https://en.wikipedia.org/wiki/Monkey_Island_2%3A_LeChuck%27s_Revenge[Monkey Island 2] ; https://streetfighter.fandom.com/wiki/Street_Fighter_II_%28series%29[Street Fighter II] ; https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War[Quest for Glory III]) and those of https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony: Friendship is Magic] . 
 
 Let me share a non-secret: what I wrote is a simplification ( https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/willow_putting_her_daughter_to_bed.xhtml["Honesty is a process"], https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/orientation_day__team.xhtml["can`'t help speaking in riddles"] ). 
 
@@ -752,7 +752,7 @@ Let me share a non-secret: what I wrote is a simplification ( https://www.shlomi
 
 There are thousands of villages in Africa, each one with a different culture.
 
-There are millions of interesting https://is.gd/A7rkAh[geeks] in the Israeli electorate alone.
+There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[geeks] in the Israeli electorate alone.
 
 There are over 40,000 distributions on https://www.cpan.org/[CPAN] .
 
