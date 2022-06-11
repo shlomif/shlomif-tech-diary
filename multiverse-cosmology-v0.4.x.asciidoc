@@ -161,7 +161,7 @@ Human language is not only a tool of communication, but also a tool of thought.
 . One can say "`I watched the film "The Princess Bride" over ten times.`" to convey a piece of information. 
 . One can say "cry wolf" to refer to https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf[The Boy Who Cried Wolf], e.g. in "saying that Microsoft plans to embrace&extend GNU is 'cry wolf'". 
 
-A lot of technology and magic defies the terrestrial science, e.g. https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity] or determinism.
+A lot of technology and magic defies the link:#terrestrial[terrestrial] science, e.g. https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity] or determinism.
 I can also write "2 + 2 == 5" or "A is True AND A is False" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/all_people_are_good.xhtml#guidelines_as_dogma[Reference] ) while having confidence that life will go on. 
 
 [[dollar-GOD]]
@@ -191,6 +191,11 @@ Outcomes of actions in The-Game were often determined by rolls of https://rpg.fa
 Note that every false prophet perceived a somewhat different reality, but all of them were synchronised.
 
 *Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of The-Game(TM). 
+
+[[terrestrial]]
+=== Terrestrialism
+
+The mutated realities are called the "Terrestrial" ones. 
 
 [[the-orcs]]
 == The Orcs:
@@ -241,7 +246,7 @@ As a result, false prophets were usually born to two false prophet parents.
 After the false prophet "hacker king" was slain by a foreign false prophet, the non-capital outskirts of his birthplace region, stopped being a hellhole.
 One more time and the mystical capital was liberated.
 
-When a liberation happened, the universe link:#forking-and-merging[was forked] into a parent and child universes. 
+When a liberation happened, the universe link:#forking-and-merging[was forked] into a parent and a child universes. 
 
 [[zionism]]
 == "Zionism":
@@ -270,7 +275,7 @@ Moreover, hell holes' liberation [followed by universe forks] happened at a dazz
 https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] thought to himself "it is too easy! where's the challenge in that?", and eventually Henson admitted inferiority to the team of https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], Whedon, (and https://buffy.fandom.com/wiki/Buffy_Summers[Buffy Summers]?), and was slain and relieved.
 If Jim Henson was the new Walt Disney, then Joss Whedon was poised to be the new Jim Henson.
 
-https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], a 1972-born American girl and a false prophet, engaged in a snailmail dialogue with the secretary of the USSR. https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] joined forces with Henson and they both suggested using the terrestrial mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The Muppet Show] to air a The Muppet Show special starring her with the ascension mantra.
+https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith], a 1972-born American girl and a false prophet, engaged in a snailmail dialogue with the secretary of the USSR. https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] joined forces with Henson and they both suggested using the link:#terrestrial[terrestrial] mass media infrastructure in place for https://en.wikipedia.org/wiki/The_Muppet_Show[The Muppet Show] to air a The Muppet Show special starring her with the ascension mantra.
 A die roll determined it will have 100% viewership, will be passed verbatim, but there may be a surprise at the end.
 
 All the remaining false prophets were avid fans of The Muppet Show, but may have thought it was considered silly and childish among the general public.
@@ -649,7 +654,7 @@ E.g:
 
 . https://buffy.fandom.com/wiki/Buffy_the_Vampire_Slayer_and_Angel[The Buffyverse]
 . https://buffyfanfiction.fandom.com/wiki/Beckyverse[The Beckyverse] - SMG was not born, but Summer Glau, Emma Watson, and Shlomi Fish were. 
-. https://en.wikipedia.org/wiki/Wizarding_World[Wizarding World] (= Terrestrial spin on Harry Potter) 
+. https://en.wikipedia.org/wiki/Wizarding_World[Wizarding World] (= link:#terrestrial[Terrestrial] spin on Harry Potter) 
 . https://bigbangtheory.fandom.com/wiki/Main_Page[bigbangtheory]
 . https://en.wikipedia.org/wiki/La_Linea_(TV_series)[La Linea]
 . https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic[My Little Pony: Friendship Is Magic]

@@ -302,7 +302,7 @@ e.g. in "saying that Microsoft plans to embrace&amp;extend GNU is 'cry wolf'".
 </orderedlist>
 
 <para>
-A lot of technology and magic defies the terrestrial science, e.g. <link xlink:href="https://en.wikipedia.org/wiki/General_relativity">Einstein's Relativity</link>
+A lot of technology and magic defies the <link xlink:href="#terrestrial">terrestrial</link> science, e.g. <link xlink:href="https://en.wikipedia.org/wiki/General_relativity">Einstein's Relativity</link>
 or determinism. I can also write "2 + 2 == 5" or "A is True AND A is False" ( <link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/all_people_are_good.xhtml#guidelines_as_dogma">Reference</link> )
 while having confidence that life will go on.
 </para>
@@ -360,6 +360,18 @@ but all of them were synchronised.</para>
 <emphasis role="bold">Note:</emphasis> many humans were born as wizards, and still had
 their share of flaws, and were/are part of The-Game™.
 </para>
+
+<section xml:id="terrestrial">
+
+<info>
+<title>Terrestrialism</title>
+</info>
+
+<para>
+The mutated realities are called the "Terrestrial" ones.
+</para>
+
+</section>
 
 </section>
 
@@ -448,7 +460,7 @@ more time and the mystical capital was liberated.</para>
 
 <para>
 When a liberation happened, the universe <link xlink:href="#forking-and-merging">was forked</link>
-into a parent and child universes.
+into a parent and a child universes.
 </para>
 
 </section>
@@ -513,7 +525,7 @@ and eventually Henson admitted inferiority to the team of <link xl:href="https:/
 and relieved. If Jim Henson was the new Walt Disney, then Joss Whedon was
 poised to be the new Jim Henson.</para>
 
-<para><link xl:href="https://en.wikipedia.org/wiki/Samantha_Smith">Samantha Smith</link>, a 1972-born American girl and a false prophet, engaged in a snailmail dialogue with the secretary of the USSR. <link xl:href="https://en.wikipedia.org/wiki/Joss_Whedon">Joss Whedon</link> joined forces with Henson and they both suggested using the terrestrial mass media infrastructure in place for <link xl:href="https://en.wikipedia.org/wiki/The_Muppet_Show">The Muppet Show</link> to air a The Muppet Show special starring her with the ascension mantra. A die roll determined it will have 100% viewership, will be passed verbatim, but there may be a surprise at the end.</para>
+<para><link xl:href="https://en.wikipedia.org/wiki/Samantha_Smith">Samantha Smith</link>, a 1972-born American girl and a false prophet, engaged in a snailmail dialogue with the secretary of the USSR. <link xl:href="https://en.wikipedia.org/wiki/Joss_Whedon">Joss Whedon</link> joined forces with Henson and they both suggested using the <link xlink:href="#terrestrial">terrestrial</link> mass media infrastructure in place for <link xl:href="https://en.wikipedia.org/wiki/The_Muppet_Show">The Muppet Show</link> to air a The Muppet Show special starring her with the ascension mantra. A die roll determined it will have 100% viewership, will be passed verbatim, but there may be a surprise at the end.</para>
 
 <para>All the remaining false prophets were avid fans of The Muppet Show, but may have thought it was considered silly and childish among the general public. In actuality, Jim Henson and the muppeteers were multiverse superstars and heroes. The Samantha Smith episode was particularly bizarre featuring a <link xl:href="https://muppet.fandom.com/wiki/Muppet_Labs">Muppet Labs</link> skit where Bunsen and Beaker tested a membrane to enclose a (real!) <link xl:href="https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc">hydrogen bomb</link>; the membrane didn’t work and yet there was only a local sand splash.</para>
 
@@ -1380,7 +1392,7 @@ One can spawn imaginary worlds which share similarities to our own. E.g:
 
 <listitem>
 <para>
-<link xlink:href="https://en.wikipedia.org/wiki/Wizarding_World">Wizarding World</link> (= Terrestrial spin on Harry Potter)
+<link xlink:href="https://en.wikipedia.org/wiki/Wizarding_World">Wizarding World</link> (= <link xlink:href="#terrestrial">Terrestrial</link> spin on Harry Potter)
 </para>
 </listitem>
 
