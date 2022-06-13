@@ -4,8 +4,8 @@ use strict;
 use warnings;
 
 use Markdent::Simple::Fragment ();
-use Path::Tiny qw/ path /;
-use Text::WrapAsUtf8 qw/ print_utf8 /;
+use Path::Tiny                 qw/ path /;
+use Text::WrapAsUtf8           qw/ print_utf8 /;
 
 print_utf8(
     <<"EOF",

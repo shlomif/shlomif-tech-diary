@@ -7,7 +7,7 @@ use autodie;
 
 package Shlomif::TechTips::Entry;
 
-use MooX qw/late/;
+use MooX     qw/late/;
 use DateTime ();
 
 has 'date'  => ( is => 'ro', isa      => 'DateTime', required => 1, );
@@ -21,9 +21,9 @@ use XML::LibXML;
 use HTML::Selector::XPath qw();
 my @entries;
 
-use Getopt::Long qw/GetOptions/;
+use Getopt::Long               qw/GetOptions/;
 use DateTime::Format::Strptime qw();
-use Path::Tiny qw/path/;
+use Path::Tiny                 qw/path/;
 
 my @filenames;
 my $output_fn;
