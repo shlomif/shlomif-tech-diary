@@ -161,3 +161,19 @@ I recently have been picking up litter objects from the pavements lest future pe
 
 Admins on inet subfora treat anti-self-promo/anti'spam' ( https://www.shlomifish.org/meta/FAQ/advertise_your_site.xhtml ) as a supreme moral absolute, that justifies use-of-force, ableism, and being jerks ( https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/ ) and ungrateful. This world cant be real.
 
+----
+
+The magic-less terrestrial ( https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/ ) economy depends so much on workers working long hours4low pay&not enjoying that. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ ; it couldnt/cant be sustainable. This world cant be real.
+
+----
+
+"Are we to understand," asked the judge, "that you hold your own interests above the interests of the public?"
+
+"I hold that such a question can never arise except in a society of cannibals."
+
+— https://en.wikipedia.org/wiki/Atlas_Shrugged
+
+https://duckduckgo.com/?q=porque+no+los+dos&t=ffab&atb=v140-1&ia=web
+
+----
+
