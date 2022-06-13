@@ -157,4 +157,7 @@ See https://www.shlomifish.org/Files/files/images/Screenshot_2022-05-24_13-35-04
 
 I recently have been picking up litter objects from the pavements lest future pedestrians will slip or get injured. "be excellent2each other." https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/ ; #TheGoldenRule
 
+----
+
+Admins on inet subfora treat anti-self-promo/anti'spam' ( https://www.shlomifish.org/meta/FAQ/advertise_your_site.xhtml ) as a supreme moral absolute, that justifies use-of-force, ableism, and being jerks ( https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/ ) and ungrateful. This world cant be real.
 
