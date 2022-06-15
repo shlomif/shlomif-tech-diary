@@ -177,3 +177,4 @@ https://duckduckgo.com/?q=porque+no+los+dos&t=ffab&atb=v140-1&ia=web
 
 ----
 
+Yesterday, I saw a young-looking man wearing a shirt captioned "Real man wear pink".
