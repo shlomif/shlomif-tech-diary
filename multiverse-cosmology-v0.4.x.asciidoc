@@ -891,6 +891,7 @@ They consistently publish.
 == Coverage, comments, and discussions
 
 . https://twitter.com/shlomif/status/1537464781392707592[Shlomi Fish's Twitter]
+. https://www.facebook.com/shlomi.fish/posts/10158704192116981[Shlomi Fish's facebook] - might require login. 
 
 
 [[license]]
