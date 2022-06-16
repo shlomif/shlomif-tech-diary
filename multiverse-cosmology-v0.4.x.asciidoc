@@ -887,6 +887,12 @@ They consistently publish.
 ** https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc["Hydrogen Bombs are likely an old intelligence hoax"]
 
 
+[[coverage]]
+== Coverage, comments, and discussions
+
+. https://twitter.com/shlomif/status/1537464781392707592[Shlomi Fish's Twitter]
+
+
 [[license]]
 == License:
 
