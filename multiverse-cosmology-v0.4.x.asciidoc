@@ -894,6 +894,7 @@ They consistently publish.
 [[coverage]]
 == Coverage, comments, and discussions
 
+. https://shlomif-tech.livejournal.com/77091.html[Shlomi Fish's livejournal blog] - 
 . https://twitter.com/shlomif/status/1537464781392707592[Shlomi Fish's Twitter]
 . https://www.facebook.com/shlomi.fish/posts/10158704192116981[Shlomi Fish's facebook] - might require login. 
 
