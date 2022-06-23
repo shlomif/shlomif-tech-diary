@@ -178,3 +178,9 @@ https://duckduckgo.com/?q=porque+no+los+dos&t=ffab&atb=v140-1&ia=web
 ----
 
 Yesterday, I saw a young-looking man wearing a shirt captioned "Real man wear pink".
+
+----
+
+I've been thinking that my last name, "Fish" cud imply: 1] "plenty of fish" - pluralism and tolerance. 2] progressing carefully, but steadily, like a timid little fish. 3] "fishy" - weird/strange.
+
+I think I kinda fit all-of-these.
