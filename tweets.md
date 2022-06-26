@@ -184,3 +184,7 @@ Yesterday, I saw a young-looking man wearing a shirt captioned "Real man wear pi
 I've been thinking that my last name, "Fish" cud imply: 1] "plenty of fish" - pluralism and tolerance. 2] progressing carefully, but steadily, like a timid little fish. 3] "fishy" - weird/strange.
 
 I think I kinda fit all-of-these.
+
+----
+
+Sigh! my bottle.py-and-sqlite3 web "app" broke on hostgator: https://www.shlomifish.org/humour/fortunes/show.cgi?mode=random . https://shlom.in/ which is pure-perl5+hashes/arrays still works nicely.
