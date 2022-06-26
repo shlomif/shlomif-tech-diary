@@ -188,3 +188,7 @@ I think I kinda fit all-of-these.
 ----
 
 Sigh! my bottle.py-and-sqlite3 web "app" broke on hostgator: https://www.shlomifish.org/humour/fortunes/show.cgi?mode=random . https://shlom.in/ which is pure-perl5+hashes/arrays still works nicely.
+
+----
+
+I suspect the Klingon Bat'Leth ( https://en.wikipedia.org/wiki/Bat%27leth ) was created as a novelty, disadvantaged, less harmful, melee, weapon. Its conceiver wanted its fighters not to hurt themselves. #StarTrek https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/selina-and-the-three.xhtml #wheatonslaw
