@@ -192,3 +192,7 @@ Sigh! my bottle.py-and-sqlite3 web "app" broke on hostgator: https://www.shlomif
 ----
 
 I suspect the Klingon Bat'Leth ( https://en.wikipedia.org/wiki/Bat%27leth ) was created as a novelty, disadvantaged, less harmful, melee, weapon. Its conceiver wanted its fighters not to hurt themselves. #StarTrek https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/selina-and-the-three.xhtml #wheatonslaw
+
+----
+
+My friend Botje from freenode/Libera.chat noted that some ppl on its #osdev chatroom, have implemented kernels from scratch, which supported enuf of #POSIX 2 bootstrap a GNU ( https://www.gnu.org/ ) sys [as I suspected]. Now try this w CSS2.1…
