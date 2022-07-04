@@ -185,6 +185,8 @@ I've been thinking that my last name, "Fish" cud imply: 1] "plenty of fish" - pl
 
 I think I kinda fit all-of-these.
 
+In addition , it is a contraction of "finish" and I like to bring projects and tasks to a usable state, and move on [while possibly revisiting them later]: https://en.wikipedia.org/wiki/Perfection#Paradoxes
+
 ----
 
 Sigh! my bottle.py-and-sqlite3 web "app" broke on hostgator: https://www.shlomifish.org/humour/fortunes/show.cgi?mode=random . https://shlom.in/ which is pure-perl5+hashes/arrays still works nicely.
