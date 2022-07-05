@@ -198,3 +198,15 @@ I suspect the Klingon Bat'Leth ( https://en.wikipedia.org/wiki/Bat%27leth ) was 
 ----
 
 My friend Botje from freenode/Libera.chat noted that some ppl on its #osdev chatroom, have implemented kernels from scratch, which supported enuf of #POSIX 2 bootstrap a GNU ( https://www.gnu.org/ ) sys [as I suspected]. Now try this w CSS2.1…
+
+----
+
+@Garfield comics are usuly not too funny, coz some ppl (incl me) smtimes want2be only mildly amused.
+
+Similarly wheat flour tastes bland, but it has many tasty byproducts (eg: pizza, pasta, cookies, burek).
+
+#moderation
+
+----
+
+
