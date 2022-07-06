@@ -431,7 +431,7 @@ paulgraham.com,
 xkcd,
 and Ozy and Millie,
 were the "Web 2.0" parallel to the Postal Service of 1982.
-( Reference )]
+( Reference )]footnote:[See "hospitalised in a closed psychiatric ward"]
 
 [[the-six-chocolate-hearts]]
 === The 6 chocolate hearts
