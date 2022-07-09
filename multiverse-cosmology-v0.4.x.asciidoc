@@ -601,9 +601,9 @@ https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/[The Golden Rule]
 See http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended"].
 Having terminated Arnold Schwarzenegger, https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)], and Samantha Smith, the two of us were afterward kept in the same elementary school classroom with few other false prophets. 
 
-Many Terran Terminators or their friends (and proxies) were relocated by the true prophets administration to https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel[Ramat Aviv Gimel] , which was chosen because it was north of https://en.wikipedia.org/wiki/Yarkon_River[the Yarkon River] and so outside the historical https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which remained a hellhole for longer, and yet close enough to Tel Aviv, the "it city" of Israel.
+Many Terran Terminators or their friends (and proxies) were relocated by the true prophets administration to https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel[Ramat Aviv Gimel] , which was chosen because it was north of https://en.wikipedia.org/wiki/Yarkon_River[the Yarkon River] and so outside the historical https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which remained a hellhole for longer, and yet close enough to Tel Aviv, the "it city" of Israel. 
 
-Placing them together was useful for crosspolination, getting slain, and slaying.
+Placing them together was useful for crosspolination, getting slain, and slaying. 
 
 By 1989-1990, when https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)] became my project manager, and https://www.shlomifish.org/me/rindolf/[Rindolf] my whicher, almost all observers believed either Amit or I were likely going to terminate all other terminators.
 I suspect they were right.
@@ -618,10 +618,10 @@ set up a static personal website] which became https://www.shlomifish.org/[www.s
 The devils promised it will be displayed verbatim among other terminators.
 Various Internet people told me I https://www.shlomifish.org/meta/FAQ/#please_delete_offensive_stuff[should delete offensive content] or https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[convert
 the service to use PHP/Ruby-on-Rails/etc.], but I didn`'t heed them.
-They were likely mirages of the devils and the orcs.
+They were likely mirages of the devils and the orcs. 
 
 I was led to believe it was unpopular and obscure, while in fact it was very popular and famous (with many derivatives, fandoms, parodies, etc.) outside my mind`'s hellhole.
-I was also often made to think I had many haters, which wasn`'t true.
+I was also often made to think I had many haters, which wasn`'t true. 
 
 Do note that "Encourage criticism and try to get offended" was not the last word: 
 
@@ -681,10 +681,10 @@ I will hopefully fully admit defeat to https://www.shlomifish.org/art/recommenda
 Nevertheless 'the Schwartz' - both good and evil flows in all of us.
 
 In https://www.youtube.com/watch?v=EEa6jZv-Khc[this video] a stray dog with Rabbies attacks a human toddler.
-Rabbies is a kind of possession/obsession, and friendly pets in the Selinaverse can talk.
+Rabbies is a kind of possession/obsession, and friendly pets in the Selinaverse can talk. 
 
 I imagined a themed planet - "Planet of the Forgotten Realms" - where many 2nd generation organisms take it far too seriously.
-Are they false prophets? Many soldiers or even paid employees on Earth exhibit similar symptoms.
+Are they false prophets? Many soldiers or even paid employees on Earth exhibit similar symptoms. 
 
 And true prophets are not perfect.
 The trend of shy, needy, sensitive, and easily hurt females continued with https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/what-wayne-and-garth-think.xhtml[Tiffany
@@ -738,9 +738,9 @@ Furthermore, most good narratives feature one problem or more that need to be re
 Furthermore, I sided with Emma Watson that "your time is everybody`'s time" rather than https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart
 (MJH)]`'s liberal use of time wraps.
 This may have delayed my ascension/catharsis, but made me less maniacal.
-Who was right?
+Who was right? 
 
-https://www.shlomifish.org/humour/Summerschool-at-the-NSA/#the-resentful-beggar["A resentful beggar"]:
+https://www.shlomifish.org/humour/Summerschool-at-the-NSA/#the-resentful-beggar["A resentful beggar"]: 
 
 ____
 Shlomi Fish 
@@ -779,7 +779,7 @@ Might seem ridiculus, but if I didn't want entertainment in my life, then I'd go
 It will be a legal and "ethical" minefield, but I'd bet it'd be easier to follow and more entertaining than https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[Tolkien's "Lord of the Rings"] was even shortly after LotR was written. 
 ____
 
-That proverbial girl is making love to all these meme-generators!
+That proverbial girl is making love to all these meme-generators! 
 
 This has several implications:
 
@@ -805,7 +805,7 @@ Obi-Wan: I did, yes.
 Wow! And I thought my (one and only, hah!) girlfriend was bad.
 Do note, however that I kindof am attracted to the bitching type.
 One of my many kinks.
-While my friends are attracted to everything that moves, I see no reason to limit myself ( https://www.amazon.com/Best-Things-Anybody-Ever-Said/dp/0743235797/ref=sr_1_1[Reference] ).
+While my friends are attracted to everything that moves, I see no reason to limit myself ( https://www.amazon.com/Best-Things-Anybody-Ever-Said/dp/0743235797/ref=sr_1_1[Reference] ). 
 . Sex between two consenting true prophets often is "making out", and can be done with clothes on and in public.
 . {empty}
 +
@@ -875,14 +875,14 @@ But why should my world have a monopoly on being the only real world?
 +
 
 [quote]
-wrt https://t.co/B8u3Njlh2v an #IRC friend joked that the giant world turtle was the most plausible cosmological model.
+wrt https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as-technicians["God and his angels as implementing humans' perception of the universe"] an #IRC friend joked that the giant world turtle was the most plausible cosmological model.
 #mysticism 
 * https://twitter.com/shlomif/status/1482399705594318852[Shlomi Fish on Twitter:]
 +
 
 [quote]
 #BigBangTheory one reason i resented the old Sheldon so much is that he reminded me of my old dogmatic science-ist / atheist too much.
-I suspect Penny was the alpha geek: https://shlom.in/geekyhackers 
+I suspect Penny was the alpha geek: https://shlom.in/geekyhackers
 +
 my catalyst: https://www.shlomifish.org/meta/FAQ/atheism_can_be_a_religion.xhtml[South Park's creators about Atheism]
 * {empty}
