@@ -138,6 +138,10 @@ But even https://en.wikipedia.org/wiki/If%E2%80%94[Kipling's "If--"] or Des'ree'
 
 The "open" value implies "openness" / "openmindedness" / pluralism: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#open_free_share_steal[Reference]
 
+Note that it is not a moral absolute.
+E.g.
+in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html[Queen Padmé Tales: Pilot: Queen Amidala vs. the Klingon Warriors] the identity of those who attempt to assassinate Queen Padmé Amidala was not revealed to laymen. 
+
 [[the-devils]]
 == The devils:
 
