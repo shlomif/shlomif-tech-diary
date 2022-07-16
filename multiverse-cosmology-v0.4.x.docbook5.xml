@@ -668,7 +668,7 @@ three head Muppeteers ( <link xlink:href="https://en.wikipedia.org/wiki/The_Thre
 
 <orderedlist>
 
-<listitem>
+<listitem xml:id="Arnold_Schwarzenegger">
 
 <para>
 <link xlink:href="https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_nav_block">Arnold Alois "Arnie" Schwarzenegger</link> was a professional athlete
@@ -686,7 +686,7 @@ appreciated that, but he believed they and their parents kept complaining.
 
 </listitem>
 
-<listitem>
+<listitem xml:id="Richard_Stallman">
 
 <para>
 <link xlink:href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard Matthew "RMS" Stallman</link>
@@ -838,7 +838,7 @@ Somewhat selfish, rash, hastey, opportunistic, and brave.
 </para>
 </listitem>
 
-<listitem>
+<listitem xml:id="Clarissa_Darling">
 <para>
 <link xlink:href="https://www.shlomifish.org/humour/bits/facts/Clarissa/">Clarissa
 Darling</link> - likely 1974-1976-born. A "The Theory of everything" brainiac.
@@ -1422,13 +1422,17 @@ and even if you do not practice what you preach (see
 
 <para>
  See <link xlink:href="http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/">"Encourage criticism and try to get offended"</link>.
-Having terminated Arnold Schwarzenegger,
+Having terminated <link xlink:href="#Arnold_Schwarzenegger">Arnold Schwarzenegger</link>,
 <link xl:href="https://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa Joan Hart (MJH)</link>,
 and Samantha Smith, the two of us were afterward kept in the same elementary
 school classroom with few other false prophets.
+<link xlink:href="#Richard_Stallman">Richard Stallman</link> and
+<link xlink:href="#Clarissa_Darling">Clarissa</link> likely were terminated
+shortly afterwards.
 </para>
 
-<para>Many Terran Terminators or their friends (and proxies) were relocated by the
+<para>
+Many Terran Terminators or their friends (and proxies) were relocated by the
 true prophets administration to
 <link xl:href="https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel">Ramat Aviv Gimel</link> , which was
 chosen because it was north of <link xl:href="https://en.wikipedia.org/wiki/Yarkon_River">the Yarkon River</link> and
