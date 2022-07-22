@@ -212,3 +212,7 @@ Similarly wheat flour tastes bland, but it has many tasty byproducts (eg: pizza,
 So @KidRock pretends to emulate southeast .us "redneck" culture, while born&raised in northeast .us. He doesnt take it seriously, me neither, &nor shud u.
 
 Also, he has a much more serious [and touching!] side: https://youtu.be/ZIp_GmwLbnM .
+
+----
+
+Star Wars, but… https://www.youtube.com/watch?v=EsV4fULcyQw&t=570 - holy shit does Natalie Portman look sexy muscular! Is it a Marvel films thing? Given a person can be small-muscled yet strong-as-an-ox, it's psychological bias [but what isnt?]
