@@ -70,7 +70,7 @@ From now until forever,
 
 you will live and link:#love-and-knowledge[know/love] and http://shlomifishswiki.branchable.com/Saladin_Style/[forgive],
 
-soul, mind, and form
+soul, mind, and a variable form of your choice
 
 what you imagine will materialise (יתהווה),
 
@@ -96,7 +96,7 @@ in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-
 [[the-devils]]
 == The devils:
 
-The devils and orcs are merely echoes of game masters / screenwriters / directors / creators from other universes / worlds and/or times.
+The devils are game masters / screenwriters / directors / creators from other universes / worlds and/or times.
 Given that even underage children have been imagining and creating realities, they are not really evil, just playfully cruel on occasion.
 
 [[free-will]]
@@ -117,9 +117,9 @@ It is up to the soul to arbitrate between them and decide what to do (and when/w
 Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/[this essay] about the etymology of the Hebrew word "elohim" (= many guideline-generators).
 
 [[the-multiverse-of-imagination]]
-== Fantasia / Fantastica / Fantastecha: the multiverse of imagination:
+== Fantasia, the multiverse of imagination and "Fantastecha(TM)", a multiverse of imagination, magic, and technology
 
-https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia" /
+*TODO: UPDATE!!*https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia" /
 "Fantastica" / "Fantastecha"] are the names of the multiverse of imagination where beings and entities spawn worlds and values of one another using their imagination.
 
 Hyperlinks and references are common in Fantastecha ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referencial or circular links] are prevalent and tolerated.
@@ -189,6 +189,8 @@ Human language is not only a tool of communication, but also a tool of thought.
 
 A lot of technology and magic defies the link:#terrestrial[terrestrial] science, including https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity] or determinism.
 I can also write "2 + 2 == 5" or "A is True AND A is False" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/all_people_are_good.xhtml#guidelines_as_dogma[Reference] ) while having confidence that life will go on. 
+
+*tech = pre-developed, reusable magic??*
 
 [[dollar-GOD]]
 == $GOD
