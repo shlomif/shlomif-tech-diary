@@ -216,3 +216,7 @@ Also, he has a much more serious [and touching!] side: https://youtu.be/ZIp_GmwL
 ----
 
 Star Wars, but… https://www.youtube.com/watch?v=EsV4fULcyQw&t=570 - holy shit does Natalie Portman look sexy muscular! Is it a Marvel films thing? Given a person can be small-muscled yet strong-as-an-ox, it's psychological bias [but what isnt?]
+
+----
+
+There is the cliché scene from https://memory-alpha.fandom.com/wiki/Trill_(planet) sitcoms where a pair of male Japanese tourists arrive there and are enthusiastic. They arent stupid, just awesomely Jappy. https://en.wikipedia.org/wiki/Theory_of_forms
