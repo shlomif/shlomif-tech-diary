@@ -123,7 +123,7 @@ Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-a
 
 Fantastecha(TM) is a skewed view of an expanding subset of Fantasia, 
 
-Hyperlinks and references are common in Fantastecha ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referencial or circular links] are prevalent and tolerated.
+Hyperlinks and references are common in Fantastecha ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referencial or circular links] are prevalent and tolerated. 
 
 There *is* a difference between real and imaginary.
 We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
@@ -135,7 +135,7 @@ However, they were not really real for us.
 == Self-reference / circularity:
 
 https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
-circular logic, circular feedback, etc.] are common in Fantastecha, and part of what makes sentience and humour work:
+circular logic, circular feedback, etc.] are common in Fantastecha, and part of what makes sentience and humour work: 
 
 * https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Gödel, Escher, Bach]
 * https://www.youtube.com/watch?v=GibiNy4d4gc["The Circle of Life"]
@@ -165,9 +165,9 @@ Angels are organisms / entities who have link:#free-will[souls].
 [[the-heart-and-mercy-value]]
 == Heart / mercy / forgiveness:
 
-The heart value implied mercy and forgiveness. http://shlomifishswiki.branchable.com/Saladin_Style/[Saladin-style].
+The heart value implied mercy and forgiveness. http://shlomifishswiki.branchable.com/Saladin_Style/[Saladin-style]. 
 
-Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#do_and_let_do__live_and_let_live["Live and let live; do and let do"].
+Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#do_and_let_do__live_and_let_live["Live and let live; do and let do"]. 
 
 [[magic]]
 == Magic:
@@ -211,13 +211,13 @@ https://twitter.com/shlomif/status/1491652850044309507[Twitter thread]
 == The-Game(TM):
 
 The link:#the-devils[devils] challenged Terran link:#the-angels[angels] with "`The-Game(TM)`": volunteering link:#the-angels[angels] would willingly lose their earlier memories as souls, and have their media (= "in between") mutated by the link:#the-devils[devils].
-Physically dying was against the rules, but for true Shalom-of-mind, they must be "slain" by other "vampire"s, or in case of the last standing vampire - their favourite proteges; one cannot constantly win.
+Physically dying was against the rules, but for true Shalom-of-mind, they must be "slain" by other "vampire"s, or in case of the last standing vampire - their favourite proteges; one cannot constantly win. 
 
-Angels starting like that are hereby referred to as "false prophets" (where https://shlom.in/geekyhackers["prophet" or "navi" meant "madman" in Ancient Hebrew]) or as "vampires". That was until they reached enough "enlightenment" and became "true prophets" (or "wizards").
+Angels starting like that are hereby referred to as "false prophets" (where https://shlom.in/geekyhackers["prophet" or "navi" meant "madman" in Ancient Hebrew]) or as "vampires". That was until they reached enough "enlightenment" and became "true prophets" (or "wizards"). 
 
-Outcomes of actions in The-Game were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"].
+Outcomes of actions in The-Game(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
 
-Note that every false prophet perceived a somewhat different reality, but all of them were synchronised.
+Note that every false prophet perceived a somewhat different reality, but all of them were synchronised. 
 
 *Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of The-Game(TM). 
 
