@@ -220,3 +220,9 @@ Star Wars, but… https://www.youtube.com/watch?v=EsV4fULcyQw&t=570 - holy shit 
 ----
 
 There is the cliché scene from https://memory-alpha.fandom.com/wiki/Trill_(planet) sitcoms where a pair of male Japanese tourists arrive there and are enthusiastic. They arent stupid, just awesomely Jappy. https://en.wikipedia.org/wiki/Theory_of_forms
+
+----
+
+Happy 50th bday, @wilw ❣️ http://dontbeadickday.com/ #dontbeadick #GoldenRule
+
+Fics w him: https://www.shlomifish.org/humour/Selina-Mandrake/ ; https://www.shlomifish.org/humour/The-10th-Muse/The-10th-Muse--Athena-Gets-Laid.html .
