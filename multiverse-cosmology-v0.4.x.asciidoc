@@ -882,7 +882,7 @@ E.g:
 But why should my world have a monopoly on being the only real world? 
 
 * https://twitter.com/shlomif/status/1482680712964849669["The world is what you make of it"]
-* https://en.wikipedia.org/wiki/The_Chronicles_of_Amber[The Chronicles of Amber] - an alternative "real world" to ours
+* https://en.wikipedia.org/wiki/The_Chronicles_of_Amber[The Chronicles of Amber] - an alternative "real world" to ours 
 * https://twitter.com/shlomif/status/1479063972934565893[Shlomi Fish on Twitter:]
 +
 
@@ -903,23 +903,23 @@ my catalyst: https://www.shlomifish.org/meta/FAQ/atheism_can_be_a_religion.xhtml
 [quote]
 Mr.
 Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29 ) is TheCreator.
-;)
+;) 
 +
-( -- https://twitter.com/shlomif/status/1485024317062717440 )
+( -- https://twitter.com/shlomif/status/1485024317062717440 ) 
 
 
 [[many-roads]]
 == The many roads to competence:
 
 ( I`'m speaking in generalisations.
-)
+) 
 
 * https://memory-alpha.fandom.com/wiki/Bajoran[The Bajorans] became wizards by interpreting the 'prophecies' of the timeless aliens of the wormhole. 
 * The https://memory-alpha.fandom.com/wiki/Klingon[Klingons] became wizards by using metaphors for physical warfare. (e.g: https://is.gd/zfQlsH["Queen Amidala vs. the Klingon Warriors"] ) 
 * The https://memory-alpha.fandom.com/wiki/Ferengi[Ferengi] became wizards by advocating greed, trickery - and even deceit. 
 * https://starwars.fandom.com/wiki/Yoda[Yoda] became a wizard by advocating self-control, peacefulness, and a Stoic state of mind. 
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml[Ezekiel] became a wizard by being a standup comedian. 
-* https://en.wikipedia.org/wiki/Felicia_Day[Felicia Day] started as a computer games' addict, which I had been one as well (and she wasn`'t a one-trick-pony).
+* https://en.wikipedia.org/wiki/Felicia_Day[Felicia Day] started as a computer games' addict, which I had been one as well (and she wasn`'t a one-trick-pony). 
 
 
 [[shlomif-watchers-and-whichers]]
@@ -965,7 +965,7 @@ At 2014 when https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-j
 Someone on freenode noted that Selina resembled me at ~2020.
 The lives of Emma, https://buffyfanfiction.fandom.com/wiki/Kate_(Selinaverse)[Milady Kate] and me have paralleled (non-coincidentally). 
 
-While Emma started as easily hurt, and overreacting/overemotional, (not unlike me) she eventually http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[developed a thicker skin] (also like I did). As a result, she was increasingly able to play herself [rather than relying on "stunt doubles"/lookalikes] including on https://www.shlomifish.org/meta/FAQ/how_do_you_expect_to_afford_the_actors.xhtml[indie films], on various https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml[parody [school/cons/etc.] plays], and on https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[my own screenplays featuring her]. 
+While Emma started as easily hurt, and overreacting/overemotional, (not unlike me) she eventually http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[developed a thicker skin] (also like I did). As a result, she was increasingly able to play herself (rather than relying on "stunt doubles"/lookalikes) including on https://www.shlomifish.org/meta/FAQ/how_do_you_expect_to_afford_the_actors.xhtml[indie films], on various https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml[school/cons/etc. parody plays], and on https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[my own screenplays featuring her]. 
 
 [[sorry]]
 == Sorry for the inconvenience:
@@ -981,19 +981,19 @@ Let me share a non-secret: what I wrote is a simplification ( https://www.shlomi
 
 ( quote taken from https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King opening] . ) 
 
-There are thousands of villages in Africa, each one with a different culture.
+There are thousands of villages in Africa, each one with a different culture. 
 
-There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[geeks] in the Israeli electorate alone.
+There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[geeks] in the Israeli electorate alone. 
 
-There are over 40,000 distributions on https://www.cpan.org/[CPAN] .
+There are over 40,000 distributions on https://www.cpan.org/[CPAN] . 
 
 https://www.youtube.com/user/KurtHugoSchneider[KHS uploaded over 600 videos]
 
-Etc.
+Etc. 
 
-They all have enough food and the main reason they still accept money or mana donations is the publicity.
+They all have enough food and the main reason they still accept money or mana donations is the publicity. 
 
-But like in https://www.youtube.com/watch?v=QNJL6nfu__Q[Michael Jackson's "They don't care about us"] , they crave link:#love-and-knowledge[love], attention, self-esteem and even https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/meaning-of-able-competent.xhtml[fame].
+But like in https://www.youtube.com/watch?v=QNJL6nfu__Q[Michael Jackson's "They don't care about us"] , they crave link:#love-and-knowledge[love], attention, self-esteem and even https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/meaning-of-able-competent.xhtml[fame]. 
 
 So I/we will always play catchup.
 I was also unaware of many details of link:#ramatavivgimel[my neighbourhood] despite having lived here for several decades. 
@@ -1138,6 +1138,6 @@ The Game of Life.
 [[license]]
 == License:
 
-https://creativecommons.org/licenses/by/4.0/[CC-by], Shlomi Fish, 2021
+https://creativecommons.org/licenses/by/4.0/[CC-by], Shlomi Fish, 2021 
 
-**to add**: "the-codex"
+**to add**: "the-codex" 
