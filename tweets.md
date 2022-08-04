@@ -226,3 +226,7 @@ There is the cliché scene from https://memory-alpha.fandom.com/wiki/Trill_(plan
 Happy 50th bday, @wilw ❣️ http://dontbeadickday.com/ #dontbeadick #GoldenRule
 
 Fics w him: https://www.shlomifish.org/humour/Selina-Mandrake/ ; https://www.shlomifish.org/humour/The-10th-Muse/The-10th-Muse--Athena-Gets-Laid.html .
+
+----
+
+FYI, commercial fanfic has been happening for centuries: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#history-lesson-about-the-muppeteers . I can see clearer now: https://www.youtube.com/watch?v=ZcCp7488puc .
