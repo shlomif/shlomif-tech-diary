@@ -1,0 +1,37 @@
+Hi!
+
+
+A python3 / bottle.py / sqlite CGI script stopped working:
+
+https://www.shlomifish.org/humour/fortunes/show.cgi?id=i-thought-using-loops-was-cheating
+
+python3 isn't in the path:
+
+------
+shlomif@shlomifish.org [~]# ls -l public_html/humour/fortunes/show.cgi
+-rwxr-xr-x 1 shlomif shlomif 7059 Jun 25 20:28 public_html/humour/fortunes/show.cgi
+shlomif@shlomifish.org [~]# python3
+-jailshell: python3: command not found
+shlomif@shlomifish.org [~]# python2
+Python 2.7.5 (default, Nov 16 2020, 22:23:17)
+[GCC 4.8.5 20150623 (Red Hat 4.8.5-44)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+shlomif@shlomifish.org [~]# head public_html/humour/fortunes/show.cgi
+#!/usr/bin/env python3
+
+import datetime
+import html
+import os.path
+import random
+import re
+import sqlite3
+import sys
+
+shlomif@shlomifish.org [~]#
+[0] 0:vlc- 1:ssh*                                                telaviv1.shlomifish.org
+------
+
+A different pure-Perl5 CGI script still works.
+
+Please restore "python3" because python2 is deprecated.
