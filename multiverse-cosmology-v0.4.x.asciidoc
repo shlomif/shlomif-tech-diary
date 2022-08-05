@@ -250,9 +250,12 @@ While it is one of the first games that wizard children are taught, many vampire
 [[sample-game-session]]
 ==== Sample session of the game
 
-[quote]
+____
 One day, https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[Mr. Linea] takes a break from walking along his line, and posts a comedic story that takes place in an absurd 3D1T universe he conceived called "The Selinaverse", to his blog.
 However, his long-time associate https://en.wikipedia.org/wiki/True_and_false_(commands)["/bin/true"] v2.0 "Strong AI Edition" claims he came up with The Selinaverse first. 
+
+As the two argue in the blog's comments, https://mlp.fandom.com/wiki/Discord[Discord (from MLP)]
+____
 
 [[hackers]]
 === "Hackers" vs. "Fuckers"
