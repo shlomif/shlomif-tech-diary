@@ -935,7 +935,8 @@ https://en.wikipedia.org/wiki/Emma_Watson[Emma Charlotte Duerre Watson] (also se
 "Emma" means "complete" in proto-Germanic, not unlike https://www.shlomifish.org/meta/FAQ/your_name.xhtml["Shlomi" [+++=+++ "shalom-ful"]].
 "Eymah" means 'terror' in Hebrew, while "Em" means "mother". "Sarah" means "a [female] minister" or "a ruler". "charlotte" is cognate with both "sarah" and "Shlomi" and also means "a ruler". 
 
-So it is likely that she was conceived as a bridge between SMG and me. 
+So it is likely that she was conceived as a bridge between SMG and me. footnote:[There may have been hopes to get SMG to terminate me before me hitting
+puberty on 5 May 1990 [= my 13th birthday].]
 
 The last name "Watson" is cognate with "watcher", and I suspect she is related to https://en.wikipedia.org/wiki/Dr._Watson["Dr. Watson"] from Sherlock Holmes. 
 
@@ -957,14 +958,14 @@ She wanted to have a rough sense of the passage of the "real time" and so used t
 She instead depended on other wizard helpers, including those that temporarily assumed her appearance using magic.
 MJH agreed to disagree on that with her given Watson and her team still got a lot done. 
 
-However, at ~1997/1998, MJH was hoping to get me slain ASAP, but the devils fought back and filled my head with fictional delusions.
+However, at ~1997/1998, MJH was hoping to get me terminated ASAP, but the devils fought back and filled my head with fictional delusions.
 After I sided with Watson ("real time" and "`your time is everybody's time`"), MJH passed the leadership to her, and decided to limit her own use of time wraps.
 Melissa remained part of my/Rindolf/Emma Watson's team. 
 
 I recall that having read https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone[the first Harry Potter book] by JK Rowling, I found it enjoyable and accessible, but not as good as past children's literature I had read. https://www.shlomifish.org/meta/FAQ/#opinion_on_harry_potter[The
 subsequent terrestrial books took themselves too seriously].
 Anyway, part of Emma's motivation in playing Hermione in the first Harry Potter film, was for getting https://twitter.com/shlomif/status/1511632946658258946[me to register her existence].
-She and the other actors were also instructed to play https://twitter.com/shlomif/status/1486799232971464704[hackily and in a "so bad it's good" manner]. 
+She and the other actors were also instructed to play https://twitter.com/shlomif/status/1486799232971464704[hackily and in a "so bad it's good" manner] since they didn't want to be kept on the filming set for long. 
 
 At ~2011 when I wrote https://www.shlomifish.org/humour/Selina-Mandrake/cast.html[the proposed cast page of Selina Mandrake - The Slayer], I picked her to play Selina.
 At 2014 when https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-jobs-EmWatson-Saladin-knights-Templar[someone on freenode`'s #perl insulted Emma`'s looks], I felt like he was being blasphemous (= https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%9C%D7%95%D7%9C_%D7%94%D7%A7%D7%95%D7%93%D7%A9["חילול הקודש"]). Watson was not a mere actress for me.
@@ -993,7 +994,7 @@ There are millions of interesting https://www.shlomifish.org/philosophy/culture/
 
 There are over 40,000 distributions on https://www.cpan.org/[CPAN] . 
 
-https://www.youtube.com/user/KurtHugoSchneider[KHS uploaded over 600 videos]
+https://www.youtube.com/user/KurtHugoSchneider[Kurt Hugo Schneider uploaded over 600 videos]
 
 Etc. 
 
