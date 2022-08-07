@@ -540,7 +540,8 @@ According to the rules of Fantastecha(TM):
 . Neither the soul of every hacker nor their mind nor their union can ever perish. 
 . A hacker may be required or may opt to change his/her "form": name, body, etc. 
 
-As a result, new vampire soul+mind combos were allocated 
+As a result, new vampire soul+mind combos were allocated and started their lives with the forms of the non-dropout templates.
+The latter had to change their names, and became bona-fide true prophets. 
 
 [[terran-terminators-list]]
 === List
