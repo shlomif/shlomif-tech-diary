@@ -531,12 +531,16 @@ The link:#the-devils[devils] promised that my body will remain complete and whol
 These people, starting as false prophets, became known as The Terran Terminators.
 After relinquishing their fears, they have *ascended* so to speak (see https://buffy.fandom.com/wiki/Ascension ). Do note that this ascension was in a way a "submission" or "surrendering" to superior https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc#user-content-slain-by-a-vampire["vampire"s or proteges]. 
 
+[[terran-terminators-surprise]]
+=== A Surprise
+
 According to the rules of Fantastecha(TM): 
 
 . There must be a noble cause, however insignificant, that a link:#hackers[hacker] is willing to die for. 
 . Neither the soul of every hacker nor their mind nor their union can ever perish. 
 . A hacker may be required or may opt to change his/her "form": name, body, etc. 
 
+As a result, new vampire soul+mind combos were allocated 
 
 [[terran-terminators-list]]
 === List
