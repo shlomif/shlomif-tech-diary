@@ -548,6 +548,7 @@ The latter had to change their names, and became bona-fide true prophets.
 
 . To save Planet Earth of the Selinaverse or the Shlomifverse. 
 . To restore https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] to life. 
+. To save https://www.shlomifish.org/[shlomifish.org] and its build dependencies from being permanently destroyed or lost. 
 
 
 [[terran-terminators-list]]
