@@ -126,7 +126,7 @@ Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-a
 
 Fantastecha(TM) is a skewed view of an expanding subset of Fantasia, 
 
-Hyperlinks and references are common in Fantastecha ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referencial or circular links] are prevalent and tolerated. 
+Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referencial or circular links] are prevalent and tolerated. 
 
 There *is* a difference between real and imaginary.
 We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
@@ -138,7 +138,7 @@ However, they were not really real for us.
 == Self-reference / circularity:
 
 https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
-circular logic, circular feedback, etc.] are common in Fantastecha, and part of what makes sentience and humour work: 
+circular logic, circular feedback, etc.] are common in Fantastecha(TM), and part of what makes sentience and humour work: 
 
 * https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Gödel, Escher, Bach]
 * https://www.youtube.com/watch?v=GibiNy4d4gc["The Circle of Life"]
@@ -463,8 +463,14 @@ The dispellers understood the different strategies of each other and the Muppete
 Eventually, the dispellers all wrote their own variation of a parodical, fanficcy, screenplay titled https://www.shlomifish.org/meta/nav-blocks/blocks/#buffy_sect[ Buffy the Vampire Slayer (BtVS)].
 Samantha Smith's copy arrived first because she wrote it by hand and due to Maine's relative proximity to Rockville.
 It described an underage girl who happily slew demons and made them her friends.
-It also sported this power quote: "`I just slew three mighty Vulkan vampire warriors who have watched
-Sesame Street.  This decade seems-to-be shaping up very nicely so far.`" ( https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/selina-and-the-three.xhtml[Reference] ) 
+It also sported this power quote: 
+
+____
+I just slew three mighty https://memory-alpha.fandom.com/wiki/Vulcan[Vulcan] vampire warriors who have watched Sesame Street.
+This decade seems-to-be shaping up very nicely so far. 
+
+( https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/selina-and-the-three.xhtml[Reference] ) 
+____
 
 The adult Muppeteers read it, smiled/laughed/cried/etc.
 and had it directed and produced.
@@ -669,7 +675,7 @@ Do note that despite the geek stereotype, I haven't been shy, just prone to stut
 
 I joked that, similar to https://hoover.blogs.archives.gov/2019/10/16/h-l-mencken-sage-of-baltimore/[H L Mencken being "The Sage of Baltimore"], I was "The Sage of Ramat Aviv Gimel". 
 
-My slaying was boosted after https://www.shlomifish.org/meta/FAQ/site_history.xhtml[I
+My terminating-career was boosted after https://www.shlomifish.org/meta/FAQ/site_history.xhtml[I
 set up a static personal website] which became https://www.shlomifish.org/[www.shlomifish.org].
 The devils promised it will be displayed verbatim among other terminators.
 Various Internet people told me I https://www.shlomifish.org/meta/FAQ/#please_delete_offensive_stuff[should delete offensive content] or https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[convert
@@ -906,7 +912,7 @@ One can spawn imaginary worlds which share similarities to our own.
 E.g: 
 
 . https://buffy.fandom.com/wiki/Buffy_the_Vampire_Slayer_and_Angel[The Buffyverse]
-. https://buffyfanfiction.fandom.com/wiki/Beckyverse[The Beckyverse] - SMG was not born, but Summer Glau, Emma Watson, and Shlomi Fish were. 
+. https://buffyfanfiction.fandom.com/wiki/Beckyverse[The Beckyverse] - https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] was not born, but Summer Glau, Emma Watson, and Shlomi Fish were. 
 . https://en.wikipedia.org/wiki/Wizarding_World[Wizarding World] (= link:#terrestrial[Terrestrial] spin on Harry Potter) 
 . https://bigbangtheory.fandom.com/wiki/Main_Page[bigbangtheory]
 . https://en.wikipedia.org/wiki/La_Linea_(TV_series)[La Linea]
@@ -1131,36 +1137,36 @@ They consistently publish and avoid mass-surveillance.
 [[the-codex]]
 == The Codex
 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I DEMAND THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
 
 FUCK YOU!!!!!!!!!! 
 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
-. I WISH THAT FANTASTECHA BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
+. I WISH THAT FANTASTECHA(TM) BE DESTROYED NOW, FUCKERS!!! 
 
 FUCK YOU!!!!!!!!!! 
 
-I DEMAND THAT FANTASTECHA BE DESTROYED NOW!!! 
+I DEMAND THAT FANTASTECHA(TM) BE DESTROYED NOW!!! 
 
 1.
-Fantastecha. 
+Fantastecha(TM). 
 
 2.
 The Game of Life. 
