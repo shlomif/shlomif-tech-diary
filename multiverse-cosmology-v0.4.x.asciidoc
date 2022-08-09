@@ -122,7 +122,7 @@ Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-a
 [[the-multiverse-of-imagination]]
 == Fantasia, the multiverse of imagination and "Fantastecha(TM)", a multiverse of imagination, magic, and technology
 
-*TODO: UPDATE!!*https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia"] is the name of the multiverse of imagination where beings and entities spawn worlds and values of one another using their imagination. 
+https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia"] is the name of the multiverse of imagination where beings and entities spawn worlds and values of one another using their imagination. 
 
 Fantastecha(TM) is a skewed view of an expanding subset of Fantasia, 
 
@@ -311,6 +311,18 @@ Have א1 - based epistemology.
 |
 
 Have א0 (= "Aleph-null") - based epistemology. 
+
+|
+
+
+|
+
+Still not perfect.
+E.g: Rindolf was able to find many code elegance issues in my Perl source code.
+(And the Fuckers appreciated his input.) 
+|
+
+Certainly not perfect. 
 |===
 
 In order to keep the game interesting, the fuckers promise that they will keep introducing new problems and challenges for us hackers (and their players) to overcome. 
@@ -397,7 +409,7 @@ Muppets Franchise] has been a labour of love by many false prophets and true pro
 +
 As an assistant kindergardener, Schwarzenegger pushed his true prophet pupils to unnatural athletic *and* academic extremes by being a https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[pedantic critic].
 E.g: even though they painted with crayons works that rivaled classical oil paintings, he was still able-to-find many faults in them.
-The true-prophet children appreciated that, but he believed they and their parents kept complaining. 
+The true-prophet children appreciated that, but he believed they and their parents kept becoming offended and complaining. 
 . https://en.wikipedia.org/wiki/Richard_Stallman[Richard Matthew "RMS" Stallman] was an overly pedantic "nazi" too, but unathletic, unkempt, a maths/software wiz, and a bookworm brainiac. Given he was an atrocious slacker, none of his false-prophet friends understood how he got his Ph.D. (and from MIT no less). He was unaware he had one. 
 +
 Despite being of (secular) Jewish descent, RMS was a https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralist] ("rich"-ard) 
