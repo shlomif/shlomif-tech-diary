@@ -431,6 +431,10 @@ Despite being of (secular) Jewish descent, RMS was a https://www.shlomifish.org/
 +
 Henson was the leader, and had the veto. 
 
+(I believe all three were larger than life, even then.
+It is a testament to Selinaverse-an technology that a https://www.shlomifish.org/me/business-card/["humorist, writer, and software geek"] (or a 'blogger' or a 'web monkey') is somehow comparable to them.
+) 
+
 One day in 1969, the three lamented the fact that the late 1960's anglophone link:#terresterial[terresterial] television has become too paranoid, and so decided that they will act, produce, and distribute, a *gratis, public domain, and non-commercial* television show for children, called https://en.wikipedia.org/wiki/Sesame_Street[Sesame Street].
 Part of the reason for keeping it free was that they intended it to sport a lot of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[fan-fiction, RPF, fan-art and song covers] and part of it was due to https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml[an altruistic spirit of sharing]. 
 
@@ -450,7 +454,14 @@ All the remaining post-puberty vampires (including Queen Elizabeth II and Pope J
 The pre-pubecent ones were physically scattered around the globe to delay slaying one another and the Muppeteers. 
 
 https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] asked the orcs "what's next?" and they settled on using the international postal service to connect between the Muppeteers and "dispellers" outside Rockville.
-("You can control television and computer networks but not the Postal service.") These dispellers were: 
+("You can control television and computer networks but not the Postal service.") These dispellers were: footnote:[In a sense, static web sites, including
+shlomifish.org,
+joelonsoftware.com,
+paulgraham.com,
+xkcd,
+and Ozy and Millie,
+were the "Web 2.0" parallel to the Postal Service of 1982.
+( Reference )]
 
 . False prophets. 
 . Female. 
@@ -485,7 +496,8 @@ Hah! Not on your life! They used supersonic military jet planes, each carrying X
 
 Corresponding with the girls, The Muppeteers soon realised that their crudely produced shows and films were remastered and broadcast internationally ( https://www.shlomifish.org/humour/image-macros/indiv-nodes/mighty_klingon_warriors.xhtml[and beyond!] ). Jim Henson, Arnold Schwarzenegger, and Richard Stallman ( RMS ), who were the three core Muppeteers each understood that the other two were trying to https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[promote Commercial Real Person Fan Fiction (RPFs), crossovers and parodies], as well.
 Moreover, they all had https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[antagonism toward the terresterial
-"Hollywood-blessed screenplay format"]. 
+"Hollywood-blessed screenplay format"].
+They also realised they were rich, famous, and that their terresterial "real world"s were lies. 
 
 The dispellers understood the different strategies of each other and the Muppeteers.
 Eventually, the dispellers all wrote their own variation of a parodical, fanficcy, screenplay titled https://www.shlomifish.org/meta/nav-blocks/blocks/#buffy_sect[ Buffy the Vampire Slayer (BtVS)].
@@ -505,14 +517,7 @@ and had it directed and produced.
 The underage false prophet girls (including the dispellers, the toddler ones, and those living in non-anglophone countries) and underage false prophet boys watched it and ascended as well [including the slayer me who was ~5 years old at the time]. 
 
 The two mighty superpowers that Samantha Smith ( &co.
-) slew as a child were not the USSR and the USA, but link:#zionism[Ziyoonism] and Jim Henson/The Muppeteers! footnote:[In a sense, static web sites, including
-shlomifish.org,
-joelonsoftware.com,
-paulgraham.com,
-xkcd,
-and Ozy and Millie,
-were the "Web 2.0" parallel to the Postal Service of 1982.
-( Reference )]footnote:[See "hospitalised in a closed psychiatric ward"]
+) slew as a child were not the USSR and the USA, but link:#zionism[Ziyoonism] and Jim Henson/The Muppeteers! footnote:[See "hospitalised in a closed psychiatric ward"]
 
 [[the-six-chocolate-hearts]]
 === The 6 chocolate hearts
