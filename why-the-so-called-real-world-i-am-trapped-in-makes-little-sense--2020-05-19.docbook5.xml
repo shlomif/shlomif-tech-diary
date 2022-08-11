@@ -5,6 +5,33 @@
 <info>
 <title>The epistemological demons:</title>
 <date>2022-05-04</date>
+<authorgroup>
+<author>
+<personname>
+<firstname>Shlomi</firstname>
+<surname>Fish</surname>
+</personname>
+<affiliation>
+<address>
+<email>shlomif@shlomifish.org</email>
+<uri type="homepage" xlink:href="http://www.shlomifish.org/">Shlomi Fish’s Homepage</uri>
+</address>
+</affiliation>
+</author>
+</authorgroup>
+<copyright>
+<year>2022</year>
+<holder>Shlomi Fish</holder>
+</copyright>
+<legalnotice xml:id="main_legal_notice">
+<info>
+<title>CC-by dedication</title>
+</info>
+<para>
+<!--Creative Commons License-->
+This work is licensed under the <link xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</link> (or at your option a greater version of it).
+</para>
+</legalnotice>
 </info>
 <para>Date: 2021-08-12</para>
 <para>From: <link xl:href="https://www.shlomifish.org/me/contact-me/">Shlomi Fish</link></para>

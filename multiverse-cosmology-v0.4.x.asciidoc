@@ -1,4 +1,8 @@
 = The multiverse's cosmology v0.4.x [by Shlomi Fish]
+
+Shlomi
+Fish
+ <shlomif@shlomifish.org>
 2022-06-10
 
 [[intro]]
