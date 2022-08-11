@@ -576,7 +576,7 @@ After relinquishing their fears, they have *ascended* so to speak (see https://b
 According to the rules of Fantastecha(TM): 
 
 . There must be a noble cause, however insignificant, that a link:#hackers[hacker] is willing to die for. 
-. Neither the soul of every hacker nor their mind nor their union can ever perish. 
+. For each and every hacker X: neither X's soul, nor X's mind, nor their union can ever perish. 
 . A hacker may be required or may opt to change his/her "form": name, body, etc. 
 
 As a result, new vampire soul+mind combos were allocated and started their lives with the forms of the non-dropout templates.
@@ -589,9 +589,9 @@ So my soul+mind were effectively created in September 1983, with the body of a 6
 
 I, Shlomi Fish, am willing to die: 
 
-. To save Planet Earth of the Selinaverse or the Shlomifverse. 
-. To make sure https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] is alive and healthy. 
-. To save https://www.shlomifish.org/[shlomifish.org] and its build dependencies from being permanently destroyed or lost. 
+. In order to save Planet Earth of the Selinaverse or the Shlomifverse. 
+. In order to make sure https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] is alive and healthy. 
+. In order to save https://www.shlomifish.org/[shlomifish.org] and its build dependencies from being permanently destroyed or lost. 
 
 
 [[terran-terminators-list]]
