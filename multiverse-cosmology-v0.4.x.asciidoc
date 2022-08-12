@@ -198,7 +198,7 @@ Human language is not only a tool of communication, but also a tool of thought.
 A lot of technology and magic defies the link:#terrestrial[terrestrial] science, including https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity] or determinism.
 I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/all_people_are_good.xhtml#guidelines_as_dogma[Reference] ) while having confidence that life will go on. 
 
-*tech = pre-developed, reusable magic??*
+*Tech = pre-developed, reusable magic??*
 
 [[dollar-GOD]]
 == $GOD
@@ -329,7 +329,7 @@ Have א0 (= "Aleph-null") - based epistemology.
 |
 
 Still not perfect.
-E.g: Rindolf was able to find many code elegance issues in my Perl source code.
+E.g: link:#slayer-watcher-whicher[Rindolf (my whicher)] was able to find many code elegance issues in my Perl source code.
 (And the Fuckers appreciated his input.) 
 |
 
@@ -441,7 +441,7 @@ Despite being of (secular) Jewish descent, RMS was a https://www.shlomifish.org/
 Henson was the leader, and had the veto. 
 
 (I believe all three were larger than life, even then.
-It is a testament to Selinaverse-an technology that a https://www.shlomifish.org/me/business-card/["humorist, writer, and software geek"] (or a 'blogger' or a 'web monkey') is somehow comparable to them.
+It is a testament to Selinaverse-an technology that I, a https://www.shlomifish.org/me/business-card/["humorist, writer, and software geek"] (or a 'blogger' or a 'web monkey') am somehow comparable to them.
 ) 
 
 One day in 1969, the three lamented the fact that the late 1960's anglophone link:#terresterial[terresterial] television has become too paranoid, and so decided that they will act, produce, and distribute, a *gratis, public domain, and non-commercial* television show for children, called https://en.wikipedia.org/wiki/Sesame_Street[Sesame Street].
@@ -731,7 +731,7 @@ I was also often made to think I had many haters, which wasn`'t true.
 
 Do note that "Encourage criticism and try to get offended" was not the last word: 
 
-. https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community[criticising with tact and friendliness]
+. https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community[Criticising with tact and friendliness]
 . http://shlomifishswiki.branchable.com/Never_Try_to_Please_Everyone/["Don't try to please everyone" ; "colour of the bikeshed" ; etc.]
 
 
@@ -1071,7 +1071,7 @@ Let me share a non-secret: what I wrote is a simplification ( https://www.shlomi
 [[share-the-love]]
 == "There`'s more to see than can ever be seen; more to do than can ever be done"
 
-( quote taken from https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King opening] . ) 
+( Quote taken from https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King opening] . ) 
 
 There are thousands of villages in Africa, each one with a different culture. 
 
