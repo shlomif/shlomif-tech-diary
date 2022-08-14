@@ -853,7 +853,7 @@ ____
 Shlomi Fish 
 A resentful beggar whose name I forgot, and who accused the people sitting on benches in Rabin Square of being misers, which prompted me to give him a 20 sheqel note and asking that we`'ll converse in return. 
 
-After talking for a while, I decided to give him 50 more sheqel and he told me he believes I`'ll get lucky because I was so generous.
+After talking for a while, I decided to give him 50 more sheqels and he told me he believes I`'ll get lucky because I was so generous.
 And a few weeks after that, I attended Olamot Con, and came up with the idea to write Summerschool at the NSA as a screenplay. 
 ____
 
@@ -902,7 +902,7 @@ This has several implications:
 [quote]
 Mosheh: Relax! I married girls who were 40 times my junior or more and my own descendants, and retrospectively I can tell that many of them were more mature and rational than I was in most respects. 
 ** While in her 20s, https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-of-Gul-Dukat-in-the-Selinaverse[Major Kira] had a relationship with https://memory-alpha.fandom.com/wiki/Bareil_Antos[Vedek Bareil] who was/is over a million years old. 
-** Moreover, https://stexpanded.fandom.com/wiki/Q2[Q2], who was roughly 34 milliard years when she assumed human-like form, had relationships with much younger men. E.g: men in their 20s, who were less than a milliardth her age. 
+** Moreover, https://stexpanded.fandom.com/wiki/Q2[Q2], who was roughly 34 milliard years old when she assumed human-like form, had relationships with much younger men. E.g: men in their 20s, who were less than a milliardth her age. 
 ** https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml["Shlomi Fish`'s FAQ - You feature sexy women and girls in your works. Are you a pervert?"]
 . {empty}
 +
@@ -998,6 +998,7 @@ Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29 ) is TheCreator.
 ;) 
 +
 ( -- https://twitter.com/shlomif/status/1485024317062717440 ) 
+* https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[Why the so-called-real-world makes little sense]
 
 
 [[many-roads]]
