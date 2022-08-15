@@ -136,37 +136,24 @@ ____
 -- https://www.shlomifish.org/humour/TheEnemy/The-Enemy-English-v7.html
 * Microbiology is a pseudoscience - most of its processes are unexplained.
 * The terrestrial food supply is unsustainable.
+* '''
+* I have fanfics with Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasnt made a film in years yet everyone talk about her
+* Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
+* Occam`'s Razor tells me there`'s a conspiracy-- https://is.gd/kSLGdP
+* '''
+* Someone on freenode told me my site is a "waste of space" even though:
+.. https://mirrors.edge.kernel.org/pub/linux/kernel/ is far more wasteful
+.. https://en.wikipedia.org/wiki/Nazi_book_burnings
+.. https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning
+.. https://www.chabad.org/library/bible_cdo/aid/16186
+* '''
+* https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie`'s song "Feelin' Good"] views' count has been stuck below 4 million.
+* '''
+* I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( "`Selina: OK, OK. Tell you what? I`'ll play along.`" ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
+* My 9th grade literature teacher told us that https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[philosophy / philosophising] was bad! 
+* I saw badly photoshopped people on the streets while I was walking outside. 
+* https://www.shlomifish.org/Files/files/images/hostgator-no-python3.png[HostGator removing python3 and requiring v2.7.5 (!)]
 
-'''
-
-I have fanfics with Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasnt made a film in years yet everyone talk about her
-
-Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
-
-Occam`'s Razor tells me there`'s a conspiracy-- https://is.gd/kSLGdP
-
-'''
-
-Someone on freenode told me my site is a "waste of space" even though:
-
-. https://mirrors.edge.kernel.org/pub/linux/kernel/ is far more wasteful
-. https://en.wikipedia.org/wiki/Nazi_book_burnings
-. https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning
-. https://www.chabad.org/library/bible_cdo/aid/16186
-
-'''
-
-https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie`'s song "Feelin' Good"] views' count has been stuck below 4 million.
-
-'''
-
-I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( "`Selina: OK, OK. Tell you what? I`'ll play along.`" ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
-
-My 9th grade literature teacher told us that https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[philosophy / philosophising] was bad! 
-
-I saw badly photoshopped people on the streets while I was walking outside. 
-
-https://www.shlomifish.org/Files/files/images/hostgator-no-python3.png[HostGator removing python3 and requiring v2.7.5 (!)]
 
 [[obstacles-and-delays]]
 === Obstacles and Delays:
