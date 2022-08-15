@@ -285,6 +285,7 @@ ____
 
 . link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D.C. in order to legalise/decrimnalise commercial fan-art, only to get the red carpet, a hero's welcome, and an invitation to a press conference. 
 . link:#Richard_Stallman[Richard Stallman] writes a script ( in Scheme?? ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that their https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
+. link:#Jim_Henson[Jim Henson] travels to Los Angeles to pitch the Muppets franchise, only to see _The Muppet Show_ broadcast on the moon, on the way. 
 
 ____
 
@@ -457,7 +458,7 @@ Despite being of (secular) Jewish descent, RMS was a https://www.shlomifish.org/
 Henson was the leader, and had the veto. 
 
 (I believe all three were larger than life, even then.
-It is a testament to Selinaverse-an technology that I, a https://www.shlomifish.org/me/business-card/["humorist, writer, and software geek"] (or a 'blogger' or a 'web monkey') am somehow comparable to them.
+It is a testament to Selinaverse-an technology that I, a https://www.shlomifish.org/me/business-card/["humorist, writer, and software geek"] (or a 'blogger' or a 'web monkey'), am somehow comparable to them.
 ) 
 
 One day in 1969, the three lamented the fact that the late 1960's anglophone link:#terresterial[terresterial] television has become too paranoid, and so decided that they will act, produce, and distribute, a *gratis, public domain, and non-commercial* television show for children, called https://en.wikipedia.org/wiki/Sesame_Street[Sesame Street].
