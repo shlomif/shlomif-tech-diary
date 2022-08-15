@@ -105,35 +105,21 @@ And it shall be called ...​ The Earth."
 
 +
 Would they travel by plane/automobile for 10 minutes?
-
-=> I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late.
-
-https://twitter.com/shlomif/status/1418433188091793412["If you`'re the smartest person in the world - you are in the wrong world."]
-
-"People" online are afraid of hearing contrasting views, yet are often cruel enough to block/ban/devoice contrarians. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage criticism].
-
-A correspondent told me that "[a flat] 100% of the https://en.wikipedia.org/wiki/Aleppo_Codex is crap." Then I gave https://biblehub.com/parallel/1_kings/20-11.htm as a counterexample, and there was no commentary for it in a site of atheist objections.
-
-'''
-
-https://twitter.com/shlomif/status/1407204486985175043
-
-The latest obsession of 'geeks' with Japanese culture is a mirage of my fears done to make me feel unpopular: https://youtube.com/watch?v=xZLwtc9x4yA ; https://shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
-
-Likewise with the 'Asperger syndrome': https://shlomifish.org/meta/FAQ/asperger_syndrome.xhtml ; obesity ; environmental issues ; etc.
-
-arduino is a mirage of the devils just like Angular / react.js and bitcoin and discord.gg .
-
-'''
-
-Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rock?
-
-"People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
-
-Electrical / Internet / water / gas / etc.
-wiring happens by magic.
-
-Many classics are needlessly long and repetitive, e.g: https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex]
+* => I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late.
+* https://twitter.com/shlomif/status/1418433188091793412["If you`'re the smartest person in the world - you are in the wrong world."]
+* "People" online are afraid of hearing contrasting views, yet are often cruel enough to block/ban/devoice contrarians. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage criticism].
+* A correspondent told me that "[a flat] 100% of the https://en.wikipedia.org/wiki/Aleppo_Codex is crap." Then I gave https://biblehub.com/parallel/1_kings/20-11.htm as a counterexample, and there was no commentary for it in a site of atheist objections.
+* https://twitter.com/shlomif/status/1407204486985175043
+* The latest obsession of 'geeks' with Japanese culture is a mirage of my fears done to make me feel unpopular: https://youtube.com/watch?v=xZLwtc9x4yA ; https://shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
+* Likewise with the 'Asperger syndrome': https://shlomifish.org/meta/FAQ/asperger_syndrome.xhtml ; obesity ; environmental issues ; etc.
+* arduino is a mirage of the devils just like Angular / react.js and bitcoin and discord.gg .
+* '''
+* Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rock?
+* "People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
+* Electrical / Internet / water / gas / etc. wiring happens by magic.
+* Many classics are needlessly long and repetitive, e.g: https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex]
+* {empty}
++
 
 ____
 "`Oh, it was definitely an instructive service.
@@ -146,12 +132,10 @@ Perhaps they thought that without those brainwashes we would have reached the co
 Most of us reached that conclusion a few months, if not less, after we joined the Organisation and we still kept fighting.
 So they didn`'t have a reason to go to this length and just bother us.`"
 ____
-
++
 -- https://www.shlomifish.org/humour/TheEnemy/The-Enemy-English-v7.html
-
-Microbiology is a pseudoscience - most of its processes are unexplained.
-
-The terrestrial food supply is unsustainable.
+* Microbiology is a pseudoscience - most of its processes are unexplained.
+* The terrestrial food supply is unsustainable.
 
 '''
 
