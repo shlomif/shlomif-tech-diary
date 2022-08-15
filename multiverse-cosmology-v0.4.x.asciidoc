@@ -198,7 +198,9 @@ Human language is not only a tool of communication, but also a tool of thought.
 A lot of technology and magic defies the link:#terrestrial[terrestrial] science, including https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity] or determinism.
 I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/all_people_are_good.xhtml#guidelines_as_dogma[Reference] ) while having confidence that life will go on. 
 
-*Tech = pre-developed, reusable magic??*
+*Tech = pre-developed, reusable maths-like functions, which
+accept parameters, and construct magical transformations of the state of
+the universe and perform them.*
 
 [[dollar-GOD]]
 == $GOD
