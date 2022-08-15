@@ -278,7 +278,15 @@ ____
 
 Yes, it is fanfiction, crossover, parody, Real Person Fan Fiction (RPFs), link:#self-ref[circularly referential]; good stuff. 
 
-[quote]
+Now, if the players are playful, and the gamemasters are bastards we can imagine stuff like: 
+
+____
+
+
+. link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D.C. in order to legalise/decrimnalise commercial fan-art, only to get the red carpet, a hero's welcome, and an invitation to a press conference. 
+. link:#Richard_Stallman[Richard Stallman] writes a script ( in Scheme?? ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that their https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
+
+____
 
 In TheGame(TM) of Fantastecha(TM), The Three Muppeteers all started as law-abiding men of great integrity, who were playful mostly only when joking or doing make-believe.
 Furthermore, the gamemasters were not just bastards, but - to use the tehnical term - link:#hackers[fuckers]! 
