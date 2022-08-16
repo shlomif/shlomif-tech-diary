@@ -230,3 +230,7 @@ Fics w him: https://www.shlomifish.org/humour/Selina-Mandrake/ ; https://www.shl
 ----
 
 FYI, commercial fanfic has been happening for centuries: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#history-lesson-about-the-muppeteers . I can see clearer now: https://www.youtube.com/watch?v=ZcCp7488puc .
+
+----
+
+Adding this page was fairly straightforward - https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/image-macros/ . template-toolkit 3 is much nicer/saner than jinja2. #perl
