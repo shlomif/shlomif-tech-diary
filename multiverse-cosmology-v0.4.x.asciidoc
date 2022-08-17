@@ -285,19 +285,20 @@ Yes, it is fanfiction, crossover, parody, Real Person Fan Fiction (RPFs), link:#
 Now, if the players are playful, and the gamemasters are bastards we can imagine stuff like: 
 
 ____
-
-
 . link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D.C. in order to legalise/decrimnalise commercial fan-art, only to get the red carpet, a hero's welcome, and an invitation to a press conference. 
-. link:#Richard_Stallman[Richard Stallman] writes a script ( in Scheme?? ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that their https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
+. link:#Richard_Stallman[Richard Stallman] writes a script ( in Scheme? ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that their https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
 . link:#Jim_Henson[Jim Henson] travels to Los Angeles to pitch the Muppets franchise, only to see _The Muppet Show_ broadcast on the moon, on the way. 
 
 ____
 
 In TheGame(TM) of Fantastecha(TM), The Three Muppeteers all started as law-abiding men of great integrity, who were playful mostly only when joking or doing make-believe.
-Furthermore, the gamemasters were not just bastards, but - to use the tehnical term - link:#hackers[fuckers]! 
+Furthermore, the gamemasters were not just bastards, but - to use the technical term - link:#hackers[fuckers]! 
 
 [[hackers]]
 === "Hackers" vs. "Fuckers"
+
+The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years.
+( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference] ) 
 
 The-Codex(TM) defines "hacker" as a player character in Fantastecha(TM). It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGame(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
 
@@ -882,7 +883,7 @@ It was clearly a test (given my bank credentials and those of many large corpora
 Moreover, back in the 9th grade, I suffered from several clinical depressions, and eventually my guardian angels decided to send me 'The Neo-Tech Cosmic Power Pincer #1', which was false, but sounded more believable and provided a sharper contrast with my contemporary Israeli, Jewish, and mostly Tanakh idea system. footnote:[I suspect Sheldon
 Cooper, whose first name is cognate with mine, was in part an exaggerated parody
 of me at the time. Like him, I tried to reconcile my contemporary ideology
-with terresterial science and "consumerist"
+with terrestrial science and "consumerist"
 culture. That was
 evident from my then writings, e,g:]
 
