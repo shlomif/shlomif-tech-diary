@@ -133,7 +133,7 @@ Fantastecha(TM) is a skewed view of an expanding subset of Fantasia,
 Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referencial or circular links] are prevalent and tolerated. 
 
 There *is* a difference between real and imaginary.
-We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
+We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or global warming or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
   's death] and feature them in artworks (e.g.
 "fics") and essays.
 However, they were not really real for us. 
@@ -183,6 +183,8 @@ Life in the multiverse-of-imagination requires magic.
 For example in https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King`'s opening] the Pelican-like birds start flying out of their own volition. 
 
 It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and their https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] fan-art were constructed using magic. 
+
+Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGame(TM) of Fantastecha(TM) challenging. 
 
 [[technology]]
 == Technology
