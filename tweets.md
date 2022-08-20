@@ -234,3 +234,9 @@ FYI, commercial fanfic has been happening for centuries: https://www.shlomifish.
 ----
 
 Adding this page was fairly straightforward - https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/image-macros/ . template-toolkit 3 is much nicer/saner than jinja2. #perl
+
+----
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/ - WiP document about the cosmology of our universes.
+
+Hackers of Fantastecha™, unite!
