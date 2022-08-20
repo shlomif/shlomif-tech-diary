@@ -240,3 +240,7 @@ Adding this page was fairly straightforward - https://www.shlomifish.org/humour/
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/ - WiP document about the cosmology of our universes.
 
 Hackers of Fantastecha™, unite!
+
+----
+
+From the realm where time is slowing down: my "parents" tell me I dont understand their and terrestrial science' PoV. but I fully understand it, just disagree with them that it is correct.
