@@ -242,7 +242,7 @@ The mutated realities are called the "Terrestrial" ones.
 [[fantasia-vs-fantastecha]]
 === Fantasia vs. Fantastecha(TM)
 
-"The game" is an informal https://en.wikipedia.org/wiki/Role-playing_game[Role-playing game] which as far as we know, is played all over Fantasia.
+"The game" is an informal https://en.wikipedia.org/wiki/Role-playing_game[Role-playing game] which as far as we know, is played all over link:#the-multiverse-of-imagination[Fantasia].
 It has many variations, interpretations, derivatives - even parodies. 
 
 While it is one of the first games that wizard children are taught, many vampires have played it by instinct: 
@@ -252,7 +252,7 @@ While it is one of the first games that wizard children are taught, many vampire
 . https://www.shlomifish.org/humour/stories/[Shlomi Fish's screenplays]
 . https://www.shlomifish.org/humour/fortunes/sharp-perl.html[Entertaining online chat logs]
 . https://en.wikipedia.org/wiki/List_of_Walt_Disney_Animation_Studios_films[Disney's films]
-. Aesop's Fables, the Biblical stories, the Greek mythology. 
+. https://en.wikipedia.org/wiki/Aesop%27s_Fables[Aesop's Fables], the https://en.wikipedia.org/wiki/Hebrew_Bible[Biblical stories], the https://en.wikipedia.org/wiki/Greek_mythology[Greek mythology]. 
 
 
 [[sample-game-session]]
