@@ -1200,6 +1200,11 @@ Moreover, one must be allowed to disassociate from a corporation.
 
 Parenthood, childhood, companionship. 
 
+[[shlomif-terminating-log]]
+== My Log of Terminating
+
+https://www.explainxkcd.com/wiki/index.php/406:_Venting[xkcd #406: venting] displaying "Shlomi Fish" for https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau]. 
+
 [[see-also]]
 == See Also:
 
