@@ -285,8 +285,8 @@ Yes, it is fanfiction, crossover, parody, Real Person Fan Fiction (RPFs), link:#
 Now, if the players are playful, and the gamemasters are bastards we can imagine stuff like: 
 
 ____
-. link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D.C. in order to legalise/decrimnalise commercial fan-art, only to get the red carpet, a hero's welcome, and an invitation to a press conference. 
-. link:#Richard_Stallman[Richard Stallman] writes a script ( in https://en.wikipedia.org/wiki/Scheme_(programming_language)[Scheme?] ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that their https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
+. link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D. C. with him in order to legalise/decriminalise commercial fan-art, only to get the red carpet, a hero's welcome, and a personal invitation from the U.S. president to host a press conference. 
+. link:#Richard_Stallman[Richard Stallman] writes a script ( in https://en.wikipedia.org/wiki/Scheme_(programming_language)[Scheme?] ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that the Muppeteers' screenplays' https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
 . link:#Jim_Henson[Jim Henson] travels to Los Angeles to pitch the Muppets franchise to Hollywood executives, only to see _The Muppet Show_ being broadcast on the moon, on the way. 
 
 ____
@@ -320,10 +320,10 @@ The-Codex(TM) defines "hacker" as a player character in Fantastecha(TM). It also
 
 |
 
-some lived from time minus-infinity. 
+Some lived from time minus-infinity. 
 |
 
-link:#jehovah["Jehovah"ns]
+link:#jehovah["Jehovah"ns]: started life a finite time ago. 
 
 |
 
@@ -351,7 +351,7 @@ Have א0 (= "Aleph-null") - based epistemology.
 |
 
 Still not perfect.
-E.g: link:#slayer-watcher-whicher[Rindolf (my whicher)] was able to find many code elegance issues in my Perl source code.
+E.g: link:#slayer-watcher-whicher[Rindolf (my whicher)] was able to find many code elegance issues in the Perl source code of my mind.
 (And the Fuckers appreciated his input.) 
 |
 
