@@ -200,7 +200,7 @@ Human language is not only a tool of communication, but also a tool of thought.
 A lot of technology and magic defies the link:#terrestrial[terrestrial] science, including https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity] or determinism.
 I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/all_people_are_good.xhtml#guidelines_as_dogma[Reference] ) while having confidence that life will go on. 
 
-*Tech = pre-developed, reusable maths-like functions, which
+*Technology = pre-developed, reusable maths-like functions, which
 accept parameters, and construct magical transformations of the state of
 the universe and perform them.*
 
@@ -256,7 +256,7 @@ While it is one of the first games that wizard children are taught, many vampire
 
 
 [[sample-game-session]]
-==== Sample session of the game
+==== Sample session of "the game"
 
 ____
 One day, https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[Mr. Linea] takes a break from walking along his line, and posts a comedic story that takes place in an absurd 3D1T universe he conceived called "The Selinaverse", on his blog.
@@ -265,7 +265,7 @@ However, his long-time associate https://en.wikipedia.org/wiki/True_and_false_(c
 As the two argue in the blog's comments, https://mlp.fandom.com/wiki/Discord[Discord (from MLP)] notes that "Advanced Selinaverse Geeks" has been a popular fantasy role-playing games' franchise in Equestria for years. 
 
 The three go to http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[judge Fluttershy (MLP)] who sighs and invites them for lunch.
-She opens a gateway to https://en.wikipedia.org/wiki/Rabin_Square[Rabin Square] in Tel Aviv of the Selinaverse (yes! the same universe that the plaintiffs are arguing about), they agree on a restaurant, and order food. 
+She opens a gateway to https://en.wikipedia.org/wiki/Rabin_Square[Rabin Square] in the Tel Aviv of the Selinaverse (yes! the same universe that the plaintiffs are arguing about), they agree on a restaurant, and order food. 
 
 While they wait for their order to arrive, Fluttershy explains that https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/indiv-nodes/commercial_fanfic.xhtml[copyrights' battles are rarely constructive] and that they should just share the Selinaverse; the plaintiffs agree and drop the case.
 However, while they wait for the desserts to arrive, Discord suggests they write and record a parodical courtcase as a spin-off franchise.
@@ -286,7 +286,7 @@ Now, if the players are playful, and the gamemasters are bastards we can imagine
 
 ____
 . link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D.C. in order to legalise/decrimnalise commercial fan-art, only to get the red carpet, a hero's welcome, and an invitation to a press conference. 
-. link:#Richard_Stallman[Richard Stallman] writes a script ( in Scheme? ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that their https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
+. link:#Richard_Stallman[Richard Stallman] writes a script ( in https://en.wikipedia.org/wiki/Scheme_(programming_language)[Scheme?] ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that their https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
 . link:#Jim_Henson[Jim Henson] travels to Los Angeles to pitch the Muppets franchise to Hollywood executives, only to see _The Muppet Show_ being broadcast on the moon, on the way. 
 
 ____
@@ -457,7 +457,7 @@ The true-prophet children appreciated that, but he believed they and their paren
 . https://en.wikipedia.org/wiki/Richard_Stallman[Richard Matthew "RMS" Stallman] was an overly pedantic "nazi" too, but unathletic, unkempt, a maths/software wiz, and a bookworm brainiac. Given he was an atrocious slacker, none of his false-prophet friends understood how he got his Ph.D. (and from MIT no less). He was unaware he had one. 
 +
 Despite being of (secular) Jewish descent, RMS was a https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralist] ("rich"-ard) 
-. https://en.wikipedia.org/wiki/Jim_Henson[Jim Henson] - "Jim" means "laborious" and he did almost everything 'hard': worked, socialised, learned, taught, entertained, volunteered, and exercised. 
+. https://en.wikipedia.org/wiki/Jim_Henson[Jim Henson] - "Jim" means "laborious" (not unlike "gym") and he did almost everything 'hard': worked, socialised, learned, taught, entertained, volunteered, and exercised. 
 +
 "Jim" is also cognate with https://en.wikipedia.org/wiki/Jinn["jinn" (or "genie")], and he had a penchant for stage magic and video editing. 
 +
@@ -498,7 +498,7 @@ were the "Web 2.0" parallel to the Postal Service of 1982.
 . False prophets. 
 . Female. 
 . Below 12 years old (so below puberty). 
-. Above 4 years old or 5 years old or so, so they can credibly be believed to read and write coherently (by false prophets). 
+. Above 4 years old or 5 years old or so, so false prophets can credibly believe they can read and write coherently. 
 . Located at the USA or the British Isles. 
 
 Some dispellers I can readily recall are: 
@@ -532,7 +532,7 @@ Moreover, they all had https://www.shlomifish.org/philosophy/culture/case-for-co
 They also realised they were rich, famous, and that their terresterial "real world"s were lies. 
 
 The dispellers understood the different strategies of each other and the Muppeteers.
-Eventually, the dispellers all wrote their own variation of a parodical, fanficcy, screenplay titled https://www.shlomifish.org/meta/nav-blocks/blocks/#buffy_sect[ Buffy the Vampire Slayer (BtVS)].
+Eventually, the dispellers all wrote their own variation of a parodical, fanficcy, screenplay titled https://www.shlomifish.org/meta/nav-blocks/blocks/#buffy_sect[Buffy the Vampire Slayer (BtVS)].
 Samantha Smith's copy arrived first because she wrote it by hand and due to Maine's relative proximity to Rockville.
 It described an underage girl who happily slew demons and made them her friends.
 It also sported this power quote: 
