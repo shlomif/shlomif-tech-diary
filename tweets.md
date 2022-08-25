@@ -244,3 +244,7 @@ Hackers of Fantastecha™, unite!
 ----
 
 From the realm where time is slowing down: my "parents" tell me I dont understand their and terrestrial science' PoV. but I fully understand it, just disagree with them that it is correct.
+
+----
+
+hi. i am getting a horizontal scrollbar on https://www.shlomifish.org/fc-solve-temp/download.html when in responsive mode, 360*740 (portrait). How can I fix it?
