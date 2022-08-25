@@ -670,7 +670,7 @@ Other notable Terran terminators might include:
 +
 Genetically speaking, Taylor and Saladin parented a son who was Genghis Khan's direct-male-ancestor. 
 +
-Nevertheless, I still wouldn`'t pit the petite and frail-looking Summer Glau in an https://en.wikipedia.org/wiki/Mixed_martial_arts[MMA] match against https://memory-alpha.fandom.com/wiki/Worf[Worf] or even against https://en.wikipedia.org/wiki/Ronda_Rousey[Ronda Rousey] . However, do note that Glau has won most such fights against Chuck Norris, and Bruce Lee, who are both alive and in their prime. https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/becky_in_the_library__chit_chat.xhtml[She still drops out of MMA tournaments early.].
+Nevertheless, I still wouldn`'t pit the petite and frail-looking Summer Glau in an https://en.wikipedia.org/wiki/Mixed_martial_arts[MMA] match against https://memory-alpha.fandom.com/wiki/Worf[Worf] or even against https://en.wikipedia.org/wiki/Ronda_Rousey[Ronda Rousey] . However, do note that Glau has won most such fights against both Chuck Norris, and Bruce Lee, who are both alive and in their prime. https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/becky_in_the_library__chit_chat.xhtml[She still drops out of MMA tournaments early.].
 Life is a circular graph: link:#self-ref[Reference]
 
 Anyway, I was convinced I was good , noble, well-intentioned and benevolent.
@@ -689,7 +689,7 @@ I suspect Shlomi Fish decided to become a terran terminator from the following r
 +
 ( Like a https://twitter.com/shlomif/status/1539990565873393665[timid fish] he was afraid of deviations from the status quo.
 ) 
-* link:#Real-Selina-Mandrake[Selina], who is younger than I, stubbornly insisted that she'll be a dropout. As a result, that universe could not be named after me. 
+* link:#Real-Selina-Mandrake[Selina], who is younger than him, stubbornly insisted that she'll be a dropout. As a result, that universe could not be named after me. 
 
 
 [[who-created-time]]
@@ -714,7 +714,7 @@ They also need change.
 But boredom and lethargy are powerful motivators - for false prophets and true prophets alike. 
 
 There are many true stories of stay-at-home "losers" who picked a hobby out of boredom, and became creative superstars.
-Many predate the Internet, e.g.: https://en.wikipedia.org/wiki/Jules_Verne[Jules Verne], or https://en.wikipedia.org/wiki/E._Nesbit[E. Nesbit]. 
+Many predate the Internet, e.g.: https://en.wikipedia.org/wiki/Jules_Verne[Jules Verne], and https://en.wikipedia.org/wiki/E._Nesbit[E. Nesbit]. 
 
 Also see: https://www.youtube.com/watch?v=LKPwKFigF8U["Why boredom is good for you?"]. 
 
@@ -730,7 +730,8 @@ https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/[The Golden Rule]
 ____
 
 See http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended"].
-Having terminated link:#Arnold_Schwarzenegger[Arnold Schwarzenegger], https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)], and Samantha Smith, the two of us were afterward kept in the same elementary school classroom with few other false prophets. link:#Richard_Stallman[Richard Stallman] and link:#Clarissa_Darling[Clarissa Darling] likely were terminated shortly afterwards. 
+Having terminated link:#Arnold_Schwarzenegger[Arnold Schwarzenegger], https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)], and Samantha Smith, the two of us were afterward kept in the same elementary school classroom with few other false prophets.
+This is given the "Age of the terran terminators" was supposed to last 40 years. link:#Richard_Stallman[Richard Stallman] and link:#Clarissa_Darling[Clarissa Darling] likely were terminated shortly afterwards. 
 
 Many Terran Terminators or their friends (and proxies) were relocated by the true prophets administration to https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel[Ramat Aviv Gimel] , which was chosen because it was north of https://en.wikipedia.org/wiki/Yarkon_River[the Yarkon River] and so outside the historical https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which remained a hellhole for longer, and yet close enough to Tel Aviv, the "it city" of Israel. 
 
@@ -973,7 +974,7 @@ However, using link:#magic[magic] one can duplicate anything while giving the du
 E.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Valentine Gellar], or https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker].
 The devils/orcs used it to fork entire universes. 
 
-Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix fork() system call], wizard souls in forked universes are aware that they are the "child process". False prophet souls however didn't have that privilege! 
+Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix fork() system call], wizard souls in forked universes are aware that they are the "child process". However, false prophet souls didn't have that privilege! 
 
 There are https://www.reddit.com/r/linux/comments/9m8yi7/there_are_forks_of_existing_projects_but_are/[mergers / joins] too.
 Also note https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/starved_of_employees.xhtml[Microsoft Windows being merged into GNU, Linux, and WINE].
@@ -1012,7 +1013,7 @@ wrt https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as
 #BigBangTheory one reason i resented the old Sheldon so much is that he reminded me of my old dogmatic science-ist / atheist too much.
 I suspect Penny was the alpha geek: https://shlom.in/geekyhackers
 +
-my catalyst: https://www.shlomifish.org/meta/FAQ/atheism_can_be_a_religion.xhtml[South Park's creators about Atheism]
+My catalyst: https://www.shlomifish.org/meta/FAQ/atheism_can_be_a_religion.xhtml[South Park's creators about Atheism]
 * {empty}
 +
 
