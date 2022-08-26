@@ -168,7 +168,7 @@ Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29 ) is TheCreator.
 +
 ( -- https://twitter.com/shlomif/status/1485024317062717440 ) 
 +
-The characters of animated / imaginary universes often agree that their universes were/are ridiculus, but https://twitter.com/shlomif/status/1479063972934565893[so is ours.]
+The characters of animated / imaginary universes often agree that their universes were/are ridiculous, but https://twitter.com/shlomif/status/1479063972934565893[so is ours.]
 
 When we visit the universes of other franchises and sub-franchises, we can see they have variations of many others we have imagined, and even our own "real world" universe. 
 
@@ -270,9 +270,9 @@ ____
 One day, https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[Mr. Linea] takes a break from walking along his line, and posts a comedic story that takes place in an absurd 3D1T universe he conceived called "The Selinaverse", on his blog.
 However, his long-time associate https://en.wikipedia.org/wiki/True_and_false_(commands)["/bin/true"] v2.0 "The Strong AI Edition" claims he came up with The Selinaverse first. 
 
-As the two argue in the blog's comments, https://mlp.fandom.com/wiki/Discord[Discord (from MLP)] notes that "Advanced Selinaverse Geeks" has been a popular fantasy role-playing games' franchise in Equestria for years. 
+As the two argue in the blog's comments, https://mlp.fandom.com/wiki/Discord[Discord (from My Little Pony)] notes that "Advanced Selinaverse Geeks" has been a popular fantasy role-playing games' franchise in Equestria for years. 
 
-The three go to http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[judge Fluttershy (MLP)] who sighs and invites them for lunch.
+The three go to http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[judge Fluttershy (from My Little Pony)] who sighs and invites them for lunch.
 She opens a gateway to https://en.wikipedia.org/wiki/Rabin_Square[Rabin Square] in the Tel Aviv of the Selinaverse (yes! the same universe that the plaintiffs are arguing about), they agree on a restaurant, and order food. 
 
 While they wait for their order to arrive, Fluttershy explains that https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/indiv-nodes/commercial_fanfic.xhtml[copyrights' battles are rarely constructive] and that they should just share the Selinaverse; the plaintiffs agree and drop the case.
@@ -294,7 +294,7 @@ Now, if the players are playful, and the gamemasters are bastards we can imagine
 
 ____
 . link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D. C. with him in order to legalise/decriminalise commercial fan-art, only to get the red carpet, a hero's welcome, and a personal invitation from the U.S. president to host a press conference. 
-. link:#Richard_Stallman[Richard Stallman] writes a script ( in https://en.wikipedia.org/wiki/Scheme_(programming_language)[Scheme?] ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that the Muppeteers' screenplays' https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million stars and a million forks. 
+. link:#Richard_Stallman[Richard Stallman] writes a script ( in https://en.wikipedia.org/wiki/Scheme_(programming_language)[Scheme?] ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that the Muppeteers' screenplays' https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million GitHub stars (= "likes") and a million forks. 
 . link:#Jim_Henson[Jim Henson] travels to Los Angeles to pitch the Muppets franchise to Hollywood executives, only to see _The Muppet Show_ being broadcast on the moon, on the way. 
 
 ____
@@ -305,7 +305,7 @@ Furthermore, the gamemasters were not just bastards, but - to use the technical 
 [[hackers]]
 === "Hackers" vs. "Fuckers"
 
-The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years.
+The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years with many of their contemporary meanings.
 ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference] ) 
 
 The-Codex(TM) defines "hacker" as a player character in Fantastecha(TM). It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGame(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
@@ -382,6 +382,17 @@ To quote The-Codex(TM) of TheGame(TM) of Fantastecha(TM):
 A vampire can only be slain by another vampire, except for the last standing vampire who will be slain by his/her favourite child. 
 
 My favourite child is https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie]! 
+
+[[TheGame-of-Fantastecha]]
+=== TheGame(TM) of Fantastecha(TM)
+
+TheGame(TM) of Fantastecha(TM) is a derivative of "the game". 
+
+Rule book is common knowledge among wizards, but hidden from vampires: 
+
+* 1 × 2 core concepts. 
+* 3 × 2 concepts ("soul, time, life, mind, knowledge"??) 
+
 
 [[the-orcs]]
 == The Orcs:
