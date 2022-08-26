@@ -9,7 +9,8 @@ Fish
 == Introduction
 
 This essay aims to document the cosmology of our universes.
-I likely got many details wrong: numbers, names, facts. 
+I likely got many details wrong: numbers, names, facts.
+Also note that the terminology used here has undergone etymological erosion. 
 
 [[summary]]
 == Summary
@@ -84,7 +85,7 @@ your destiny will come (יבוא)
 you will remain passionate (יאוה)
 ____
 
-(or many variations)
+(or many variations) 
 
 True prophets are aware of it, but note that it wasn`'t the last word on memetics / philosophy, either.
 But even https://en.wikipedia.org/wiki/If%E2%80%94[Kipling's "If--"] or Des'ree's https://www.youtube.com/watch?v=pO40TcKa_5U[ "You Gotta Be"] or https://www.shlomifish.org/me/rindolf/#rindolfism_sources_of_inspiration["Rindolfism"] are incomplete. https://en.wikipedia.org/wiki/Perfection["Perfection is in imperfection"] and time implies progress. 
@@ -103,8 +104,10 @@ in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-
 [[the-devils]]
 == The devils:
 
-The devils are game masters / screenwriters / directors / creators from other universes / worlds and/or times.
-Given that even underage children have been imagining and creating realities, they are not really evil, just playfully cruel on occasion. 
+The devils are game masters / screenwriters / directors / creators from link:#hackers[Meta-Fantastecha(TM)].
+They claim they are not really evil, just playfully cruel on occasion. 
+
+Even underage children have been imagining and creating realities. 
 
 [[free-will]]
 == Free will / Free choice:
@@ -114,6 +117,11 @@ The very "soul" / "ego" fairy already https://www.shlomifish.org/philosophy/phil
 As a result, https://twitter.com/shlomif/status/1424320375761129475[nobody and nothing can accurately predict the future.]. 
 
 That put aside, the soul is addicted to link:#love-and-knowledge[pleasure], but may opt to avoid short term prioritisations of it. 
+
+Egoes are often freil, and start as easily hurt: 
+
+. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended (and try to grow a thicker skin)"]
+
 
 [[the-gods]]
 == The gods:
