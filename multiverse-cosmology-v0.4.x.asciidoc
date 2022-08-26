@@ -395,6 +395,11 @@ Rule book is common knowledge among wizards, but hidden from vampires:
 * 7 × 2 guidelines of the realm of wizards. 
 * 9 × 2 guidelines of the realm of vampires. 
 
+( See http://tolkiengateway.net/wiki/Rings_of_Power[the Middle Earth's
+20 "Rings of Power"] meme.
+) 
+
+For a vampire to become a wizard he or she should show that the gamemasters violated all 17 out of the 18 guidelines, except for the last: link:#terran-terminators-surprise["`For each and every hacker X: neither X's soul, nor X's mind, nor their union can ever perish.`"]. 
 
 [[the-orcs]]
 == The Orcs:
