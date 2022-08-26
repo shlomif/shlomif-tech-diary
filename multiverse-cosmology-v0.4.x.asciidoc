@@ -392,6 +392,8 @@ Rule book is common knowledge among wizards, but hidden from vampires:
 
 * 1 × 2 core concepts. 
 * 3 × 2 concepts ("soul, time, life, mind, knowledge"??) 
+* 7 × 2 guidelines of the realm of wizards. 
+* 9 × 2 guidelines of the realm of vampires. 
 
 
 [[the-orcs]]
