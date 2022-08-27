@@ -1238,6 +1238,13 @@ I wrote Freecell Solver in 2000 shortly before https://cimorelli.fandom.com/wiki
 https://www.explainxkcd.com/wiki/index.php/406:_Venting[xkcd #406: venting] displaying "Shlomi Fish" when viewed by https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau].
 She was terminated by me shortly after that. 
 
+I think the last runner-ups were: 
+
+. https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] - 
+. https://www.facebook.com/vendu/[Tuomo Vendu Venäläinen]
+. https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian]
+
+
 [[see-also]]
 == See Also:
 
