@@ -989,6 +989,7 @@ ____
 ** ( As an example, https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/be_communicative.xhtml[writing and publishing some short poems] and tactfully avoiding a fistfight are attractive. ) 
 ** https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-web--lesbian-straight-and-Sappho[#web - Lesbianism, heterosexuality, and Sappho of Lesbos]
 . A wizard of any age can conceive a child or a pet by submitting a web/email/paper/etc. form. 
+. At any point, there is a large number of MOTASes who are not in a relationship, but are open for being in one. (References: https://www.breitbart.com/entertainment/2019/12/30/sharon-stone-blocked-from-dating-site-bumble-after-users-thought-her-profile-was-fake/["Sharon Stone Blocked from Dating Site Bumble After Users Thought Her Profile was Fake"]) 
 
 
 [[forking-and-merging]]
