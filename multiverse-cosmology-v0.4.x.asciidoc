@@ -48,7 +48,9 @@ They are also known as:
 
 For info regarding https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil["the tree of knowledge"] as well as pleasure/"love" and creativity, See https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[Education +++=+++ Entertainment +++=+++ Conception of Values] often by combining two or more memes. 
 
-Entertainment *can mean* temporary pain, e.g fear.( References: https://mlp.fandom.com/wiki/Luna_Eclipsed["Luna Eclipsed"] ) 
+Entertainment *can mean* temporary pain, e.g fear.
+( References: https://mlp.fandom.com/wiki/Luna_Eclipsed["Luna Eclipsed"].
+) 
 
 Both the link:#the-devils[devils] and the link:#the-angels[angels] could "make love" / experience pleasure / create new values. 
 
@@ -118,7 +120,7 @@ As a result, https://twitter.com/shlomif/status/1424320375761129475[nobody and n
 
 That put aside, the soul is addicted to link:#love-and-knowledge[pleasure], but may opt to avoid short term prioritisations of it. 
 
-Egoes are often freil, and start as easily hurt: 
+Egos are often frail, and start as easily hurt: 
 
 . http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended (and try to grow a thicker skin)"]
 
@@ -129,7 +131,7 @@ Egoes are often freil, and start as easily hurt:
 Every conscious organism imagines "gods": voices/sights of other link:#the-demons[fairies] / characters (or himself/herself) that act as guideline-generators.
 It is up to the soul to arbitrate between them and decide what to do (and when/where/how/etc.). 
 
-Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/[this essay] about the etymology of the Hebrew word "elohim" (= many guideline-generators). 
+Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/[this essay] about the etymology of the Hebrew word "elohim" (= "God", "many guideline-generators"). 
 
 [[the-multiverse-of-imagination]]
 == Fantasia, the multiverse of imagination and "Fantastecha(TM)", a multiverse of imagination, magic, and technology
@@ -138,7 +140,7 @@ https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia"] is the name o
 
 Fantastecha(TM) is a skewed view of an expanding subset of Fantasia, 
 
-Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referencial or circular links] are prevalent and tolerated. 
+Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referential or circular links] are prevalent and tolerated. 
 
 There *is* a difference between real and imaginary.
 We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or global warming or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
@@ -180,7 +182,7 @@ Angels are organisms / entities who have link:#free-will[souls].
 [[the-heart-and-mercy-value]]
 == Heart / mercy / forgiveness:
 
-The heart value implied mercy and forgiveness. http://shlomifishswiki.branchable.com/Saladin_Style/[Saladin-style]. 
+The heart value implies mercy and forgiveness. http://shlomifishswiki.branchable.com/Saladin_Style/[Saladin-style]. 
 
 Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#do_and_let_do__live_and_let_live["Live and let live; do and let do"]. 
 
@@ -405,7 +407,7 @@ For a vampire to become a wizard he or she should show that the gamemasters viol
 [[the-orcs]]
 == The Orcs:
 
-The orcs / "https://memory-alpha.fandom.com/wiki/Bajoran[the Bajorans]" were agents of the devils who gave the organisms choices and their outcomes (often based on dice rolls). 
+The orcs (or sometimes calling themselves "https://memory-alpha.fandom.com/wiki/Bajoran[the Bajorans]") were agents of the devils who gave the organisms choices and their outcomes (often based on dice rolls). 
 
 The canonical https://en.wikipedia.org/wiki/Hebrew_Bible[Tanakh (+++=+++ Hebrew Bible)], Plato`'s https://en.wikipedia.org/wiki/Republic_(Plato)[Republic], Tolkien`'s https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[Lord of the Rings], Ayn Rand`'s https://en.wikipedia.org/wiki/Atlas_Shrugged[Atlas Shrugged], Dostoevsky`'s https://en.wikipedia.org/wiki/Crime_and_Punishment[Crime and Punishment] , Shakespeare`'s https://en.wikipedia.org/wiki/Shakespeare%27s_plays[Plays], etc.
 have likely undergone lengthening and mutation by the Orcs.
