@@ -1245,6 +1245,9 @@ TheCodex(TM) gives special treatment to corporations of two members, called 'pai
 Not necessarily a genetic parenthood, of course. 
 . Y is a "child" [= "protege"] of X (if X is a parent of Y). 
 . X and Y are companions, and wish to raise mutual children. 
++
+A romantic, sexual, girlfriend+boyfriend or husband+wife relationship is a natural application of this.
+However, so is a business partnership, or a regular friendship. 
 
 
 [[shlomif-terminating-log]]
