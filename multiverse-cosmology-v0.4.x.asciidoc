@@ -1240,6 +1240,10 @@ Parenthood, childhood, companionship.
 
 TheCodex(TM) gives special treatment to corporations of two members, called 'pairs'. There are three major types of them: 
 
+. X is a "parent" [= mentor] of Y. 
++
+Not necessarily a genetic parenthood, of course. 
+. Y is a "child" [= "protege"] of X (if X is a parent of Y). 
 
 
 [[shlomif-terminating-log]]

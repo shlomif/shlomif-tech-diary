@@ -3529,7 +3529,21 @@ There are three major types of them:
 
 <orderedlist>
 
+<listitem>
+<para>
+X is a "parent" [= mentor] of Y.
+</para>
 
+<para>
+Not necessarily a genetic parenthood, of course.
+</para>
+</listitem>
+
+<listitem>
+<para>
+Y is a "child" [= "protege"] of X (if X is a parent of Y).
+</para>
+</listitem>
 
 </orderedlist>
 
