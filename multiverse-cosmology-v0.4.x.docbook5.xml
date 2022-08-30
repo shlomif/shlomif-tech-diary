@@ -3545,6 +3545,12 @@ Y is a "child" [= "protege"] of X (if X is a parent of Y).
 </para>
 </listitem>
 
+<listitem>
+<para>
+X and Y are companions, and wish to raise mutual children.
+</para>
+</listitem>
+
 </orderedlist>
 
 </section>
