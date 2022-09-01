@@ -396,7 +396,7 @@ TheGame(TM) of Fantastecha(TM) is a derivative of "the game".
 Rule book is common knowledge among wizards, but hidden from vampires: 
 
 * 1 × 2 core concepts. ("player, character"??) 
-* 3 × 2 concepts ("soul, time, life, mind, knowledge, network"??) 
+* 3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
 * 7 × 2 guidelines of the realm of wizards. 
 * 9 × 2 guidelines of the realm of vampires. 
 
