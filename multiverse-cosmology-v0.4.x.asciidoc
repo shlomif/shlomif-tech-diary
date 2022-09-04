@@ -114,7 +114,7 @@ Even underage children have been imagining and creating realities.
 [[free-will]]
 == Free will / Free choice:
 
-The very "soul" / "ego" fairy already https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/dont_just_go_with_the_flow.xhtml[operated by choice]. 
+The "soul" / "ego" already https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/dont_just_go_with_the_flow.xhtml[operated by choice]. 
 
 As a result, https://twitter.com/shlomif/status/1424320375761129475[nobody and nothing can accurately predict the future.]. 
 
@@ -143,8 +143,8 @@ Fantastecha(TM) is a skewed view of an expanding subset of Fantasia,
 Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referential or circular links] are prevalent and tolerated. 
 
 There *is* a difference between real and imaginary.
-We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or global warming or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[ @TheRealGrimmie
-  's death] and feature them in artworks (e.g.
+We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or global warming or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie's
+death] and feature them in artworks (e.g.
 "fics") and essays.
 However, they were not really real for us. 
 
@@ -177,7 +177,7 @@ When we visit the universes of other franchises and sub-franchises, we can see t
 [[the-angels]]
 == The Angels:
 
-Angels are organisms / entities who have link:#free-will[souls]. 
+Angels are link:#hackers[fuckers] who play individual link:#hackers[hackers] (= player characters): organisms / entities who have link:#free-will[souls]. 
 
 [[the-heart-and-mercy-value]]
 == Heart / mercy / forgiveness:
@@ -231,14 +231,15 @@ https://twitter.com/shlomif/status/1491652850044309507[Twitter thread]
 [[the-game]]
 == The-Game(TM):
 
-The link:#the-devils[devils] challenged Terran link:#the-angels[angels] with "`The-Game(TM)`": volunteering link:#the-angels[angels] would willingly lose their earlier memories as souls, and have their media (= "in between") mutated by the link:#the-devils[devils].
+The link:#the-devils[devils] challenged Terran link:#the-angels[angels] with "`The-Game(TM)`": volunteering link:#hackers[hackers] would willingly lose their earlier memories as souls, and have their media (= "in between") mutated by the link:#the-devils[devils].
 Physically dying was against the rules, but for true Shalom-of-mind, they must be "slain" by another "vampire", or in case of the last standing vampire - their favourite "child" [= protege]; one cannot constantly win. 
 
 Angels starting like that are hereby referred to as "false prophets" (where https://shlom.in/geekyhackers["prophet" or "navi" meant "madman" in Ancient Hebrew]) or as "vampires". That was until they reached enough "enlightenment" and became "true prophets" (or "wizards"). 
 
 Outcomes of actions in The-Game(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
 
-Note that every false prophet perceived a somewhat different reality, but all of them, and that of the true prophets, were synchronised. 
+Note that every false prophet perceived a somewhat different reality, but all of them, and that of the true prophets, were synchronised.
+(See https://en.wikipedia.org/wiki/Rashomon_effect[the Rashomon effecangelst].) 
 
 *Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of The-Game(TM). 
 
@@ -263,6 +264,11 @@ While it is one of the first games that wizard children are taught, many vampire
 . https://www.shlomifish.org/humour/fortunes/sharp-perl.html[Entertaining online chat logs]
 . https://en.wikipedia.org/wiki/List_of_Walt_Disney_Animation_Studios_films[Disney's films]
 . https://en.wikipedia.org/wiki/Aesop%27s_Fables[Aesop's Fables], the https://en.wikipedia.org/wiki/Hebrew_Bible[Biblical stories], the https://en.wikipedia.org/wiki/Greek_mythology[Greek mythology]. 
+
+The game can often be: 
+
+* 1 × 2 core concepts. ("player, character"??) 
+* 3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
 
 
 [[sample-game-session]]
@@ -395,8 +401,6 @@ TheGame(TM) of Fantastecha(TM) is a derivative of "the game".
 
 Rule book is common knowledge among wizards, but hidden from vampires: 
 
-* 1 × 2 core concepts. ("player, character"??) 
-* 3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
 * 7 × 2 guidelines of the realm of wizards. 
 * 9 × 2 guidelines of the realm of vampires. 
 
