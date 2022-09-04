@@ -1626,7 +1626,7 @@ and utilise the pairs like so:
 
 <listitem>
 <para>
-<link xl:href="https://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa Joan Hart (MJH)</link>
+<link xlink:href="https://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa Joan Hart (MJH)</link>
 - consume it - eat it, and maybe throw away the remains.
 </para>
 </listitem>
@@ -1778,13 +1778,15 @@ to die for.
 
 <listitem>
 <para>
-For each and every hacker X: neither X's soul, nor X's mind, nor their union can ever perish.
+For each and every hacker X: neither X's soul, nor X's mind, nor their union
+can ever perish.
 </para>
 </listitem>
 
 <listitem>
 <para>
-A hacker may be required or may opt to change his/her "form": name.
+A hacker may be required or may opt to change his/her "form": name (and
+possibly mission in life).
 </para>
 </listitem>
 
@@ -2183,8 +2185,8 @@ and even if you do not practice what you preach (see
 <para>
 See <link xlink:href="http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/">"Encourage criticism and try to get offended"</link>.
 Having terminated <link xlink:href="#Arnold_Schwarzenegger">Arnold Schwarzenegger</link>,
-<link xl:href="https://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa Joan Hart (MJH)</link>,
-and Samantha Smith, the two of us were afterward kept in the same elementary
+<link xlink:href="#Melissa_Joan_Hart">Melissa Joan Hart (MJH)</link>,
+and <link xlink:href="#Samantha_Smith">Samantha Smith</link>, the two of us were afterward kept in the same elementary
 school classroom with few other false prophets. This is given the "Age of the terran
 terminators" was supposed to last 40 years.
 <link xlink:href="#Richard_Stallman">Richard Stallman</link> and
@@ -2195,8 +2197,8 @@ shortly afterwards.
 <para>
 Many Terran Terminators or their friends (and proxies) were relocated by the
 true prophets administration to
-<link xl:href="https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel">Ramat Aviv Gimel</link> , which was
-chosen because it was north of <link xl:href="https://en.wikipedia.org/wiki/Yarkon_River">the Yarkon River</link> and
+<link xlink:href="https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel">Ramat Aviv Gimel</link> , which was
+chosen because it was north of <link xlink:href="https://en.wikipedia.org/wiki/Yarkon_River">the Yarkon River</link> and
 so outside the historical <link xlink:href="https://en.wikipedia.org/wiki/Gush_Dan">Gush Dan</link>, which remained a hellhole for longer, and
 yet close enough to Tel Aviv, the "it city" of Israel.
 </para>
@@ -2208,7 +2210,7 @@ terminating.
 
 <para>
 By 1989-1990, when
-<link xl:href="https://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa Joan Hart (MJH)</link> became
+<link xlink:href="#shlomif-watchers-and-whichers">Melissa Joan Hart (MJH)</link> became
 my project manager, and <link xl:href="https://www.shlomifish.org/me/rindolf/">Rindolf</link>
 my whicher, almost all observers believed either Amit or I were likely going to terminate
 all other terminators. I suspect they were right. Amit (= "colleague" in modern Hebrew
@@ -2520,7 +2522,7 @@ I wish to experience unique taste in every meal of freshly prepared food (maybe 
 </para>
 
 <para>
-I wish to meet <link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/">truly great hackers</link>: award-winning creators and polymaths.
+I wish to meet <link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/">truly great hackers</link>: award-winning creators and polymaths.
 </para>
 
 <para>
@@ -2672,19 +2674,27 @@ Re:
 <itemizedlist>
 
 <listitem>
-<para><link xl:href="https://www.cliffsnotes.com/literature/a/atlas-shrugged/character-analysis/francisco-danconia">Francisco d’Anconia</link> - women remembered having affairs with him.</para>
+<para>
+<link xl:href="https://www.cliffsnotes.com/literature/a/atlas-shrugged/character-analysis/francisco-danconia">Francisco d’Anconia</link> - women remembered having affairs with him.
+</para>
 </listitem>
 
 <listitem>
-<para><link xl:href="https://www.youtube.com/watch?v=Zlot0i3Zykw">Taylor Swift - "Red"</link> - a song she wrote pre-catharsis, and I match her description.</para>
+<para>
+<link xl:href="https://www.youtube.com/watch?v=Zlot0i3Zykw">Taylor Swift - "Red"</link> - a song she wrote pre-catharsis, and I match her description.
+</para>
 </listitem>
 
 <listitem>
-<para><link xl:href="https://en.wikipedia.org/wiki/Sarah_Bernhardt">Sarah Bernhardt</link> - the daughter of a Jewish prostitute (WTF?) who believed her mother abandoned her. Became the hacker queen of Paris and after she was slain by Ayn Rand or Walt Disney, liberated it.</para>
+<para>
+<link xl:href="https://en.wikipedia.org/wiki/Sarah_Bernhardt">Sarah Bernhardt</link> - the daughter of a Jewish prostitute (WTF?) who believed her mother abandoned her. Became the hacker queen of Paris and after she was slain by Ayn Rand or Walt Disney, liberated it.
+</para>
 </listitem>
 
 <listitem>
-<para><link xl:href="https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml">Sarah Michelle Gellar (SMG)</link> - believed pre-catharsis that her biological father divorced her mother.</para>
+<para>
+<link xl:href="https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml">Sarah Michelle Gellar (SMG)</link> - believed pre-catharsis that her biological father divorced her mother.
+</para>
 </listitem>
 
 </itemizedlist>
@@ -2708,7 +2718,7 @@ or Google Docs which pits
 <link xlink:href="https://www.shlomifish.org/humour/bits/facts/Emma-Watson/">Emma Watson</link> vs. <link xlink:href="https://en.wikipedia.org/wiki/Kim_Kardashian">Kim Kardashian</link>
 on who gets to ride <link xlink:href="https://mlp.fandom.com/wiki/Princess_Celestia">Princess Celestia</link> next,
 with <link xlink:href="https://en.wikipedia.org/wiki/Darth_Vader">Darth Vader</link> and <link xlink:href="https://en.wikipedia.org/wiki/Haman">Haman</link>
-as two "evil", but mutually hating one another, arbiters. Might seem ridiculus,
+as two "evil", but mutually hating one another, arbiters. Might seem ridiculous,
 but if I didn't want entertainment in my life, then I'd go watch grass grow.
 It will be a legal and "ethical" minefield, but I'd bet it'd be easier to
 follow and more
