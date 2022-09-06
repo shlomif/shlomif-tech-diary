@@ -149,6 +149,10 @@ ____
 * I saw badly photoshopped people on the streets while I was walking outside. 
 * https://www.shlomifish.org/Files/files/images/hostgator-no-python3.png[HostGator removing python3 and requiring v2.7.5 (!)]
 * The local synagogue and the https://en.wikipedia.org/wiki/Ramat_Aviv_Mall[Ramat Aviv Mall] look bigger on the inside. 
+* https://en.wikipedia.org/wiki/Emma_Watson[Emma Charlotte Duerre Watson] (also see https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[my fanfics of her] ) was born a day after https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)]'s 13th birthday. "Emma" means "complete" in proto-Germanic, not unlike https://www.shlomifish.org/meta/FAQ/your_name.xhtml["Shlomi" [+++=+++ "shalom-ful"]]. "Eymah" means 'terror' in Hebrew, while "Em" means "mother". "Sarah" means "a [female] minister" or "a ruler". "Charlotte" is cognate with both "Sarah" and "Shlomi" and also means "a ruler". 
++
+So it is likely that she was conceived as a bridge between SMG and me. footnote:[There may have been hopes to get SMG to terminate me before me hitting
+puberty on 5 May 1990 [= my 13th birthday].]
 
 
 [[obstacles-and-delays]]

@@ -248,3 +248,7 @@ From the realm where time is slowing down: my "parents" tell me I dont understan
 ----
 
 hi. i am getting a horizontal scrollbar on https://www.shlomifish.org/fc-solve-temp/download.html when in responsive mode, 360*740 (portrait). How can I fix it?
+
+----
+
+I reworked https://www.shlomifish.org/art/d-and-d-cartoon--comparing-lances/ yesterday.  #D&D #StarWars .
