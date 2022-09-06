@@ -252,3 +252,7 @@ hi. i am getting a horizontal scrollbar on https://www.shlomifish.org/fc-solve-t
 ----
 
 I reworked https://www.shlomifish.org/art/d-and-d-cartoon--comparing-lances/ yesterday.  #D&D #StarWars .
+
+----
+
+The local synagogue and the https://en.wikipedia.org/wiki/Ramat_Aviv_Mall look bigger on the inside.
