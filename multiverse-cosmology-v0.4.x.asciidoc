@@ -1285,7 +1285,9 @@ I suspect https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-
 [[ultimatum-to-the-devils]]
 == Ultimatum
 
-Given link:#terrestrial[terrestrial] science, I should have died of water deprivation a long time ago. 
+Given link:#terrestrial[terrestrial] science, I should have died of water deprivation a long time ago.
+Now, I am holding a grudge against link:#hackers[the fuckers] and will not forgive them until link:#shlomif-favourite-child[I
+see evidence that my favourite child]
 
 [[see-also]]
 == See Also:
