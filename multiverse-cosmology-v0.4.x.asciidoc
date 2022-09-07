@@ -684,7 +684,7 @@ Other notable Terran terminators might include:
 . https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau] - my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/["Summerschool at the NSA" film] likely earned her the Oscar and may have been an inadversarial reboot.
 . Likely https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)] (who ascended before https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[CEIA] and as a result was the https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/indiv-nodes/alpha-beta-gamma-omega.xhtml["beta" female] during the https://websitebuilders.com/how-to/glossary/web1/[Web 1.0 period] when SMG was "queen of the Web" and the "alpha female")
 . Likely https://twitter.com/AliciaSilv[Alicia Silverstone]
-. Likely https://en.wikipedia.org/wiki/Samantha_Smith[Samantha Smith] herself
+. Likely link:#Samantha_Smith[Samantha Smith] herself
 . Likely https://en.wikipedia.org/wiki/Natalie_Portman[Natalie Portman]
 . Likely https://en.wikipedia.org/wiki/J._K._Rowling[J. K. Rowling]
 . Likely https://en.wikipedia.org/wiki/Will_Smith[Will Smith]
@@ -1281,6 +1281,11 @@ I think the last runner-ups were:
 . https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian]
 
 I suspect https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/departing_pope_about_twitter.xhtml[Pope Benedict XVI] was not terminated by me, but rather by either Taylor Swift or Kim Kardashian. 
+
+[[ultimatum-to-the-devils]]
+== Ultimatum
+
+Given link:#terrestrial[terrestrial] science, I should have died of water deprivation a long time ago. 
 
 [[see-also]]
 == See Also:
