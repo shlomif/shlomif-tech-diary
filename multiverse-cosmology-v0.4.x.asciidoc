@@ -299,17 +299,17 @@ ____
 
 Yes, it is fanfiction, crossover, parody, Real Person Fan Fiction (RPFs), link:#self-ref[circularly referential]; good stuff. 
 
-Now, if the players are playful, and the gamemasters are bastards we can imagine stuff like: 
+Now, if the players are playful, and the gamemasters are jerks we can imagine stuff like: 
 
 ____
 . link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D. C. with him in order to legalise/decriminalise commercial fan-art, only to get the red carpet, a hero's welcome, and a personal invitation from the U.S. president to host a press conference. 
-. link:#Richard_Stallman[Richard Stallman] writes a script ( in https://en.wikipedia.org/wiki/Scheme_(programming_language)[Scheme?] ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that the Muppeteers' screenplays' https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million GitHub stars (= "likes") and a million forks. 
+. link:#Richard_Stallman[Richard Stallman] writes a script ( in https://en.wikipedia.org/wiki/Scheme_(programming_language)[Scheme]? ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that the Muppeteers' screenplays' https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million GitHub stars (= "likes") and a million forks. 
 . link:#Jim_Henson[Jim Henson] travels to Los Angeles to pitch the Muppets franchise to Hollywood executives, only to see __The Muppet Show__ being broadcast on the moon, on the way. 
 
 ____
 
 In TheGame(TM) of Fantastecha(TM), The Three Muppeteers all started as law-abiding men of great integrity, who were playful mostly only when joking or doing make-believe.
-Furthermore, not only were the gamemasters bastards, but they were - to use the technical term - link:#hackers[fuckers]! 
+Furthermore, not only were the gamemasters jerks, but they were - to use the technical term - link:#hackers[fuckers]! 
 
 [[hackers]]
 === "Hackers" vs. "Fuckers"
@@ -487,12 +487,12 @@ This was probably due to the effect of The Muppet Show and other television seri
 === The Early Muppeteers: Rockville, Maryland, 1969
 
 While https://en.wikipedia.org/wiki/The_Muppets[The
-Muppets Franchise] has been a labour of love by many false prophets and true prophets, by 1969, it was accepted that there were three head Muppeteers ( https://en.wikipedia.org/wiki/The_Three_Musketeers[pun intended] ), all false prophets: 
+Muppets Franchise] has been a labour of love by many false prophets and true prophets, by 1969, it was accepted that there were three head Muppeteers ( https://en.wikipedia.org/wiki/The_Three_Musketeers[pun intended with The Three Musketeers] ), all false prophets: 
 
 . https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_nav_block[Arnold Alois "Arnie" Schwarzenegger] was a professional athlete and a self-described amateur/hobbyist philosopher and comedian. 
 +
 As an assistant kindergartener ( https://en.wikipedia.org/wiki/Kindergarten_Cop[Reference] ), Schwarzenegger pushed his true prophet pupils to unnatural athletic *and* academic extremes by being a https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[pedantic critic].
-E.g: even though they painted with https://en.wikipedia.org/wiki/Crayola[Crayola crayons] works that rivaled classical oil paintings, he was still able-to-find many faults in them.
+E.g.: even though they painted with https://en.wikipedia.org/wiki/Crayola[Crayola crayons] works that rivaled classical oil paintings, he was still able-to-find many faults in them.
 The true-prophet children appreciated that, but he believed they and their parents kept becoming offended and complaining. 
 . https://en.wikipedia.org/wiki/Richard_Stallman[Richard Matthew "RMS" Stallman] was an overly pedantic "nazi" critic too, but unathletic, unkempt, a maths/software wiz, and a bookworm brainiac. Given he was an atrocious slacker, none of his false-prophet friends understood how he got his Ph.D. (and from MIT no less). He was unaware he had a Ph.D. 
 +
@@ -510,7 +510,7 @@ It is a testament to Selinaverse-an technology that I, a https://www.shlomifish.
 One day in 1969, the three lamented the fact that the late 1960's anglophone link:#terrestrial[terrestrial] television has become too paranoid, and so decided that they will act, produce, and distribute, a *gratis, public domain, and non-commercial* television show for children, called https://en.wikipedia.org/wiki/Sesame_Street[Sesame Street].
 Part of the reason for keeping it free was that they intended it to sport a lot of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[fan-fiction, RPF, fan-art and song covers] (which they believed was legally problematic) and part of it was due to https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml[an altruistic spirit of sharing]. 
 
-They expected __Sesame Street__'s popularity to be mostly confined to their base-town, https://en.wikipedia.org/wiki/Rockville,_Maryland[Rockville, Maryland], but thought that https://www.shlomifish.org/humour/fortunes/show.cgi?id=mishnah--saving-one-soul[ "`They who saved one soul has saved the world Entire`" ]. 
+They expected __Sesame Street__'s popularity to be mostly confined to their base-town, https://en.wikipedia.org/wiki/Rockville,_Maryland[Rockville, Maryland], but thought that https://www.shlomifish.org/humour/fortunes/show.cgi?id=mishnah--saving-one-soul[ They who saved one soul has saved the world Entire ]. 
 
 Little did they realise that _Sesame Street_ and its international spinoff https://en.wikipedia.org/wiki/The_Muppet_Show[The Muppet Show] were remastered and widely televised.
 Moreover, despite being ostensibly public domain, it was an incredibly profitable and influential franchise. 
@@ -525,7 +525,7 @@ Its almost undisputed master vampire was link:#Jim_Henson[Jim Henson], head of T
 All the remaining post-puberty vampires (including Queen Elizabeth II and Pope John Paul II) relocated to Rockville to become muppeteers and have their echoes mate with echoes of ones.
 The pre-pubecent ones were physically scattered around the globe to delay slaying one another and the Muppeteers. 
 
-The NSA had moved its headquarters to Fort Meade, which is https://www.distance-cities.com/distance-rockville-md-to-fort-george-g-meade-md[40 kilometres] away from Rockville.
+The NSA had moved its headquarters to Fort Meade, which is https://www.distance-cities.com/distance-rockville-md-to-fort-george-g-meade-md[about 40 kilometres] away from Rockville.
 Rockville also housed the https://en.wikipedia.org/wiki/National_Institutes_of_Health[National Institutes of Health ( NIH )]. 
 
 https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] asked the orcs "what's next?" and they settled on using the international postal service to connect between the Muppeteers and "dispellers" outside Rockville.
