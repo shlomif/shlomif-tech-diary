@@ -1297,6 +1297,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 * A less organised, but more comprehensive in parts, document about the devils and the "real world". 
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
+* https://github.com/shlomif/shlomif-tech-diary/blob/master/end-game-for-shlomif-as-a-false-prophet.screenplay-text.txt[End game for @shlomif as a false prophet]
 * Hacks: 
 +
 .. https://www.youtube.com/watch?v=ehjGPlehIow[Singalong cover of "Feelin' Good" (by Christina Grimmie) - YouTube]
