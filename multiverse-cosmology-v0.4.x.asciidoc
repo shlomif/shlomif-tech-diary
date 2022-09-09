@@ -1284,6 +1284,7 @@ However, so is a business partnership, or a regular friendship.
 . joy, fun 
 . content-ness, happiness. 
 . cruelty, schadenfreude 
+. http://www.paulgraham.com/hs.html?viewfullsite=1[relief] - 
 
 
 [[shlomif-terminating-log]]
