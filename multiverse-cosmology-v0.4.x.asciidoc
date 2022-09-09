@@ -1281,6 +1281,7 @@ However, so is a business partnership, or a regular friendship.
 . humour / amusement 
 . awe 
 ** lust 
+. cruelty, schadenfreude 
 
 
 [[shlomif-terminating-log]]
