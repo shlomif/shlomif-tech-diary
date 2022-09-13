@@ -94,6 +94,8 @@ But even https://en.wikipedia.org/wiki/If%E2%80%94[Kipling's "If--"] or Des'ree'
 
 Jehovah also implies that an organism won't start life from time minus-infinity. 
 
+*TODO : "form = name, and mission" [ not body ]*
+
 [[the-open-value]]
 == "open":
 
@@ -268,7 +270,9 @@ While it is one of the first games that wizard children are taught, many vampire
 The game can often be phrased like: 
 
 * 1 × 2 core concepts. ("player, character"??) 
-* 3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
+* 3 × 2 concepts ("time, soul, network, mind, knowledge, love"??) 
++
+3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
 
 
 [[sample-game-session]]
@@ -1238,7 +1242,7 @@ They consistently publish and avoid mass-surveillance.
 [[corporations]]
 == Corporations / companies / organisations / schools
 
-The-Codex(TM) recognises "Corporations" (= many bodies), which can be as small as a regional games' club, or as large as https://buffyfanfiction.fandom.com/wiki/Q_Continuum_(Selinaverse)[the Q Continuum]. 
+The-Codex(TM) recognises the concept of a "Corporation" (= many bodies), which can be as small as a regional games' club, or as large as https://buffyfanfiction.fandom.com/wiki/Q_Continuum_(Selinaverse)[the Q Continuum]. 
 
 ____
 Trump, like @fedora, has many employees, and parttime volunteers and fans/frenemies/critics.
