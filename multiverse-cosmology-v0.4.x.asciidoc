@@ -1258,6 +1258,17 @@ They aren't stupid, just awesomely Jappy. https://en.wikipedia.org/wiki/Theory_o
 
 ( https://twitter.com/shlomif/status/1551405512830353409[Tweet] ) 
 
+A link:#hackers[hacker] can belong to many corporations: 
+
+____
+How do you define yourself? Are you a Jew, an Israeli, an agnostic, an Objectivist, a brony, a furry, a muppets' aficciando, a Perler, a Linuxer, a FOSS enthusiast, an optimist, a Pythoneer, ...? 
+
+I am currently many of these and more.
+As I noted in an essay, I define myself as "Shlomi Fish". I have my own hybrid philosophy titled "Rindolfism" and it changes almost every day. 
+
+( https://www.shlomifish.org/meta/FAQ/how_do_you_define_yourself.xhtml[Shlomi Fish's FAQ] ) 
+____
+
 [[couples]]
 === Corporations of 2 members: "couples", "pairs"
 
