@@ -256,3 +256,13 @@ I reworked https://www.shlomifish.org/art/d-and-d-cartoon--comparing-lances/ yes
 ----
 
 The local synagogue and the https://en.wikipedia.org/wiki/Ramat_Aviv_Mall look bigger on the inside.
+
+----
+
+I believe Queen Elizabeth II of england [and every1 else] is alive&kicking. but here r my fics inspired by her:
+
+https://www.shlomifish.org/humour/Terminator/Liberation/
+
+https://www.shlomifish.org/humour/Queen-Padme-Tales/
+
+https://www.shlomifish.org/humour/fortunes/show.cgi?id=petty-minds-discussing-other-gods
