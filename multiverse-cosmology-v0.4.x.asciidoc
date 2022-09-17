@@ -275,6 +275,7 @@ The game can often be phrased like:
 +
 3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
 
+Basically, the players just imagine what their characters do, and the gamemaster tell them what happens. 
 
 [[sample-game-session]]
 ==== Sample session of "the game"
@@ -467,7 +468,9 @@ Female vampires, above puberty, preferred to mate with any of the local post-pub
 Their echoes gave birth to boy+girl twin vampires (where one of them was often sent forward in time). Often one of the children ended up slaying either or both parents.
 Moreover, parent vampires sometimes mated with their vampire biological children. 
 
-If a vampire wasn't slain before they hit puberty, then he/she endured more hardships such as https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.). 
+If a vampire wasn't slain before they hit puberty, then he/she endured more hardships such as https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.). I think puberty is 12 y.o.
+for women, and 13 y.o.
+for men. 
 
 [[zionism]]
 == "Ziyoonism":
