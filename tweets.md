@@ -266,3 +266,7 @@ https://www.shlomifish.org/humour/Terminator/Liberation/
 https://www.shlomifish.org/humour/Queen-Padme-Tales/
 
 https://www.shlomifish.org/humour/fortunes/show.cgi?id=petty-minds-discussing-other-gods
+
+----
+
+I may be startled the 1st few times that I see a gateway open in the middle of a clearing in Tel Aviv and fictional celebs comes out, but it will be a blast talking to them. https://en.wikipedia.org/wiki/One_Day_as_a_Tiger#Title
