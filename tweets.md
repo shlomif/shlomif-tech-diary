@@ -270,3 +270,7 @@ https://www.shlomifish.org/humour/fortunes/show.cgi?id=petty-minds-discussing-ot
 ----
 
 I may be startled the 1st few times that I see a gateway open in the middle of a clearing in Tel Aviv and fictional celebs comes out, but it will be a blast talking to them. https://en.wikipedia.org/wiki/One_Day_as_a_Tiger#Title
+
+----
+
+I think there is a market for strength, dexterity, agility, etc points, as well as muscle mass and body fat. It isnt a black market as u get payments and social media/etc. publicity. https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
