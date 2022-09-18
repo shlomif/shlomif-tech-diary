@@ -275,7 +275,7 @@ The game can often be phrased like:
 +
 3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
 
-Basically, the players just imagine what their characters do, and the gamemaster tell them what happens. 
+Basically, the players just imagine what their characters do, and the gamemasters tell them what happens. 
 
 [[sample-game-session]]
 ==== Sample session of "the game"
@@ -383,7 +383,7 @@ Certainly not perfect.
 
 In order to keep TheGame(TM) interesting, the fuckers promise that they will keep introducing new problems and challenges for us hackers (and their players) to overcome. 
 
-For example, while https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[NASA astronauts did initially use pencils in space] , the gamemasters preferred space-friendly pens to be developed (within budget). Moreover, faster-than-light ("FTL") travel is possible given one can cross gateways to planets many lightyears away in a matter of seconds.
+For example, while https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[NASA astronauts did initially use pencils in space] (just like the Soviet cosmonauts), the gamemasters preferred space-friendly pens to be developed (within budget). Moreover, faster-than-light ("FTL") travel is possible given one can cross gateways to planets many lightyears away in a matter of seconds.
 However, light speed as an upper bound, is a useful constraint that, after it was upheld in certain contexts (e.g.: micro-electronics), made technology better designed. 
 
 Given how cool fuckers are, and how great Fantastecha(TM) and the Shlomifverse are, I decided to make them honorary hackers: https://www.flickr.com/photos/shlomif/8598361516/in/album-72157633111982891/[Shlomifverse Fucker #0]. 
@@ -497,7 +497,7 @@ This was probably due to the effect of The Muppet Show and other television seri
 === The Early Muppeteers: Rockville, Maryland, 1969
 
 While https://en.wikipedia.org/wiki/The_Muppets[The
-Muppets Franchise] has been a labour of love by many false prophets and true prophets, by 1969, it was accepted that there were three head Muppeteers ( https://en.wikipedia.org/wiki/The_Three_Musketeers[pun intended with "The Three Musketeers"] ), all false prophets: 
+Muppets Franchise] has been a labour of love by many false prophets and true prophets, by 1969, it was accepted that there were three head Muppeteers ( pun intended with https://en.wikipedia.org/wiki/The_Three_Musketeers["The Three Musketeers"] ), all false prophets: 
 
 . https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_nav_block[Arnold Alois "Arnie" Schwarzenegger] was a professional athlete and a self-described amateur/hobbyist philosopher and comedian. 
 +
