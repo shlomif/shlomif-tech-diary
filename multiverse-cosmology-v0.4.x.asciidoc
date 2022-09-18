@@ -52,8 +52,6 @@ Entertainment *can mean* temporary pain, e.g fear.
 ( References: https://mlp.fandom.com/wiki/Luna_Eclipsed["Luna Eclipsed"].
 ) 
 
-Both the link:#the-devils[devils] and the link:#the-angels[angels] could "make love" / experience pleasure / create new values. 
-
 Love *was not* the last word of memetics. 
 
 Like it or not, in the Selinaverse and Shlomifverse, pleasure (and a possible precluding temporary pain), education, and creativity/conception are intertwined.
@@ -94,7 +92,7 @@ But even https://en.wikipedia.org/wiki/If%E2%80%94[Kipling's "If--"] or Des'ree'
 
 Jehovah also implies that an organism won't start life from time minus-infinity. 
 
-**One's form is their name, and mission [ not his body ]**.
+**One's form is his name, and mission [ not his body ]**.
 A hacker may opt or be required to change their form. 
 
 [[the-open-value]]
@@ -1363,6 +1361,8 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 .. https://www.shlomifish.org/humour/bits/How-Ronda-Rousey-Lost-her-UFC-Streak/["[RPF] How Ronda Rousey Lost her UFC Streak"]
 .. https://www.shlomifish.org/humour/The-10th-Muse/["The 10th Muse"]
 .. https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/["`So, who the Hell is Qoheleth?`" - An Illustrated Screenplay]
+.. https://www.shlomifish.org/humour/bits/true-stories/[My true stories / memoirs] - may be scary in retrospect. 
+.. https://github.com/shlomif/shlomi-fish-homepage/commits/master/src/meta/FAQ/index.xhtml.tt2[Recent changes to my personal F.A.Q.]
 * Precursors / stepping stones: 
 ** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-2022)"]
 ** https://www.shlomifish.org/meta/nav-blocks/blocks/#commercial_fanfic_initiative_nav_block["The Commercial Fan-fiction Initiative"]
