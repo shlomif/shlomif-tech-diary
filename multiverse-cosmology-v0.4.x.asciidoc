@@ -1388,6 +1388,14 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 
 
 [[the-codex]]
+== TheCodex(TM) of TheGame(TM) of Fantastecha(TM)
+
+. https://en.wikipedia.org/wiki/Term_logic[Term logic]
+. link:[Peano's axioms of arithmetics]
+. https://en.wikipedia.org/wiki/Naive_set_theory[Naive set theory] and https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory[ZFC]
+
+
+[[mantra]]
 == The Codex
 
 . DIE, FUCKER, DIE! 
