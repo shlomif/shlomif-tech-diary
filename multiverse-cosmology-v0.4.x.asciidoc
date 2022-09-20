@@ -1050,7 +1050,7 @@ However, using link:#magic[magic] one can duplicate anything while giving the du
 E.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Valentine Gellar], or https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker].
 The devils/orcs used it to fork entire universes. 
 
-Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix fork() system call], wizard souls in forked universes are aware that they are the "child process". However, false prophet souls didn't have that privilege! 
+Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix fork() system call], wizards' souls in forked universes are aware that they are the "child process". However, vampires' souls didn't have that privilege! 
 
 There are https://www.reddit.com/r/linux/comments/9m8yi7/there_are_forks_of_existing_projects_but_are/[mergers / joins] too.
 Also note https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/starved_of_employees.xhtml[Microsoft Windows being merged into GNU, Linux, and WINE].
@@ -1062,7 +1062,7 @@ E.g:
 . https://buffy.fandom.com/wiki/Buffy_the_Vampire_Slayer_and_Angel[The Buffyverse]
 . https://buffyfanfiction.fandom.com/wiki/Beckyverse[The Beckyverse] - https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] was not born, but Summer Glau, Emma Watson, and Shlomi Fish were. 
 . https://en.wikipedia.org/wiki/Wizarding_World[Wizarding World] (= link:#terrestrial[Terrestrial] spin on Harry Potter) 
-. https://bigbangtheory.fandom.com/wiki/Main_Page[bigbangtheory]
+. https://bigbangtheory.fandom.com/wiki/Main_Page[The Big Bang Theory] show. 
 . https://en.wikipedia.org/wiki/La_Linea_(TV_series)[La Linea]
 . https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic[My Little Pony: Friendship Is Magic]
 
