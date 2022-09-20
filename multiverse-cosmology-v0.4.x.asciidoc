@@ -1393,6 +1393,11 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 . https://en.wikipedia.org/wiki/Term_logic[Term logic]
 . link:[Peano's axioms of arithmetics]
 . https://en.wikipedia.org/wiki/Naive_set_theory[Naive set theory] and https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory[ZFC]
+. link:#hackers[hackers vs. fuckers] - א0 vs. א1. etc. 
+. Time 
+. Soul 
+. Network: set theory and extended Graph Theory ("contextualism") 
+. Mind - a hacker's model of the Network. 
 
 
 [[mantra]]
