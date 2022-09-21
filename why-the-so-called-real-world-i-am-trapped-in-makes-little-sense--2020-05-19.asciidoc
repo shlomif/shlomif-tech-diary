@@ -612,6 +612,8 @@ scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and https
 .. A pouch bag. 
 .. A smartphone. 
 .. My credit cards. 
+.. My magic wand. 
+.. A 7-piece RPG dice set: 
 
 
 [[license]]
