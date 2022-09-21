@@ -603,6 +603,6 @@ The Terran Terminators have admitted inferiority to one another and the last one
 scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and https://en.wikipedia.org/wiki/Christina_Grimmie (Taytay is great too, but she is/was a terminator.)
 
 [[license]]
-=== License:
+== License:
 
 https://creativecommons.org/licenses/by/4.0/[CC-by], Shlomi Fish, 2021
