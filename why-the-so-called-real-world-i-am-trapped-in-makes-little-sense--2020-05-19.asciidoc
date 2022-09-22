@@ -621,6 +621,7 @@ scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and https
 .. Recent past: Joss Whedon, Selina Mandrake, and Samantha Smith. 
 .. Present: Rindolf, Emma Watson, and https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)]
 .. Future: Christina Grimmie, Fluttershy, and https://mlp.fandom.com/wiki/Discord[Discord (from My Little Pony)]
+. Meet https://en.wikipedia.org/wiki/Benjamin_Netanyahu[Benjamin Netanyahu], https://en.wikipedia.org/wiki/Bar_Refaeli[Bar Refaeli], and https://en.wikipedia.org/wiki/Esti_Ginzburg[Esti Ginzburg] about passing the baton. 
 
 
 [[license]]
