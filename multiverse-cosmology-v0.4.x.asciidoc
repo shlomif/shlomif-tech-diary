@@ -194,9 +194,11 @@ Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-t
 Life in the multiverse-of-imagination requires magic.
 For example in https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King`'s opening] the Pelican-like birds start flying out of their own volition. 
 
-It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and their https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] fan-art were constructed using magic. 
+It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and their fan-art https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] were constructed using magic. 
 
 Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGame(TM) of Fantastecha(TM) challenging. 
+
+Magic might be defined as any transformation of the state of "the network": the extended graph theory graph which is our universe. 
 
 [[technology]]
 == Technology
