@@ -630,6 +630,11 @@ interpretations, derivatives (including <link xlink:href="https://en.wikipedia.o
 </para>
 
 <para>
+Basically, the players just imagine what their characters do, and the
+gamemasters tell them what happens.
+</para>
+
+<para>
 While it is one of the first games that wizard children are taught, many
 vampires have played it by instinct:
 </para>
@@ -696,11 +701,6 @@ The game can often be phrased like:
 </listitem>
 
 </itemizedlist>
-
-<para>
-Basically, the players just imagine what their characters do, and the
-gamemasters tell them what happens.
-</para>
 
 <section xml:id="sample-game-session">
 
@@ -4218,9 +4218,33 @@ Soul
 </listitem>
 
 <listitem>
+
 <para>
 Network: set theory and extended Graph Theory ("contextualism")
 </para>
+
+<itemizedlist>
+
+<listitem>
+<para>
+Sets may contain themselves - directly or indirectly.
+</para>
+</listitem>
+
+<listitem>
+<para>
+nodes and links may have subsystems.
+</para>
+</listitem>
+
+<listitem>
+<para>
+links may have more than one entry node.
+</para>
+</listitem>
+
+</itemizedlist>
+
 </listitem>
 
 <listitem>

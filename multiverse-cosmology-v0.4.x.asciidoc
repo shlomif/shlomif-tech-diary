@@ -262,6 +262,8 @@ The mutated realities are called the "Terrestrial" ones.
 "The game" is an informal https://en.wikipedia.org/wiki/Role-playing_game[Role-playing game] which as far as we know, is played all over link:#the-multiverse-of-imagination[Fantasia].
 It has many variations, interpretations, derivatives (including https://en.wikipedia.org/wiki/Dungeons_%26_Dragons[Dungeons & Dragons]) - even parodies. 
 
+Basically, the players just imagine what their characters do, and the gamemasters tell them what happens. 
+
 While it is one of the first games that wizard children are taught, many vampires have played it by instinct: 
 
 . https://en.wikipedia.org/wiki/Sherlock_Holmes[Doyle's Sherlock Holmes canon]
@@ -278,7 +280,6 @@ The game can often be phrased like:
 +
 3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
 
-Basically, the players just imagine what their characters do, and the gamemasters tell them what happens. 
 
 [[sample-game-session]]
 ==== Sample session of "the game"
@@ -1413,6 +1414,9 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 . Time 
 . Soul 
 . Network: set theory and extended Graph Theory ("contextualism") 
+** Sets may contain themselves - directly or indirectly. 
+** nodes and links may have subsystems. 
+** links may have more than one entry node. 
 . Mind - a hacker's model of the Network. 
 . link:#love-and-knowledge[Love] - pleasure/etc. 
 . link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
