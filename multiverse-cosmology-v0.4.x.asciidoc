@@ -388,6 +388,8 @@ In order to keep TheGame(TM) interesting, the fuckers promise that they will kee
 For example, while https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[NASA astronauts did initially use pencils in space] (just like the Soviet cosmonauts), the gamemasters preferred space-friendly pens to be developed (within budget). Moreover, faster-than-light ("FTL") travel is possible given one can cross gateways to planets many lightyears away in a matter of seconds.
 However, light speed as an upper bound, is a useful constraint that, after it was upheld in certain contexts (e.g.: micro-electronics), made technology better designed. 
 
+So we will not be able to rest on our laurels, even if we wanted to. 
+
 Given how cool fuckers are, and how great Fantastecha(TM) and the Shlomifverse are, I decided to make them honorary hackers: https://www.flickr.com/photos/shlomif/8598361516/in/album-72157633111982891/[Shlomifverse Fucker #0]. 
 
 [[shlomif-favourite-child]]
@@ -1414,6 +1416,8 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 . Mind - a hacker's model of the Network. 
 . link:#love-and-knowledge[Love] - pleasure/etc. 
 . link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
++
+Changes the Network irreversibly! 
 
 
 [[mantra]]
