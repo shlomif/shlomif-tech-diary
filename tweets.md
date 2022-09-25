@@ -274,3 +274,7 @@ I may be startled the 1st few times that I see a gateway open in the middle of a
 ----
 
 I think there is a market for strength, dexterity, agility, etc points, as well as muscle mass and body fat. It isnt a black market as u get payments and social media/etc. publicity. https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
+The Hollywood-mandated screenplay format was a devils' lie: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#history-lesson-about-the-muppeteers ; just like the freenode/libera schism.
