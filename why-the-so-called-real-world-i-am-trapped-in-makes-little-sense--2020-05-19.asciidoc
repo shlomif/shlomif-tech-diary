@@ -630,7 +630,7 @@ scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and https
 . Meet Jim Henson. In part to receive a hand puppet of https://www.shlomifish.org/me/rindolf/#rindolf_the_evil_reindeer[Rindolf the Evil Reindeer]. 
 . Meet popes https://en.wikipedia.org/wiki/Pope_John_Paul_II[Pope John Paul II] and https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/departing_pope_about_twitter.xhtml[Pope Benedict XVI] and Pope Francis. 
 . Meet Taylor Swift, and our genetic daughter, Rebecca "Becky" Jadzia [lastname]. 
-. Meet Tiffany Alvord, and give her the black-with-green-and-yellow-twirls RPG dice set. 
+. Meet Tiffany Alvord, and give her the black-with-green-and-yellow-twirls RPG dice set. ( https://raw.githubusercontent.com/shlomif/shlomif-tech-diary/master/images/live-forever--soul-mind-and-body--free--800px.webp[Photo #1] . ) 
 
 
 [[license]]
