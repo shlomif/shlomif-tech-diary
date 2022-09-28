@@ -1418,6 +1418,10 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 ** Sets may contain themselves - directly or indirectly. 
 ** nodes and links may have subsystems. 
 ** links may have more than one entry node. 
+
++
+Our 3-D universe with matter-based planets / star systems / galaxies / etc.
+is one possible specialisation of the Fantastecha(TM) network, but so are other imaginary universes. 
 . Mind - a hacker's model of the past states of the Network, and its present state. 
 . link:#love-and-knowledge[Love] - pleasure/etc. 
 . link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
