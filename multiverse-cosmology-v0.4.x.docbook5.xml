@@ -303,7 +303,7 @@ Egos are often frail, and start as easily hurt:
 <para>
 Do note that <link xlink:href="#the-angels">the angels</link> and
 <link xlink:href="#the-devils">the devils</link> may limit the number of choices the
-soul can choose from (including to one!).
+soul can choose from (including down to one!).
 </para>
 
 </section>
@@ -4216,7 +4216,7 @@ Time
 
 <listitem>
 <para>
-Soul
+Soul ( <link xlink:href="#free-will">Reference #1</link> )
 </para>
 </listitem>
 
@@ -4252,7 +4252,8 @@ links may have more than one entry node.
 
 <listitem>
 <para>
-Mind - a hacker's model of the Network.
+Mind - a hacker's model of the past states of the Network, and
+its present state.
 </para>
 </listitem>
 

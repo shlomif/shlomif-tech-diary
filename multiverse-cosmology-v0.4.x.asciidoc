@@ -125,7 +125,7 @@ Egos are often frail, and start as easily hurt:
 
 . http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended (and try to grow a thicker skin)"]
 
-Do note that link:#the-angels[the angels] and link:#the-devils[the devils] may limit the number of choices the soul can choose from (including to one!). 
+Do note that link:#the-angels[the angels] and link:#the-devils[the devils] may limit the number of choices the soul can choose from (including down to one!). 
 
 [[the-gods]]
 == The gods:
@@ -1413,12 +1413,12 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 . https://en.wikipedia.org/wiki/Naive_set_theory[Naive set theory] and https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory[ZFC]
 . link:#hackers[hackers vs. fuckers] - א0 vs. א1. etc. 
 . Time 
-. Soul 
+. Soul ( link:#free-will[Reference #1] ) 
 . Network: set theory and extended Graph Theory ("contextualism") 
 ** Sets may contain themselves - directly or indirectly. 
 ** nodes and links may have subsystems. 
 ** links may have more than one entry node. 
-. Mind - a hacker's model of the Network. 
+. Mind - a hacker's model of the past states of the Network, and its present state. 
 . link:#love-and-knowledge[Love] - pleasure/etc. 
 . link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
 +
