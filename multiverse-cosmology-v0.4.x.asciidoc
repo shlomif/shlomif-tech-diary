@@ -46,7 +46,8 @@ They are also known as:
 [[love-and-knowledge]]
 == Love / Knowledge / Creativity:
 
-For info regarding https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil["the tree of knowledge"] as well as pleasure/"love" and creativity, See https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[Education +++=+++ Entertainment +++=+++ Conception of Values] often by combining two or more memes. 
+For info regarding https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil["the tree of knowledge"] as well as pleasure/"love" and creativity, see https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[Education +++=+++
+Entertainment +++=+++ Conception of Values] often by combining two or more memes. 
 
 Entertainment *can mean* temporary pain, e.g fear.
 ( References: https://mlp.fandom.com/wiki/Luna_Eclipsed["Luna Eclipsed"].
@@ -142,7 +143,8 @@ https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia"] is the name o
 
 Fantastecha(TM) is a skewed view of an expanding subset of Fantasia. 
 
-Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referential or circular links] are prevalent and tolerated. 
+Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links
+that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referential or circular links] are prevalent and tolerated. 
 
 There *is* a difference between real and imaginary.
 We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[hydrogen bombs] or @Bitcoin or global warming or https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie's
@@ -1412,19 +1414,20 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 . link:[Peano's axioms of arithmetics]
 . https://en.wikipedia.org/wiki/Naive_set_theory[Naive set theory] and https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory[ZFC]
 . link:#hackers[hackers vs. fuckers] - א0 vs. א1. etc. 
-. Time 
-. Soul ( link:#free-will[Reference #1] ) 
-. Network: set theory and extended Graph Theory ("contextualism") 
-** Sets may contain themselves - directly or indirectly. 
-** nodes and links may have subsystems. 
-** links may have more than one entry node. 
+. {empty}
+.. Time 
+.. Soul ( link:#free-will[Reference #1] ) 
+.. Network: set theory and extended Graph Theory ("contextualism") 
+*** Sets may contain themselves - directly or indirectly. 
+*** nodes and links may have subsystems. 
+*** links may have more than one entry node. 
 
 +
 Our 3-D universe with matter-based planets / star systems / galaxies / etc.
 is one possible specialisation of the Fantastecha(TM) network, but so are other imaginary universes. 
-. Mind - a hacker's model of the past states of the Network, and its present state. 
-. link:#love-and-knowledge[Love] - pleasure/etc. 
-. link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
+.. Mind - a hacker's model of the past states of the Network, and its present state. 
+.. link:#love-and-knowledge[Love] - pleasure/etc. 
+.. link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
 +
 Changes the Network irreversibly! 
 
