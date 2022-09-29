@@ -897,6 +897,11 @@ Colonialism was some attempts by vampires to get slain:
 . https://www.youtube.com/watch?v=p-fRo5-p9hE[Monty Python's Life of Brian - What Have The Romans Ever Done For Us?]
 
 
+[[ghost-town-pattern]]
+=== The Ghost Town Pattern
+
+E.g: Pompei ( https://www.shlomifish.org/humour/humanity/ongoing-text.html#the-town-council[Reference #1] ). **TODO: ADD**
+
 [[the-schwartz]]
 == "The Schwartz is in us":
 
