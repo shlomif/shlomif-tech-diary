@@ -1177,10 +1177,14 @@ subsequent terrestrial Harry Potter books took themselves too seriously].
 Anyway, part of Emma's motivation in playing Hermione in the first Harry Potter film, was for getting https://twitter.com/shlomif/status/1511632946658258946[me to register her existence].
 She and the other actors were also instructed to play https://twitter.com/shlomif/status/1486799232971464704[hackily and in a "so bad it's good" manner] since they didn't want to be kept on the filming set for long. 
 
-At ~2011 when I wrote https://www.shlomifish.org/humour/Selina-Mandrake/cast.html[the proposed cast page of Selina Mandrake - The Slayer], I chose her to play Selina.
-At 2014 when https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-jobs-EmWatson-Saladin-knights-Templar[someone on freenode`'s #perl insulted Emma`'s looks], I felt like he was being blasphemous (= https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%9C%D7%95%D7%9C_%D7%94%D7%A7%D7%95%D7%93%D7%A9["חילול הקודש"]). Watson was not a mere actress for me.
+At ~2011 when I wrote https://www.shlomifish.org/humour/Selina-Mandrake/cast.html[the
+proposed cast page of Selina Mandrake - The Slayer], I chose her to play Selina.
+At 2014 when https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-jobs-EmWatson-Saladin-knights-Templar[someone
+on freenode`'s #perl insulted Emma`'s looks], I felt like he was being blasphemous (= https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%9C%D7%95%D7%9C_%D7%94%D7%A7%D7%95%D7%93%D7%A9["חילול
+הקודש"]). Watson was not a mere actress for me.
 Someone on freenode noted that Selina resembled me at ~2020.
-The lives of Emma, https://buffyfanfiction.fandom.com/wiki/Kate_(Selinaverse)[Milady Kate] and me have paralleled (non-coincidentally). 
+The lives of Emma, https://buffyfanfiction.fandom.com/wiki/Kate_(Selinaverse)[Milady
+Kate] and me have paralleled (non-coincidentally). 
 
 While Emma started as easily hurt, and overreacting/overemotional, (not unlike me) she eventually http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[developed a thicker skin] (also like I did). As a result, she was increasingly able to play herself (rather than relying on "stunt doubles"/lookalikes) including on https://www.shlomifish.org/meta/FAQ/how_do_you_expect_to_afford_the_actors.xhtml[indie films], on various https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/beautiful_people_are_geeks.xhtml[school/cons/etc. parody plays], and on https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[my own screenplays featuring her]. 
 
@@ -1310,7 +1314,7 @@ As I noted in an essay, I define myself as "Shlomi Fish". I have my own hybrid p
 ( https://www.shlomifish.org/meta/FAQ/how_do_you_define_yourself.xhtml[Shlomi Fish's FAQ] ) 
 ____
 
-not-for-profit organisations ("NPOs") are also corporations ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#time-is-much-more-important-than-money[Reference] ). 
+Not-for-profit organisations ("NPOs") are also corporations ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#time-is-much-more-important-than-money[Reference] ). 
 
 [[couples]]
 === Corporations of 2 members: "couples", "pairs"
