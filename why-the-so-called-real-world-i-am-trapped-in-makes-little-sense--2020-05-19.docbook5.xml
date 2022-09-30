@@ -910,7 +910,7 @@ multiverse of imagination.</para>
 <para>Together with two companions, we formed a trio:</para>
 <orderedlist numeration="arabic">
 <listitem>
-<para><link xl:href="https://www.shlomifish.org/me/rindolf/">Rindolf</link> the dwarven warrior
+<para><link xlink:href="https://www.shlomifish.org/me/rindolf/">Rindolf</link> the dwarven warrior
 from The Unforgettable Realms.</para>
 <blockquote>
 <para>“We also joked that Rindolf the Dwarf plays Shlomi Fish in an Advanced
@@ -1319,7 +1319,7 @@ Recent past: Joss Whedon, Selina Mandrake, and Samantha Smith.
 
 <listitem>
 <para>
-Present: Rindolf, Emma Watson, and
+Present: <link xlink:href="https://www.shlomifish.org/me/rindolf/">Rindolf</link>, Emma Watson, and
 <link xl:href="https://en.wikipedia.org/wiki/Melissa_Joan_Hart">Melissa Joan Hart (MJH)</link>
 </para>
 </listitem>
