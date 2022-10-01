@@ -282,3 +282,7 @@ The Hollywood-mandated screenplay format was a devils' lie: https://www.shlomifi
 ----
 
 The animals at liveaction films ( eg: https://www.youtube.com/watch?v=eGLSPyGszjo ; https://www.youtube.com/watch?v=O5htJN-durE ) cooperated with the filming crew. Many of them were humans who temply assumed a different body. #SelinaMandrake
+
+----
+
+Hi! Explain2me how books r different from music and videos where DRM was ineffective? moreover, I provide sources4all my writings and have 10s of millions of USDs in the bank! https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/#what-i-learned
