@@ -278,3 +278,7 @@ I think there is a market for strength, dexterity, agility, etc points, as well 
 ----
 
 The Hollywood-mandated screenplay format was a devils' lie: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#history-lesson-about-the-muppeteers ; just like the freenode/libera schism.
+
+----
+
+The animals at liveaction films ( eg: https://www.youtube.com/watch?v=eGLSPyGszjo ; https://www.youtube.com/watch?v=O5htJN-durE ) cooperated with the filming crew. Many of them were humans who temply assumed a different body. #SelinaMandrake
