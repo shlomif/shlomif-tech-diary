@@ -1407,6 +1407,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 .. https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/["`So, who the Hell is Qoheleth?`" - An Illustrated Screenplay]
 .. https://www.shlomifish.org/humour/bits/true-stories/[My true stories / memoirs] - may be scary in retrospect. 
 .. https://github.com/shlomif/shlomi-fish-homepage/commits/master/src/meta/FAQ/index.xhtml.tt2[Recent changes to my personal F.A.Q.]
+* https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#post-ascension-plan[Post-ascension plan]
 * Precursors / stepping stones: 
 ** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-2022)"]
 ** https://www.shlomifish.org/meta/nav-blocks/blocks/#commercial_fanfic_initiative_nav_block["The Commercial Fan-fiction Initiative"]
