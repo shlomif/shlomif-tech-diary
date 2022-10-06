@@ -144,7 +144,7 @@ ____
 .. https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning
 .. https://www.chabad.org/library/bible_cdo/aid/16186
 * https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie`'s song "Feelin' Good"] views' count has been stuck below 4 million.
-* I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( "`Selina: OK, OK. Tell you what? I`'ll play along.`" ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
+* I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( "`OK, OK. Tell you what? I`'ll play along.`" ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
 * My 9th grade literature teacher told us that https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[philosophy / philosophising] was bad! 
 * I saw badly photoshopped people on the streets while I was walking outside. 
 * Some technologies are too complicated for a human to understand, much less to implement: e.g: C++, CSS 3.x, ghc, Common Lisp https://twitter.com/shlomif/status/1428991948803776512[Reference]. 
