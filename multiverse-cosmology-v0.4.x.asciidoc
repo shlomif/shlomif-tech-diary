@@ -1399,6 +1399,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 
 * https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/[Homepage of This document ("Multiverse cosmology v0.4.x")]
 * https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Fan page for Christina Grimmie]
+.. https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/#what-i-learned["What I learned from Internet/social media creators"]
 * A less organised, but more comprehensive in parts, document about the devils and the "real world". 
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
