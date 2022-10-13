@@ -631,6 +631,7 @@ scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and https
 . Meet Jim Henson. In part to receive a hand puppet of https://www.shlomifish.org/me/rindolf/#rindolf_the_evil_reindeer[Rindolf the Evil Reindeer]. 
 . Meet popes https://en.wikipedia.org/wiki/Pope_John_Paul_II[Pope John Paul II] and https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/departing_pope_about_twitter.xhtml[Pope Benedict XVI] and Pope Francis. 
 . Meet the https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded[Dutch heir apparent]. 
+. Meet https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau] asking her if she received https://www.shlomifish.org/meta/FAQ/#d10_dice[the brown 1d10 die]. 
 . Meet Taylor Swift, and our genetic daughter, Rebecca "Becky" Jadzia [lastname]. 
 . Meet my ex-slayer template, Shlomi David. 
 . Meet the vger.kernel.org email admins about getting my bans lifted. ( https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community[Reference #1]. ) 
