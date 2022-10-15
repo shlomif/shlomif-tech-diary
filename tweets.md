@@ -286,3 +286,7 @@ The animals at liveaction films ( eg: https://www.youtube.com/watch?v=eGLSPyGszj
 ----
 
 Hi! Explain2me how books r different from music and videos where DRM was ineffective? moreover, I provide sources4all my writings and have 10s of millions of USDs in the bank! https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/#what-i-learned
+
+----
+
+Update: both "easy tasks shud be easy" [ https://www.amazon.com/Learning-Perl-Making-Things-Possible/dp/1492094951 ] and "easy comes, easy goes" are guidelines of Fantastecha™ [ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#the-game ].
