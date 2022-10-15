@@ -1467,6 +1467,9 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 +
 Our 3-D universe with matter-based planets / star systems / galaxies / etc.
 is one possible specialisation of the Fantastecha(TM) network, but so are other imaginary universes. 
++
+Travelling from one node to a different one requires expending at least one positive unit of time.
+One can also travel a finite, but large, positive amount of time into the future. 
 .. Mind - a hacker's model of the past states of the Network, and its present state. 
 .. link:#love-and-knowledge[Love] - pleasure/etc. 
 .. link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
