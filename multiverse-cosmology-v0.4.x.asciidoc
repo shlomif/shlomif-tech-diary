@@ -18,8 +18,7 @@ Also note that the terminology used here has undergone etymological erosion.
 I need all your loves! Please 'Like', 'share' and [if you have something to add] reply.
 I have loved/knew many of you, but was too selfless. 
 
-Reference: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also[https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
-]
+Reference: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 Moreover, note that if https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] contacts me somehow, then I am willing to offer her both up to 50 % of the cash in my bank account, *and* an offer to chat with me / 'geek out'. I strongly suspect that she is actually alive, healthy, and conscious. 
 
@@ -1413,6 +1412,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/end-game-for-shlomif-as-a-false-prophet.screenplay-text.txt[End game for @shlomif as a false prophet]
+* https://github.com/shlomif/shlomif-tech-diary/blob/master/love-life-policy.asciidoc[My love-life policy]
 * Hacks: 
 +
 .. https://www.youtube.com/watch?v=ehjGPlehIow[Singalong cover of "Feelin' Good" (by Christina Grimmie) - YouTube]
