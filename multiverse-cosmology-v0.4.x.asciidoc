@@ -1438,6 +1438,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 ** https://www.youtube.com/watch?v=k84QxVJd0tI[Skylar Grey - Coming Home, Pt. II (Official Video)]
 ** https://www.poetryfoundation.org/poems/46473/if---[Rudyard Kipling's "If--"]
 ** https://www.youtube.com/watch?v=mjYGB4uYgWw["The Lion King Rafiki Learns Simba is Alive HD - YouTube"] - Christina Grimmie/etc. are alive. 
+** https://www.youtube.com/watch?v=gb8AGuD2uOI["The Bonnie Banks of Loch Lomond - Ella Roberts - YouTube"]
 
 
 [[coverage]]
@@ -1460,15 +1461,16 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 .. Soul ( link:#free-will[Reference #1] ) 
 .. Network: set theory and extended Graph Theory ("contextualism") 
 *** Sets may contain themselves - directly or indirectly. 
-*** nodes and links may have subsystems. 
-*** links may have more than one entry node. 
+*** Nodes and links may have subsystems. 
+*** Links may have more than one entry node. 
 
 +
 Our 3-D universe with matter-based planets / star systems / galaxies / etc.
 is one possible specialisation of the Fantastecha(TM) network, but so are other imaginary universes. 
 +
 Travelling from one node to a different one requires expending at least one positive unit of time.
-One can also travel a finite, but large, positive amount of time into the future. 
+One can also travel a finite, but large, positive amount of time into the future.
+( E.g: link:#ghost-town-pattern[The Ghost Town Pattern] ) 
 .. Mind - a hacker's model of the past states of the Network, and its present state. 
 .. link:#love-and-knowledge[Love] - pleasure/etc. 
 .. link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 

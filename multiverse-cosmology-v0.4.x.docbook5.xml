@@ -4351,6 +4351,12 @@ Relevant 3rd-party resources:
 </para>
 </listitem>
 
+<listitem>
+<para>
+<link xlink:href="https://www.youtube.com/watch?v=gb8AGuD2uOI">"The Bonnie Banks of Loch Lomond - Ella Roberts - YouTube"</link>
+</para>
+</listitem>
+
 </itemizedlist>
 
 </listitem>
@@ -4455,13 +4461,13 @@ Sets may contain themselves - directly or indirectly.
 
 <listitem>
 <para>
-nodes and links may have subsystems.
+Nodes and links may have subsystems.
 </para>
 </listitem>
 
 <listitem>
 <para>
-links may have more than one entry node.
+Links may have more than one entry node.
 </para>
 </listitem>
 
@@ -4477,6 +4483,7 @@ other imaginary universes.
 Travelling from one node to a different one requires expending at least
 one positive unit of time. One can also travel a finite, but large,
 positive amount of time into the future.
+( E.g: <link xlink:href="#ghost-town-pattern">The Ghost Town Pattern</link> )
 </para>
 
 </listitem>
