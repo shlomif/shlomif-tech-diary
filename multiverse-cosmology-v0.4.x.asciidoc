@@ -102,7 +102,7 @@ The "open" value implies "openness" / "openmindedness" / pluralism: https://www.
 
 Note that it is not a moral absolute.
 E.g.
-in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html[Queen Padmé Tales: Pilot: Queen Amidala vs. the Klingon Warriors] the identity of those who attempted to assassinate Queen Padmé Amidala was not revealed to laymen. 
+in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html[Queen Padmé Tales: Pilot: Queen Amidala vs. the Klingon Warriors] the identity of those who attempted to assassinate Queen Padmé Amidala was not revealed to laymen until after the assassination was foiled. 
 
 [[the-devils]]
 == The devils / the Satans:
@@ -245,7 +245,7 @@ Hackers starting like that are hereby referred to as "false prophets" (where htt
 Outcomes of actions in TheGame(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
 
 Note that every false prophet perceived a somewhat different reality, but all of them, and that of the true prophets, were synchronised.
-(See https://en.wikipedia.org/wiki/Rashomon_effect[the Rashomon effect].) 
+(References: https://en.wikipedia.org/wiki/Rashomon_effect[the Rashomon effect].) 
 
 *Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of TheGame(TM). 
 
@@ -300,7 +300,7 @@ The plaintiffs agree, drop the case, and discuss ideas they had in mind for the 
 However, while they wait for the desserts to arrive, Discord suggests they write and record a parodical courtcase as a spin-off franchise.
 The others agree. 
 
-After they record the pilot episode and publicise it on their blogs and social media, it proves to be popular and https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/[profitable].
+After they record the pilot episode of "The copyrights' battle for the Selinaverse" and publicise it on their blogs and social media, it proves to be popular and https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/[profitable].
 Thus, the quartet donate part of the profits to charities ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[while giving them publicity] ), and decide to go to a vacation in the Selinaverse's Caribbean Islands, to calculate their next steps. 
 
 However, after checking into their hotel, they meet https://www.shlomifish.org/humour/image-macros/indiv-nodes/not_know_marilyn_monroe.xhtml[Marilyn Monroe] in the lobby (who, for the sake of this fic, is alive, kicking, and https://www.shlomifish.org/humour/image-macros/indiv-nodes/wandless_emma_watson.xhtml[kicking ass] ). After being a little star-struck and 'geeking out', they decide to play some games together. 
