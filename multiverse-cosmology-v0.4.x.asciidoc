@@ -1178,7 +1178,7 @@ When news broke about it, Watson was in tears, but MJH told her they saw an incr
 In 1995, Emma Watson and her parents relocated from Paris, to Tel Aviv and Greater London, as by that time, she provided the most income, and her parents were helping her.
 This was motivated by the desire to reduce context switches, and because the Parisians she talked with were annoyed by her absentmindedly using English and Hebrew paradigms in speech. 
 
-With Emma's help, https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] was terminated by my team, and ascended into a true prophet.
+With Emma's help, link:#Sarah_Michelle_Gellar[Sarah Michelle Gellar (SMG)] was terminated by my team, and ascended into a true prophet.
 SMG and her team also joined mine. 
 
 One thing Emma Watson disapproved of was a liberal use of time wraps and time travel.
@@ -1246,7 +1246,7 @@ Moreover, traditional classical music concerts are the https://en.wikipedia.org/
 
 Just because you are a Python contractor, does not mean you should completely abhor https://www.shlomifish.org/meta/FAQ/why_xml.xhtml[XML technologies] or C, or even Perl/CPAN. 
 
-https://www.youtube.com/watch?v=LnSYihRoGA4[I want to try everything]
+https://www.youtube.com/watch?v=LnSYihRoGA4[I want to try everything]. 
 
 I also want to attend some Satanists' conventions.
 I'm still a big fan of link:#the-devils[the Satans] despite them deceiving me and making me endure pain and discomfort.
@@ -1429,6 +1429,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 * Precursors / stepping stones: 
 ** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-2022)"]
 ** https://www.shlomifish.org/meta/nav-blocks/blocks/#commercial_fanfic_initiative_nav_block["The Commercial Fan-fiction Initiative"]
+*** https://www.shlomifish.org/humour/Queen-Padme-Tales/[Queen Padmé Tales]
 ** https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc["Hydrogen Bombs are likely an old intelligence hoax"]
 * Relevant 3rd-party resources: 
 ** https://www.youtube.com/watch?v=wPOviqxFllA[Little Buddha: "Awakening"] - why I'm remaining calm in face of hostile and pessimistic media. 
