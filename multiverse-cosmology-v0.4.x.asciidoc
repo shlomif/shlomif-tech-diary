@@ -907,12 +907,13 @@ Furthermore, given the circular-graph nature of melee fighting, many of the wiza
 [[liberating-africa]]
 === Liberating Africa
 
-Given Africa was considered one big country by TheGame(TM), https://en.wikipedia.org/wiki/Necho_II[Necho II]'s expedition had one slayer vampire from the Levant (e.g: Lebanon, Israel, or Damascus) on every ship, in order to try to liberate the African provinces.
+Given Africa was considered one big country by TheGame(TM), https://en.wikipedia.org/wiki/Necho_II[Necho II]'s expedition to encircle Africa had one slayer vampire from the Levant (e.g: Lebanon, Israel, or Damascus) on every ship, in order to try to liberate the African provinces.
 Not only that, but one ship ended up at the Americas. 
 
 Alexander the Great liberated Egypt itself. 
 
-Re https://en.wikipedia.org/wiki/David_Livingstone#Stanley_meeting["Dr. Livingstone, I presume"], Livingstone was wizard-born, and acted as a watcher to some vampires' adventurers. 
+Re https://en.wikipedia.org/wiki/David_Livingstone#Stanley_meeting["Dr.
+Livingstone, I presume"], Livingstone was wizard-born, and acted as a watcher to some vampires' adventurers. 
 
 [[ghost-town-pattern]]
 === The Ghost Town Pattern
@@ -981,7 +982,7 @@ We cannot stop even small children from imagining things - and elsewhere in link
 Furthermore, most good narratives feature one problem or more that need to be reconciled ( Reference: https://www.youtube.com/watch?v=Gl3e-OUnavQ[Sesame Street:
 "Conflict"] ). 
 
-Furthermore, I sided with Emma Watson that "your time is everybody`'s time" rather than https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart
+Furthermore, I sided with Emma Watson that "your time is everybody`'s time" rather than link:#Melissa_Joan_Hart[Melissa Joan Hart
 (MJH)]`'s liberal use of time wraps.
 This may have delayed my ascension/catharsis, but made me less ecstatic.
 Who was right? 
@@ -1028,7 +1029,7 @@ ____
 
 That proverbial girl is making love to all these meme-generators! 
 
-This has several implications:
+This has several implications: 
 
 . No one owns 100% of anyone else`'s sex life or love life.
 . No one is a virgin.
