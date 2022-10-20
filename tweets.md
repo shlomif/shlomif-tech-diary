@@ -290,3 +290,7 @@ Hi! Explain2me how books r different from music and videos where DRM was ineffec
 ----
 
 Update: both "easy tasks shud be easy" [ https://www.amazon.com/Learning-Perl-Making-Things-Possible/dp/1492094951 ] and "easy comes, easy goes" are guidelines of Fantastecha™ [ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#the-game ].
+
+----
+
+What do you think of https://www.shlomifish.org/Files/files/images/captioned-image--moral-gps-600.webp ?
