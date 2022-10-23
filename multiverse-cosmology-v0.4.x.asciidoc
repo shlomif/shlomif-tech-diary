@@ -88,7 +88,7 @@ ____
 (or many variations) 
 
 True prophets are aware of it, but note that it wasn`'t the last word on memetics / philosophy, either.
-But even https://en.wikipedia.org/wiki/If%E2%80%94[Kipling's "If--"] or Des'ree's https://www.youtube.com/watch?v=pO40TcKa_5U[ "You Gotta Be"] or https://www.shlomifish.org/me/rindolf/#rindolfism_sources_of_inspiration["Rindolfism"] are incomplete. https://en.wikipedia.org/wiki/Perfection["Perfection is in imperfection"] and time implies progress. 
+But even https://en.wikipedia.org/wiki/If%E2%80%94[Kipling's "If--"] or Des'ree's https://www.youtube.com/watch?v=pO40TcKa_5U["You Gotta Be"] or https://www.shlomifish.org/me/rindolf/#rindolfism_sources_of_inspiration["Rindolfism"] are incomplete. https://en.wikipedia.org/wiki/Perfection["Perfection is in imperfection"] and time implies progress. 
 
 Jehovah also implies that an organism won't start life from time minus-infinity. 
 
@@ -151,6 +151,8 @@ We can reason about earthquakes, or https://github.com/shlomif/shlomif-tech-diar
 death] and feature them in artworks (e.g.
 "fics") and essays.
 However, they were not really real for us. 
+
+TheCodex(TM) of TheGame(TM) of Fantastecha(TM) was kept secret from link:#hackers[hackers (+++=+++ player characters)] and was to be revealed to the Terminal Terran Terminator (me?). 
 
 [[self-ref]]
 == Self-reference / circularity:
