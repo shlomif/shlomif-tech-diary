@@ -1495,6 +1495,11 @@ As far as we know, nobody and nothing have ever died in Fantastecha(TM). For exa
 As a gamemaster, and a link:#hackers[fucker], a link:#the-devils[satan] reviews the finite, but extremely large data state of the known Fantastecha(TM) and its hackers' (= player characters) minds.
 So he knows all your thoughts (including dirty, stupid, or wrong ones), and all your passwords. https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fear-is-path-to-dark-side[I/you have nothing to hide. "fear is the path to the dark side"]
 
+[[saving-throws]]
+== Saving Throws
+
+A gamemaster may opt to try to make a hacker do something stupid 
+
 [[mantra1]]
 == mantra
 
