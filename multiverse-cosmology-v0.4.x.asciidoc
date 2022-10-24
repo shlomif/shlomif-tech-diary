@@ -154,6 +154,8 @@ However, they were not really real for us.
 
 TheCodex(TM) of TheGame(TM) of Fantastecha(TM) was kept secret from link:#hackers[hackers (+++=+++ player characters)] and was to be revealed to the Terminal Terran Terminator (me?). 
 
+The meta- Fantastechans who play TheGame(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
+
 [[self-ref]]
 == Self-reference / circularity:
 
