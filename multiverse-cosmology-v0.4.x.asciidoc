@@ -1416,6 +1416,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/end-game-for-shlomif-as-a-false-prophet.screenplay-text.txt[End game for @shlomif as a false prophet]
+** https://www.shlomifish.org/Files/files/text/end-game-for-shlomif-as-a-false-prophet.xhtml[XHTML5 version]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/love-life-policy.asciidoc[My love-life policy]
 * Hacks: 
 +
