@@ -507,7 +507,8 @@ in order to keep TheGame™ of Fantastecha™ challenging.
 </para>
 
 <para>
-Magic might be defined as any transformation of the state of "the network":
+Magic might be defined as any transformation of the state of <link xlink:href="#
+the-network">"the network"</link>:
 the extended graph theory graph which is our universe.
 </para>
 
@@ -752,7 +753,7 @@ claims he came up with The Selinaverse first.
 </para>
 
 <para>
-As the two argue in the blog's comments,
+As the two argue in the blog post's comments,
 <link xlink:href="https://mlp.fandom.com/wiki/Discord">Discord (from My Little Pony)</link>
 notes that "Advanced Selinaverse Geeks" has been a popular fantasy role-playing
 games' franchise in <link xlink:href="https://mlp.fandom.com/wiki/Equestria">Equestria</link> for years.
@@ -843,6 +844,7 @@ to pitch the Muppets franchise to Hollywood executives, only to see
 <emphasis>The Muppet Show</emphasis> being broadcast on the moon, on the way.
 </para>
 </listitem>
+
 </orderedlist>
 
 </blockquote>
@@ -4471,7 +4473,7 @@ Soul ( <link xlink:href="#free-will">Reference #1</link> )
 </para>
 </listitem>
 
-<listitem>
+<listitem id="the-network">
 
 <para>
 Network: set theory and extended Graph Theory ("contextualism")
