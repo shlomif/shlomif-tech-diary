@@ -294,3 +294,7 @@ Update: both "easy tasks shud be easy" [ https://www.amazon.com/Learning-Perl-Ma
 ----
 
 What do you think of https://www.shlomifish.org/Files/files/images/captioned-image--moral-gps-600.webp ?
+
+----
+
+First of all, Perl is still very popular outside my terrestrial hell-hole. Secondly, I find that perl5 and py3 suck less than ruby.
