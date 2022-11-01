@@ -285,7 +285,6 @@ The game can often be phrased like:
 * 1 × 2 core concepts. ("player, character"??) 
 * 3 × 2 concepts ("time, soul, network, mind, love, knowledge"??) 
 +
-3 × 2 concepts ("time, soul, network, mind, knowledge -> life"??) 
 
 
 [[sample-game-session]]
@@ -457,7 +456,8 @@ In Saladin`'s case, it may have been https://en.wikipedia.org/wiki/Aladdin[Aladd
 The watcher is a true prophet, who monitors the slayer`'s thoughts and guides them.
 He or she also often acts as a project manager.
 In Saladin`'s case it was https://en.wikipedia.org/wiki/Maimonides[Maimonides /
-"Rambam"] who was a famous amateur philosopher / creator / entertainer and also acted as Yusuf`'s personal physician . Note that it took a long time for Yusuf to be aware of this fact. 
+"Rambam"] who was a famous amateur philosopher / creator / entertainer and also acted as Yusuf`'s personal physician.
+Note that it took a long time for Yusuf to be aware of this fact. 
 
 In my case, my watcher from ~1989 until ~1997 was link:#Melissa_Joan_Hart[Melissa Joan Hart (MJH)] who then transferred the lead role to the 1990-born https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma Watson].
 Confusingly, they both had acclaimed roles playing witches. 
@@ -588,7 +588,7 @@ Somewhat selfish, rash, hastey, opportunistic, and brave.
 . https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] - as a 1977-born Jewish girl, Sarah believed that her father abandoned her mother and herself, who were both living in relative poverty in Manhattan. She spent just enough time on her scholastic responsibilities to will have graduated from high school and get her mother's echo off her back, and spent the rest of her time https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time[happily donating] love, time, and money to others and herself. 
 +
 Kind, domineering, and believes https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/we_are_scheming.xhtml[planning
-and having backup plans] are a good idea. 
+and having backup plans] are good ideas. 
 . https://www.shlomifish.org/humour/Terminator/Liberation/indiv-nodes/hamlet-parody-Cher-parody.xhtml[Cher [ Horowitz? ]] - born 1971-1978. Hailing from Beverly Hills, Cher was a https://tvtropes.org/pmwiki/pmwiki.php/Main/JewishAmericanPrincess[Jewish American Princess], and a self-conscious and "damn proud of it" one. Only with a heart of gold. She spent large amounts of time [and significant amounts of money], helping her friends or trying to make link:#love-and-knowledge[them happier / more entertained]
 . *Selina [ Hope ] Mandrake* - a 1977-1978-born girl, likely living in Britain. Became the youngest dropout. Christened "Selena", she was so annoyed by thinking that the fellow Greek kids pronounced her name as "Séléna" while Israeli ones pronounced it "right" that she: [1] changed its spelling [2] developed conspiracy hypotheses about how the ancient Greek philosophers (= educators / entertainers) stole their best ideas from the Israelites and the ancient Jews. 
 +
@@ -720,7 +720,7 @@ Other notable Terran terminators might include:
 
 . https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] - https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-next-film["Summerschool at the NSA"] starring her may have been a thing.
 . https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau] - my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/["Summerschool at the NSA" film] likely earned her the Oscar and may have been an inadversarial reboot.
-. Likely https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)] (who ascended before https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[CEIA] and as a result was the https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/indiv-nodes/alpha-beta-gamma-omega.xhtml["beta" female] during the https://websitebuilders.com/how-to/glossary/web1/[Web 1.0 period] when SMG was "queen of the Web" and the "alpha female")
+. Likely link:#Melissa_Joan_Hart[Melissa Joan Hart (MJH)] (who ascended before https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[CEIA] and as a result was the https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/indiv-nodes/alpha-beta-gamma-omega.xhtml["beta" female] during the https://websitebuilders.com/how-to/glossary/web1/[Web 1.0 period] when SMG was "queen of the Web" and the "alpha female")
 . Likely link:#Samantha_Smith[Samantha Smith] herself
 . Likely https://en.wikipedia.org/wiki/J._K._Rowling[J. K. Rowling]
 . Likely https://en.wikipedia.org/wiki/DJ_Jazzy_Jeff[Jazz] from https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air[ The Fresh Prince of Bel-Air ]
@@ -750,7 +750,8 @@ Other notable Terran terminators might include:
 +
 Genetically speaking, Taylor and Saladin parented a son who was Genghis Khan's direct-male-ancestor. 
 +
-Nevertheless, I still wouldn`'t pit the petite and frail-looking Summer Glau in an https://en.wikipedia.org/wiki/Mixed_martial_arts[MMA] match against https://memory-alpha.fandom.com/wiki/Worf[Worf] or even against https://en.wikipedia.org/wiki/Ronda_Rousey[Ronda Rousey] . However, do note that Glau has won most such fights against both Chuck Norris, and Bruce Lee, who are both alive and in their prime. https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/becky_in_the_library__chit_chat.xhtml[She still drops out of MMA tournaments early.].
+Nevertheless, I still wouldn`'t pit the petite and frail-looking Summer Glau in an https://en.wikipedia.org/wiki/Mixed_martial_arts[MMA] match against https://memory-alpha.fandom.com/wiki/Worf[Worf] or even against https://en.wikipedia.org/wiki/Ronda_Rousey[Ronda Rousey].
+However, do note that Glau has won most such fights against both Chuck Norris, and Bruce Lee, who are both alive and in their prime. https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/becky_in_the_library__chit_chat.xhtml[She still drops out of MMA tournaments early.].
 Life is a circular graph: link:#self-ref[Reference]
 
 Anyway, I was convinced I was good , noble, well-intentioned and benevolent.
