@@ -1225,7 +1225,7 @@ If we are to believe https://en.wikipedia.org/wiki/Cogito%2c%5fergo%5fsum[Cogito
 However, as cool as I may be, I doubt my mind alone could conceive the awesome action heroes listed https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/notable-hacker-monarchs.xhtml[on this page] including Saladin, Walt Disney, Jim Henson, and Aristotle - most of whom have ample evidence for being real.
 And given my present mediocre Inkscape 2-D vector graphics skills, I am enthralled even by the 2-and-a-half dimensions graphics of 1990s computer games (e.g: https://en.wikipedia.org/wiki/Monkey_Island_2%3A_LeChuck%27s_Revenge[Monkey Island 2] ; https://streetfighter.fandom.com/wiki/Street_Fighter_II_%28series%29[Street Fighter II] ; https://en.wikipedia.org/wiki/Quest_for_Glory_III:_Wages_of_War[Quest for Glory III]) and those of https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony: Friendship is Magic] . 
 
-Let me share a non-secret: what I wrote here is a simplification ( https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/willow_putting_her_daughter_to_bed.xhtml["Honesty is a process"], https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/orientation_day__team.xhtml["can`'t help speaking in riddles"] ). 
+Let me share a non-secret: what I wrote here is a simplification ( References: https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/willow_putting_her_daughter_to_bed.xhtml["Honesty is a process"], https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/indiv-nodes/orientation_day__team.xhtml["can`'t help speaking in riddles"] ). 
 
 [[share-the-love]]
 == "There`'s more to see than can ever be seen; more to do than can ever be done"
@@ -1264,7 +1264,7 @@ And as I like to say "If I didn't want excitement in my life, then https://www.j
 
 I believe most of their conventions happen at day time, and are attended by attractive https://en.wiktionary.org/wiki/MOTAS[MOTASes], of whom only a minority have a Goth look. 
 
-In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic[a Hegelian dialectic] of "thesis -> antithesis -> synthesis". I also have been "changing ponies in midwater": changing intermediate conclusions, while keeping a similar end result. 
+In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic[a Hegelian dialectic] of "thesis -> antithesis -> synthesis". I also have been "changing ponies in midwater": changing intermediate conclusions, while keeping similar end results. 
 
 Furthermore, "`There's more-to-life than accelerating its pace`" (to quote Mahatma Gandi-or-whoever). These past 40 years (give or take some time skews) have been a rollercoaster ride for me, and I want some rest. 
 
@@ -1341,7 +1341,7 @@ ____
 *Answer:* I am currently many of these and more.
 As I noted in an essay, I define myself as "Shlomi Fish". I have my own hybrid philosophy titled "Rindolfism" and it changes almost every day. 
 
-( https://www.shlomifish.org/meta/FAQ/how_do_you_define_yourself.xhtml[Shlomi Fish's FAQ] ) 
+( Taken from https://www.shlomifish.org/meta/FAQ/how_do_you_define_yourself.xhtml[Shlomi Fish's FAQ] ) 
 ____
 
 Not-for-profit organisations ("NPOs") are also corporations ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#time-is-much-more-important-than-money[Reference] ). 
@@ -1384,7 +1384,7 @@ However, a vampirella may only give birth to a boy+girl pair.
 One thing she and I had in common was that we both liked playing https://fc-solve.shlomifish.org/faq.html[Freecell].
 I wrote Freecell Solver in 2000 shortly before https://cimorelli.fandom.com/wiki/Dani_Cimorelli[Dani Cimorelli], her 6th daughter, was born, so her mother ascended before Dani's birth. 
 
-https://www.explainxkcd.com/wiki/index.php/406:_Venting[xkcd #406: venting] displaying "Shlomi Fish" when viewed by https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau].
+https://www.explainxkcd.com/wiki/index.php/406:_Venting[xkcd #406: venting] displayed "Shlomi Fish" when viewed by https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau].
 She was terminated by me shortly after that. 
 
 I think the last runner-ups were: 
@@ -1404,7 +1404,7 @@ Assuming link:#terrestrial[terrestrial] science, I should have died of water dep
 Now, I am holding a grudge against link:#hackers[the fuckers] and will not forgive them until link:#shlomif-favourite-child[I
 see evidence that my favourite child, Christina Grimmie, is alive, healthy, conscious, kicking, and kicking ass]! I will https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html#padmes-frustrations-with-her-love-life[rationally forgive them] after that. 
 
-. If my soul and/or mind perish, then link:#jehovah[Jehovah] will be violated. 
+. If my soul and/or mind perish, then link:#jehovah[Jehovah] (and my name and form) will be violated. 
 . If I remain resentful forever, then link:#jehovah[Jehovah] will be violated too. 
 
 
@@ -1436,7 +1436,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 .. https://github.com/shlomif/shlomi-fish-homepage/commits/master/src/meta/FAQ/index.xhtml.tt2[Recent changes to my personal F.A.Q.]
 * https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#post-ascension-plan[Post-ascension plan]
 * Precursors / stepping stones: 
-** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-2022)"]
+** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-*)"]
 ** https://www.shlomifish.org/meta/nav-blocks/blocks/#commercial_fanfic_initiative_nav_block["The Commercial Fan-fiction Initiative"]
 *** https://www.shlomifish.org/humour/Queen-Padme-Tales/[Queen Padmé Tales]
 ** https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc["Hydrogen Bombs are likely an old intelligence hoax"]
