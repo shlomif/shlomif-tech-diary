@@ -10,7 +10,7 @@ Fish
 
 This essay aims to document the cosmology of our universes.
 I likely got many details wrong: numbers, names, facts.
-Also note that the terminology used here has undergone etymological erosion. 
+Also note that the terminology used here has undergone some etymological erosion. 
 
 [[summary]]
 == Summary
@@ -204,7 +204,7 @@ It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian p
 
 Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGame(TM) of Fantastecha(TM) challenging. 
 
-Magic might be defined as any transformation of the state of link:# the-network["the network"]: the extended graph theory graph which is our universe. 
+Magic might be defined as any transformation of the state of link:# the-network["the network"]: the extended graph theory graph which is the state of our universe. 
 
 [[technology]]
 == Technology
@@ -253,7 +253,8 @@ Note that every false prophet perceived a somewhat different reality, but all of
 
 *Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of TheGame(TM). 
 
-False prophets were given special treatment by the workforce, so they did not cause a lot of damage, despite their paranoia/etc. 
+False prophets were given special treatment by the workforce, so they did not cause a lot of damage, despite their paranoia/etc. footnote:[The terminology for "vampires" in my stories
+is different.]
 
 [[terrestrial]]
 === Terrestrialism
