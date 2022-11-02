@@ -298,3 +298,7 @@ What do you think of https://www.shlomifish.org/Files/files/images/captioned-ima
 ----
 
 First of all, Perl is still very popular outside my terrestrial hell-hole. Secondly, I find that perl5 and py3 suck less than ruby.
+
+----
+
+wrt https://youtu.be/LAL-2TZZRpI?t=190 , Chris, Ren, and Mark's acting there was "so bad it is good" - https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml .
