@@ -302,3 +302,7 @@ First of all, Perl is still very popular outside my terrestrial hell-hole. Secon
 ----
 
 wrt https://youtu.be/LAL-2TZZRpI?t=190 , Chris, Ren, and Mark's acting there was "so bad it is good" - https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml .
+
+----
+
+I, Shlomi Fish, the completer, hereby request my favourite child, Christina Grimmie, the beginner, to terminate me, and start the New Age.
