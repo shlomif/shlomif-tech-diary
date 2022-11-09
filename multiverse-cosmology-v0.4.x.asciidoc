@@ -136,6 +136,9 @@ It is up to the soul to arbitrate between them and decide what to do (and when/w
 
 Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/[this essay] about the etymology of the Hebrew word "elohim" (= "God", "many guideline-generators") and that of the Hebrew word "melekh" (= "a king", "from where should you go"). 
 
+"Elohim" may mean the gamemasters and players in an instance of link:fantasia-vs-fantastecha[the game].
+This is whereas "jew" means a player character. 
+
 [[the-multiverse-of-imagination]]
 == Fantasia, the multiverse of imagination and "Fantastecha(TM)", a multiverse of imagination, magic, and technology
 
@@ -283,6 +286,8 @@ While it is one of the first games that wizard children are taught, many vampire
 The game can often be phrased like: 
 
 * 1 × 2 core concepts. ("player, character"??) 
++
+("elohim, jew"??) 
 * 3 × 2 concepts ("time, soul, network, mind, love, knowledge"??) 
 +
 
