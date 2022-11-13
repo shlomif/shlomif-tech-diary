@@ -306,3 +306,9 @@ wrt https://youtu.be/LAL-2TZZRpI?t=190 , Chris, Ren, and Mark's acting there was
 ----
 
 I, Shlomi Fish, the completer, hereby request my favourite child, Christina Grimmie, the beginner, to terminate me, and start the New Age.
+
+----
+
+The Muppet Show hosting Tiffany Alvord: https://www.shlomifish.org/humour/Muppets-Show-TNI/Tiffany-Alvord.html .
+
+New Summer Glau factoid: https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-sglau-36 . “Chuck Norris knows what the last digit of Pi is. Summer Glau has memorised all the preceding digits.”
