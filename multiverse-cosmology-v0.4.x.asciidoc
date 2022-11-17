@@ -1531,6 +1531,7 @@ Changes the Network irreversibly!
 Definitions: 
 
 . *The media / mediums* "in-betweens": the paths that a meme travels until reception. 
+. *Model* (static snapshot) vs. *actor / actress* (dynamic, changing, but temporary). 
 
 
 [[death]]
