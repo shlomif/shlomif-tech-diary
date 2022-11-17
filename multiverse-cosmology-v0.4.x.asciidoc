@@ -1121,8 +1121,10 @@ The devils/orcs used it to fork entire universes.
 
 Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix fork() system call], wizards' souls in forked universes are aware that they are the "child process". However, vampires' souls didn't have that privilege! 
 
-There are https://www.reddit.com/r/linux/comments/9m8yi7/there_are_forks_of_existing_projects_but_are/[mergers / joins] too.
-Also note https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/starved_of_employees.xhtml[Microsoft Windows being merged into GNU, Linux, and WINE].
+There are https://www.reddit.com/r/linux/comments/9m8yi7/there_are_forks_of_existing_projects_but_are/[mergers
+/ joins] too.
+Also note https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/starved_of_employees.xhtml[Microsoft
+Windows being merged into GNU, Linux, and WINE].
 Do note that the two-or-more original souls remain intact and may reappear in different contexts in the future. 
 
 One can spawn imaginary worlds which share similarities to our own.
@@ -1149,7 +1151,8 @@ But why should my world have a monopoly on being the only real world?
 +
 
 [quote]
-wrt https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as-technicians["God and his angels as implementing humans' perception of the universe"] an #IRC friend joked that the giant world turtle was the most plausible cosmological model.
+wrt https://www.shlomifish.org/humour/fortunes/show.cgi?id=god-and-his-angels-as-technicians["God
+and his angels as implementing humans' perception of the universe"] an #IRC friend joked that the giant world turtle was the most plausible cosmological model.
 #mysticism 
 * https://twitter.com/shlomif/status/1482399705594318852[Shlomi Fish on Twitter:]
 +
@@ -1294,11 +1297,16 @@ Furthermore, "`There's more-to-life than accelerating its pace`" (to quote Mahat
 [[stranger-than-fiction]]
 == Stranger than fiction
 
-A wise man said: "Truth is stranger than fiction because fiction needs to make sense.". That's why my hell hole's "real world" cannot be real.
+A wise man once said: "Truth is stranger than fiction because fiction needs to make sense.". That's why my hell hole's "real world" cannot be real.
 I disbelieve it. 
 
 [[disadvantaged-humans]]
 == Humans as a disadvantaged species
+
+https://stexpanded.fandom.com/wiki/Q2[Q2] and the fellow sentient hacker animals used to communicate using mono-syllabic shrieks of variable length.
+Thus, they wanted a 2-dimensional audible speech system, and were given one based on consonants and vowels. 
+
+Moreover, they preferred "modern" English over the alternative (Esperanto?) given English was sexier and more interesting. 
 
 [[ancestors]]
 == Some vampire/etc. ancestors
@@ -1477,6 +1485,7 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 ** https://www.poetryfoundation.org/poems/46473/if---[Rudyard Kipling's "If--"]
 ** https://www.youtube.com/watch?v=mjYGB4uYgWw["The Lion King Rafiki Learns Simba is Alive HD - YouTube"] - Christina Grimmie/etc. are alive. 
 ** https://www.youtube.com/watch?v=gb8AGuD2uOI["The Bonnie Banks of Loch Lomond - Ella Roberts - YouTube"]
+** https://www.youtube.com/watch?v=lk0Ec8lle4o[Nepal ['the stone bird']]
 
 
 [[coverage]]
