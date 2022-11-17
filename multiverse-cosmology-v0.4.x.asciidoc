@@ -1359,8 +1359,10 @@ Corporations have souls.
 Moreover, one must be allowed to disassociate from a corporation. 
 
 [quote]
-There is the cliché scene from https://memory-alpha.fandom.com/wiki/Trill_%28planet%29[Trill sitcoms] where a pair of male Japanese tourists arrive there and are enthusiastic.
-They aren't stupid, just awesomely Jappy. https://en.wikipedia.org/wiki/Theory_of_forms[Platonic Ideals]. 
+There is the cliché scene from https://memory-alpha.fandom.com/wiki/Trill_%28planet%29[Trill
+sitcoms] where a pair of male Japanese tourists arrive there and are enthusiastic.
+They aren't stupid, just awesomely Jappy. https://en.wikipedia.org/wiki/Theory_of_forms[Platonic
+Ideals]. 
 
 ( https://twitter.com/shlomif/status/1551405512830353409[Tweet] ) 
 
@@ -1390,7 +1392,7 @@ Not necessarily a genetic parenthood, of course.
 . Y is a "child" [= "protege"] of X (if X is a parent of Y). 
 . X and Y are companions, and wish to raise mutual children. 
 +
-A romantic, sexual, girlfriend+boyfriend or husband+wife relationship is a natural application of this.
+A romantic, sexual, boyfriend+girlfriend or husband+wife relationship is a natural application of this.
 However, so is a business partnership, or a regular friendship. 
 
 A hacker may opt to break-up / divorce the other pair-member. 
@@ -1424,6 +1426,8 @@ I think the last runner-ups were:
 +
 Moreover, she and I have a genetic daughter: Rebecca "Becky" Jadzia [lastname], as evidenced by my https://www.shlomifish.org/humour/stories/#buffy-few-good[2014 wave of inspiration and creativity]. 
 . https://www.facebook.com/vendu/[Tuomo Vendu Venäläinen] - https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/be_communicative.xhtml[Reference #1]
++
+I perceived him on freenode as a sloppy/slacker kernel dev, a marijuana user and enthusiast, and as a fan of Rock and metal music. 
 . https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian] ( https://www.shlomifish.org/humour/bits/Who-will-ride-Princess-Celestia/[Reference #1] ) 
 
 I suspect https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/departing_pope_about_twitter.xhtml[Pope Benedict XVI] was not terminated by me, but rather by either Taylor Swift or Kim Kardashian. 
