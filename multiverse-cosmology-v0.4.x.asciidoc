@@ -285,12 +285,13 @@ While it is one of the first games that wizard children are taught, many vampire
 
 The game can often be phrased like: 
 
-* 1 × 2 core concepts. ("player, character"??) 
-+
-("elohim, jew"??) 
+* 1 × 2 core concepts: 
+.. link:#the-gods[Elohim]
+.. "Jew" - the word is milliards-years-old, and was associated with the "yehudim" only relatively recently. 
 * 3 × 2 concepts ("time, soul, network, mind, love, knowledge"??) 
 +
 
+Instances of "the game" may be layered, nested, or even link:#self-ref[circular / self-referential]. 
 
 [[sample-game-session]]
 ==== Sample session of "the game"
@@ -310,9 +311,11 @@ However, while they wait for the desserts to arrive, Discord suggests they write
 The others agree. 
 
 After they record the pilot episode of "The copyrights' battle for the Selinaverse" and publicise it on their blogs and social media, it proves to be popular and https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/[profitable].
-Thus, the quartet donate part of the profits to charities ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[while giving them publicity] ), and decide to go to a vacation in the Selinaverse's Caribbean Islands, to calculate their next steps. 
+Thus, the quartet donate part of the profits to charities (https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[while
+giving them publicity] ), and decide to go to a vacation in the Selinaverse's Caribbean Islands, to calculate their next steps. 
 
-However, after checking into their hotel, they meet https://www.shlomifish.org/humour/image-macros/indiv-nodes/not_know_marilyn_monroe.xhtml[Marilyn Monroe] in the lobby (who, for the sake of this fic, is alive, kicking, and https://www.shlomifish.org/humour/image-macros/indiv-nodes/wandless_emma_watson.xhtml[kicking ass] ). After being a little star-struck and 'geeking out', they decide to play some games together. 
+However, after checking into their hotel, they meet https://www.shlomifish.org/humour/image-macros/indiv-nodes/not_know_marilyn_monroe.xhtml[Marilyn Monroe] in the lobby (who, for the sake of this story, is alive, kicking, and https://www.shlomifish.org/humour/image-macros/indiv-nodes/wandless_emma_watson.xhtml[kicking
+ass]). After being a little star-struck and 'geeking out', they decide to play some games together. 
 
 They play ball games, board/card games, and https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki[League of Legends].
 Then they decide to play "The game" with the classic, possibly cliché, campaign of link:#history-lesson-about-the-muppeteers[the Muppeteers in 1969] with Fluttershy and Monroe as gamemasters/arbiters, thus starting the cycle again. 
@@ -324,7 +327,7 @@ Now, if the players are playful, and the gamemasters are jerks we can imagine st
 
 ____
 . link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] convinces a U.S. military combat unit to storm Washington D. C. with him in order to legalise/decriminalise commercial fan-art, only to get the red carpet, a hero's welcome, and a personal invitation from the U.S. president to host a press conference. 
-. link:#Richard_Stallman[Richard Stallman] writes a script ( in https://en.wikipedia.org/wiki/Scheme_(programming_language)[Scheme]? ) to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that the Muppeteers' screenplays' https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million GitHub stars (= "likes") and a million forks. 
+. link:#Richard_Stallman[Richard Stallman] writes a script to broadcast the Muppeteers' screenplays to all ~65,536 hosts in the nascent https://en.wikipedia.org/wiki/ARPANET[ARPANET], only to get a visit from the director of the NSA, who informs him that the Muppeteers' screenplays' https://en.wikipedia.org/wiki/GitHub[GitHub] repository has exceeded 10 million GitHub stars (= "likes") and a million forks. 
 . link:#Jim_Henson[Jim Henson] travels to Los Angeles to pitch the Muppets franchise to Hollywood executives, only to see __The Muppet Show__ being broadcast on the moon, on the way. 
 
 ____
@@ -335,9 +338,10 @@ Furthermore, not only were the gamemasters jerks, but they were - to use the tec
 [[hackers]]
 === "Hackers" vs. "Fuckers"
 
-The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years with many of their contemporary meanings. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference: "What is hacking?"] (= "rule bending", "being resourceful", "thinking outside the box"). 
+The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years with many of their contemporary meanings. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference:
+"What is hacking?"] (= "rule bending", "being resourceful", "thinking outside the box"). 
 
-TheCodex(TM) defines "hacker" as a player character in Fantastecha(TM). It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGame(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
+TheCodex(TM) defines "hacker" as a player character in TheGame(TM) of Fantastecha(TM). It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGame(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
 
 [cols="1,1,1", frame="all"]
 |===
@@ -473,8 +477,10 @@ If you think that Emma Watson or MJH are not comparable to Maimonides, then see:
 * https://www.shlomifish.org/humour/image-macros/indiv-nodes/if_ayn_rand_was_born_in_the_1990s.xhtml[If Ayn Rand was born in the 1990s, she would be Christina Grimmie.]
 * https://www.shlomifish.org/humour/image-macros/indiv-nodes/pbride_philosophers.xhtml["`Have you heard of Plato? Aristotle? Socrates? Models!!`"]
 
-Saladin was slain by https://en.wikipedia.org/wiki/Richard_I_of_England[Richard I "The Lion Heart"] / https://en.wikipedia.org/wiki/Friar_Tuck[Friar Tuck] / https://en.wikipedia.org/wiki/Robin_Hood[Robin Hood].
-However, beforehand, Saladin de-hellholed Palestine except for parts of https://en.wikipedia.org/wiki/Israeli_coastal_plain[the coastal plain] and his echoes begot some vampires, including Genghis Khan's direct-male-ancestor. 
+Saladin was slain by https://en.wikipedia.org/wiki/Richard_I_of_England[Richard I "The
+Lion Heart"] / https://en.wikipedia.org/wiki/Friar_Tuck[Friar Tuck] / https://en.wikipedia.org/wiki/Robin_Hood[Robin Hood].
+However, beforehand, Saladin de-hellholed Palestine except for parts of https://en.wikipedia.org/wiki/Israeli_coastal_plain[the coastal
+plain] and his echoes begot some vampires, including Genghis Khan's direct-male-ancestor. 
 
 [[hell-hole]]
 == "Hell hole":
@@ -543,7 +549,8 @@ It is a testament to Selinaverse-an technology that I, a https://www.shlomifish.
 ) 
 
 One day in 1969, the three lamented the fact that the late 1960's anglophone link:#terrestrial[terrestrial] television has become too paranoid, and so decided that they will act, produce, and distribute, a *gratis, public domain, and non-commercial* television show for children, called https://en.wikipedia.org/wiki/Sesame_Street[Sesame Street].
-Part of the reason for keeping it free was that they intended it to sport a lot of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[fan-fiction, RPF, fan-art and song covers] (which they believed were legally problematic) and part of it was due to https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml[an altruistic spirit of sharing]. 
+Part of the reason for keeping it free was that they intended it to sport a lot of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[fan-fiction, RPF, fan-art and song covers] (which they believed were legally problematic) and part of it was due to https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml[an
+altruistic spirit of sharing]. 
 
 They expected __Sesame Street__'s popularity to be mostly confined to their base-town, https://en.wikipedia.org/wiki/Rockville,_Maryland[Rockville, Maryland], but thought that https://www.shlomifish.org/humour/fortunes/show.cgi?id=mishnah--saving-one-soul[ They who saved one soul has saved the world Entire ]. 
 
@@ -592,7 +599,7 @@ Somewhat selfish, rash, hastey, opportunistic, and brave.
 ( https://www.shlomifish.org/humour/fortunes/show.cgi?id=clarissa-darling[Reference #1] ) 
 . https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] - as a 1977-born Jewish girl, Sarah believed that her father abandoned her mother and herself, who were both living in relative poverty in Manhattan. She spent just enough time on her scholastic responsibilities to will have graduated from high school and get her mother's echo off her back, and spent the rest of her time https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time[happily donating] love, time, and money to others and herself. 
 +
-Kind, domineering, and believes https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/we_are_scheming.xhtml[planning
+Kind, yet domineering and "pushy", and believes https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/we_are_scheming.xhtml[planning
 and having backup plans] are good ideas. 
 . https://www.shlomifish.org/humour/Terminator/Liberation/indiv-nodes/hamlet-parody-Cher-parody.xhtml[Cher [ Horowitz? ]] - born 1971-1978. Hailing from Beverly Hills, Cher was a https://tvtropes.org/pmwiki/pmwiki.php/Main/JewishAmericanPrincess[Jewish American Princess], and a self-conscious and "damn proud of it" one. Only with a heart of gold. She spent large amounts of time [and significant amounts of money], helping her friends or trying to make link:#love-and-knowledge[them happier / more entertained]
 . *Selina [ Hope ] Mandrake* - a 1977-1978-born girl, likely living in Britain. Became the youngest dropout. Christened "Selena", she was so annoyed by thinking that the fellow Greek kids pronounced her name as "Séléna" while Israeli ones pronounced it "right" that she: [1] changed its spelling [2] developed conspiracy hypotheses about how the ancient Greek philosophers (= educators / entertainers) stole their best ideas from the Israelites and the ancient Jews. 

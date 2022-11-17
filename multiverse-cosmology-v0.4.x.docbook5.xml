@@ -717,7 +717,12 @@ vampires have played it by instinct:
 
 <listitem>
 <para>
-<link xlink:href="https://en.wikipedia.org/wiki/Aesop%27s_Fables">Aesop's Fables</link>, the <link xlink:href="https://en.wikipedia.org/wiki/Hebrew_Bible">Biblical stories</link>, the <link xlink:href="https://en.wikipedia.org/wiki/Greek_mythology">Greek mythology</link>.
+<link xlink:href="https://en.wikipedia.org/wiki/Aesop%27s_Fables">Aesop's
+Fables</link>, the <link
+xlink:href="https://en.wikipedia.org/wiki/Hebrew_Bible">Biblical
+stories</link>, the <link
+xlink:href="https://en.wikipedia.org/wiki/Greek_mythology">Greek
+mythology</link>.
 </para>
 </listitem>
 
@@ -731,11 +736,26 @@ The game can often be phrased like:
 
 <listitem>
 <para>
-1 × 2 core concepts. ("player, character"??)
+1 × 2 core concepts:
 </para>
+
+<orderedlist>
+
+<listitem>
 <para>
-("elohim, jew"??)
+<link xlink:href="#the-gods">Elohim</link>
 </para>
+</listitem>
+
+<listitem>
+<para>
+"Jew" - the word is milliards-years-old, and was associated with the
+"yehudim" only relatively recently.
+</para>
+</listitem>
+
+</orderedlist>
+
 </listitem>
 
 <listitem>
@@ -752,6 +772,11 @@ The game can often be phrased like:
 </listitem>
 
 </itemizedlist>
+
+<para>
+Instances of "the game" may be layered, nested, or
+even <link xlink:href="#self-ref">circular / self-referential</link>.
+</para>
 
 <section xml:id="sample-game-session">
 
@@ -799,7 +824,9 @@ and record a parodical courtcase as a spin-off franchise. The others agree.
 <para>
 After they record the pilot episode of "The copyrights' battle for the Selinaverse" and publicise it on their blogs and social media,
 it proves to be popular and <link xlink:href="https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/">profitable</link>. Thus, the quartet
-donate part of the profits to charities ( <link xlink:href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/">while giving them publicity</link> ), and
+donate part of the profits to charities
+(<link xlink:href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/">while
+giving them publicity</link> ), and
 decide to go to a vacation in the Selinaverse's Caribbean Islands, to
 calculate their next steps.
 </para>
@@ -807,9 +834,9 @@ calculate their next steps.
 <para>
 However, after checking into their hotel, they meet
 <link xlink:href="https://www.shlomifish.org/humour/image-macros/indiv-nodes/not_know_marilyn_monroe.xhtml">Marilyn Monroe</link>
-in the lobby (who, for the sake of this fic, is alive, kicking, and
-<link xlink:href="https://www.shlomifish.org/humour/image-macros/indiv-nodes/wandless_emma_watson.xhtml">kicking ass</link> ).
-After being a little star-struck and 'geeking out', they decide to play some
+in the lobby (who, for the sake of this story, is alive, kicking, and
+<link xlink:href="https://www.shlomifish.org/humour/image-macros/indiv-nodes/wandless_emma_watson.xhtml">kicking
+ass</link>). After being a little star-struck and 'geeking out', they decide to play some
 games together.
 </para>
 
@@ -849,7 +876,7 @@ conference.
 <listitem>
 <para>
 <link xlink:href="#Richard_Stallman">Richard Stallman</link> writes a script
-( in <link xlink:href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme</link>? ) to broadcast the Muppeteers' screenplays to all
+to broadcast the Muppeteers' screenplays to all
 ~65,536 hosts in the nascent <link xlink:href="https://en.wikipedia.org/wiki/ARPANET">ARPANET</link>,
 only to get a visit from the director of the NSA, who informs him
 that the Muppeteers' screenplays' <link xlink:href="https://en.wikipedia.org/wiki/GitHub">GitHub</link>
@@ -889,11 +916,14 @@ were - to use the technical term - <link xlink:href="#hackers">fuckers</link>!
 <para>
 The verbs "to hack" and "to fuck" were present in non- <link xlink:href="#terrestrial">terrestrial</link>
 English dictionaries for milliards of years with many of their contemporary meanings.
-<link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml">Reference: "What is hacking?"</link> (= "rule bending", "being resourceful", "thinking outside the box").
+<link
+xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml">Reference:
+"What is hacking?"</link> (= "rule bending", "being resourceful", "thinking
+outside the box").
 </para>
 
 <para>
-TheCodex™ defines "hacker" as a player character in Fantastecha™.
+TheCodex™ defines "hacker" as a player character in TheGame™ of Fantastecha™.
 It also defines "fuckers" as the race of organisms who are the players
 and gamemasters who play "TheGame™ of Fantastecha™" in Meta-Fantastecha™.
 </para>
@@ -1070,7 +1100,8 @@ So we will not be able to rest on our laurels, even if we wanted to
 
 <para>
 Given how cool fuckers are, and how great Fantastecha™ and the Shlomifverse are,
-I decided to make them honorary hackers: <link xlink:href="https://www.flickr.com/photos/shlomif/8598361516/in/album-72157633111982891/">Shlomifverse Fucker #0</link>.
+I decided to make them honorary hackers:
+<link xlink:href="https://www.flickr.com/photos/shlomif/8598361516/in/album-72157633111982891/">Shlomifverse Fucker #0</link>.
 </para>
 
 </section>
@@ -1260,8 +1291,15 @@ If you think that Emma Watson or MJH are not comparable to Maimonides, then see:
 </itemizedlist>
 
 <para>
-Saladin was slain by <link xlink:href="https://en.wikipedia.org/wiki/Richard_I_of_England">Richard I "The Lion Heart"</link> / <link xlink:href="https://en.wikipedia.org/wiki/Friar_Tuck">Friar Tuck</link> / <link xlink:href="https://en.wikipedia.org/wiki/Robin_Hood">Robin Hood</link>. However,
-beforehand, Saladin de-hellholed Palestine except for parts of <link xlink:href="https://en.wikipedia.org/wiki/Israeli_coastal_plain">the coastal plain</link> and his echoes begot some vampires, including Genghis Khan's direct-male-ancestor.
+Saladin was slain by <link
+xlink:href="https://en.wikipedia.org/wiki/Richard_I_of_England">Richard I "The
+Lion Heart"</link> / <link
+xlink:href="https://en.wikipedia.org/wiki/Friar_Tuck">Friar Tuck</link> / <link
+xlink:href="https://en.wikipedia.org/wiki/Robin_Hood">Robin Hood</link>.
+However, beforehand, Saladin de-hellholed Palestine except for parts of <link
+xlink:href="https://en.wikipedia.org/wiki/Israeli_coastal_plain">the coastal
+plain</link> and his echoes begot some vampires, including Genghis Khan's
+direct-male-ancestor.
 </para>
 
 </section>
@@ -1435,8 +1473,9 @@ worked, socialised, learned, taught, entertained, volunteered, and exercised.
 </para>
 
 <para>
-"Jim" is also cognate with <link xlink:href="https://en.wikipedia.org/wiki/Jinn">"jinn" (or "genie")</link>,
-and he had a penchant for stage magic and video editing.
+"Jim" is also cognate with <link
+xlink:href="https://en.wikipedia.org/wiki/Jinn">"jinn" (or "genie")</link>, and
+he had a penchant for stage magic and video editing.
 </para>
 
 <para>
@@ -1462,7 +1501,10 @@ television show for children, called <link xlink:href="https://en.wikipedia.org/
 of the reason for keeping it free was that they intended it
 to sport a lot of <link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/">fan-fiction, RPF, fan-art and song covers</link>
 (which they believed were legally problematic)
-and part of it was due to <link xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml">an altruistic spirit of sharing</link>.
+and part of it was due to
+<link
+xlink:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml">an
+altruistic spirit of sharing</link>.
 </para>
 
 <para>
@@ -1627,7 +1669,7 @@ love, time, and money to others and herself.
 </para>
 
 <para>
-Kind, domineering, and believes <link xlink:href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/we_are_scheming.xhtml">planning
+Kind, yet domineering and "pushy", and believes <link xlink:href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/we_are_scheming.xhtml">planning
 and having backup plans</link> are good ideas.
 </para>
 </listitem>
