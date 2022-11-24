@@ -312,3 +312,13 @@ I, Shlomi Fish, the completer, hereby request my favourite child, Christina Grim
 The Muppet Show hosting Tiffany Alvord: https://www.shlomifish.org/humour/Muppets-Show-TNI/Tiffany-Alvord.html .
 
 New Summer Glau factoid: https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-sglau-36 . “Chuck Norris knows what the last digit of Pi is. Summer Glau has memorised all the preceding digits.”
+
+----
+
+The "nazi" value:
+
+The Golden Rule ( https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/ ) implies sincerely criticising others even if it hurts their feelings, gets you in trouble, and you do not practice what you preach.
+
+http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/
+
+The word predates TheThirdReich by milliards years.
