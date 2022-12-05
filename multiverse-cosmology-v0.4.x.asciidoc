@@ -1418,7 +1418,7 @@ A hacker may opt to break-up / divorce the other pair-member.
 https://twitter.com/shlomif/status/1477303776495210498[Mom Cimorelli] was a terminatrix who wanted to have 11 children given it was her lucky number.
 However, a vampirella may only give birth to a boy+girl pair.
 One thing she and I had in common was that we both liked playing https://fc-solve.shlomifish.org/faq.html[Freecell].
-I wrote Freecell Solver in 2000 shortly before https://cimorelli.fandom.com/wiki/Dani_Cimorelli[Dani Cimorelli], her 6th daughter, was born, so her mother ascended before Dani's birth. 
+I wrote the first versions of Freecell Solver in 2000 shortly before https://cimorelli.fandom.com/wiki/Dani_Cimorelli[Dani Cimorelli], her 6th daughter, was born, so her mother ascended before Dani's birth. 
 
 https://www.explainxkcd.com/wiki/index.php/406:_Venting[xkcd #406: venting] displayed "Shlomi Fish" when viewed by https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau].
 She was terminated by me shortly after that. 
@@ -1428,7 +1428,7 @@ I think the last runner-ups were:
 . https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] - I suspect my echo was her lover. She was terminated by https://www.shlomifish.org/humour/Summerschool-at-the-NSA/["Summerschool at the NSA"]. 
 +
 Moreover, she and I have a genetic daughter: Rebecca "Becky" Jadzia [lastname], as evidenced by my https://www.shlomifish.org/humour/stories/#buffy-few-good[2014 wave of inspiration and creativity]. 
-. https://www.facebook.com/vendu/[Tuomo Vendu Venäläinen] - https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/be_communicative.xhtml[Reference #1]
+. https://www.facebook.com/vendu/[Tuomo "Vendu" Venäläinen] - https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/be_communicative.xhtml[Reference #1]
 +
 I perceived him on freenode as a sloppy/slacker kernel dev, a marijuana user and enthusiast, and as a fan of Rock and metal music. 
 . https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian] ( https://www.shlomifish.org/humour/bits/Who-will-ride-Princess-Celestia/[Reference #1] ) 
