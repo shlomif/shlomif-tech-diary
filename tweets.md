@@ -322,3 +322,7 @@ The Golden Rule ( https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other
 http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/
 
 The word predates TheThirdReich by milliards years.
+
+----
+
+2nd mostly-completed chapter: https://www.shlomifish.org/humour/The-10th-Muse/The-10th-Muse--Trojan-War-Reenactment.html . "Reenacting the Trojan War". Trying to take crossover, parody, RPF, and self-ref to extreme.
