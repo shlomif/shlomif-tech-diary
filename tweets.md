@@ -326,3 +326,7 @@ The word predates TheThirdReich by milliards years.
 ----
 
 2nd mostly-completed chapter: https://www.shlomifish.org/humour/The-10th-Muse/The-10th-Muse--Trojan-War-Reenactment.html . "Reenacting the Trojan War". Trying to take crossover, parody, RPF, and self-ref to extreme.
+
+----
+
+Despite the Halting Problem ( https://en.wikipedia.org/wiki/Halting_problem ) being impossible in the general case, a hacker can still prove that some simple apps [FSVO "simple"] will always or never halt.
