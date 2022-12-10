@@ -330,3 +330,9 @@ The word predates TheThirdReich by milliards years.
 ----
 
 Despite the Halting Problem ( https://en.wikipedia.org/wiki/Halting_problem ) being impossible in the general case, a hacker can still prove that some simple apps [FSVO "simple"] will always or never halt.
+
+----
+
+PSA: while I'd like to try Chat-GPT, I cannot because my smartphone was stolen.
+
+Reference: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also .
