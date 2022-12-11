@@ -341,4 +341,10 @@ Reference: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#s
 
 Hi Tiff! first of all: happy birthday, and happy upcoming holidays.
 
-Thanks for sharing the video. TBH: I liked the lyrics and the melody
+Thanks for sharing the video. TBH: I liked the lyrics and the melody, but your voice sounded very synthetic.
+
+As a birthday present see my fanfiction writings featuring you:
+
+https://www.shlomifish.org/meta/nav-blocks/blocks/#tiffany_alvord_sect
+
+Keep the faith and hail Fluttershy!
