@@ -336,3 +336,9 @@ Despite the Halting Problem ( https://en.wikipedia.org/wiki/Halting_problem ) be
 PSA: while I'd like to try Chat-GPT, I cannot because my smartphone was stolen.
 
 Reference: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also .
+
+----
+
+Hi Tiff! first of all: happy birthday, and happy upcoming holidays.
+
+Thanks for sharing the video. TBH: I liked the lyrics and the melody
