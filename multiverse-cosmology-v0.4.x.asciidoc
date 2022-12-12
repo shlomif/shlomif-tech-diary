@@ -1167,7 +1167,7 @@ and his angels as implementing humans' perception of the universe"] an #IRC frie
 +
 
 [quote]
-#BigBangTheory one reason i resented the old Sheldon so much is that he reminded me of my old dogmatic science-ist / atheist too much.
+#BigBangTheory one reason I resented the old Sheldon so much is that he reminded me of my old dogmatic science-ist / atheist too much.
 I suspect Penny was the alpha geek: https://shlom.in/geekyhackers
 +
 My catalyst: https://www.shlomifish.org/meta/FAQ/atheism_can_be_a_religion.xhtml[South Park's creators about Atheism]
@@ -1513,11 +1513,14 @@ see evidence that my favourite child, Christina Grimmie, is alive, healthy, cons
 == TheCodex(TM) of TheGame(TM) of Fantastecha(TM)
 
 . https://en.wikipedia.org/wiki/Term_logic[Term logic]
-. link:[Peano's axioms of arithmetics]
+. https://en.wikipedia.org/wiki/Peano_axioms[Peano's axioms of arithmetics]
 . https://en.wikipedia.org/wiki/Naive_set_theory[Naive set theory] and https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory[ZFC]
 . link:#hackers[hackers vs. fuckers] - א0 vs. א1. etc. 
 . {empty}
-.. Time - single dimensional, moving forward, and discrete. As opposed to https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity], it is not "just another dimension of a 4-D universe". 
+.. Elohim - a player / gamemaster. 
+.. link:["jew"] - a player character. 
+
+.. Time - single dimensional, moving forward, and discrete. As opposed to https://en.wikipedia.org/wiki/General_relativity[Einstein's Theory of Relativity], it is not "just another dimension of a 4-D universe". 
 .. Soul ( link:#free-will[Reference #1] ) 
 .. Network: set theory and extended Graph Theory ("contextualism") 
 *** Sets may contain themselves - directly or indirectly. 
