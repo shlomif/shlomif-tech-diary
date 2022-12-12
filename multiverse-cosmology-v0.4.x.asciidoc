@@ -41,6 +41,7 @@ They are also known as:
 * "memes" 
 * "fairies" 
 
+For the sake of "TheGame(TM) of Fantastecha(TM)", there are two major kinds of fairies: link:#hackers["Hackers" and "Fuckers"]. 
 
 [[love-and-knowledge]]
 == Love / Knowledge / Creativity:
@@ -136,8 +137,8 @@ It is up to the soul to arbitrate between them and decide what to do (and when/w
 
 Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/[this essay] about the etymology of the Hebrew word "elohim" (= "God", "many guideline-generators") and that of the Hebrew word "melekh" (= "a king", "from where should you go"). 
 
-"Elohim" may mean the gamemasters and players in an instance of link:fantasia-vs-fantastecha[the game].
-This is whereas "jew" means a player character. 
+An "Elohim" may mean the gamemasters and players in an instance of link:fantasia-vs-fantastecha[the game].
+This is whereas a "jew" means a player character. 
 
 [[the-multiverse-of-imagination]]
 == Fantasia, the multiverse of imagination and "Fantastecha(TM)", a multiverse of imagination, magic, and technology
@@ -226,6 +227,8 @@ I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source"
 *Technology = pre-developed, reusable maths-like functions, which
 accept parameters, and construct magical transformations of the state of
 the universe and perform them. (??!)*
+
+Hackers prefer to use technology that "makes sense" one-off magic spells: https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter["newer tech often doesnt completely eliminate the use of older one"]
 
 [[dollar-GOD]]
 == $GOD
