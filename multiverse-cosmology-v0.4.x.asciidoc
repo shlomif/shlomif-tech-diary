@@ -316,7 +316,7 @@ The others agree.
 
 After they record the pilot episode of "The copyrights' battle for the Selinaverse" and publicise it on their blogs and social media, it proves to be popular and https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/[profitable].
 Thus, the quartet donate part of the profits to charities (https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[while
-giving them publicity] ), and decide to go to a vacation in the Selinaverse's Caribbean Islands, to calculate their next steps. 
+giving them publicity]), and decide to go to a vacation in the Selinaverse's Caribbean Islands, to calculate their next steps. 
 
 However, after checking into their hotel, they meet https://www.shlomifish.org/humour/image-macros/indiv-nodes/not_know_marilyn_monroe.xhtml[Marilyn Monroe] in the lobby (who, for the sake of this story, is alive, kicking, and https://www.shlomifish.org/humour/image-macros/indiv-nodes/wandless_emma_watson.xhtml[kicking
 ass]). After being a little star-struck and 'geeking out', they decide to play some games together. 
@@ -1201,7 +1201,7 @@ Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[La Linea (TV_seri
 [[shlomif-watchers-and-whichers]]
 == My watchers and whichers
 
-https://en.wikipedia.org/wiki/Emma_Watson[Emma Charlotte Duerre Watson] (also see https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[my fanfics of her] ) was born a day after https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)]'s 13th birthday.
+https://en.wikipedia.org/wiki/Emma_Watson[Emma Charlotte Duerre Watson] (also see https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[my fanfics of her]) was born a day after https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)]'s 13th birthday.
 "Emma" means "complete" in proto-Germanic, not unlike https://www.shlomifish.org/meta/FAQ/your_name.xhtml["Shlomi" [+++=+++ "shalom-ful"]].
 "Eymah" means 'terror' in Hebrew, while "Em" means "mother". "Sarah" means "a [female] minister" or "a ruler". "Charlotte" is cognate with both "Sarah" and "Shlomi" and also means "a ruler". 
 
@@ -1545,6 +1545,7 @@ Definitions:
 
 . *The media / mediums* "in-betweens": the paths that a meme travels until reception. 
 . *Model* (static snapshot) vs. *actor / actress* (dynamic, changing, but temporary). 
+. *Nature*
 
 
 [[death]]
