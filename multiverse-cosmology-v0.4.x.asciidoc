@@ -137,7 +137,7 @@ It is up to the soul to arbitrate between them and decide what to do (and when/w
 
 Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/[this essay] about the etymology of the Hebrew word "elohim" (= "God", "many guideline-generators") and that of the Hebrew word "melekh" (= "a king", "from where should you go"). 
 
-An "Elohim" may mean the gamemasters and players in an instance of link:fantasia-vs-fantastecha[the game].
+An "Elohim" may mean the gamemasters and players in an instance of link:#fantasia-vs-fantastecha[the game].
 This is whereas a "jew" means a player character. 
 
 [[the-multiverse-of-imagination]]
