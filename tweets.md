@@ -348,3 +348,9 @@ As a birthday present see my fanfiction writings featuring you:
 https://www.shlomifish.org/meta/nav-blocks/blocks/#tiffany_alvord_sect
 
 Keep the faith and hail Fluttershy!
+
+----
+
+I once told a friend in a private email that I'll try to do more CBT exercises. He answered with https://mygeekwisdom.com/2011/09/11/try-not-do-or-do-not-there-is-no-try/ : “Try not! Do… or do not. There is no try.”. i've now stopped regularly doing them.
+
+"I'd tell Atlas to shrug."
