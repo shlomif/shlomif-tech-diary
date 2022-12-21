@@ -228,7 +228,7 @@ I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source"
 accept parameters, and construct magical transformations of the state of
 the universe and perform them. (??!)*
 
-Hackers prefer to use technology that "makes sense" over one-off magic spells: https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter["newer tech often doesnt completely eliminate the use of older one"].
+Hackers prefer to use technology that "makes sense" over one-off magic spells: https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter["newer technology often doesn't completely eliminate the use of older one"].
 I use XML, YAML, JSON, Perl, Python 3, C, vlc, mpv, duckduckgo, google [ https://www.shlomifish.org/meta/FAQ/[Reference] ]. 
 
 [[dollar-GOD]]
@@ -957,6 +957,21 @@ Livingstone, I presume"], Livingstone was wizard-born, and acted as a watcher to
 === The Ghost Town Pattern
 
 E.g: Pompei ( https://www.shlomifish.org/humour/humanity/ongoing-text.html#the-town-council[Reference #1] ). **TODO: ADD**
+
+[[inauspicious-names]]
+=== inauspicious-names
+
+[[albert-einstein]]
+==== Einstein
+
+[[ayn-rand]]
+==== Ayn Rand
+
+I suspect Alisa/Alice "rand" Rosenbaum was/is real and slew https://en.wikipedia.org/wiki/H._L._Mencken[H. L. Mencken] (thus liberating Maryland minus Rockville) and https://en.wikipedia.org/wiki/Sarah_Bernhardt[Sarah Bernhardt] before getting slain and liberating St.
+Petersburg. 
+
+[[nVidia]]
+==== nVidia
 
 [[the-schwartz]]
 == "The Schwartz is in us":
