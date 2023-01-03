@@ -969,6 +969,8 @@ E.g: Pompei ( https://www.shlomifish.org/humour/humanity/ongoing-text.html#the-t
 [[inauspicious-names]]
 === inauspicious-names
 
+"Ayin" ("אין") means "there isn't" in Hebrew. 
+
 [[albert-einstein]]
 ==== Einstein
 
@@ -977,6 +979,8 @@ E.g: Pompei ( https://www.shlomifish.org/humour/humanity/ongoing-text.html#the-t
 
 I suspect Alisa/Alice "rand" Rosenbaum was/is real and slew https://en.wikipedia.org/wiki/H._L._Mencken[H. L. Mencken] (thus liberating Maryland minus Rockville) and https://en.wikipedia.org/wiki/Sarah_Bernhardt[Sarah Bernhardt] before getting slain and liberating St.
 Petersburg. 
+
+"Ayn Rand" was her terrestrial version. 
 
 [[nVidia]]
 ==== nVidia
