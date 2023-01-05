@@ -81,7 +81,7 @@ And it shall be called ...​ The Earth."
 * Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the https://en.wikipedia.org/wiki/Akashic_records are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability and other kinds of https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/notes/quality-software—​followup-2018.md[quality]. See e.g. http://www.h-online.com/open/features/Is-Microsoft-running-out-of-steam-1102654.html[the variations on the James Watt`'s steam engine].
 ** => Extraterrestrial technology, although advanced (but naturally not https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#we_all_have_a_master[omnipotent]) was incredibly wasteful. As a result, Earth became a hub for technology - both tangible and intellectual and lately digital as well.
 * As a child, I wanted to be good-hearted (= noble, honest, benevolent) and later on aspired to be world savior / messiah / "the greatest person in history". I guess "nice guys finish last".
-* It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines, dishwashers and refrigerators) when they *can* be made more reliable (like those that had been inthe past).
+* It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines, dishwashers and refrigerators) when they *can* be made more reliable (like those that had been in the past).
 * I have a very low number of Twitter followers (below 650 - https://twitter.com/shlomif ) and my reddit posts are usually not upvoted a lot ( https://www.reddit.com/user/shlomif ) . This is despite some of my older posts being a staple on Slashdot and other sites (e.g: https://www.shlomifish.org/humour/bits/Mastering-Cat/["Mastering cat" Interview].)
 * People cite contemporary copyright law as a justification for censorship:
 ** https://www.reddit.com/r/Jennamarbles/comments/mjfmsj/advice_to_jenna_1_youre_awesome_i_love_you_2/
@@ -137,7 +137,7 @@ ____
 -- https://www.shlomifish.org/humour/TheEnemy/The-Enemy-English-v7.html
 * Microbiology is a pseudoscience - most of its processes are unexplained.
 * The terrestrial food supply is unsustainable.
-* I have fanfics with Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasnt made a film in years yet everyone talk about her
+* I have fanfics with Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasn't made a film in years yet everyone talk about her
 * Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
 * Occam`'s Razor tells me there`'s a conspiracy-- https://is.gd/kSLGdP
 * Someone on freenode told me my site is a "waste of space" even though:
@@ -158,6 +158,8 @@ So it is likely that she was conceived as a bridge between SMG and me. footnote:
 puberty on 5 May 1990 [= my 13th birthday].]
 * There are many battery-powered speedy self-moving vehicles [e.g: electrical "קורקינטים"] whereas it takes a very large terrestrial battery to have as many joules as a tablespoon of peanut butter. 
 * https://www.today.com/pets/hundreds-golden-retrievers-met-scotland-150th-anniversary-breed-t133915["Hundreds of golden retrievers met in Scotland for 150th anniversary of breed"] - no way can you fly so many in Boeing planes. 
+* I have a supposedly younger cousin called "Shlomi" despite our Jewries' unwillingness to name newborns after living relatives. 
+* As a false prophet child, https://www.shlomifish.org/meta/FAQ/where_are_you_from.xhtml[my template was relocated] three times before he was 6, despite common wisdom that one should not relocate young children. This was probably due to the effect of The Muppet Show and other television series on the Terran hellholes and my parents' wishes to have more children. 
 
 
 [[obstacles-and-delays]]
