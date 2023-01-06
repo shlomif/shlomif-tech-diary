@@ -358,3 +358,7 @@ I once told a friend in a private email that I'll try to do more CBT exercises. 
 ----
 
 hi all! What do you think of https://www.shlomifish.org/Files/files/images/captioned-image--strip-poker-antedote-600.webp ? sources: https://github.com/shlomif/captioned-images--repo/tree/master/strip-poker-antedote .
+
+----
+
+Hi Omer! you can find evidence for my cosmological hypothesis here: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#more-thoughts . shabbath shalom.
