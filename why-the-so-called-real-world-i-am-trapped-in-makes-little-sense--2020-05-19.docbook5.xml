@@ -523,6 +523,34 @@ hellholes and my parents' wishes to have more children.
 </para>
 </listitem>
 
+<listitem>
+<para>
+The freenode / 'libera.chat' split is hard-to-believe.
+</para>
+</listitem>
+
+<listitem>
+<para>
+Apple M1 is hard-to-believe:
+</para>
+
+<orderedlist>
+
+<listitem>
+<para>
+ARM is underperformant while having low gates' count and power consumption.
+</para>
+</listitem>
+
+<listitem>
+<para>
+yet, Apple added an x86-64 emulation, which wastes gates and power!
+</para>
+</listitem>
+</orderedlist>
+
+</listitem>
+
 </itemizedlist>
 
 <section xml:id="obstacles-and-delays">

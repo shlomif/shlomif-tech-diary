@@ -160,6 +160,10 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * https://www.today.com/pets/hundreds-golden-retrievers-met-scotland-150th-anniversary-breed-t133915["Hundreds of golden retrievers met in Scotland for 150th anniversary of breed"] - no way can you fly so many in Boeing planes. 
 * I have a supposedly younger cousin called "Shlomi" despite our Jewries' unwillingness to name newborns after living relatives. 
 * As a false prophet child, https://www.shlomifish.org/meta/FAQ/where_are_you_from.xhtml[my template was relocated] three times before he was 6, despite common wisdom that one should not relocate young children. This was probably due to the effect of The Muppet Show and other television series on the Terran hellholes and my parents' wishes to have more children. 
+* The freenode / 'libera.chat' split is hard-to-believe. 
+* Apple M1 is hard-to-believe: 
+.. ARM is underperformant while having low gates' count and power consumption. 
+.. yet, Apple added an x86-64 emulation, which wastes gates and power! 
 
 
 [[obstacles-and-delays]]
