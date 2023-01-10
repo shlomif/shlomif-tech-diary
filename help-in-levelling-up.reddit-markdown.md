@@ -5,3 +5,5 @@ I am a player character in "TheGame™ of Fantastecha™", currently at class va
 . A copy of the rulebook, which I think consists of (1 + 3 + 7 + 9) * 2 items.
 
 . The whereabouts of [Christina Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie), who happens to be my favourite "child" (= protege and successor).
+
+Thanks in advance, and keep the faith!
