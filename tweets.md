@@ -362,3 +362,7 @@ hi all! What do you think of https://www.shlomifish.org/Files/files/images/capti
 ----
 
 Hi Omer! you can find evidence for my cosmological hypothesis here: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#more-thoughts . shabbath shalom.
+
+----
+
+Despite media skews, sexual/romantic love is dwarfed by the love of a parent4his intellectual children. I'd rather my soul perish than have shlomifish dot org disappear from the inet; also : https://twitter.com/shlomif/status/1490775065113378820
