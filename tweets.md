@@ -366,3 +366,7 @@ Hi Omer! you can find evidence for my cosmological hypothesis here: https://www.
 ----
 
 Despite media skews, sexual/romantic love is dwarfed by the love of a parent4his intellectual children. I'd rather my soul perish than have shlomifish dot org disappear from the inet; also : https://twitter.com/shlomif/status/1490775065113378820
+
+----
+
+"the last standing vampire will be slain by the child of his 2 fav children.". I think a v2.1.0 of https://www.shlomifish.org/ + srcs (curr ver: 1.12.0) as edited by Chris Grimmie-n-co will probly be great.
