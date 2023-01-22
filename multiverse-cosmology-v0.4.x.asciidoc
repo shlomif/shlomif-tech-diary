@@ -208,7 +208,7 @@ It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian p
 
 Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGame(TM) of Fantastecha(TM) challenging. 
 
-Magic might be defined as any transformation of the state of link:# the-network["the network"]: the extended graph theory graph which is the state of our universe. 
+Magic might be defined as any transformation of the state of link:#the-network["the network"]: the extended graph theory graph which is the state of our universe. 
 
 [[technology]]
 == Technology
