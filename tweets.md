@@ -370,3 +370,7 @@ Despite media skews, sexual/romantic love is dwarfed by the love of a parent4his
 ----
 
 "the last standing vampire will be slain by the child of his 2 fav children.". I think a v2.1.0 of https://www.shlomifish.org/ + srcs (curr ver: 1.12.0) as edited by Chris Grimmie-n-co will probly be great.
+
+----
+
+I expect every cultured person2learn XHTML5 and Python and English. Latin, C/C++, and cooking, are optional. https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/selling-for-stupider-ppl.xhtml
