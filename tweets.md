@@ -374,3 +374,9 @@ Despite media skews, sexual/romantic love is dwarfed by the love of a parent4his
 ----
 
 I expect every cultured person2learn XHTML5 and Python and English. Latin, C/C++, and cooking, are optional. https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/selling-for-stupider-ppl.xhtml
+
+----
+
+The originators of the #FOSS projs https://en.wikipedia.org/wiki/Joe%27s_Own_Editor and https://github.com/fribidi/fribidi became chief maintainers again, after several years of maint-headed-by-others.
+
+"You divorce wives, not children" — https://en.wikipedia.org/wiki/Clueless .
