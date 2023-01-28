@@ -380,3 +380,9 @@ I expect every cultured person2learn XHTML5 and Python and English. Latin, C/C++
 The originators of the #FOSS projs https://en.wikipedia.org/wiki/Joe%27s_Own_Editor and https://github.com/fribidi/fribidi became chief maintainers again, after several years of maint-headed-by-others.
 
 "You divorce wives, not children" — https://en.wikipedia.org/wiki/Clueless .
+
+----
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#sample-game-session - there is a market for parodical/etc. courtroom battles, just like many ppl enjoy films with warfare.
+
+https://www.shlomifish.org/humour/The-10th-Muse/The-10th-Muse--Trojan-War-Reenactment.html - I enjoy reenacting the Trojan War.
