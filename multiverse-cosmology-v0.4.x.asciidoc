@@ -15,8 +15,7 @@ Also note that the terminology used here has undergone some etymological erosion
 [[summary]]
 == Summary
 
-I need all your loves! Please 'Like', 'share' and [if you have something to add] reply.
-I have loved/knew many of you, but was too selfless. 
+Please help the "Rindolfism v1.x.y" effort; it is the child of my 2 favourite children: Christina Grimmie, and "*.shlomifish.org v1.x.y". 
 
 Reference: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
@@ -145,7 +144,7 @@ This is whereas a "jew" means a player character.
 
 https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia"] is the name of the multiverse of imagination where beings and entities spawn worlds and values of one another using their imagination. 
 
-Fantastecha(TM) is a skewed view of an expanding subset of Fantasia. 
+Fantastecha(TM) is a skewed view of an expanding subset of Fantasia (one of many). 
 
 Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links
 that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referential or circular links] are prevalent and tolerated. 
@@ -158,7 +157,7 @@ However, they were not really real for us.
 
 TheCodex(TM) of TheGame(TM) of Fantastecha(TM) was kept secret from link:#hackers[hackers (+++=+++ player characters)] and was to be revealed to the Terminal Terran Terminator (me?). 
 
-The meta- Fantastechans who play TheGame(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
+The meta- Fantastechans who play TheGame(TM) of Fantastecha(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
 
 [[self-ref]]
 == Self-reference / circularity:
