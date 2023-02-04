@@ -390,3 +390,7 @@ https://www.shlomifish.org/humour/The-10th-Muse/The-10th-Muse--Trojan-War-Reenac
 ----
 
 After you are logged into @YouTube , and favourited some videos, you should try their "mix"es, eg : "my Mix", "Rock Mix", "Pop Mix", etc.
+
+----
+
+Do note, however, that I welcome and encourage derivatives: https://www.shlomifish.org/meta/FAQ/may_i_prepare_a_derivative.xhtml .
