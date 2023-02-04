@@ -386,3 +386,7 @@ The originators of the #FOSS projs https://en.wikipedia.org/wiki/Joe%27s_Own_Edi
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#sample-game-session - there is a market for parodical/etc. courtroom battles, just like many ppl enjoy films with warfare.
 
 https://www.shlomifish.org/humour/The-10th-Muse/The-10th-Muse--Trojan-War-Reenactment.html - I enjoy reenacting the Trojan War.
+
+----
+
+After you are logged into @YouTube , and favourited some videos, you should try their "mix"es, eg : "my Mix", "Rock Mix", "Pop Mix", etc.
