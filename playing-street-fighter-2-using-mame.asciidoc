@@ -22,7 +22,7 @@ Now copy it to the ROMs' path:
 ----
 $ mkdir -p ~/mame/roms
 $ cp ~/sf2ce.zip ~/mame/roms
-$ mame -volume -24 sf2ce
+$ mame -w -nomax -volume -24 sf2ce
 ----
 
 (The `-volume -24` flag is optional but may be useful to avoid a too high volume.)
@@ -40,7 +40,7 @@ The following keyboard keys appear to work:
 .Type this to run the game again.
 [source,sh]
 ----
-mame -volume -24 sf2ce
+mame -w -nomax -volume -24 sf2ce
 ----
 
 == License
