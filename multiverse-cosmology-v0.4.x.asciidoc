@@ -1301,9 +1301,11 @@ Emma [Watson]`" among the workers of my/Rindolf/MJH's team for a while, so the t
 Also see https://en.wikipedia.org/wiki/Erin_Hoffman["EA Spouse"'s story]. 
 
 [[TMTOWTDI]]
-== "There`"s more than one way to do it"
+== "There's more than one way to do it"
 
 Most policemen in Britain don't carry guns. 
+
+In Tel Aviv, many policemen carry non-concealed guns, while almost all civilians and uniformed soldiers do not. https://www.flickr.com/photos/shlomif/albums/72157648685448751[You can bring toy firearms to a con in Tel Aviv.]
 
 [[sorry]]
 == Sorry for the inconvenience:
