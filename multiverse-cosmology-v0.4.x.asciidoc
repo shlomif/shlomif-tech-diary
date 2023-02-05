@@ -1300,6 +1300,11 @@ Emma [Watson]`" among the workers of my/Rindolf/MJH's team for a while, so the t
 
 Also see https://en.wikipedia.org/wiki/Erin_Hoffman["EA Spouse"'s story]. 
 
+[[TMTOWTDI]]
+== "There`"s more than one way to do it"
+
+Most policemen in Britain don't carry guns. 
+
 [[sorry]]
 == Sorry for the inconvenience:
 
