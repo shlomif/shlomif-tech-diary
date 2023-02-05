@@ -381,6 +381,7 @@ Have a finite capacity.
 I.e: 
 
 . you can be strong enough to lift 10 kg, or 100 kg, or 1e6 kg, but not infinite weight. 
+. your hard-disk may be big enough to hold 2 mega-bytes, or 2 giga-bytes, or 2 peta-bytes, but not infinity bytes. 
 
 
 |
@@ -460,6 +461,8 @@ Punishment] , Shakespeare`'s https://en.wikipedia.org/wiki/Shakespeare%27s_plays
 have likely undergone lengthening and mutation by the Orcs.
 However, often the originators liked the mutated versions better. 
 
+The elves / Cardassians were/are agents of the angels. 
+
 [[slayer-watcher-whicher]]
 == Slayer, Watcher, Whicher
 
@@ -522,8 +525,7 @@ the USA ("give me your tired, your poor, your huddled masses"),
 by Christianity, and by Islam. I also suspect Saladin's military
 accepted many faux Kurds.]
 
-One of the character classes a false prophet may opt to play is "The Witch", which stays at one place, but stays youthful, strong, and beautiful.
-One such was "The Witch of Harrow" who ended up establishing https://en.wikipedia.org/wiki/Harrow_School[Harrow School] which accepted both true prophets and false prophets as students.
+One vampire was "The Witch of Harrow" who ended up establishing https://en.wikipedia.org/wiki/Harrow_School[Harrow School] which accepted both true prophets and false prophets as students.
 She ended up becoming a Terminator in link:#ramatavivgimel[Ramat Aviv Gimel] erasing her unpleasant memories as a past "slut" and eventually making her house https://www.shlomifish.org/humour/Selina-Mandrake/indiv-nodes/selinas-18s-birthday-party.xhtml["The Amber"] and getting herself terminated by a different Terminator. 
 
 As a false prophet child, https://www.shlomifish.org/meta/FAQ/where_are_you_from.xhtml[my
