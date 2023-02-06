@@ -1357,7 +1357,7 @@ I believe most of their conventions happen at day time, and are attended by attr
 
 In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic[a Hegelian dialectic] of "thesis -> antithesis -> synthesis". I also have been "changing ponies in midwater": changing intermediate conclusions, while keeping similar end results. 
 
-Furthermore, "`There's more-to-life than accelerating its pace`" (to quote Mahatma Gandi-or-whoever). These past 40 years (give or take some time skews) have been a rollercoaster ride for me, and I want some rest. 
+Furthermore, "`There's more-to-life than accelerating its pace`" (to quote Mahatma Gandhi-or-whoever). These past 40 years (give or take some time skews) have been a rollercoaster ride for me, and I want some rest. 
 
 [[stranger-than-fiction]]
 == Stranger than fiction
@@ -1372,6 +1372,8 @@ https://stexpanded.fandom.com/wiki/Q2[Q2] and the fellow sentient hacker animals
 Thus, they wanted a 2-dimensional audible speech system, and were given one based on consonants and vowels. 
 
 Moreover, they preferred "modern" English over the alternative (Esperanto?) given English was sexier and more interesting. 
+
+I think the 3-D-colour-space ( RGB , HSV , CMY ) was introduced with the Milky Way galaxy, but with some catches like https://en.wikipedia.org/wiki/The_dress["The dress"]. 
 
 [[ancestors]]
 == Some vampire/etc. ancestors
