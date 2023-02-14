@@ -394,3 +394,7 @@ After you are logged into @YouTube , and favourited some videos, you should try 
 ----
 
 Do note, however, that I welcome and encourage derivatives: https://www.shlomifish.org/meta/FAQ/may_i_prepare_a_derivative.xhtml .
+
+----
+
+The starship Enterprise aims to boldly go where Chuck Norris hasn't been (and laid waste) to, yet.
