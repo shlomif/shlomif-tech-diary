@@ -398,3 +398,5 @@ Do note, however, that I welcome and encourage derivatives: https://www.shlomifi
 ----
 
 The starship Enterprise aims to boldly go where Chuck Norris hasn't been (and laid waste) to, yet.
+
+( #StarTrek , #chucknorrisfacts )
