@@ -400,3 +400,11 @@ Do note, however, that I welcome and encourage derivatives: https://www.shlomifi
 The starship Enterprise aims to boldly go where Chuck Norris hasn't been (and laid waste) to, yet.
 
 ( #StarTrek , #chucknorrisfacts )
+
+----
+
+Some1 on IRC told me "you havent updated your website's style im 50 years". 1973 is before the WWW was invented in 1989. For ref:
+
+* https://www.shlomifish.org/meta/FAQ/site_looks_old.xhtml
+
+* https://www.shlomifish.org/meta/old-site-snapshots/
