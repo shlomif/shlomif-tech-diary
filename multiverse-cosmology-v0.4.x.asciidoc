@@ -1371,7 +1371,7 @@ Furthermore, "`There's more-to-life than accelerating its pace`" (to quote Mahat
 [[stranger-than-fiction]]
 == Stranger than fiction
 
-A wise man once said: "Truth is stranger than fiction because fiction needs to make sense.". That's why my hell hole's "real world" cannot be real.
+A wise man once said: "Truth is stranger than fiction because fiction needs to make sense.". That's why my hell's "real world" cannot be real.
 I disbelieve it. 
 
 [[disadvantaged-humans]]
@@ -1435,8 +1435,7 @@ Corporations have souls.
 Moreover, one must be allowed to disassociate from a corporation. 
 
 [quote]
-There is the cliché scene from https://memory-alpha.fandom.com/wiki/Trill_%28planet%29[Trill
-sitcoms] where a pair of male Japanese tourists arrive there and are enthusiastic.
+There is the cliché scene from https://memory-alpha.fandom.com/wiki/Trill_%28planet%29[Trill] sitcoms where a pair of male Japanese tourists arrive there and are enthusiastic.
 They aren't stupid, just awesomely Jappy. https://en.wikipedia.org/wiki/Theory_of_forms[Platonic
 Ideals]. 
 
@@ -1503,7 +1502,7 @@ I think the last runner-ups were:
 Moreover, she and I have a genetic daughter: Rebecca "Becky" Jadzia [lastname], as evidenced by my https://www.shlomifish.org/humour/stories/#buffy-few-good[2014 wave of inspiration and creativity]. 
 . https://www.facebook.com/vendu/[Tuomo "Vendu" Venäläinen] - https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/be_communicative.xhtml[Reference #1]
 +
-I perceived him on freenode as a sloppy/slacker kernel dev, a marijuana user and enthusiast, and as a fan of Rock and metal music. 
+I perceived him on freenode as a sloppy/slacker kernel dev, a marijuana user and activist, and as a fan of Rock and metal music. 
 . https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian] ( https://www.shlomifish.org/humour/bits/Who-will-ride-Princess-Celestia/[Reference #1] ) 
 
 I suspect https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/departing_pope_about_twitter.xhtml[Pope Benedict XVI] was not terminated by me, but rather by either Taylor Swift or Kim Kardashian. 
@@ -1567,6 +1566,7 @@ see evidence that one of my favourite children, Christina Grimmie, is alive, hea
 ** https://www.youtube.com/watch?v=gb8AGuD2uOI["The Bonnie Banks of Loch Lomond - Ella Roberts - YouTube"]
 ** https://www.youtube.com/watch?v=lk0Ec8lle4o[Nepal ['the stone bird']]
 ** https://www.youtube.com/watch?v=_8C1-igfniM[Subliminal - "60 years old"]
+** https://www.youtube.com/watch?v=49tZw72C2yU[Subliminal - "flowers in the barrel"]
 
 
 [[coverage]]
@@ -1619,6 +1619,8 @@ Definitions:
 == Death
 
 As far as we know, nobody and nothing have ever died in Fantastecha(TM). For example, in the Selinaverse, David used his sling to shoot the pebble close to Goliath's face noting that he missed on purpose. 
+
+https://en.wikipedia.org/wiki/Wenceslao_Moguel[El Fusilado.]
 
 [[ceiling-satan]]
 == ceiling satan is watching you
