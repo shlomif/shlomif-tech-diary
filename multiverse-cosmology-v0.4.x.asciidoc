@@ -384,7 +384,7 @@ are non - capacitanciated.
 Have a finite capacity.
 I.e: 
 
-. you can be strong enough to lift 10 kg, or 100 kg, or 1e6 kg, but not infinite weight. 
+. you can be strong enough to lift 10 kg, or 100 kg, or a million kg, but not infinite weight. 
 . your hard-disk may be big enough to hold 2 mega-bytes, or 2 giga-bytes, or 2 peta-bytes, but not infinity bytes. 
 
 
@@ -514,9 +514,8 @@ Female vampires, above puberty, preferred to mate with any of the local post-pub
 Their echoes gave birth to boy+girl twin vampires (where one of them was often sent forward in time). Often one of the children ended up slaying either or both parents.
 Moreover, parent vampires sometimes mated with their vampire biological children. 
 
-If a vampire wasn't slain before they hit puberty, then he/she endured more hardships such as https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.). I think puberty is 12 y.o.
-for women, and 13 y.o.
-for men. 
+If a vampire wasn't slain before they hit puberty, then he/she endured more hardships such as https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.). I think puberty is 13 y.o.
+for women and men. 
 
 [[zionism]]
 == "Ziyoonism":
@@ -552,7 +551,7 @@ E.g.: even though they painted with https://en.wikipedia.org/wiki/Crayola[Crayol
 The true-prophet children appreciated his input, but he believed they and their parents kept becoming offended and complaining. 
 . https://en.wikipedia.org/wiki/Richard_Stallman[Richard Matthew "RMS" Stallman] was an overly pedantic "nazi" critic too, but unathletic, unkempt, a maths/software wiz, and a bookworm brainiac. Given he was an atrocious slacker, none of his false-prophet friends understood how he got his Ph.D. (and from MIT no less). He was unaware he had a Ph.D. 
 +
-Despite being of (secular) Jewish descent, RMS was a https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralist] ("rich"-ard) 
+Despite being of (secular) Jewish upbringing, RMS was a https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralist] ("rich"-ard) 
 . https://en.wikipedia.org/wiki/Jim_Henson[Jim Henson] - "Jim" means "laborious" (not unlike "gym") and he did almost everything 'hard': worked, socialised, learned, taught, entertained, volunteered, and exercised. 
 +
 "Jim" is also cognate with https://en.wikipedia.org/wiki/Jinn["jinn" (or "genie")], and he had a penchant for stage magic and video editing. 
@@ -593,8 +592,8 @@ The pre-pubecent ones were physically scattered around the globe to delay slayin
 The NSA had moved its headquarters to Fort Meade, which is https://www.distance-cities.com/distance-rockville-md-to-fort-george-g-meade-md[about 40 kilometres] away from Rockville.
 Rockville also housed the https://en.wikipedia.org/wiki/National_Institutes_of_Health[National Institutes of Health ( NIH )]. 
 
-https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] asked the orcs "what's next?" and they settled on using the international postal service to connect between the Muppeteers and "dispellers" outside Rockville.
-("You can control television and computer networks but not the Postal service.") footnote:[In a sense, static web sites, including
+The fuckers determined that Jim Henson is going to be the last-standing-vampire of "the provincial Earth age". https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon] asked the orcs "what's next?" and they settled on using the international postal service to connect between the Muppeteers and "dispellers" outside Rockville.
+("You can easily control television and computer networks but not the Postal service as easily.") footnote:[In a sense, static web sites, including
 shlomifish.org,
 joelonsoftware.com,
 paulgraham.com,
