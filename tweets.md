@@ -403,7 +403,7 @@ The starship Enterprise aims to boldly go where Chuck Norris hasn't been (and la
 
 ----
 
-Some1 on IRC told me "you havent updated your website's style im 50 years". 1973 is before the WWW was invented in 1989. For ref:
+Someone on IRC told me "you haven't updated your website's style im 50 years". 1973 is before the WWW was invented in 1989. For ref:
 
 * https://www.shlomifish.org/meta/FAQ/site_looks_old.xhtml
 
