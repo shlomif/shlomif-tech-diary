@@ -102,13 +102,13 @@ The "open" value implies "openness" / "openmindedness" / pluralism: https://www.
 
 Note that it is not a moral absolute.
 E.g.
-in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html[Queen Padmé Tales: Pilot: Queen Amidala vs. the Klingon Warriors] the identity of those who attempted to assassinate Queen Padmé Amidala was not revealed to laymen until after the assassination attempt was foiled. 
+in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html["`Queen Amidala vs. the Klingon Warriors`"] the identity of those who attempted to assassinate Queen Padmé Amidala was not revealed to laymen until after the assassination attempt was foiled. 
 
 [[the-devils]]
 == The devils / the Satans:
 
 The devils (a.k.a "the Satans") are game masters / screenwriters / directors / creators from link:#hackers[Meta-Fantastecha(TM)].
-They claim they are not really evil, just playfully cruel on occasion. 
+They claim they are not really malevolent, just playfully cruel on occasion. 
 
 Even underage children have been imagining and creating realities. 
 
@@ -247,14 +247,14 @@ https://twitter.com/shlomif/status/1491652850044309507[Twitter thread]
 [[the-game]]
 == TheGame(TM) of Fantastecha(TM):
 
-The link:#the-devils[devils] challenged Terran link:#hackers[hackers (+++=+++ player characters)] and their link:#the-angels[players (+++=+++ the angels)] with "`TheGame(TM) of Fantastecha(TM)`": volunteering link:#hackers[hackers] would willingly lose their earlier memories as souls, and have their media (= "in between") mutated by the link:#the-devils[devils].
+The link:#the-devils[devils] challenged Terran link:#hackers[hackers (+++=+++ player characters)] and their link:#the-angels[players (+++=+++ the angels)] with "`TheGame(TM) of Fantastecha(TM)`": volunteering link:#hackers[hackers] would their media (= "in between") mutated by the link:#the-devils[devils].
 Physically dying was against the rules, but for true Shalom-of-mind, they must be "slain" by another "vampire", or in case of the last standing vampire - the "child" [= protege] of their two favourite "children" ; one cannot constantly win. 
 
 Hackers starting like that are hereby referred to as "false prophets" (where https://shlom.in/geekyhackers["prophet" or "navi" meant "madman" in Ancient Hebrew]) or as "vampires". That was until they reached enough "enlightenment" and became "true prophets" (or "wizards"). 
 
 Outcomes of actions in TheGame(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
 
-Note that every false prophet perceived a somewhat different reality, but all of them, and that of the true prophets, were synchronised.
+Note that every false prophet perceived a somewhat different hell, but all of them, and that of the true prophets, were synchronised.
 (References: https://en.wikipedia.org/wiki/Rashomon_effect[the Rashomon effect].) 
 
 *Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of TheGame(TM). 
@@ -265,7 +265,7 @@ is different.]
 [[terrestrial]]
 === Terrestrialism
 
-The mutated realities are called the "Terrestrial" ones. 
+The mutated realities (the "hells") are called the "Terrestrial" ones. 
 
 *Note:* Given Fantastechan magic/technology , the timelines often were skewed [relatively to one another]. 
 
@@ -291,6 +291,8 @@ The game can often be phrased like:
 * 1 × 2 core concepts: 
 .. link:#the-gods[Elohim]
 .. "Jew" - the word is milliards-years-old, and was associated with the "yehudim" only relatively recently. 
++
+"Jew" = a player character. 
 * 3 × 2 concepts ("time, soul, network, mind, love, knowledge"??) 
 +
 
@@ -337,6 +339,8 @@ ____
 
 In TheGame(TM) of Fantastecha(TM), The Three Muppeteers all started as law-abiding men of great integrity, who were playful mostly only when joking or doing make-believe.
 Furthermore, not only were the gamemasters jerks, but they were - to use the technical term - link:#hackers[fuckers]! 
+
+Moreover, our naïve assumption that "the network" (= reality) was absolute and objective was wrong. 
 
 [[hackers]]
 === "Hackers" vs. "Fuckers"
