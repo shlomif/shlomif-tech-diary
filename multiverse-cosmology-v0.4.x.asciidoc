@@ -1192,7 +1192,7 @@ E.g:
 [[rationality]]
 == "Rationality":
 
-"People" online and in the outside world accuse me of being Manic , delusional , and irrational. http://shlomifishswiki.branchable.com/Importance_of_Having_Doubts/[I`'m not 100% sure I`'m right.]
+"People" online and in the outside world accuse me of being Manic, delusional, and irrational. http://shlomifishswiki.branchable.com/Importance_of_Having_Doubts/[I`'m not 100% sure I`'m right.]
 
 But why should my world have a monopoly on being the only real world? 
 
@@ -1253,7 +1253,7 @@ The last name "Watson" is cognate with "watcher", and I suspect she is related t
 
 As a watcher, link:#Melissa_Joan_Hart[Melissa Joan Hart (MJH)] was ambitious, and possibly overly so.
 She used https://spaceballs.fandom.com/wiki/Dark_Helmet[Dark Helmet from Spaceballs] as an anti-role-model.
-Despite her ambition, she disliked micro-managing, and encouraged the hackers on her team to be "rosh gadol". 
+Despite her ambition, she disliked micro-managing, and encouraged the hackers on her team to be https://www.joelonsoftware.com/2004/12/06/news-45/["Rosh Gadol"]. 
 
 However, her liberal use of time wraps and time travel (which likely were employed by link:#slayer-watcher-whicher[Maimonides] before) earned her the unflattering nickname "World's oldest teenager". (References: https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-of-Gul-Dukat-in-the-Selinaverse[Ambassador Hart] ; https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-it-doesnt-take-a-witch-to-fix-this-computer["It doesn't take a witch to fix this computer..."]) 
 
@@ -1365,7 +1365,7 @@ And as I like to say "If I didn't want excitement in my life, then https://www.j
 
 I believe most of their conventions happen at day time, and are attended by attractive https://en.wiktionary.org/wiki/MOTAS[MOTASes], of whom only a minority have a Goth look. 
 
-In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic[a Hegelian dialectic] of "thesis -> antithesis -> synthesis". I also have been "changing ponies in midwater": changing intermediate conclusions, while keeping similar end results. 
+In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic[a Hegelian dialectic] of "thesis -> antithesis -> synthesis". I also have been "changing ponies in midwater": changing intermediate conclusions, while keeping similar end-results. 
 
 Furthermore, "`There's more-to-life than accelerating its pace`" (to quote Mahatma Gandhi-or-whoever). These past 40 years (give or take some time skews) have been a rollercoaster ride for me, and I want some rest. 
 
@@ -1428,19 +1428,20 @@ Trump, like @fedora, has many employees, and parttime volunteers and fans/frenem
 They act as a geeky beehive not unlike ancient Greek schools . 
 
 Reportedly over 80% of Dilbert's strips are based on ideas of fans. 
-____
 
-( https://twitter.com/shlomif/status/1497889688350334981[Tweet] ) 
+( -- https://twitter.com/shlomif/status/1497889688350334981[Tweet] ) 
+____
 
 Corporations have souls.
 Moreover, one must be allowed to disassociate from a corporation. 
 
-[quote]
+____
 There is the cliché scene from https://memory-alpha.fandom.com/wiki/Trill_%28planet%29[Trill] sitcoms where a pair of male Japanese tourists arrive there and are enthusiastic.
 They aren't stupid, just awesomely Jappy. https://en.wikipedia.org/wiki/Theory_of_forms[Platonic
 Ideals]. 
 
-( https://twitter.com/shlomif/status/1551405512830353409[Tweet] ) 
+( -- https://twitter.com/shlomif/status/1551405512830353409[Tweet] ) 
+____
 
 A link:#hackers[hacker] can belong to many corporations: 
 
