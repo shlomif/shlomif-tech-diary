@@ -408,3 +408,13 @@ Someone on IRC told me "you haven't updated your website's style im 50 years". 1
 * https://www.shlomifish.org/meta/FAQ/site_looks_old.xhtml
 
 * https://www.shlomifish.org/meta/old-site-snapshots/
+
+----
+
+fortune-mod version 3.16.0 was released:
+
+https://github.com/shlomif/fortune-mod
+
+https://github.com/shlomif/fortune-mod/releases/tag/fortune-mod-3.16.0
+
+#quotes #humor
