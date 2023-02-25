@@ -418,3 +418,14 @@ https://github.com/shlomif/fortune-mod
 https://github.com/shlomif/fortune-mod/releases/tag/fortune-mod-3.16.0
 
 #quotes #humor
+
+----
+
+I have been optimising and refactoring my Mandelbrot Set generators:
+
+* python + numpy: https://github.com/shlomif/shlomif-snippets/blob/master/plot_mandelbrot_cc0.py
+
+* C++ : https://github.com/shlomif/shlomif-c-snippets/blob/master/shlomif-c-snippets/mandelbrot_set_render.cpp
+
+* Perl + PDL : https://github.com/shlomif/shlomif-snippets/blob/master/plot_mandelbrot_cc0.pl
+
