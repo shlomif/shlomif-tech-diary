@@ -1520,6 +1520,18 @@ My story https://www.shlomifish.org/humour/TheEnemy/["The Enemy and how I Helped
 [[last-standing-vampires]]
 == Last standing vampires: Jim Henson and Shlomi Fish
 
+[cols="1,1", frame="all"]
+|===
+
+|
+
+Franchise. 
+|
+
+Jim Henson had the Muppets' franchise, while I had my online WWW presence ( *.shlomifish.org / etc.
+) 
+|===
+
 [[ultimatum-to-the-devils]]
 == Ultimatum to the devils (= the gamemasters)
 
