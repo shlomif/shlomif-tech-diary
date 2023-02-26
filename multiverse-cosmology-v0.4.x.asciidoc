@@ -233,7 +233,7 @@ I use all of XML, YAML, JSON, Perl, Python 3, C, vlc, mpv, duckduckgo, google [ 
 [[dollar-GOD]]
 == $GOD
 
-$GOD (written using medieval-style chapter-opening letters) is the hypothetical entity, who set link:#multiverse-of-imagination[Fantasia] on motion, given having only an abyss of nothingness / non-existence would be far less fun. 
+$GOD (written using medieval-style chapter-opening letters) is the hypothetical entity, who set link:#the-multiverse-of-imagination[Fantasia] on motion, given having only an abyss of nothingness / non-existence would be far less fun. 
 
 [[prevalence-of-souls]]
 == Prevalence of souls
@@ -1555,6 +1555,13 @@ Watcher
 In Henson's case it was https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon]. 
 
 In mine, it was link:#shlomif-watchers-and-whichers[MJH->Emma Watson]. 
+
+|
+
+"The case for commercial fan-art" 
+|
+
+
 |===
 
 [[ultimatum-to-the-devils]]
@@ -1650,7 +1657,7 @@ One can also travel a finite, but large, positive amount of time into the future
 ( E.g: link:#ghost-town-pattern[The Ghost Town Pattern] ) 
 .. Mind - a hacker's model of the past states of the Network, and its present state. 
 .. link:#love-and-knowledge[Love] - pleasure/etc. 
-.. link:#knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
+.. link:#love-and-knowledge[Knowledge] - education and creation/conception - what yields the most pleasure. 
 +
 Changes the Network irreversibly! 
 
