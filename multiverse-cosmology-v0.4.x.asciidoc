@@ -1550,6 +1550,7 @@ We were made to think they "turned to the dark side" and were killed.
 // <entry align="left" valign="top">
 // 
 // <para>
+// Watcher
 // </para>
 // 
 // </entry>
@@ -1557,6 +1558,11 @@ We were made to think they "turned to the dark side" and were killed.
 // <entry align="left" valign="top">
 // 
 // <para>
+// In Henson's case it was <link xlink:href="https://en.wikipedia.org/wiki/Joss_Whedon">Joss Whedon</link>.
+// </para>
+// 
+// <para>
+// In mine, it was <link xlink:href="#shlomif-watchers-and-whichers">MJH→Emma Watson</link>.
 // </para>
 // 
 // </entry>
