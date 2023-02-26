@@ -4501,8 +4501,29 @@ have been either the termination final blow or an aftermath.
 <informaltable frame="all" rowsep="1" colsep="1">
 <tgroup cols="2">
 <colspec colname="Parameter" />
-<colspec colname="Manifestation" />
+<colspec colname="Manifestations" />
+
 <tbody>
+
+<row>
+
+<entry align="left" valign="top">
+
+<para>
+<emphasis role="bold">Parameter</emphasis>
+</para>
+
+</entry>
+
+<entry align="left" valign="top">
+
+<para>
+<emphasis role="bold">Manifestations</emphasis>
+</para>
+
+</entry>
+
+</row>
 
 <row>
 
