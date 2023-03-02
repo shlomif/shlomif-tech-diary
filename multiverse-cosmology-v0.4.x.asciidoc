@@ -254,13 +254,15 @@ Hackers starting like that are hereby referred to as "false prophets" (where htt
 
 Outcomes of actions in TheGame(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
 
-Note that every false prophet perceived a somewhat different hell, but all of them, and that of the true prophets, were synchronised.
+Note that every false prophet perceived a somewhat different hell, but all of them, and the real world of the wizards, were synchronised.
 (References: https://en.wikipedia.org/wiki/Rashomon_effect[the Rashomon effect].) 
 
 *Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of TheGame(TM). 
 
 False prophets were given special treatment by the workforce, so they did not cause a lot of damage, despite their paranoia/etc. footnote:[The terminology for "vampires" in my stories
 is different.]
+
+Also note that vampires were often unaware that a different vampire has been slain (including by them!). 
 
 [[terrestrial]]
 === Terrestrialism
@@ -1569,7 +1571,8 @@ My essay https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-f
 
 |
 
-*Electronic/etc. Technology*
+Electronic/etc.
+Technology 
 |
 
 https://www.shlomifish.org/meta/FAQ/#computers-specs[My GNU/Linux desktop box] runs codes of Python3, perl5, XHTML5, TT3, etc.
