@@ -164,6 +164,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * Apple M1 is hard-to-believe: 
 .. ARM is underperformant while having low gates' count and power consumption. 
 .. yet, Apple added an x86-64 emulation, which wastes gates and power! 
+* Boeing 747 aeroplanes are so heavy that they can only fly **by magic**. 
 
 
 [[obstacles-and-delays]]
@@ -233,7 +234,7 @@ Namely:
 * Companies, NPOs, individuals, franchises, idea systems, etc. are paid by the development time and brands given duplication and distribution are costless. One can "pirate" such goods or create bootleg products, but it is considered noble to transfer profits upstream, downstream or sideways.
 * People`'s minds emitting *thoughts* of "gods" (= "guideline-generators") with the https://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Ego[Ego] as an arbitter is a happy and virtuous state of being: https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/
 * There are mind-reading text-editors, graphics-editors, etc.
-* A kiss is enough to conceive children, without needing pregnancy. https://en.wikipedia.org/wiki/Menopause[Menopause] does not happen.
+* https://en.wikipedia.org/wiki/Menopause[Menopause] does not happen.
 ** Possibly even single men and women can conceive children or pets by filling a web form.
 *** These children will be independent and may adopt new parents or switch to them.
 * Instant messaging services are neither fragmented nor proprietary ( http://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/ )
