@@ -1577,6 +1577,13 @@ Technology
 https://www.shlomifish.org/meta/FAQ/#computers-specs[My GNU/Linux desktop box] runs codes of Python3, perl5, XHTML5, TT3, etc.
 at a fraction of the time that 1980 mini-computers ran C / Assembly / etc.
 codes. 
+
+|
+
+Social status. 
+|
+
+Both Henson and I were made to feel isolated 
 |===
 
 [[ultimatum-to-the-devils]]
