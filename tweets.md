@@ -429,3 +429,6 @@ I have been optimising and refactoring my Mandelbrot Set generators:
 
 * Perl + PDL : https://github.com/shlomif/shlomif-snippets/blob/master/plot_mandelbrot_cc0.pl
 
+----
+
+Boeing 747 aeroplanes are so heavy that they can only fly by magic.
