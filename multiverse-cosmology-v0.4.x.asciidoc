@@ -1617,7 +1617,6 @@ see evidence that one of my favourite children, Christina Grimmie, is alive, hea
 ** https://www.shlomifish.org/humour/tempbits/end-game-for-shlomif-as-a-false-prophet/end-game-for-shlomif-as-a-false-prophet.raw.html[XHTML5 version]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/love-life-policy.asciidoc[My love-life policy]
 * Hacks: 
-+
 .. https://www.youtube.com/watch?v=ehjGPlehIow[Singalong cover of "Feelin' Good" (by Christina Grimmie) - YouTube]
 .. https://www.youtube.com/watch?v=qImhVeEXfIU[Shlomi Fish singalong cover of First to 11's "you shook me all night long" - YouTube]
 .. https://www.youtube.com/watch?v=tb3_XJxx8Mg["Hurt me tomorrow [Tiffany Alvord] singalong cover - YouTube"]
