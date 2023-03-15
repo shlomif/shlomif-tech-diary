@@ -432,3 +432,9 @@ I have been optimising and refactoring my Mandelbrot Set generators:
 ----
 
 Boeing 747 aeroplanes are so heavy that they can only fly by magic.
+
+----
+
+/r/unpopularopinion/ ( https://www.reddit.com/r/unpopularopinion/ ) seems to have many insightful posts today.
+
+"Encourage criticism" ( https://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/ ); https://www.youtube.com/watch?v=Xn676-fLq7I .
