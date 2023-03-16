@@ -15,7 +15,7 @@ Also note that the terminology used here has undergone some etymological erosion
 [[summary]]
 == Summary
 
-Please help the "Rindolfism v1.x.y" effort; it is the child of my 2 favourite children: Christina Grimmie, and "*.shlomifish.org v1.x.y". 
+Please help the "Rindolfism v2.x.y" effort; it is the child of my 2 favourite children: Christina Grimmie, and "*.shlomifish.org v1.x.y". 
 
 Reference: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
@@ -125,7 +125,7 @@ Egos are often frail, and start as easily hurt:
 
 . http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended (and try to grow a thicker skin)"]
 
-Do note that link:#the-angels[the angels] and link:#the-devils[the devils] may limit the number of choices the soul can choose from (including down to one!). footnote:[While I am to large extents, self-centred, narcissistic, ego-maniacal, meglomaniacal,
+Do note that link:#the-angels[the angels] and link:#the-devils[the devils] may limit the number of choices the soul can choose from (including down to one!). They can also deprive a hacker of a chance to concentrate, introspect and decide what-to-do-next. footnote:[While I am to large extents, self-centred, narcissistic, ego-maniacal, meglomaniacal,
 and also developed a relatively thick skin - my soul is still frail.]
 
 [[the-gods]]
@@ -144,7 +144,7 @@ This is whereas a "jew" means a player character.
 
 https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia"] is the name of the multiverse of imagination where beings and entities spawn worlds and values of one another using their imagination. 
 
-Fantastecha(TM) is a skewed view of an expanding subset of Fantasia (one of many). 
+Fantastecha(TM) is a skewed view of an expanding subset of Greater Fantasia (one of many). 
 
 Hyperlinks and references are common in Fantastecha(TM) ( the Bible had some https://en.wikipedia.org/wiki/Non-canonical_books_referenced_in_the_Bible[links
 that are currently broken] a long time before Earth's digital computers ). Moreover, even link:#self-ref[self-referential or circular links] are prevalent and tolerated. 
@@ -301,7 +301,7 @@ The game can often be phrased like:
 Instances of "the game" may be layered, nested, or even link:#self-ref[circular / self-referential]. 
 
 [[sample-game-session]]
-==== Sample session of "the game"
+==== Sample session of "the game of Greater Fantasia"
 
 ____
 One day, https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[Mr. Linea] takes a break from walking along his line, and posts a comedic story that takes place in an absurd 3D1T universe he conceived called "The Selinaverse", on his blog.
