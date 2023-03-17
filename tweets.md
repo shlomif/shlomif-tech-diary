@@ -460,3 +460,9 @@ Christina Grimmie identifies as a Christian, but some of her best parents are Je
 https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-programming-webservice-down-for-maint
 
 "Actions and outcomes are more important than motives."
+
+----
+
+I disagree: celebs arent stupid - https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/ .
+
+moreover, stupid utterances can still be entertain/educational
