@@ -448,3 +448,7 @@ https://en.wikipedia.org/wiki/Murphy%27s_law .
 ----
 
 re Will Smith's slap incident, while I am almost always calm and controlled, i tried physically hurting friends 2 times. We all lose saving throws sometimes.
+
+----
+
+Christina Grimmie identifies as a Christian, but some of her best parents are Jewish. #joke #RPF
