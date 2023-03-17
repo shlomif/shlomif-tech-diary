@@ -447,7 +447,9 @@ https://en.wikipedia.org/wiki/Murphy%27s_law .
 
 ----
 
-re Will Smith's slap incident, while I am almost always calm and controlled, i tried physically hurting friends 2 times. We all lose saving throws sometimes.
+Re Will Smith's slap incident, while I am almost always calm and controlled, I tried physically hurting friends 2 times. We all lose saving throws sometimes.
+
+This is a good reason why u probly shudnt carry a gun. https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fear-is-path-to-dark-side
 
 ----
 
