@@ -444,3 +444,7 @@ Boeing 747 aeroplanes are so heavy that they can only fly by magic.
 Things will always go wrong, even if they cannot.
 
 https://en.wikipedia.org/wiki/Murphy%27s_law .
+
+----
+
+re Will Smith's slap incident, while I am almost always calm and controlled, i tried physically hurting friends 2 times. We all lose saving throws sometimes.
