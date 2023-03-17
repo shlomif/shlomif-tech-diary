@@ -454,3 +454,9 @@ This is a good reason why u probly shudnt carry a gun. https://www.shlomifish.or
 ----
 
 Christina Grimmie identifies as a Christian, but some of her best parents are Jewish. #joke #RPF
+
+----
+
+https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-programming-webservice-down-for-maint
+
+"Actions and outcomes are more important than motives."
