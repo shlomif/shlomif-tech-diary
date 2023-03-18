@@ -478,3 +478,5 @@ moreover, stupid utterances can still be entertain/educational
 True, but theyre diff, given nature of Knowledge.
 
 In https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Planting-Trees.html#sarge-demotivating-speech , I intended2emu https://www.youtube.com/watch?v=af_J2e4r328 but ended an antithesis.
+
+https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter - newer tech doesnt elim need4older
