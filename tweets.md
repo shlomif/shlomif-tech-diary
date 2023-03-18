@@ -476,3 +476,5 @@ moreover, stupid utterances can still be entertain/educational
 "Reddit is new Usenet"
 
 True, but theyre diff, given nature of Knowledge.
+
+In https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Planting-Trees.html#sarge-demotivating-speech , I intended2emu https://www.youtube.com/watch?v=af_J2e4r328 but ended an antithesis.
