@@ -472,3 +472,7 @@ moreover, stupid utterances can still be entertain/educational
 "#TBBT is new FriendsTV"
 
 "#MLPFiM is new @SesameStreet"
+
+"Reddit is new Usenet"
+
+True, but theyre diff, given nature of Knowledge.
