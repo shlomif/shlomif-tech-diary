@@ -466,3 +466,9 @@ https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-programming-webserv
 I disagree: celebs arent stupid - https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/ .
 
 moreover, stupid utterances can still be entertain/educational
+
+----
+
+"#TBBT is new FriendsTV"
+
+"#MLPFiM is new @SesameStreet"
