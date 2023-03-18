@@ -342,7 +342,7 @@ ____
 In TheGame(TM) of Fantastecha(TM), The Three Muppeteers all started as law-abiding men of great integrity, who were playful mostly only when joking or doing make-believe.
 Furthermore, not only were the gamemasters jerks, but they were - to use the technical term - link:#hackers[fuckers]! 
 
-Moreover, our naïve assumption that "the network" (= reality) was absolute and objective was wrong. 
+Moreover, our naïve assumption that "the network" (= reality) was perceived by the player-characters in an absolute and objective manner was wrong. 
 
 [[hackers]]
 === "Hackers" vs. "Fuckers"
