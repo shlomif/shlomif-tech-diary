@@ -480,3 +480,7 @@ True, but theyre diff, given nature of Knowledge.
 In https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Planting-Trees.html#sarge-demotivating-speech , I intended2emu https://www.youtube.com/watch?v=af_J2e4r328 but ended an antithesis.
 
 https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter - newer tech doesnt elim need4older
+
+----
+
+GNU du has an `--inodes` flag that can be used for inodes use counts profiling - https://www.gnu.org/software/coreutils/manual/coreutils.html#index-_002d_002dinodes-1 . #techtip #GNU #linux #FOSS
