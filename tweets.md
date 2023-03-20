@@ -484,3 +484,9 @@ https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-
 ----
 
 GNU du has an `--inodes` flag that can be used for inodes use counts profiling - https://www.gnu.org/software/coreutils/manual/coreutils.html#index-_002d_002dinodes-1 . #techtip #GNU #linux #FOSS
+
+----
+
+"philosophy" means "the love of wisdom", but it was often humour or parody: https://www.shlomifish.org/humour/image-macros/ ; https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ .
+
+i think humour can be beautiful
