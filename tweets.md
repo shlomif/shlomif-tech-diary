@@ -494,3 +494,5 @@ I think humour can be beautiful. most of my fav films are funny: https://www.shl
 ----
 
 Joseph/Yosef the patriarch was a pluralist, but was verbose. he was slain by Joshua who used short fables, aphorisms, songs, and jokes.
+
+from Aesop's fables, to kipling's https://en.wikipedia.org/wiki/If%E2%80%94 to my ChuckN/SummerGlau/etc. factoids.
