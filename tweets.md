@@ -489,4 +489,8 @@ GNU du has an `--inodes` flag that can be used for inodes use counts profiling -
 
 "Philosophy" means "the love of wisdom", but it was often humour or parody: https://www.shlomifish.org/humour/image-macros/ ; https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ .
 
-I think humour can be beautiful
+I think humour can be beautiful. most of my fav films are funny: https://www.shlomifish.org/humour/recommendations/films/ .
+
+----
+
+Joseph/Yosef the patriarch was a pluralist, but was verbose. he was slain by Joshua who used short fables, aphorisms, songs, and jokes.
