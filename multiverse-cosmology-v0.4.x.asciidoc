@@ -1718,6 +1718,17 @@ So he knows all your thoughts (including dirty, stupid, or wrong ones), and all 
 
 A gamemaster may opt to try to make a hacker do something stupid 
 
+[[mantra]]
+== mantra
+
+die, fucker, die! 
+
+be, do, geek 
+
+sing, hacker 
+
+hallelujah 
+
 [[mantra1]]
 == mantra
 
@@ -1733,7 +1744,7 @@ I wish to meet my favourite child;
 
 and be slain by her. 
 
-[[mantra]]
+[[mantra3]]
 == Mantra
 
 . Die, fucker, die! 
