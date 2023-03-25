@@ -498,3 +498,13 @@ Joseph/Yosef the patriarch was a pluralist, but was verbose. he was slain by Jos
 from Aesop's fables, to kipling's https://en.wikipedia.org/wiki/If%E2%80%94 to my ChuckN/SummerGlau/etc. facts.
 
 [ I didnt start the facts trend, but adopted it ]
+
+----
+
+A woman wo a hijab probly wont be arrested in Tehran. But many female .ir-ers wear it outof respect.
+
+Judaism has its share of " #sexism " discrimination too.
+
+bfr she retired queen Liz II cudnt wear captioned shirts, while her grandkids can/cud.
+
+We all have dfrnt affils.
