@@ -254,7 +254,7 @@ Physically dying was against the rules, but for true Shalom-of-mind, they must b
 
 Hackers starting like that are hereby referred to as "false prophets" (where https://shlom.in/geekyhackers["prophet" or "navi" meant "madman" in Ancient Hebrew]) or as "vampires". That was until they reached enough "enlightenment" and became "true prophets" (or "wizards"). 
 
-Outcomes of actions in TheGame(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
+Outcomes of actions in TheGame(TM) of Fantastecha(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
 
 Note that every false prophet perceived a somewhat different hell, but all of them, and the real world of the wizards, were synchronised.
 (References: https://en.wikipedia.org/wiki/Rashomon_effect[the Rashomon effect].) 
@@ -297,10 +297,11 @@ The game can often be phrased like:
 .. "Jew" - the word is milliards-years-old, and was associated with the "Yehudim" only relatively recently. 
 +
 "Jew" = a player character. 
-* 3 × 2 concepts ("time, soul, network, mind, love, knowledge"??) 
+* 3 × 2 concepts: "time, soul, network, mind, love, knowledge". 
 +
 
-Instances of "the game" may be layered, nested, or even link:#self-ref[circular / self-referential]. 
+Instances of "the game" may be layered, nested, or even link:#self-ref[circular / self-referential].
+They also may contain mini-games, sub-quests, and side-quests.. 
 
 [[sample-game-session]]
 ==== Sample session of "the game of Greater Fantasia"
