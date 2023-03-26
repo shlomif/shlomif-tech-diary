@@ -102,7 +102,7 @@ The "open" value implies "openness" / "openmindedness" / pluralism: https://www.
 
 Note that it is not a moral absolute.
 E.g.
-in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html["`Queen Amidala vs. the Klingon Warriors`"] the identity of those who attempted to assassinate Queen Padmé Amidala was not revealed to laymen until after the assassination attempt was foiled. 
+in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html["`Queen Amidala vs. the Klingon Warriors`"], the identity of those who attempted to assassinate Queen Padmé Amidala was not revealed to laymen until after the assassination attempt was foiled. 
 
 [[the-devils]]
 == The devils / the Satans:
@@ -125,7 +125,7 @@ Egos are often frail, and start as easily hurt:
 
 . http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended (and try to grow a thicker skin)"]
 
-Do note that link:#the-angels[the angels] and link:#the-devils[the devils] may limit the number of choices the soul can choose from (including down to one!). They can also deprive a hacker of a chance to concentrate, introspect and decide what-to-do-next. footnote:[While I am to large extents, self-centred, narcissistic, ego-maniacal, meglomaniacal,
+Do note that link:#the-angels[the angels] and link:#the-devils[the devils] may limit the number of choices the soul can choose from (including down to one!). They can also deprive a hacker of a chance to concentrate, introspect and decide-what-to-do-next. footnote:[While I am to large extents, self-centred, narcissistic, ego-maniacal, meglomaniacal,
 and also developed a relatively thick skin - my soul is still frail.]
 
 [[the-gods]]
@@ -157,7 +157,7 @@ However, they were not really real for us.
 
 TheCodex(TM) of TheGame(TM) of Fantastecha(TM) was kept secret from link:#hackers[hackers (+++=+++ player characters)] and was to be revealed to the Terminal Terran Terminator (me?). 
 
-The meta- Fantastechans who play TheGame(TM) of Fantastecha(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
+The meta-Fantastechans who play TheGame(TM) of Fantastecha(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
 
 [[self-ref]]
 == Self-reference / circularity:
@@ -234,6 +234,8 @@ I use all of XML, YAML, JSON, Perl, Python 3, C, vlc, mpv, duckduckgo, google [ 
 == $GOD
 
 $GOD (written using medieval-style chapter-opening letters) is the hypothetical entity, who set link:#the-multiverse-of-imagination[Fantasia] on motion, given having only an abyss of nothingness / non-existence would be far less fun. 
+
+$GOD may also be the link:#hackers[fuckers'] Elohim's Elohim's Elohim's... to infinity. 
 
 [[prevalence-of-souls]]
 == Prevalence of souls
