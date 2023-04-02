@@ -508,3 +508,13 @@ Judaism has its share of " #sexism " discrimination too.
 bfr she retired queen Liz II cudnt wear captioned shirts, while her grandkids can/cud.
 
 We all have dfrnt affils.
+
+----
+
+I've been mildly obsessed with https://www.youtube.com/watch?v=Gy35AJ09S3k - a multi-female farfetched-in-a-goodway #action vid. #girlpower
+
+----
+
+"to do → an activity which involves both love and knowledge"
+
+"to geek out → a hacker doing sth which he/she considers important."

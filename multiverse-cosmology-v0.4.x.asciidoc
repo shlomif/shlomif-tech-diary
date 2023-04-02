@@ -1702,7 +1702,7 @@ Changes the Network irreversibly!
 +
 Note that when hackers are born, their minds contain some bootstrapping knowledge.
 For example, when https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] sprang into action in 1994, she knew enough English to say "`I'm
-going to be a post-modeern take on a tomboy: a videogames she-dork`"
+going to be a post-modern take on a tomboy: a videogames she-dork`"
 
 Definitions: 
 
