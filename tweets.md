@@ -515,6 +515,10 @@ I've been mildly obsessed with https://www.youtube.com/watch?v=Gy35AJ09S3k - a m
 
 ----
 
+An analysis why discord-gg shud be avoided: https://nixsanctuary.com/libera-chat-a-popular-irc-network-plays-an-april-fools-joke-about-moving-to-discord-and-makes-a-point/ . #IRC 4 life: https://www.shlomifish.org/meta/FAQ/do_people_still_use_irc.xhtml
+
+----
+
 "to do → an activity which involves both love and knowledge"
 
 "to geek out → a hacker doing sth which he/she considers important."
