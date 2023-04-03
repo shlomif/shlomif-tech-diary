@@ -522,3 +522,9 @@ An analysis why discord-gg shud be avoided: https://nixsanctuary.com/libera-chat
 "to do → an activity which involves both love and knowledge"
 
 "to geek out → a hacker doing sth which he/she considers important."
+
+----
+
+https://github.com/shlomif/why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance “Monty Python never took any prisoners.”
+
+Hopefully neither do I. I have even parodied myself.
