@@ -528,3 +528,9 @@ An analysis why discord-gg shud be avoided: https://nixsanctuary.com/libera-chat
 https://github.com/shlomif/why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance “Monty Python never took any prisoners.”
 
 Hopefully neither do I. I have even parodied myself.
+
+
+----
+
+we cannot reasonably distribute so many food products allover USA wo magic.
+

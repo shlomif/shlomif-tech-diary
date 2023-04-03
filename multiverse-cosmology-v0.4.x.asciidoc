@@ -802,7 +802,7 @@ Life is a circular graph: link:#self-ref[Reference]
 
 Anyway, I was convinced I was good , noble, well-intentioned and benevolent.
 I refused to permanently consider the opposite! Even if it meant the whole media of mine and "mainstream" terrestrial science were wrong.
-Moreover, similarly to Jesus, I have been willing to suffer a little more if it meant that future generations suffer much less. 
+Moreover, similarly to Jesus, I have been willing to suffer a little more if it meant that future generations will suffer much less. 
 
 I also preferred to err on naivity than on cynicism, and https://www.shlomifish.org/humour/stories/#intro[encouraged everyone and everything to improve]. 
 
@@ -875,7 +875,7 @@ Do note that despite the geek stereotype, I haven't been shy, just prone to stut
 
 I joked that, similar to https://hoover.blogs.archives.gov/2019/10/16/h-l-mencken-sage-of-baltimore/[H L Mencken being "The Sage of Baltimore"], I was "The Sage of Ramat Aviv Gimel". 
 
-My terminating-career was boosted after https://www.shlomifish.org/meta/FAQ/site_history.xhtml[I
+My terminating-career was boosted after https://www.shlomifish.org/meta/FAQ/#site_history[I
 set up a static personal website] which became https://www.shlomifish.org/[www.shlomifish.org].
 The devils promised it will be displayed verbatim among other terminators.
 Various Internet people told me I https://www.shlomifish.org/meta/FAQ/#please_delete_offensive_stuff[should delete offensive content] or https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[convert
@@ -1160,7 +1160,7 @@ SMG: "He is cute, but I`'m looking for man-tastic! You know, someone with a litt
 
 -- https://www.youtube.com/watch?v=kCl3ho6_gbg
 ____
-** https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-beauty-products-as-the-stone-soup-effect[Beauty Products as the Stone Soup Effect]
+** https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-beauty-products-as-the-stone-soup-effect[Beauty Products as the Placebo Effect]
 ** ( For example, https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/be_communicative.xhtml[writing and publishing some short poems] and tactfully avoiding a fistfight are attractive. ) 
 ** https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-web--lesbian-straight-and-Sappho[#web - Lesbianism, heterosexuality, and Sappho of Lesbos]
 . A wizard of any age can conceive a child or a pet by submitting a web/email/paper/etc. form. 
@@ -1605,6 +1605,13 @@ Prior art
 |
 
 I was able to build upon and reuse recent works/franchises. 
+
+|
+
+Time wrap 
+|
+
+I suspect Henson&his team lived in a time-wrap, while I didn't/don't. 
 |===
 
 [[ultimatum-to-the-devils]]
