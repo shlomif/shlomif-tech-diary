@@ -534,3 +534,8 @@ Hopefully neither do I. I have even parodied myself.
 
 we cannot reasonably distribute so many food products allover USA wo magic.
 
+----
+
+Update: d10s have souls (and minds) too.
+
+moreover: one of the newborn boy+girl false-prophets was just sent fwd in time (and had a soul)
