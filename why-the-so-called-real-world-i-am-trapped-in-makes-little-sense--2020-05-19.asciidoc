@@ -168,6 +168,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 .. yet, Apple added an x86-64 emulation, which wastes gates and power! 
 * Boeing 747 aeroplanes are so heavy that they can only fly **by magic**. 
 * I drank so little for many days, that I should have died of water deprivation. 
+* I survived biting an Oak acorn (as a child) despite https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel[Guns, Germs, and Steel]'s claim that they contain poison. 
 
 
 [[obstacles-and-delays]]
