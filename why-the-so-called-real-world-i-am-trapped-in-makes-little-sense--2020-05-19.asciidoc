@@ -167,6 +167,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 .. ARM is underperformant while having low gates' count and power consumption. 
 .. yet, Apple added an x86-64 emulation, which wastes gates and power! 
 * Boeing 747 aeroplanes are so heavy that they can only fly **by magic**. 
+* I drank so little for many days, that I should have died of water deprivation. 
 
 
 [[obstacles-and-delays]]
