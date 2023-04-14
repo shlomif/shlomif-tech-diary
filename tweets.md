@@ -539,3 +539,11 @@ we cannot reasonably distribute so many food products allover USA wo magic.
 Update: d10s have souls (and minds) too.
 
 moreover: one of the newborn boy+girl false-prophets was just sent fwd in time (and had a soul)
+
+----
+
+https://www.youtube.com/watch?v=JqnO40AGRSc - Jimmy Ray looks similar to Jim Carrey, and their names are cognate. They are likely a template and a fork.
+
+----
+
+high-tech robots vs. stones, ropes, and woods: https://www.youtube.com/results?search_query=return+jedi+ewoks+battle . #starwars #terminator #AI
