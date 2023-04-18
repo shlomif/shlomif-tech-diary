@@ -137,13 +137,13 @@ It is up to the soul to arbitrate between them and decide what to do (and when/w
 
 Also see https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/[this essay] about the etymology of the Hebrew word "elohim" (= "God", "many guideline-generators") and that of the Hebrew word "melekh" (= "a king", "from where should you go"). 
 
-An "Elohim" may mean the gamemasters and players in an instance of link:#fantasia-vs-fantastecha[the game of Fantasia].
+An "Elohim" may mean the gamemasters and players in an instance of link:#fantasia-vs-fantastecha[the game of Greater Fantasia].
 This is whereas a "jew" means a player character. 
 
 [[the-multiverse-of-imagination]]
-== Fantasia, the multiverse of imagination and "Fantastecha(TM)", a multiverse of imagination, magic, and technology
+== Greater Fantasia, the multiverse of imagination and "Fantastecha(TM)", a multiverse of imagination, magic, and technology
 
-https://theneverendingstory.fandom.com/wiki/Fantastica["Fantasia"] is the name of the multiverse of imagination where beings and entities spawn worlds and values of one another using their imagination. 
+https://theneverendingstory.fandom.com/wiki/Fantastica["Greater Fantasia"] is the name of the multiverse of imagination where beings and entities spawn worlds and values of one another using their imagination. 
 
 Fantastecha(TM) is a skewed view of an expanding subset of Greater Fantasia (one of many). 
 
@@ -234,14 +234,15 @@ I use all of XML, YAML, JSON, Perl, Python 3, C, vlc, mpv, duckduckgo, google [ 
 [[dollar-GOD]]
 == $GOD
 
-$GOD (written using medieval-style chapter-opening letters) is the hypothetical entity, who set link:#the-multiverse-of-imagination[Fantasia] on motion, given having only an abyss of nothingness / non-existence would be far less fun. 
+$GOD (written using medieval-style chapter-opening letters) is the hypothetical entity, who set link:#the-multiverse-of-imagination[Greater
+Fantasia] on motion, given having only an abyss of nothingness / non-existence would be far less fun. 
 
 $GOD may also be the link:#hackers[fuckers'] Elohim's Elohim's Elohim's... to infinity. 
 
 [[prevalence-of-souls]]
 == Prevalence of souls
 
-Every observable entity - whether tangible, digital, or spiritual - has a soul.
+Every observable entity - whether tangible, digital, or spiritual - has a soul and a mind.
 If they're too unhappy, for any reason, they will relocate.
 The https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex] decided to move to Jerusalem [intact!] for a change-of-scenery leaving a nonidentical copy behind. 
 
@@ -275,9 +276,9 @@ The mutated realities (the "hells") are called the "Terrestrial" ones.
 *Note:* Given Fantastechan magic/technology , the timelines often were skewed [relatively to one another]. 
 
 [[fantasia-vs-fantastecha]]
-=== Fantasia vs. Fantastecha(TM)
+=== Greater Fantasia vs. Fantastecha(TM)
 
-"The game of Fantasia" is an informal https://en.wikipedia.org/wiki/Role-playing_game[Role-playing game] which as far as we know, is played all over link:#the-multiverse-of-imagination[Fantasia].
+"The game of Greater Fantasia" is an informal https://en.wikipedia.org/wiki/Role-playing_game[Role-playing game] which as far as we know, is played all over link:#the-multiverse-of-imagination[Greater Fantasia].
 It has many variations, interpretations, derivatives (including https://en.wikipedia.org/wiki/Dungeons_%26_Dragons[Dungeons & Dragons]) - even parodies. 
 
 Basically, the players just imagine what their characters do, and the gamemasters tell them what happens. 
@@ -316,7 +317,7 @@ As the two argue in the blog post's comments, https://mlp.fandom.com/wiki/Discor
 The three go to http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[judge Fluttershy (from My Little Pony)] who sighs and invites them for lunch.
 She opens a gateway to https://en.wikipedia.org/wiki/Rabin_Square[Rabin Square] in the Tel Aviv of the Selinaverse (yes! The same universe that the plaintiffs are arguing about), they agree on a restaurant, and order food. 
 
-While they wait for their order to arrive, Fluttershy explains that https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/[copyrights' battles are rarely constructive] and that they should just share the Selinaverse.
+While they wait for their order to arrive, Fluttershy explains that https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/[copyrights' battles are rarely constructive], and that they should just share the Selinaverse.
 The plaintiffs agree, drop the case, and discuss ideas they had in mind for the Selinaverse.
 However, while they wait for the desserts to arrive, Discord suggests they write and record a parodical courtcase as a spin-off franchise.
 The others agree. 
@@ -329,7 +330,7 @@ However, after checking into their hotel, they meet https://www.shlomifish.org/h
 ass]). After being a little star-struck and 'geeking out', they decide to play some games together. 
 
 They play ball games, board/card games, and https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki[League of Legends].
-Then they decide to play "The game of Fantasia" with the classic, possibly cliché, campaign of link:#history-lesson-about-the-muppeteers[the Muppeteers in 1969] with Fluttershy and Monroe as gamemasters/arbiters, thus starting the cycle again. 
+Then they decide to play "The game of Greater Fantasia" with the classic, possibly cliché, campaign of link:#history-lesson-about-the-muppeteers[the Muppeteers in 1969] with Fluttershy and Monroe as gamemasters/arbiters, thus starting the cycle again. 
 ____
 
 Yes, it is fanfiction, crossover, parody, Real Person Fan Fiction (RPFs), link:#self-ref[circularly referential]; good stuff. 
@@ -446,7 +447,7 @@ I believe and hope that my recent spell of creativity and inspiration is due to 
 [[TheGame-of-Fantastecha]]
 === TheGame(TM) of Fantastecha(TM)
 
-TheGame(TM) of Fantastecha(TM) is a derivative of "the game". 
+TheGame(TM) of Fantastecha(TM) is a derivative of "the game of Greater Fantasia". 
 
 Its rule book is common knowledge among wizards, but hidden from vampires: 
 
