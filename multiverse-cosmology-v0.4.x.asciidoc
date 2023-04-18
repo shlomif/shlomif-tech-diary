@@ -458,7 +458,7 @@ Its rule book is common knowledge among wizards, but hidden from vampires:
 20 "Rings of Power"] meme.
 ) 
 
-For a vampire to become a wizard he or she should show that the gamemasters violated all 17 out of the 18 guidelines, except for the last: link:#terran-terminators-surprise["`For each and every hacker X: neither X's soul, nor X's mind, nor their union can ever perish.`"]. 
+For a vampire to become a wizard he or she should show that the gamemasters violated all 17 out of the 18 guidelines, except for the last: "`A vampire must become a wizard eventually`". link:#terran-terminators-surprise["`For each and every hacker X: neither X's soul, nor X's mind, nor their union can ever perish.`"]. 
 
 [[the-orcs]]
 == The Orcs:
