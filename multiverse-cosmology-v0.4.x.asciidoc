@@ -1349,7 +1349,7 @@ Let me share a non-secret: what I wrote here is a simplification ( References: h
 
 There are thousands of villages in Africa, each one with a different culture. 
 
-There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[geeks] in the Israeli electorate alone. 
+There are millions of interesting https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hacking_and_amateur__vs__conformism_and_professional[geeks] in the Israeli electorate alone. 
 
 There are over 40,000 distributions on https://www.cpan.org/[CPAN] . 
 
