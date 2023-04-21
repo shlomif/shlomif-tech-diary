@@ -547,3 +547,7 @@ https://www.youtube.com/watch?v=JqnO40AGRSc - Jimmy Ray looks similar to Jim Car
 ----
 
 high-tech robots vs. stones, ropes, and woods: https://www.youtube.com/results?search_query=return+jedi+ewoks+battle . #starwars #terminator #AI
+
+----
+
+The Aleppo Codex was transferred from Tiberias to Aleppo by well-guarded carriage, 2avoid hellholes in .il coastplain.
