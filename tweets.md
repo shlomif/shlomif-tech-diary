@@ -550,6 +550,8 @@ high-tech robots vs. stones, ropes, and woods: https://www.youtube.com/results?s
 
 ----
 
-The Aleppo Codex was transferred from Tiberias to Aleppo by well-guarded carriage, 2avoid hellholes in .il coastplain.
+The Aleppo Codex was transferred from Tiberias to Aleppo by well-guarded carriage, avoiding hellholes in .il coastplain
 
-The transfer to J-m was done using motortrucks, avoiding Gush Dan.
+Transfer to J-m was done using motortrucks, avoiding Gush Dan
+
+The celebration involved harmless streetfights of “Jews”vs“Goys”
