@@ -555,3 +555,11 @@ The Aleppo Codex was transferred from Tiberias to Aleppo by well-guarded carriag
 Transfer to J-m was done using motortrucks, avoiding Gush Dan
 
 The celebration involved harmless streetfights of “Jews”vs“Goys”
+
+----
+
+"Friend" = a parent, a sibling, and/or a child.
+
+"Family" = a set of hackers where every 2 members are friends.  https://en.wikipedia.org/wiki/Clique_(graph_theory)
+
+"School" = a sparser corporation.
