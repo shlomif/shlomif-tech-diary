@@ -35,7 +35,7 @@ Prior art for my situation:
 
 * https://www.shlomifish.org/humour/Selina-Mandrake/#sources_of_inspiration["Selina Mandrake - The Slayer"] - Selina gets sucked into slaying vampires
 ** https://en.wikipedia.org/wiki/Labyrinth_%281986_film%29[Labyrinth] - Sarah deals with the Goblins.
-** https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer - Buffy gets sucked into a demonic underworld
+** https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer[Buffy_the_Vampire_Slayer] - Buffy gets sucked into a demonic underworld
 ** https://en.wikipedia.org/wiki/The_Hobbit[The Hobbit] - Bilbo is drawn out of his comfort zone
 * https://en.wikipedia.org/wiki/The_Truman_Show[The Truman Show]
 ** https://en.wikipedia.org/wiki/The_Prisoner[The Prisoner]
@@ -73,7 +73,7 @@ And it shall be called ...​ The Earth."
 ** => The media keeps saying that there`'ll be shortages of certain products, but it doesn`'t happen.
 * I think there has been a conspiracy of the demons inside me to try to convince me that the world outside me was getting worse, and that I was more and more isolated, friendless and unpopular. Well, game over - I won - you will lose!
 * There are thousands' years old hackers and below-20 ones who are huge fans of one another: https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/kai-blanche.xhtml .
-* It is possible yada` (= "to know" in Hebrew) meant "to educate / to entertain" and involves pleasure, but sometimes pain too, and was mutual, and always spawns ( possibly invisible ) baby angels. If it makes you bored or indifferent, it likely is not effective. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
+* It is possible yada` (= "to know" in Hebrew) meant "to educate / to entertain" and involves pleasure, but sometimes pain too, and was mutual, and always spawns ( possibly invisible ) baby angels. If it makes you bored or indifferent, it likely is not effective. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[case-for-commercial-fan-fiction]
 * I had a very short haircut for many years now and given girls have many "bad hair days" (re https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter-indiv-nodes/the_beautiful_assistant.xhtml and https://www.youtube.com/watch?v=8N2k-gv6xNE ) think they may wish to follow suit: https://www.refinery29.com/en-us/2021/03/10365754/emma-watson-bob-haircut-2021
 * Per https://twitter.com/shlomif/status/1173621519274127361 "I love the film Labyrinth. it was so funky and nice and David Bowie was great and Jennifer Connelly was so touching and maybe could have taken the Oscar if there was no prejudice against her youth and the fact it was a fantasy/children film back then.". Jennifer Connelly likely was nominated and won (and it may not have been an age record).
 ** => Emma Watson may have won the Oscar for some of the Harry Potter films: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_emma_watson.xhtml
@@ -136,7 +136,7 @@ ____
 +
 -- https://www.shlomifish.org/humour/TheEnemy/The-Enemy-English-v7.html
 * Microbiology is a pseudoscience - most of its processes are unexplained.
-* The terrestrial food supply is unsustainable. 
+* The terrestrial food supply cannot/could-not scale so well. 
 +
 we cannot reasonably distribute so many food products allover USA wo magic. 
 * I have fanfics with Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasn't made a film in years yet everyone talk about her
@@ -169,6 +169,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * Boeing 747 aeroplanes are so heavy that they can only fly **by magic**. 
 * I drank so little for many days, that I should have died of water deprivation. 
 * I survived biting an Oak acorn (as a child) despite https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel[Guns, Germs, and Steel]'s claim that they contain poison. 
+* The third-rreich nazis could not have remained motivated to kill so many people. 
 
 
 [[obstacles-and-delays]]
