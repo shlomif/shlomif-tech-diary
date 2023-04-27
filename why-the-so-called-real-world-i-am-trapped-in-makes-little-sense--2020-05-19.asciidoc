@@ -180,7 +180,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 [loweralpha].. "Israel is a Nazi Country"
 .. "Zionism = Racism"
 .. "Tel Aviv is a rock in the desert"
-. https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators—​despair.md#facing-some-criticism[Criticism against Static Site Generation]
+. https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[Criticism against Static Site Generation]
 . Licence Proliferation and incompatiblity: https://www.shlomifish.org/philosophy/computers/open-source/foss-licences-wars/rev2/ ; https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#i-want-to-release-my-code---which-open-source-licence-should-i-use .
 . "your writings are 'too smart'"
 . "Act naturally"
@@ -233,7 +233,7 @@ Namely:
 *** It is considered fair to channel parts of the profits of derivatives upstream.
 * A person can repair his body, mind or spirit without a lot of effort.
 ** https://www.youtube.com/watch?v=0YhJxJZOWBw["Now I know kung-fu"] is not farfetched in the Selinaverse. However, to properly gain a skill, one is expected to invest some learning / practicing effort (which should still be enjoyable).
-* I am willing to give explicit public access to the https://en.wikipedia.org/wiki/Akashic_records of me up to now: "Thu  3 Jun 08:41:16 IDT [Tel Aviv] 2021". My "nudes" and stupid/wrong/dirty thoughts and actions are a small price to pay for the good ones materialising.
+* I am willing to give explicit public access to the https://en.wikipedia.org/wiki/Akashic_records of me up to now: "Thu 27 Apr 07:23:52 IDT 2023". My "nudes" and stupid/wrong/dirty thoughts and actions are a small price to pay for the good ones materialising.
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence[Strong AIs] are already possible, but there is still some case for robotic/predictable AIs (e.g: game solvers/players; https://en.wikipedia.org/wiki/Proof_assistant[Proof_assistants]; etc.)
 * There are no calamities of nature: no extreme colds or extreme heats, no killer bees, no over-population, no world hunger, no unnecessary extinctions of species, no diseases, epidemics or pandemics.
 * Companies, NPOs, individuals, franchises, idea systems, etc. are paid by the development time and brands given duplication and distribution are costless. One can "pirate" such goods or create bootleg products, but it is considered noble to transfer profits upstream, downstream or sideways.
