@@ -563,3 +563,7 @@ The celebration involved harmless streetfights of “Jews”vs“Goys”
 "Family" = a set of hackers where every 2 members are friends.  https://en.wikipedia.org/wiki/Clique_(graph_theory)
 
 "School" = a sparser corporation.
+
+----
+
+JLH, https://en.wikipedia.org/wiki/Jennifer_Love_Hewitt was born in texas in feb1979, so she was likely a terran terminator. https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
