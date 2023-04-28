@@ -567,3 +567,7 @@ The celebration involved harmless streetfights of “Jews”vs“Goys”
 ----
 
 JLH, https://en.wikipedia.org/wiki/Jennifer_Love_Hewitt was born in texas in feb1979, so she was likely a terran terminator. https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
+According to https://chemistry.stackexchange.com/questions/11221/number-of-hydrogen-atoms-in-the-sun there are over 10^57 atoms in the sun, in certain science contexts. But not allofthem are given souls/minds or there'd be many disgruntled ones.
