@@ -571,3 +571,15 @@ JLH, https://en.wikipedia.org/wiki/Jennifer_Love_Hewitt was born in texas in feb
 ----
 
 According to https://chemistry.stackexchange.com/questions/11221/number-of-hydrogen-atoms-in-the-sun there are over 10^57 atoms in the sun, in certain science contexts. But not allofthem are given souls/minds or there'd be many disgruntled ones.
+
+----
+
+Randolph: we’d need military escort!
+
+Santa: who? the Navy SEALs? Sayeret Matkal? the Jem’Hadar?
+
+Rudolph: no… Rindolf is the worst… the baddest… and we need the very best against the baddest.
+
+Rudolph: we need… the Mane Six!
+
+https://www.shlomifish.org/humour/All-in-an-Atypical-Day-Work/ongoing-text.html
