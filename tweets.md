@@ -595,3 +595,9 @@ The game of Greater Fantasia:
 * love, knowledge
 
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
+
+----
+
+While I looked down on #astrology [ see: https://www.shlomifish.org/meta/FAQ/#whats_your_sign ], reading a weekly horoscope may make one's week more eventful. It's a tradeoff that ppl may opt2make.
+
+https://en.wikipedia.org/wiki/May_you_live_in_interesting_times
