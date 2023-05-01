@@ -583,3 +583,15 @@ Rudolph: no… Rindolf is the worst… the baddest… and we need the very best 
 Rudolph: we need… the Mane Six!
 
 https://www.shlomifish.org/humour/All-in-an-Atypical-Day-Work/ongoing-text.html
+
+----
+
+The game of Greater Fantasia:
+
+* elohim, jew
+
+* time, soul
+* network, mind
+* love, knowledge
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
