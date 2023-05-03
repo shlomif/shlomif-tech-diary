@@ -604,8 +604,8 @@ https://en.wikipedia.org/wiki/May_you_live_in_interesting_times
 
 ----
 
-You claim I became stupid cause I claim this hell isn't real. but i have evidence: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/indiv-nodes/more-thoughts.xhtml .
+You claim I became stupid cause I claim this hell isn't real. But I have evidence: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/indiv-nodes/more-thoughts.xhtml .
 
-moreover, these recent creations prove i'm smart: 1) https://www.shlomifish.org/humour/bits/#Who-will-ride-Princess-Celestia ; 2) https://www.shlomifish.org/humour/stories/usable/#queen--padme--tales
+Moreover, these recent creations prove I'm smart: 1) https://www.shlomifish.org/humour/bits/#Who-will-ride-Princess-Celestia ; 2) https://www.shlomifish.org/humour/stories/usable/#queen--padme--tales
 
-They also show that, despite being a sofftware-dev dork, i have a rich spiritual world.
+They also show that, despite being a software-dev dork, I have a rich spiritual world.
