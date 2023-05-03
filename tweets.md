@@ -601,3 +601,11 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
 While I looked down on #astrology [ see: https://www.shlomifish.org/meta/FAQ/#whats_your_sign ], reading a weekly horoscope may make one's week more eventful. It's a tradeoff that ppl may opt2make.
 
 https://en.wikipedia.org/wiki/May_you_live_in_interesting_times
+
+----
+
+You claim I became stupid cause I claim this hell isn't real. but i have evidence: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/indiv-nodes/more-thoughts.xhtml .
+
+moreover, these recent creations prove i'm smart: 1) https://www.shlomifish.org/humour/bits/#Who-will-ride-Princess-Celestia ; 2) https://www.shlomifish.org/humour/stories/usable/#queen--padme--tales
+
+They also show that, despite beign
