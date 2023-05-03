@@ -608,4 +608,4 @@ You claim I became stupid cause I claim this hell isn't real. but i have evidenc
 
 moreover, these recent creations prove i'm smart: 1) https://www.shlomifish.org/humour/bits/#Who-will-ride-Princess-Celestia ; 2) https://www.shlomifish.org/humour/stories/usable/#queen--padme--tales
 
-They also show that, despite beign
+They also show that, despite being a sofftware-dev dork, i have a rich spiritual world.
