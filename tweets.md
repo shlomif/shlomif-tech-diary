@@ -609,3 +609,10 @@ You claim I became stupid cause I claim this hell isn't real. But I have evidenc
 Moreover, these recent creations prove I'm smart: 1) https://www.shlomifish.org/humour/bits/#Who-will-ride-Princess-Celestia ; 2) https://www.shlomifish.org/humour/stories/usable/#queen--padme--tales
 
 They also show that, despite being a dorky software developer, I have a rich spiritual world.
+
+----
+
+Die, fucker, die!
+Long live
+the new king:
+Rindolfism!
