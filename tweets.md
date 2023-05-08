@@ -624,3 +624,7 @@ Rindolfism!
 While tranquility is needed sometimes, I think noone can be idle4long: https://www.youtube.com/watch?v=UBN77b4P39s .
 
 War and Peace might not be at odds.
+
+----
+
+"Philosophy" means "the love of wisdom", and "amateur" means "someone who wworks for the love of it".
