@@ -616,3 +616,9 @@ Die, fucker, die!
 Long live
 the new king:
 Rindolfism!
+
+----
+
+"Shalom" / "Peace" means "well-being" which implies prosperity, and excitement: https://www.shlomifish.org/meta/FAQ/your_name.xhtml .
+
+While tranquility is needed sometimes
