@@ -627,4 +627,6 @@ War and Peace might not be at odds.
 
 ----
 
-"Philosophy" means "the love of wisdom", and "amateur" means "someone who wworks for the love of it".
+"Philosophy" means "the love of wisdom", and "amateur" means "someone who works for the love of it".
+
+As a result, when I described myself as an "amateur philosopher", there could have been some redundancy.
