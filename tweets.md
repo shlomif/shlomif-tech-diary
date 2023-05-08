@@ -621,4 +621,6 @@ Rindolfism!
 
 "Shalom" / "Peace" means "well-being" which implies prosperity, and excitement: https://www.shlomifish.org/meta/FAQ/your_name.xhtml .
 
-While tranquility is needed sometimes
+While tranquility is needed sometimes, I think noone can be idle4long: https://www.youtube.com/watch?v=UBN77b4P39s .
+
+War and Peace might not be at odds.
