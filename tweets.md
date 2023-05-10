@@ -630,3 +630,9 @@ War and Peace might not be at odds.
 "Philosophy" means "the love of wisdom", and "amateur" means "someone who works for the love of it".
 
 As a result, when I described myself as an "amateur philosopher", there could have been some redundancy.
+
+----
+
+“Rindolf[= me]: I’m not very good at contacting celebrities or the men of the administration. I tend to be ignored.” — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/ongoing-text.html
+
+I shud've known I was being cursed-and-deceived, given https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time .
