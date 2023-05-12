@@ -636,3 +636,9 @@ As a result, when I described myself as an "amateur philosopher", there could ha
 “Rindolf[= me]: I’m not very good at contacting celebrities or the men of the administration. I tend to be ignored.” — https://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/ongoing-text.html
 
 I shud've known I was being cursed-and-deceived, given https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time .
+
+----
+
+my websites employ unnatural usability and compatibility extremes, and yet 'people' have weird conspiracy hypotheses about them being dangerous :
+
+https://www.shlomifish.org/meta/FAQ/#link_here_to_drive_traffic
