@@ -1399,6 +1399,8 @@ Thus, they wanted a 2-dimensional audible speech system, and were given one base
 
 Moreover, they preferred "modern" English over the alternative (Esperanto?) given English was sexier and more interesting. 
 
+Native speakers of Japanese often confuse "L" and "R". 
+
 I think the 3-D-colour-space ( RGB , HSV , CMY ) was introduced with the Milky Way galaxy, but with some catches like https://en.wikipedia.org/wiki/The_dress["The dress"]. 
 
 [[ancestors]]
