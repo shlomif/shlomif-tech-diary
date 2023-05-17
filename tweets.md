@@ -651,3 +651,6 @@ I can emphatise, but as opposed to him, large amounts of my FOSS / CreativeCommo
 
 Avoiding being an early adopter has advantages.
 
+---
+
+Related: https://www.joelonsoftware.com/2002/01/06/fire-and-motion/ .
