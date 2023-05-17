@@ -648,3 +648,6 @@ https://www.shlomifish.org/meta/FAQ/#link_here_to_drive_traffic
 via @nixsanctuary : https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
 
 I can emphatise, but as opposed to him, large amounts of my FOSS / CreativeCommons / etc. code+content are still functional [after many transitions] .
+
+Avoiding being an early adopter has advantages.
+
