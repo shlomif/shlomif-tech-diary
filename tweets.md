@@ -642,3 +642,9 @@ I shud've known I was being cursed-and-deceived, given https://www.shlomifish.or
 my websites employ unnatural usability and compatibility extremes, and yet 'people' have weird conspiracy hypotheses about them being dangerous :
 
 https://www.shlomifish.org/meta/FAQ/#link_here_to_drive_traffic
+
+----
+
+via @nixsanctuary : https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt
+
+I can emphatise, but as opposed to him, large amounts of my FOSS / CreativeCommons / etc. code+content are still functional [after many transitions] .
