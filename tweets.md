@@ -657,5 +657,5 @@ Related: https://www.joelonsoftware.com/2002/01/06/fire-and-motion/ .
 
 ----
 
-screenwriters
+screenwriters are very geeky and hackery, and would never tolerate
 https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hollywood_screenplay_format
