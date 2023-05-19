@@ -657,5 +657,8 @@ Related: https://www.joelonsoftware.com/2002/01/06/fire-and-motion/ .
 
 ----
 
-screenwriters are very geeky and hackery, and would never tolerate
+screenwriters are very geeky and hackery, and would have never tolerated the terrestrial fmt:
+
 https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hollywood_screenplay_format
+
+Occam's Razor tells me there *is* a conspiracy.
