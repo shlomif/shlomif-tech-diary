@@ -662,3 +662,7 @@ screenwriters are very geeky and hackery, and would have never tolerated the ter
 https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hollywood_screenplay_format
 
 Occam's Razor tells me there *is* a conspiracy.
+
+----
+
+I am taking a variation on Pascal's Wager ( https://en.wikipedia.org/wiki/Pascal%27s_wager ). according to terrestrial "science" i'll be dead in 200 years and Christina_Grimmie and Jim Henson are already dead.
