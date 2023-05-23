@@ -177,7 +177,7 @@ circular logic, circular feedback, etc.] are common in Fantastecha(TM), and part
 
 [quote]
 Mr.
-Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29 ) is TheCreator.
+Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[La_Linea_%28TV_series%29] ) is TheCreator.
 ;) 
 +
 ( -- https://twitter.com/shlomif/status/1485024317062717440 ) 
@@ -201,7 +201,7 @@ Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-t
 [[magic]]
 == Magic:
 
-Life in the multiverse-of-imagination requires magic.
+Life in Fantastecha(TM) requires magic.
 For example in https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King`'s opening] the Pelican-like birds start flying out of their own volition. 
 
 It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and their fan-art https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] were constructed using magic. 
@@ -226,7 +226,7 @@ I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source"
 
 *Technology = pre-developed, reusable maths-like functions, which
 accept parameters, and construct magical transformations of the state of
-the universe and perform them. (??!)*
+the universe (possibly by calling other techs) and perform them. (??!)*
 
 Hackers prefer to use technology that "makes sense" over one-off magic spells: https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter["newer technology often doesn't completely eliminate the use of older one"].
 I use all of XML, YAML, JSON, Perl, Python 3, C, vlc, mpv, duckduckgo, google [ https://www.shlomifish.org/meta/FAQ/[Reference] ]. 
@@ -251,7 +251,7 @@ https://twitter.com/shlomif/status/1491652850044309507[Twitter thread]
 [[the-game]]
 == TheGame(TM) of Fantastecha(TM):
 
-The link:#the-devils[devils] challenged Terran link:#hackers[hackers (+++=+++ player characters)] and their link:#the-angels[players (+++=+++ the angels)] with "`TheGame(TM) of Fantastecha(TM)`": volunteering link:#hackers[hackers] would have their media (= "in between") mutated by the link:#the-devils[devils].
+The link:#the-devils[devils] challenged Terran link:#hackers[hackers (+++=+++ player characters)] and their link:#the-angels[players (+++=+++ the angels)] with "`TheGame(TM) of Fantastecha(TM)`": volunteering link:#hackers[hackers] would have their media (= "in between"s) mutated by the link:#the-devils[devils].
 Physically dying was against the rules, but for true Shalom-of-mind, they must be "slain" by another "vampire", or in case of the last standing vampire - the "child" [= protege] of their two favourite "children" ; one cannot constantly win. 
 
 Hackers starting like that are hereby referred to as "false prophets" (where https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hacking_and_amateur__vs__conformism_and_professional["prophet" or "navi" meant "madman" in Ancient Hebrew]) or as "vampires". That was until they reached enough "enlightenment" and became "true prophets" (or "wizards"). 
@@ -314,7 +314,7 @@ However, his long-time associate https://en.wikipedia.org/wiki/True_and_false_(c
 
 As the two argue in the blog post's comments, https://mlp.fandom.com/wiki/Discord[Discord (from My Little Pony)] notes that "Advanced Selinaverse Geeks" has been a popular fantasy role-playing games' franchise in https://mlp.fandom.com/wiki/Equestria[Equestria] for years. 
 
-The three go to http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[judge Fluttershy (from My Little Pony)] who sighs and invites them for lunch.
+The three go to http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[judge Fluttershy (also from My Little Pony)] who sighs and invites them for lunch.
 She opens a gateway to https://en.wikipedia.org/wiki/Rabin_Square[Rabin Square] in the Tel Aviv of the Selinaverse (yes! The same universe that the plaintiffs are arguing about), they agree on a restaurant, and order food. 
 
 While they wait for their order to arrive, Fluttershy explains that https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/[copyrights' battles are rarely constructive], and that they should just share the Selinaverse.
@@ -352,8 +352,10 @@ Moreover, our naïve assumption that "the network" (= reality) was perceived by 
 [[hackers]]
 === "Hackers" vs. "Fuckers"
 
-The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years with many of their contemporary meanings. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference:
-"What is hacking?"] (= "rule bending", "being resourceful", "thinking outside the box"). 
+The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years with many of their contemporary meanings: 
+
+* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference: "What is hacking?"] (= "rule bending", "being resourceful", "thinking outside the box"). 
+* https://en.wiktionary.org/wiki/fuck#Verb[Reference: "to fuck"] - 
 
 TheCodex(TM) defines "hacker" as a player character in TheGame(TM) of Fantastecha(TM). It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGame(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
 
