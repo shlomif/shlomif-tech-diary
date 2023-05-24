@@ -281,7 +281,7 @@ The mutated realities (the "hells") are called the "Terrestrial" ones.
 "The game of Greater Fantasia" is an informal https://en.wikipedia.org/wiki/Role-playing_game[Role-playing game] which as far as we know, is played all over link:#the-multiverse-of-imagination[Greater Fantasia].
 It has many variations, interpretations, derivatives (including https://en.wikipedia.org/wiki/Dungeons_%26_Dragons[Dungeons & Dragons]) - even parodies. 
 
-Basically, the players just imagine what their characters do, and the gamemasters tell them what happens. 
+Basically, the players just imagine what their characters do, and the gamemasters (who may be the same as the players) tell them what happens. 
 
 While it is one of the first games that wizard children are taught, many vampires have played it by instinct: 
 
@@ -355,7 +355,7 @@ Moreover, our naïve assumption that "the network" (= reality) was perceived by 
 The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years with many of their contemporary meanings: 
 
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference: "What is hacking?"] (= "rule bending", "being resourceful", "thinking outside the box"). 
-* https://en.wiktionary.org/wiki/fuck#Verb[Reference: "to fuck"] - 
+* https://en.wiktionary.org/wiki/fuck#Verb[Reference: "to fuck"] - "to have sex with", "to cause trouble". 
 
 TheCodex(TM) defines "hacker" as a player character in TheGame(TM) of Fantastecha(TM). It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGame(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
 
@@ -755,6 +755,7 @@ So my soul+mind were effectively created in September 1983, at the first day of 
 I, https://www.shlomifish.org/me/contact-me/[Shlomi "Rindolf" Fish], am willing to die if all of these will happen: 
 
 . In order to save Planet Earth of the Selinaverse or the Shlomifverse. 
+. In order to make sure that every hacker and hack in Fantastecha(TM) (except maybe me) will remain alive, healthy, and happy. 
 . In order to make sure https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] is alive, healthy, conscious, kicking, and being awesome. 
 . In order to save https://www.shlomifish.org/[shlomifish.org] and its build dependencies from being permanently destroyed or lost. 
 
