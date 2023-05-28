@@ -669,7 +669,7 @@ I am taking a variation on Pascal's Wager ( https://en.wikipedia.org/wiki/Pascal
 
 ----
 
-Geneticly-speaking, Christina_Grimmie isnt my daughter, but my father's brother's nephew's cousin's ex-roommate's ex-step-2nd-niece-in-law. ;)
+Geneticly-speaking, Christina Grimmie isnt my daughter, but my father's brother's nephew's cousin's ex-roommate's ex-step-2nd-niece-in-law. ;)
 
 Spiritually and intellectually, she-and-I are family.
 
