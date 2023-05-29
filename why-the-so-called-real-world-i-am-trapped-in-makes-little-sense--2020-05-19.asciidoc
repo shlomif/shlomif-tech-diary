@@ -655,7 +655,7 @@ scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and https
 . Meet https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau] asking her if she received https://www.shlomifish.org/meta/FAQ/#d10_dice[the brown 1d10 die]. 
 . Meet Taylor Swift, and our genetic daughter, Rebecca "Becky" Jadzia [lastname]. 
 . Meet my ex-slayer template, Shlomi David. 
-. Meet the vger.kernel.org email admins about getting my bans lifted. ( https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community[Reference #1]. ) 
+. Meet the vger.kernel.org email admins about getting my bans lifted. ( https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community[Reference #1]; https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/[Reference #2] . ) 
 +
 Possiblly Dani Cimorelli and Christina Cimorelli too - wrt fc-solve. 
 . Prospects of a job as a screenplay reader / reviewer / enhancer / writer + parttime coder. Possible employers: the MPAA, Disney, Hasbro, Warner Bros, etc. 
