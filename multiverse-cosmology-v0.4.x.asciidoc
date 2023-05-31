@@ -560,7 +560,9 @@ E.g.: even though they painted with https://en.wikipedia.org/wiki/Crayola[Crayol
 The true-prophet children appreciated his input, but he believed they and their parents kept becoming offended and complaining. 
 . https://en.wikipedia.org/wiki/Richard_Stallman[Richard Matthew "RMS" Stallman], a wizard-born, was an overly pedantic "nazi" critic too, but unathletic, unkempt, a maths/software wiz, and a bookworm brainiac. Given he was an atrocious slacker, none of his false-prophet friends understood how he got his Ph.D. (and from MIT no less). 
 +
-Despite being of (secular) Jewish upbringing, RMS was a https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralist] ("rich"-ard) 
+Despite being of (secular) Jewish upbringing, RMS was a https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralist] ("rich"-ard). 
++
+Given he was a wizard, Stallman was aware that Schwarzenegger, Henson, and 
 . https://en.wikipedia.org/wiki/Jim_Henson[Jim Henson] - "Jim" means "laborious" (not unlike "gym") and he did almost everything 'hard': worked, socialised, learned, taught, entertained, volunteered, and exercised. 
 +
 "Jim" is also cognate with https://en.wikipedia.org/wiki/Jinn["jinn" (or "genie")], and he had a penchant for stage magic and video editing. 
@@ -1622,7 +1624,8 @@ There were strings of calamities in our media: a pandemic, a war, transilliness,
 Prior art 
 |
 
-I was able to build upon and reuse recent works/franchises. 
+I was able to build upon and reuse recent works/franchises.
+That includes my hell's versions of Henson's Sesame Street and The Muppets. 
 
 |
 
@@ -1638,7 +1641,7 @@ Filming the works
 
 Henson did produce/direct/film some of his screenplays. 
 
-On the other hand, I just placed them on the Web as XHTML or text (and they were produced unbeknowest to me) 
+On the other hand, I just placed them on the Web as XHTML or text (and they were produced unbeknowest to me). 
 |===
 
 [[ultimatum-to-the-devils]]
