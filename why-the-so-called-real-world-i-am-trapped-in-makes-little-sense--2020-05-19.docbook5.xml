@@ -601,6 +601,13 @@ not exercising.
 </para>
 </listitem>
 
+<listitem>
+<para>
+There is a high-performance chess engine, written in C under GPL/AGPL.
+One dev maintains an enhanced fork of it
+</para>
+</listitem>
+
 </itemizedlist>
 
 <section xml:id="obstacles-and-delays">

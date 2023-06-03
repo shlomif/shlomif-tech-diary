@@ -172,6 +172,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * I survived biting an Oak acorn (as a child) despite https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel[Guns, Germs, and Steel]'s claim that they contain poison. 
 * The third-reich nazis could not have remained motivated to kill so many people. 
 * A typical Gorilla is far stronger than even the strongest humans, while not exercising. 
+* There is a high-performance chess engine, written in C under GPL/AGPL. One dev maintains an enhanced fork of it 
 
 
 [[obstacles-and-delays]]
