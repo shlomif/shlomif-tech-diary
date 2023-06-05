@@ -609,7 +609,15 @@ not exercising.
 <listitem>
 <para>
 There is a high-performance chess engine, written in C under GPL/AGPL.
-One dev maintains an enhanced fork of it
+One dev maintains an enhanced fork of it, of which he privately gives
+binaries, only after lengthy background checks.
+</para>
+</listitem>
+
+<listitem>
+<para>
+Android could not have been developed so quickly without using GNU
+and/or iPhone's source code.
 </para>
 </listitem>
 
