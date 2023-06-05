@@ -49,6 +49,8 @@ an atomic bomb but have no intention of actually developing one.
 
 The Iranians cannot be stupid enough to allow https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] to happen given they were aware of Microsoft Windows being vulnerable in the 2000s. I'm fairly certain they cooperated with Israel/USA and possibly large parts of the greater international intelligence community.
 
+A study was published about building atomic bomb using Uranium ores and home equipment.
+
 ---
 
 image::images/raiders-lost-ark.png["Raiders of the Last Ark" shot]
