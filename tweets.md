@@ -675,5 +675,11 @@ Spiritually and intellectually, she-and-I are family.
 
 ----
 
+https://youtu.be/_FCld2UJMRg "the secret to surviving is knowing what to throw away, and knowing what to keep".
+
+I keep fluff outof my fics/essays. E.g: in https://www.shlomifish.org/humour/Queen-Padme-Tales/ , I avoided describing Padmé as a physical-fitness fan.
+
+----
+
 Hi all! I want to create a "If you want to comment on a WordPress blog, you're gonna have a bad time" captioned-image using Inkscape, but I need a .png of the southpark background and my web-fu fails me. Currently I have https://knowyourmeme.com/memes/youre-gonna-have-a-bad-time and
 https://imgflip.com/memegenerator/20276926/Youre-gonna-have-a-bad-time . Can anyone help?
