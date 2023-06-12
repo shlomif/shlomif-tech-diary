@@ -106,7 +106,7 @@ And it shall be called ...​ The Earth."
 .. https://www.youtube.com/watch?v=FFm1kxvSus8["Jessie J and Tom Bleasby singing Flashlight - YouTube"] - on the Ellen Generes show. 
 
 +
-Would they travel by plane/automobile for 10 minutes?
+Would they travel by plane/automobile for 10 minutes? 
 +
 Moreover, "Stutz" ["סטוץ"], an Israeli dating gameshow used to match teenagers from distant towns. 
 * => I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late.
@@ -176,6 +176,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * A typical Gorilla is far stronger than even the strongest humans, while not exercising. 
 * There is a high-performance chess engine, written in C under GPL/AGPL. One dev maintains an enhanced fork of it, of which he privately gives binaries, only after lengthy background checks. 
 * Android could not have been developed so quickly without using GNU and/or iPhone's source code. 
+* In this hell, I have received very few PayPal/etc. donations, and few people have published critiques of my sites' pages online. This is despite many voicing them on online chats. 
 
 
 [[obstacles-and-delays]]
