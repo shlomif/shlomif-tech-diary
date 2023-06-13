@@ -1663,6 +1663,7 @@ see evidence that one of my favourite children, Christina Grimmie, is alive, hea
 .. https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/#what-i-learned["What I learned from Internet/social media creators"]
 * A less organised, but more comprehensive in parts, document about the devils and the "real world". 
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
+** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#more-thoughts[Evidence that this hell cannot be real] - logically and reasonably. 
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
 * https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/screenplay-xml/txt/end-game-for-shlomif-as-a-false-prophet.txt[End game for @shlomif as a false prophet]
 ** https://www.shlomifish.org/humour/tempbits/end-game-for-shlomif-as-a-false-prophet/end-game-for-shlomif-as-a-false-prophet.raw.html[XHTML5 version]
