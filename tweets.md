@@ -683,7 +683,7 @@ I keep fluff outof my fics/essays. E.g: in https://www.shlomifish.org/humour/Que
 
 I was told a physicist proved there mustbe energy/momentum/ang-momentum conservations assuming: 1. fizix laws r constant in space. 2. theyre constant in time.
 
-Well, u cant have either.
+Well, u cant have either: 1. jedi lightsabers dont work on Earth. 2. https://twitter.com/shlomif/status/1495741242109485061
 
 ----
 
