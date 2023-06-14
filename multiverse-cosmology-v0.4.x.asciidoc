@@ -20,7 +20,7 @@ Please help the "Rindolfism v2.x.y" effort; it is the child of my 2 favourite ch
 
 Reference: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
-Moreover, note that if https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] contacts me somehow, then I am willing to offer her both up to 50 % of the cash in my bank account, *and* an offer to chat with me / 'geek out'. I strongly suspect that she is actually alive, healthy, and conscious. 
+Moreover, note that if https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] contacts me somehow, then I am willing to offer her both up to 95 % of the cash in my bank account, *and* an offer to chat with me / 'geek out'. I strongly suspect that she is actually alive, healthy, and conscious. 
 
 The universes you consider real are just one of many in "Fantastecha(TM)", the mega multiverse of imagination, magic & technology where beings spawn other entities and universes using their imagination. 
 
@@ -126,7 +126,7 @@ Egos are often frail, and start as easily hurt:
 
 . http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended (and try to grow a thicker skin)"]
 
-Do note that link:#the-angels[the angels] and link:#the-devils[the devils] may limit the number of choices the soul can choose from (including down to one!). They can also deprive a hacker of a chance to concentrate, introspect and decide-what-to-do-next. footnote:[While I am to large extents, self-centred, narcissistic, ego-maniacal, meglomaniacal,
+Do note that link:#the-angels[the angels] and link:#the-devils[the devils] may limit the number of choices the soul can choose from (including down to one!). They can also deprive a hacker of a chance to concentrate, introspect and decide-what-to-do-next. footnote:[While I am, to large extents, self-centred, narcissistic, ego-maniacal, meglomaniacal,
 and also developed a relatively thick skin - my soul is still frail.]
 
 [[the-gods]]
@@ -222,7 +222,7 @@ Human language is not only a tool of communication, but also a tool of thought.
 . One can say "cry wolf" to refer to https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf[The Boy Who Cried Wolf], e.g. in "saying that Microsoft plans to embrace&extend GNU is 'cry wolf'". 
 
 A lot of technology and magic defies the link:#terrestrial[terrestrial] science, including https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity] or determinism.
-I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/all_people_are_good.xhtml#guidelines_as_dogma[Reference] ) while having confidence that life will go on. 
+I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma[Reference] ) while having confidence that life will go on. 
 
 *Technology = pre-developed, reusable maths-like functions, which
 accept parameters, and construct magical transformations of the state of
@@ -285,7 +285,7 @@ Basically, the players just imagine what their characters do, and the gamemaster
 
 While it is one of the first games that wizard children are taught, many vampires have played it by instinct: 
 
-. https://en.wikipedia.org/wiki/Sherlock_Holmes[Doyle's Sherlock Holmes canon]
+. https://en.wikipedia.org/wiki/Sherlock_Holmes[Sir Arthur Conan Doyle's Sherlock Holmes canon]
 . https://en.wikipedia.org/wiki/Sesame_Street[Sesame Street]'s skits 
 . https://www.shlomifish.org/humour/stories/[Shlomi Fish's screenplays]
 . https://www.shlomifish.org/humour/fortunes/sharp-perl.html[Entertaining online chat logs]
@@ -354,7 +354,7 @@ Moreover, our naïve assumption that "the network" (= reality) was perceived by 
 
 The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrestrial] English dictionaries for milliards of years with many of their contemporary meanings: 
 
-* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference: "What is hacking?"] (= "rule bending", "being resourceful", "thinking outside the box"). 
+* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference: "What is hacking?"] (= "rule bending", "being resourceful", "to happily work on a product", "thinking outside the box"). 
 * https://en.wiktionary.org/wiki/fuck#Verb[Reference: "to fuck"] - "to have sex with", "to cause trouble". 
 
 TheCodex(TM) defines "hacker" as a player character in TheGame(TM) of Fantastecha(TM). It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGame(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
