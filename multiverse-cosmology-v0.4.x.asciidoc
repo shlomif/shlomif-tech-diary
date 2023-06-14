@@ -394,7 +394,7 @@ Have a finite capacity.
 I.e: 
 
 . you can be strong enough to lift 10 kg, or 100 kg, or a million kg, but not infinite weight. 
-. your hard-disk may be big enough to hold 2 mega-bytes, or 2 giga-bytes, or 2 peta-bytes, but not infinity bytes. 
+. your hard-disk may be big enough to hold 20 mega-bytes, or 20 giga-bytes, or 20 peta-bytes, but not infinity bytes. 
 
 
 |
@@ -586,7 +586,7 @@ Here's another fun fact: the vampires Muppeteers have left the premises of their
 [[how-the-muppets-were-remastered]]
 === How the Muppets' Franchise was Remastered
 
-. The setting of Sesame Street was changed from Rockville to NYC. 
+. The setting of Sesame Street was changed from Rockville to New York City. 
 . https://muppet.fandom.com/wiki/Ernie[Ernie] was originally link:#Arnold_Schwarzenegger["Arnie"]. 
 . https://muppet.fandom.com/wiki/Twiddlebugs[The Twiddlebugs] were originally smurfs. 
 
