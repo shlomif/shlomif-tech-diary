@@ -142,7 +142,7 @@ ____
 +
 we cannot reasonably distribute so many food products all over USA, Europe, Asia, Israel, etc.
 wo magic. 
-* I have fanfics with Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasn't made a film in years yet everyone talk about her
+* I have fanfics with Emma Watson, which she can film - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasn't made a film in years yet everyone talk about her
 * Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
 * Occam`'s Razor tells me there`'s a conspiracy-- https://is.gd/kSLGdP
 * Someone on freenode told me my site is a "waste of space" even though:
@@ -177,6 +177,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * There is a high-performance chess engine, written in C under GPL/AGPL. One dev maintains an enhanced fork of it, of which he privately gives binaries, only after lengthy background checks. 
 * Android could not have been developed so quickly without using GNU and/or iPhone's source code. 
 * In this hell, I have received very few PayPal/etc. donations, and few people have published critiques of my sites' pages online. This is despite many voicing them on online chats. 
+* "People" keep reporting https://www.shlomifish.org/meta/FAQ/#broken_links[broken links on the webpages of my websites], while the owners of the websites to which they point are not responsive to my requests to restore them. https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perlcafe-misplacing-a-website["How the hell does one misplace an entire website?"]
 
 
 [[obstacles-and-delays]]
