@@ -196,7 +196,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 [loweralpha].. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml
 . "XHTML is deprecated"
 . "People are stupid"
-. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml["No self-promotion"]
+. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml["No self-promotion"] - treated as a moral absolute 
 . https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[Hollywood`'s mandated screenplay format] - finicky and boring.
 . "Geeks are shy and anti-social"
 
