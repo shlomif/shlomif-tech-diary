@@ -267,7 +267,7 @@ Jedis/etc.
 do a commendable job handling people who are possessed or obsessed, making people happy, as a line of defence, etc.
 
 [[history]]
-== History of the Selinaverse
+== History of the Selinaverse (OUT-OF-DATE!)
 
 The terrans were given several gifts of a blessing and a curse.
 Being hackers ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ ) they often took the curse to their advantage:
@@ -275,7 +275,7 @@ Being hackers ( https://www.shlomifish.org/philosophy/culture/case-for-commercia
 . body
 . mind: hearing voices of leaders
 . living forever (= 'jehovah')
-. knowledge: <<biblical_to_know,to know>>
+. knowledge: link:#biblical_to_know[to know]
 . soul/ego: arbitter between the voices/thoughts
 . memory banks
 . humour: challenging truisms/falsisms
@@ -364,9 +364,9 @@ One note was that Selina blew some dandelions at a summer camp and was nicknamed
 She, Samantha Smith, and Joss_Whedon became good friends, and colleagues.
 
 [[real_shlomif_success]]
-== Success in the Selinaverse; Living in a hell hole
+== Success in the Selinaverse; Living in a hell
 
-I suspect I lived in a hell-hole spawned by my fears, and that in the https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense—​2020-05-19.asciidoc[Selinaverse], I was highly successful, rich, revered, famous and admired.
+I suspect I lived in a hell-hole spawned by my fears, and that in the https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc[Selinaverse], I was highly successful, rich, revered, famous and admired.
 I was a successful author, one of the film industry`'s biggest screenwriters, a world famous "blogger" (= Internet / social media content creator), and a remarkable https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[entertainer
 / educator / amateur philosopher].
 
