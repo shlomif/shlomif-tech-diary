@@ -687,5 +687,17 @@ Well, u cant have either: 1. jedi lightsabers dont work on Earth. 2. https://twi
 
 ----
 
+New releases:
+
+https://www.shlomifish.org/humour/All-in-an-Atypical-Day-Work/ongoing-text.html - new crossover/parody fic feat. me and my alterego, Rindolf.
+
+https://github.com/shlomif/fortune-mod/releases/tag/fortune-mod-3.20.0 - fortune-mod
+
+https://github.com/shlomif/rebookmaker - rebookmaker EPUB generator.
+
+https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/ -  reworked essay.
+
+----
+
 Hi all! I want to create a "If you want to comment on a WordPress blog, you're gonna have a bad time" captioned-image using Inkscape, but I need a .png of the southpark background and my web-fu fails me. Currently I have https://knowyourmeme.com/memes/youre-gonna-have-a-bad-time and
 https://imgflip.com/memegenerator/20276926/Youre-gonna-have-a-bad-time . Can anyone help?
