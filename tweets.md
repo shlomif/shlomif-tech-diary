@@ -699,7 +699,7 @@ https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/ -  re
 
 ----
 
-The scroll of Qoheleth, https://en.wikipedia.org/wiki/Ecclesiastes , is short
+The scroll of Qoheleth, https://en.wikipedia.org/wiki/Ecclesiastes , is short, written in accessible Hebrew, and contains many gems.
 
 ----
 
