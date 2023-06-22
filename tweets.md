@@ -699,5 +699,13 @@ https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/ -  re
 
 ----
 
+The scroll of Qoheleth, https://en.wikipedia.org/wiki/Ecclesiastes , is short
+
+----
+
+https://en.wikipedia.org/wiki/Brink%27s
+
+----
+
 Hi all! I want to create a "If you want to comment on a WordPress blog, you're gonna have a bad time" captioned-image using Inkscape, but I need a .png of the southpark background and my web-fu fails me. Currently I have https://knowyourmeme.com/memes/youre-gonna-have-a-bad-time and
 https://imgflip.com/memegenerator/20276926/Youre-gonna-have-a-bad-time . Can anyone help?
