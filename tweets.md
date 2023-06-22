@@ -703,6 +703,14 @@ The scroll of Qoheleth, https://en.wikipedia.org/wiki/Ecclesiastes , is short, w
 
 1. Its lack of a coherent plot, makes many of its msgs non-memorable.
 
+2. It has an air of repetitivity.
+
+https://www.joelonsoftware.com/2005/06/20/introduction-to-best-software-writing-i/
+
+https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/ongoing-text.html
+
+still recommend2read it.
+
 ----
 
 https://en.wikipedia.org/wiki/Brink%27s
