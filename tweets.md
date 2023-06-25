@@ -713,7 +713,7 @@ still recommend2read it.
 
 ----
 
-https://en.wikipedia.org/wiki/Brink%27s
+I sometimes see Brink's workers in my walks; https://en.wikipedia.org/wiki/Brink%27s . 2 men with one carryinng a machine gun. I know well to avoid bothering them.
 
 ----
 
