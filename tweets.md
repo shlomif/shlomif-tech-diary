@@ -713,7 +713,9 @@ still recommend2read it.
 
 ----
 
-I sometimes see Brink's workers in my walks; https://en.wikipedia.org/wiki/Brink%27s . 2 men with one carryinng a machine gun. I know well to avoid bothering them.
+I sometimes see Brink's workers in my walks; https://en.wikipedia.org/wiki/Brink%27s . 2 men with one carrying a machine gun. I know well to avoid bothering them.
+
+FTR: almost all civilians+soldiers dont have guns. the cops who do put their pistol in its sheath
 
 ----
 
