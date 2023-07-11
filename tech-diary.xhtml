@@ -5901,8 +5901,20 @@ canaries, empty lines, "-"s
 
 <li>
 <p>
+Get rid of trailing whitespace: <code>/[\t ]+$/ms</code>.
+</p>
+</li>
+
+<li>
+<p>
 Get rid of multiple consecutive empty lines, or ones at the start/end
 of files: <code>/\n\n\n/ms , /\A\n\n/ms , /\n\n\z/ms</code>.
+</p>
+</li>
+
+<li>
+<p>
+Converting <code>[%</code> to <code>[%-</code>
 </p>
 </li>
 
