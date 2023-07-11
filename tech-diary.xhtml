@@ -5885,13 +5885,30 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 </div>
 
 
-<div class="entry" id="todo-elim-space-in-tt2-outputs">
+<div class="entry" id="tech-tip--elim-space-in-tt2-outputs">
 
 <!-- Tags:
     tip, tech, tech tip, linux, open-source, foss
 -->
 
-<h2>2023-06-28: canaries, empty lines, "-"s</h2>
+<!--
+canaries, empty lines, "-"s
+-->
+
+<h2>2023-07-11: Tips for eliminating whitespace in Template-Toolkit (TT2/TT3) outputs</h2>
+
+<ol>
+
+<li>
+<p>
+Get rid of multiple consecutive empty lines, or ones at the start/end
+of files: <code>/\n\n\n/ms , /\A\n\n/ms , /\n\n\z/ms</code>.
+</p>
+</li>
+
+</ol>
+
+<h2>Licence</h2>
 
 <p>
 Copyright by Shlomi Fish, 2023.
