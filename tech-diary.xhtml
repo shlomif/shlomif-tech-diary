@@ -5887,15 +5887,14 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 
 <div class="entry" id="tech-tip--elim-space-in-tt2-outputs">
 
-<!-- Tags:
-    tip, tech, tech tip, linux, open-source, foss
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
 -->
 
 <!--
 canaries, empty lines, "-"s
 -->
 
-<h2>2023-07-11: Tips for eliminating whitespace in Template-Toolkit (TT2/TT3) outputs</h2>
+<h2>2023-07-12: Tips for eliminating whitespace in Template-Toolkit (TT2/TT3) outputs</h2>
 
 <ol>
 
@@ -5916,6 +5915,13 @@ of files: <code>/\n\n\n/ms , /\A\n\n/ms , /\n\n\z/ms</code>.
 <p>
 Converting <code>[%</code> to <code>[%-</code>
 and <code>%]</code> to <code>-%]</code> helps.
+</p>
+</li>
+
+<li>
+<p>
+I use "canaries", unique pieces of text placed between template directives,
+to debug.
 </p>
 </li>
 
