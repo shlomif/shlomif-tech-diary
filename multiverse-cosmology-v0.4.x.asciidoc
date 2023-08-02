@@ -444,7 +444,7 @@ My favourite children are https://www.shlomifish.org/art/recommendations/music/o
 
 ( https://twitter.com/shlomif/status/1616108822237528069[Reference: Twitter thread] ) 
 
-I believe and hope that my recent spell of creativity and inspiration is due to me reviving Grimmie in my mind (and effectively conceiving her). link:#see-also[See latest hacks]. 
+I believe and hope that my recent spell of creativity and inspiration is due to me reviving Grimmie in my mind (and effectively conceiving her). link:#see-also[See my latest hacks]. 
 
 *Note:* to further this cause, I hereby request that up to 95% of the past and future donations to me (whether of money, love points, experience points, mana, or whatever, except perhaps https://twitter.com/shlomif/status/1571008285326835713[those of physical traits and parameters]) will be transferred to her. 
 
@@ -462,7 +462,7 @@ Its rule book is common knowledge among wizards, but hidden from vampires:
 20 "Rings of Power"] meme.
 ) 
 
-For a vampire to become a wizard he or she should show that the gamemasters violated all 17 out of the 18 guidelines, except for the last: "`A vampire must become a wizard eventually`". link:#terran-terminators-surprise["`For each and every hacker X: neither X's soul, nor X's mind, nor their union can ever perish.`"]. 
+For a vampire to become a wizard he or she should show that the gamemasters violated all 17 out of the 18 guidelines, except for the last: "`A vampire must become a wizard eventually ["in less than 1,000 years"??]`". link:#terran-terminators-surprise["`For each and every hacker X: neither X's soul, nor X's mind, nor their union can ever perish.`"]. 
 
 [[the-orcs]]
 == The Orcs:
@@ -735,7 +735,7 @@ means "Shalom-ful"] in Hebrew.
 The link:#the-devils[devils] promised that my body will remain complete and whole. 
 
 These people, starting as false prophets, became known as The Terran Terminators.
-After relinquishing their fears, they have *ascended* so to speak (see https://buffy.fandom.com/wiki/Ascension ). Do note that this ascension was in a way a "submission" or "surrendering" to a superior https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc#user-content-slain-by-a-vampire["vampire"
+After relinquishing their fears, they have *ascended* so to speak (see https://buffy.fandom.com/wiki/Ascension ). Do note that this ascension was in a way a "submission" or "surrendering" to a superior https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc#user-content-slain-by-a-vampire[vampire
 or protege]. 
 
 [[terran-terminators-surprise]]
@@ -1255,7 +1255,7 @@ Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[La Linea (TV_seri
 
 * https://memory-alpha.fandom.com/wiki/Bajoran[The Bajorans] became wizards by interpreting the 'prophecies' of the timeless aliens of the wormhole. 
 * The https://memory-alpha.fandom.com/wiki/Klingon[Klingons] became wizards by using metaphors for physical warfare. (e.g: https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html["Queen Amidala vs. the Klingon Warriors"] ) 
-* The https://memory-alpha.fandom.com/wiki/Ferengi[Ferengi] became wizards by advocating greed, trickery - and even deceit. 
+* The https://memory-alpha.fandom.com/wiki/Ferengi[Ferengis] became wizards by advocating greed, trickery - and even deceit. 
 * https://starwars.fandom.com/wiki/Yoda[Yoda] became a wizard by advocating self-control, peacefulness, and a Stoic state of mind. 
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml[Ezekiel] became a wizard by being a standup comedian. 
 * https://en.wikipedia.org/wiki/Felicia_Day[Felicia Day] started as a computer games' addict, which I had been one as well (and she wasn`'t a one-trick-pony). 
@@ -1414,7 +1414,8 @@ Moreover, they preferred "modern" English over the alternative (Esperanto?) give
 
 Native speakers of Japanese often confuse "L" and "R". 
 
-I think the 3-D-colour-space ( RGB , HSV , CMY ) was introduced with the Milky Way galaxy, but with some catches like https://en.wikipedia.org/wiki/The_dress["The dress"]. 
+I think the 3-D-colour-space ( RGB , HSV , CMY ) was introduced with the Milky Way galaxy, but with some catches like https://en.wikipedia.org/wiki/The_dress["The dress"].
+I see the dress as white-and-gold on my desktop Linux screen and saw it as blue and grey on a friend's smartphone. 
 
 During Englishtants times, the universe was a greyscale 3-D grid, with larger-or-smaller sub-grids.
 Before that, it was binary ( "black / white"). 
