@@ -727,3 +727,11 @@ https://imgflip.com/memegenerator/20276926/Youre-gonna-have-a-bad-time . Can any
 https://www.shlomifish.org/Files/files/images/hostgator-no-python3.png is just a facade. My sites and their sources are backupped across the universe, and even carved in marble.
 
 Probly not proof against demonic magic/tech, but still appreciated.
+
+----
+
+"Once I read one advice. If you have doubt which language learn for example Perl and Python learn both. There is nothing bad with that."
+
+— Armando in https://www.nntp.perl.org/group/perl.beginners/2023/08/msg127684.html
+
+https://www.youtube.com/watch?v=uGnTW8EhGSk
