@@ -735,3 +735,7 @@ Probly not proof against demonic magic/tech, but still appreciated.
 — Armando in https://www.nntp.perl.org/group/perl.beginners/2023/08/msg127684.html
 
 https://www.youtube.com/watch?v=uGnTW8EhGSk
+
+----
+
+https://memory-alpha.fandom.com/wiki/Deanna_Troi was origly Selina Mandrake's character sheet. Given none of Ambassador Troi's genetic daughters was a qualified psychotherapist.
