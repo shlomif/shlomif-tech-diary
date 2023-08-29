@@ -380,9 +380,8 @@ I was a successful author, one of the film industry`'s biggest screenwriters, a 
 
 Aside from being "The-Messiah", I was:
 
-. Most people`'s favourite candidate for being The Terminal Terran Terminator (with the runner up likely being https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian], who was The-Alpha-Female for a large part of the years between 2013-2021). See https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense—​2020-05-19.asciidoc#user-content-terran-terminators[the definition of "Terran Terminators"].
+. Most people`'s favourite candidate for being The Terminal Terran Terminator (with the runner up likely being https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian], who was The-Alpha-Female for a large part of the years between 2013-2021). See https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/[the definition of "Terran Terminators"].
 . A blogger whose blogging and thoughts have caused many other terminators to ascend.
-. Likely The Emperor of https://theneverendingstory.fandom.com/wiki/Fantastica[Fantasia], the multiverse of imagination.
 
 Together with two companions, we formed a trio:
 
@@ -426,7 +425,7 @@ As a result, the importance of love was often used by them as a decoy.
 // </mediaobject>
 // </informalfigure>
 
-The twelve attributes of the Yisra`'elim:
+The twelve attributes of the Yisra'elim:
 
 * Time
 * Life, <<biblical_to_know,love>>
