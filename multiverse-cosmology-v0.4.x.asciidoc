@@ -1693,6 +1693,7 @@ see evidence that one of my favourite children, Christina Grimmie, is alive, hea
 .. https://www.shlomifish.org/humour/The-10th-Muse/["The 10th Muse"]
 .. https://www.shlomifish.org/humour/Muppets-Show-TNI/Tiffany-Alvord.html[The Muppet Show hosting Tiffany Alvord]
 .. https://www.shlomifish.org/humour/All-in-an-Atypical-Day-Work/["All in an Atypical Day`'s Work"] - MLP / "Rindolf" 
+.. https://www.shlomifish.org/humour/bits/One-does-not-simply-start-a-story-with-And-they-all-lived-happily-ever-after/["`One does not simply start a story with '`And they all lived happily ever after`'`"] - MLP / etc. 
 .. https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/["`So, who the Hell is Qoheleth?`" - An Illustrated Screenplay]
 .. https://www.shlomifish.org/humour/bits/true-stories/[My true stories / memoirs] - may be scary in retrospect. 
 .. https://github.com/shlomif/shlomi-fish-homepage/commits/master/src/meta/FAQ/index.xhtml.tt2[Recent changes to my personal F.A.Q.]
