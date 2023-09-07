@@ -768,5 +768,11 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 ----
 
+I think my template "wasted" one slot on making me chaste (despite my artworks being sexualised). This is given "up-base" sexual acts wud've scarred me. He did give provision4one rapekiss: https://www.shlomifish.org/humour/bits/true-stories/my-first-kiss/ , which was part of the facade4conceiving a genetic child.
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
 https://memory-alpha.fandom.com/wiki/Deanna_Troi was origly Selina Mandrake's character sheet. Given none of Ambassador Troi's genetic daughters was a qualified psychotherapist, an unrelated half-Betazoid volunteered2be her on the Enterprise. While she first addressed her formally, Lwaxana was so needy and domineering that she ended up calling her "mother".
 
