@@ -748,4 +748,15 @@ https://www.youtube.com/watch?v=uGnTW8EhGSk
 
 ----
 
+Thingies can be either zombies or hackers.
+
+Hackers are either vampires or wizards.
+
+Wizards either have access to TheCodex™ or not.
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
 https://memory-alpha.fandom.com/wiki/Deanna_Troi was origly Selina Mandrake's character sheet. Given none of Ambassador Troi's genetic daughters was a qualified psychotherapist, an unrelated half-Betazoid volunteered2be her on the Enterprise. While she first addressed her formally, Lwaxana was so needy and domineering that she ended up calling her "mother".
+
