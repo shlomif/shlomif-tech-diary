@@ -98,6 +98,11 @@ A hacker may opt or be required to change their form.
 
 Jehovah is often abbreviated as "yeah". 
 
+[[zine]]
+== "Zine"
+
+"A hacker may only derive pleasure" 
+
 [[the-open-value]]
 == "open":
 
