@@ -1180,7 +1180,7 @@ One doesn`'t have to be a sex addict, and even if you are, link:#boredom[you wil
 ____
 SMG: "He is cute, but I`'m looking for man-tastic! You know, someone with a little cushion for the pushin'?" 
 
--- https://www.youtube.com/watch?v=kCl3ho6_gbg
+-- https://www.youtube.com/watch?v=kCl3ho6_gbg[https://www.youtube.com/watch?v+++=+++kCl3ho6_gbg (Spiderman parody with SMG and Jack Black)]
 ____
 ** https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-beauty-products-as-the-stone-soup-effect[Beauty Products as the Placebo Effect]
 ** ( For example, https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/be_communicative.xhtml[writing and publishing some short poems] and tactfully avoiding a fistfight are attractive. ) 
@@ -1188,6 +1188,8 @@ ____
 . A wizard of any age can conceive a child or a pet by submitting a web/email/paper/etc. form. 
 . At any point, there is a large number of MOTASes who are not in a relationship, but are open for being in one. (References: https://www.breitbart.com/entertainment/2019/12/30/sharon-stone-blocked-from-dating-site-bumble-after-users-thought-her-profile-was-fake/["Sharon Stone Blocked from Dating Site Bumble After Users Thought Her Profile was Fake"]) 
 . I suspect that female terrans were excluded from parts of the workforce due to the tendency of vocal minorities out-of-them to constantly complain/"bitch" about trivialities. 
+.. https://en.wikipedia.org/wiki/Actor[Female stage actors]
+.. https://en.wikipedia.org/wiki/Women_in_the_Israel_Defense_Forces[Women in the IDF]
 
 
 [[forking-and-merging]]
