@@ -901,7 +901,7 @@ set up a static personal website] which became https://www.shlomifish.org/[www.s
 The devils promised it will be displayed verbatim among other terminators.
 Various Internet people told me I https://www.shlomifish.org/meta/FAQ/#please_delete_offensive_stuff[should delete offensive content] or https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[convert
 the service to use PHP/Ruby-on-Rails/etc.], but I didn`'t heed them.
-They were likely mirages of the devils and the orcs. 
+They were likely mirages of the devils. 
 
 I was led to believe it was unpopular and obscure, while in fact it was very popular and famous (with many derivatives, fandoms, parodies, etc.) outside my mind`'s hell.
 I was also often made to think I had many haters, which wasn`'t true. 
