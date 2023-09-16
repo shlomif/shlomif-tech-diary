@@ -774,5 +774,11 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 ----
 
+Shanah tovah, everybrony! It's a good year to die!
+
+to die → to lose in a game [any game]
+
+----
+
 https://memory-alpha.fandom.com/wiki/Deanna_Troi was origly Selina Mandrake's character sheet. Given none of Ambassador Troi's genetic daughters was a qualified psychotherapist, an unrelated half-Betazoid volunteered2be her on the Enterprise. While she first addressed her formally, Lwaxana was so needy and domineering that she ended up calling her "mother".
 
