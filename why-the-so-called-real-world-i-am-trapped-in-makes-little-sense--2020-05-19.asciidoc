@@ -335,11 +335,8 @@ Other notable Terran terminators:
 
 . https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)] - https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-next-film["Summerschool at the NSA"] starring her may have been a thing.
 . https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau] - my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/["Summerschool at the NSA" film] likely earned her the Oscar and may have been an inadversarial reboot.
-. Likely https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)] (who ascended during https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[CEIA] and as a result was the https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/indiv-nodes/alpha-beta-gamma-omega.xhtml["beta" female] during the https://websitebuilders.com/how-to/glossary/web1/[Web 1.0 period] when SMG was "queen of the Web")
-. Likely https://twitter.com/AliciaSilv[Alicia Silverstone]
-. Likely https://en.wikipedia.org/wiki/Natalie_Portman[Natalie Portman]
+. Likely https://en.wikipedia.org/wiki/Melissa_Joan_Hart[Melissa Joan Hart (MJH)] (who ascended before https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[CEIA] and as a result was the https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/indiv-nodes/alpha-beta-gamma-omega.xhtml["beta" female] during the https://websitebuilders.com/how-to/glossary/web1/[Web 1.0 period] when SMG was "queen of the Web")
 . Likely https://en.wikipedia.org/wiki/J._K._Rowling[JKRowling]
-. Likely https://en.wikipedia.org/wiki/Will_Smith[Will Smith]
 . Likely https://en.wikipedia.org/wiki/Paris_Hilton[Paris Hilton]
 . Likely https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian]
 
@@ -376,7 +373,7 @@ She, Samantha Smith, and Joss_Whedon became good friends, and colleagues.
 [[real_shlomif_success]]
 == Success in the Selinaverse; Living in a hell
 
-I suspect I lived in a hell-hole spawned by my fears, and that in the https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc[Selinaverse], I was highly successful, rich, revered, famous and admired.
+I suspect I lived in a hell-hole spawned by theGamers(TM), and that in the https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[Selinaverse], I was highly successful, rich, revered, famous and admired.
 I was a successful author, one of the film industry`'s biggest screenwriters, a world famous "blogger" (= Internet / social media content creator), and a remarkable https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[entertainer
 / educator / amateur philosopher].
 
