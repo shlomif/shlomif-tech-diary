@@ -116,14 +116,15 @@ Moreover, it seems it is much faster than Latemp, as well.
 My sites now incorporate such [industry best practices](https://perlhacks.com/2012/03/you-must-hate-version-control-systems/) as
 using version control, having an automated test suite, and using a Continuous
 Integration service. They should also be mostly valid HTML/XHTML markup.
-However, the Latemp-based one take a while to build and sometimes involve
+However, the Latemp-based ones take a while to build and sometimes involve
 quite a few levels of [indirection](https://en.wikipedia.org/wiki/Indirection)
 and preprocessing. So I cannot recommend using Latemp, due to this and because
 WML is quite complex.
 
-I also found the hybrid approach of both an SSG and a server-side CMS taken
-by [ikiwiki](https://en.wikipedia.org/wiki/Ikiwiki) appealing and used
-git repositories containing markdown files for a good effect.
+I also found the hybrid approach taken by
+[ikiwiki](https://en.wikipedia.org/wiki/Ikiwiki) of providing both an SSG and
+a server-side CMS appealing and used git repositories containing markdown files
+for a good effect.
 
 Like I said earlier, I find that writing your own custom SSG is not hard,
 and probably less hard than learning an existing one. Also see
@@ -144,7 +145,7 @@ lies my despair.
 
 You can reuse this entry under
 <a href="http://creativecommons.org/licenses/by-nc/3.0/">the Creative Commons
-Attribution Noncommercial 3.0 Unported</a> licence, or at your option any later version.
+Attribution Noncommercial (CC-by-nc) 3.0 Unported</a> licence, or at your option any later version.
 See the
 <a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
 on how to comply with it.
