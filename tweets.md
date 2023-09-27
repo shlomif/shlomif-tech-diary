@@ -792,6 +792,12 @@ https://www.youtube.com/watch?v=Wm2h0cbvsw8
 
 ----
 
+According to TheCodex™, a "goy" of a corporation (= set of hackers), is a hacker that doesnt consider himself a member of that corp. Eg: I am a goy of Christianity (while approve of it)
+
+https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/ongoing-text.html#proposing-to-phoebe
+
+----
+
 https://memory-alpha.fandom.com/wiki/Deanna_Troi was origly Selina's char-sheet. As none of Ambassador Troi's daughters was qualified psychotherapist, an unrelated ½Betazoid volntered2be her on the Enterprise. She 1st adressed her formaly, Lwaxana was so needy and domineering that she ended up calling her "mother".
 
 Deanna has a psychology term to describe it.
