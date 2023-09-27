@@ -576,6 +576,8 @@ Given he was a wizard, Stallman was aware that Schwarzenegger, Henson, and the o
 +
 "Jim" is also cognate with https://en.wikipedia.org/wiki/Jinn["jinn" (or "genie")], and he had a penchant for stage magic and video editing. 
 +
+As his last name implies, he believed he lived with his single-parent mother, in a relatively-small house-or-apartment in Rockville. 
++
 Henson was the leader, and had the veto. 
 
 I believe all three were larger than life, even then.
@@ -598,6 +600,7 @@ Here's another fun fact: the vampires Muppeteers have left the premises of their
 . The setting of Sesame Street was changed from Rockville to New York City. 
 . https://muppet.fandom.com/wiki/Ernie[Ernie] was originally link:#Arnold_Schwarzenegger["Arnie"]. 
 . https://muppet.fandom.com/wiki/Twiddlebugs[The Twiddlebugs] were originally smurfs. 
+. I suspect Sesame Street was a 20 minutes`' segment originally, and The_Muppet_Show was 10 minute. 
 
 
 [[dispelling-ziyoonism]]
