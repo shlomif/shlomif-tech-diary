@@ -798,6 +798,10 @@ https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/ongoing-text.html#
 
 ----
 
+It may be heresy, but I think #python 3 benefits less from typechecking (mypy/etc.) than JS → #TypesScript .
+
+----
+
 https://memory-alpha.fandom.com/wiki/Deanna_Troi was origly Selina's char-sheet. As none of Ambassador Troi's daughters was qualified psychotherapist, an unrelated ½Betazoid volntered2be her on the Enterprise. She 1st adressed her formaly, Lwaxana was so needy and domineering that she ended up calling her "mother".
 
 Deanna has a psychology term to describe it.
