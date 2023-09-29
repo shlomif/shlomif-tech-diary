@@ -802,6 +802,10 @@ It may be heresy, but I think #python 3 benefits less from typechecking (mypy/et
 
 ----
 
+If my template had not been cynical/pessimstic, I would not have been a terminator. However, his last-day decision to make me (and him) optimistic/life-loving/human-loving likely contributed to me not getting terminated earlier.
+
+----
+
 https://memory-alpha.fandom.com/wiki/Deanna_Troi was origly Selina's char-sheet. As none of Ambassador Troi's daughters was qualified psychotherapist, an unrelated ½Betazoid volntered2be her on the Enterprise. She 1st adressed her formaly, Lwaxana was so needy and domineering that she ended up calling her "mother".
 
 Deanna has a psychology term to describe it.
