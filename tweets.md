@@ -756,6 +756,12 @@ Wizards either have access to TheCodex™ or not.
 
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
+⇒
+
+I think wizard hackers can cast up to 2 spells each day. They gain 1 mana point every day. The mana4the2nd spell must be saved or earned/bought.
+
+[ Maybe after my catharsis, it'll be 3/2. ]
+
 ----
 
 According to TheCodex™:
