@@ -584,7 +584,7 @@ I believe all three were larger than life, even then.
 It is a testament to Selinaverse-an technology that I, a https://www.shlomifish.org/me/business-card/["humorist, writer, and software geek"] (or a 'blogger' or a 'web monkey'), am somehow comparable to them. 
 
 One day in 1969, the three lamented the fact that the late 1960s Anglophone link:#terrestrial[terrestrial] television has become too paranoid, and so decided that they will act, produce, and distribute, a *gratis, public domain, and non-commercial* television show for children, called https://en.wikipedia.org/wiki/Sesame_Street[Sesame Street].
-Part of the reason for keeping it free was that they intended it to sport a lot of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[fan-fiction, RPF, fan-art and song covers] (which they believed were legally problematic) and part of it was due to https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml[an
+Part of the reason for keeping it free was that they intended it to sport a lot of https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[fan-fiction, RPF, fan-art, and song covers] (which they believed were legally problematic) and part of it was due to https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml[an
 altruistic spirit of sharing]. 
 
 They expected __Sesame Street__'s popularity to be mostly confined to their base-town, https://en.wikipedia.org/wiki/Rockville,_Maryland[Rockville, Maryland], but thought that https://www.shlomifish.org/humour/fortunes/show.cgi?id=mishnah--saving-one-soul[ They who saved one soul has saved the world Entire ]. 
@@ -600,7 +600,7 @@ Here's another fun fact: the vampires Muppeteers have left the premises of their
 . The setting of Sesame Street was changed from Rockville to New York City. 
 . https://muppet.fandom.com/wiki/Ernie[Ernie] was originally link:#Arnold_Schwarzenegger["Arnie"]. 
 . https://muppet.fandom.com/wiki/Twiddlebugs[The Twiddlebugs] were originally smurfs. 
-. I suspect Sesame Street was a 20 minutes`' segment originally, and The_Muppet_Show was 10 minute. 
+. I suspect Sesame Street was a 20 minutes`' segment originally, and The Muppet Show was 10 minute. 
 
 
 [[dispelling-ziyoonism]]
@@ -667,7 +667,7 @@ Corresponding with the girls, The Muppeteers soon realised that their crudely pr
 Commercial Real Person Fan Fiction (RPFs),
 crossovers and parodies] (which were tolerated and encouraged in the non terrestrial universe), as well.
 Moreover, they all had https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hollywood_screenplay_format[antagonism toward the terrestrial
-"Hollywood-blessed screenplay format"] (which was neither popular nor mandated). They also realised they were rich, famous, and that their terrestrial "real world"s were lies. 
+"Hollywood-blessed screenplay format"] (which was neither popular nor mandated). They also realised they were rich, famous, and that their terrestrial hells "real world"s were lies. 
 
 All the remaining vampires were slain by Jim Henson. 
 
@@ -741,8 +741,7 @@ In my case, my mind was reset https://www.shlomifish.org/meta/FAQ/how_did_you_le
 the guise of fellow children mocking my use of English].
 For many others, it was a concussion from a fall.
 Thing is: my https://www.shlomifish.org/meta/FAQ/your_name.xhtml[first name
-means "Shalom-ful"] in Hebrew.
-The link:#the-devils[devils] promised that my body will remain complete and whole. 
+means "Shalom-ful"] in Hebrew, where "shalom" stems from "completeness".  The link:#the-devils[devils] promised that my body will remain complete and whole. 
 
 These people, starting as false prophets, became known as The Terran Terminators.
 After relinquishing their fears, they have *ascended* so to speak (see https://buffy.fandom.com/wiki/Ascension ). Do note that this ascension was in a way a "submission" or "surrendering" to a superior https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc#user-content-slain-by-a-vampire[vampire
@@ -772,6 +771,7 @@ I, https://www.shlomifish.org/me/contact-me/[Shlomi "Rindolf" Fish], am willing 
 . In order to make sure that every hacker and hack in Fantastecha(TM) (except maybe me) will remain alive, healthy, and happy. 
 . In order to make sure https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie] is alive, healthy, conscious, kicking, and being awesome. 
 . In order to save https://www.shlomifish.org/[shlomifish.org] and its build dependencies from being permanently destroyed or lost. 
+. Make a complete past recording of my mind available to all Selinaverse and Shlomifverse hackers (including what I have of TheCodex(TM) so far). 
 
 
 [[terran-terminators-list]]
@@ -827,7 +827,7 @@ Moreover, similarly to Jesus, I have been willing to suffer a little more if it 
 
 I also preferred to err on naivity than on cynicism, and https://www.shlomifish.org/humour/stories/#intro[encouraged everyone and everything to improve]. 
 
-It also helped that I have been seld-centred, narcissistic, and meglomaniacal. 
+It may also have helped that I have been seld-centred, narcissistic, and meglomaniacal. 
 
 [[why-shlomif-became-a-terminator]]
 === Why my template made me a terran terminator
