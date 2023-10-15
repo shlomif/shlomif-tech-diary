@@ -812,3 +812,9 @@ If my template had not been cynical/pessimstic, I would not have been a terminat
 
 ----
 
+I'm 90% sure that the Gaza or Lebanon militaries can accurately+quickly shoot&destroy any building in Gush-Dan (incl mine), even given Iron-Dome. The mideast warzone layer assumes that non-interested true-prophet civilians are unaffected.
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
