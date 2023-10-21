@@ -818,3 +818,11 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 ----
 
+mold-linker, a modern, fast, linker is now MITLed:
+
+https://github.com/rui314/mold/commit/a066fe25c6f9ccab11cd07345241492af70d6583
+
+It has packages for Fedora and many other OSes.
+
+----
+
