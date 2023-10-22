@@ -42,12 +42,11 @@ sub run
 </info>
 
 <orderedlist>
-
 EOF
 
     for ( my $idx = 0 ; $idx < 10 ; $idx++ )
     {
-        $text .= "<listitem>\n";
+        $text .= "\n<listitem>\n\n";
         my @lines = split /[\n\r]+/ms, <<"EOF";
 Die, fucker, die.
 Yeah, zine.
@@ -63,6 +62,7 @@ EOF
         $text .= "</listitem>\n";
     }
     $text .= <<"EOF";
+
 </orderedlist>
 </section>
 EOF
