@@ -35,7 +35,7 @@ sub run
     #    $obj->do_system( { cmd => [ "git", "clone", "-b", $BRANCH, $URL, ] } );
 
     my $text = <<"EOF";
-<section xml:id="mantra12">
+<section xml:id="mantra13">
 
 <info>
 <title>mantra</title>
@@ -68,7 +68,9 @@ EOF
 EOF
 
     print $text, "\n";
-
+    my $fh = path("multiverse-cosmology-v0.4.x.docbook5.xml");
+    $fh->spew_utf8( $fh->slurp_utf8() =~
+            s%\Q<section xml:id="mantra13">\E.*?\Q</section>\E%$text%mrs );
     exit(0);
 }
 
