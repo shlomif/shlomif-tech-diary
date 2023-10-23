@@ -67,10 +67,15 @@ EOF
 </section>
 EOF
 
-    print $text, "\n";
-    my $fh = path("multiverse-cosmology-v0.4.x.docbook5.xml");
-    $fh->spew_utf8( $fh->slurp_utf8() =~
-            s%\Q<section xml:id="mantra13">\E.*?\Q</section>\E\n%$text%mrs );
+    if (0)
+    {
+        print $text, "\n";
+    }
+    my $fh       = path("multiverse-cosmology-v0.4.x.docbook5.xml");
+    my $contents = $fh->slurp_utf8();
+    $contents =~ s%\Q<section xml:id="mantra13">\E.*?\Q</section>\E\n%$text%ms
+        or die "cannot subtitute mantra13 text";
+    $fh->spew_utf8($contents);
     exit(0);
 }
 
