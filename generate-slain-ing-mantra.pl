@@ -51,7 +51,7 @@ EOF
 Die, fucker, die.
 Yeah, zine.
 suck, dick.
-Cool, java, hack.
+Armageddon us.
 EOF
 
         foreach my $line (@lines)
@@ -93,6 +93,11 @@ __END__
 =head1 REJECTS
 
 sack, fuck.
+
+Die, fucker, die.
+Yeah, zine.
+suck, dick.
+Cool, java, hack.
 
 =head1 COPYRIGHT AND LICENSE
 
