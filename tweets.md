@@ -826,3 +826,11 @@ It has packages for Fedora and many other OSes.
 
 ----
 
+Having read #TBBT Sheldon’ wikip page ( https://en.wikipedia.org/wiki/Sheldon_Cooper ), it seems he resembles me in many ways. Seems like he was conceived as a parody of me:
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#ftn.pincer1
+
+Maybe in his world, "Shlomi Fish" is a famous pop-culture parody of him.
+
+----
+
