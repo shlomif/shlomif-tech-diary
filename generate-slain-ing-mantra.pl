@@ -51,7 +51,7 @@ EOF
 Die, fucker, die.
 Yeah, Zine,
 Suck, Dick,
-Cock. Puke, Hack.
+Cock, Puke, Hack.
 EOF
 
         foreach my $line (@lines)
