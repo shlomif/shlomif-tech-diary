@@ -49,9 +49,9 @@ EOF
         $text .= "\n<listitem>\n\n";
         my @lines = split /[\n\r]+/ms, <<"EOF";
 Die, fucker, die.
-Yeah, zine.
-suck, dick.
-Armageddon us.
+Yeah, Zine,
+Suck, Dick,
+Cock. Puke, Hack.
 EOF
 
         foreach my $line (@lines)
@@ -98,6 +98,11 @@ Die, fucker, die.
 Yeah, zine.
 suck, dick.
 Cool, java, hack.
+
+Die, fucker, die.
+Yeah, zine.
+suck, dick.
+Armageddon us.
 
 =head1 COPYRIGHT AND LICENSE
 
