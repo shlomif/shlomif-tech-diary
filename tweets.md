@@ -834,3 +834,7 @@ Maybe in his world, "Shlomi Fish" is a famous pop-culture parody of him.
 
 ----
 
+If a human needs to learn how to intelligently query an artificial intelligence ( #AI ) chat-bot, how much intelligent is the AI?
+
+----
+
