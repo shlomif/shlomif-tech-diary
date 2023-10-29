@@ -51,7 +51,7 @@ EOF
 Die, fucker, die.
 Yeah, Zine,
 Suck, Dick,
-Cock, Puke, Hack.
+Cock, Fuck, Hack.
 EOF
 
         foreach my $line (@lines)
@@ -103,6 +103,11 @@ Die, fucker, die.
 Yeah, zine.
 suck, dick.
 Armageddon us.
+
+Die, fucker, die.
+Yeah, Zine,
+Suck, Dick,
+Cock, Puke, Hack.
 
 =head1 COPYRIGHT AND LICENSE
 
