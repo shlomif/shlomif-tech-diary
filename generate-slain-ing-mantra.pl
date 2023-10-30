@@ -44,7 +44,7 @@ sub run
 <orderedlist>
 EOF
 
-    for ( my $idx = 0 ; $idx < 10 ; $idx++ )
+    foreach my $idx ( 1 .. 100 )
     {
         $text .= "\n<listitem>\n\n";
         my @lines = split /[\n\r]+/ms, <<"EOF";
