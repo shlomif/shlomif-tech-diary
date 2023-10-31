@@ -164,7 +164,7 @@ Despite her reported assassination, many people online and IRL claim they have n
 </listitem>
 
 <listitem>
-<para>⇒ Others with bad outcomes: <link xl:href="https://www.shlomifish.org/humour/bits/facts/Summer-Glau/">Summer Glau</link>, <link xl:href="https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml">Sarah Michelle Gellar (SMG)</link>, <link xl:href="https://en.wikipedia.org/wiki/Jennifer_Aniston">https://en.wikipedia.org/wiki/Jennifer_Aniston</link> , <link xl:href="https://en.wikipedia.org/wiki/John_Candy">https://en.wikipedia.org/wiki/John_Candy</link> , <link xl:href="https://en.wikipedia.org/wiki/Beverly_Hills_Ninja">Chris Farley</link> , <link xl:href="https://www.imdb.com/name/nm0504516/">Ron Lester</link>, Jim Henson, Ayn Rand.</para>
+<para>⇒ Others with bad outcomes: <link xl:href="https://www.shlomifish.org/humour/bits/facts/Summer-Glau/">Summer Glau</link>, <link xl:href="https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml">Sarah Michelle Gellar (SMG)</link>, <link xl:href="https://en.wikipedia.org/wiki/Jennifer_Aniston">Jennifer_Aniston</link> , <link xl:href="https://en.wikipedia.org/wiki/John_Candy">John_Candy</link> , <link xl:href="https://en.wikipedia.org/wiki/Beverly_Hills_Ninja">Chris Farley</link> , <link xl:href="https://www.imdb.com/name/nm0504516/">Ron Lester</link>, Jim Henson, Ayn Rand.</para>
 </listitem>
 
 </itemizedlist>
@@ -238,7 +238,7 @@ Despite her reported assassination, many people online and IRL claim they have n
 </listitem>
 
 <listitem>
-<para>Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the <link xl:href="https://en.wikipedia.org/wiki/Akashic_records">https://en.wikipedia.org/wiki/Akashic_records</link> are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability and other kinds of <link xl:href="https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/notes/quality-software--followup-2018.md">quality</link>. See e.g. <link xl:href="http://www.h-online.com/open/features/Is-Microsoft-running-out-of-steam-1102654.html">the variations on the James Watt’s steam engine</link>.</para>
+<para>Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the <link xl:href="https://en.wikipedia.org/wiki/Akashic_records">Akashic_records</link> are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability and other kinds of <link xl:href="https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/notes/quality-software--followup-2018.md">quality</link>. See e.g. <link xl:href="http://www.h-online.com/open/features/Is-Microsoft-running-out-of-steam-1102654.html">the variations on the James Watt’s steam engine</link>.</para>
 
 <itemizedlist>
 <listitem>
@@ -294,7 +294,6 @@ Some say one cannot even compliment a woman for her looks.</para>
 <itemizedlist>
 <listitem>
 <para>⇒ The same thing happened with <link xl:href="https://en.wikipedia.org/wiki/Joss_Whedon">Joss_Whedon</link>'s alleged "sexual harassment" claims. ( also see <link xl:href="https://en.wikipedia.org/w/index.php?title=Buffy_studies&amp;oldid=1022301852">Buffy studies</link> for his remarkable advancement of feminism ).</para>
-
 </listitem>
 </itemizedlist>
 </listitem>
@@ -436,7 +435,7 @@ The terrestrial food supply cannot/could-not scale so well.
 </para>
 
 <para>
-we cannot reasonably distribute so many food products all over USA, Europe, Asia, Israel, etc. wo magic.
+we cannot reasonably distribute so many food products all over USA, Europe, Asia, Israel, etc. without magic.
 </para>
 </listitem>
 
@@ -505,7 +504,7 @@ implement: e.g: C++, CSS 3.x, ghc, Common Lisp <link xlink:href="https://twitter
 
 <listitem>
 <para>
-<link xlink:href="https://www.shlomifish.org/Files/files/images/hostgator-no-python3.png">HostGator removing python3 and requiring v2.7.5 (!)</link>
+<link xlink:href="https://www.shlomifish.org/Files/files/images/hostgator-no-python3.png">HostGator removing python v3 and requiring v2.7.5 (!)</link>
 </para>
 </listitem>
 
@@ -640,9 +639,9 @@ not exercising.
 
 <listitem>
 <para>
-There is a high-performance chess engine, written in C under GPL/AGPL.
-One dev maintains an enhanced fork of it, of which he privately gives
-binaries, only after lengthy background checks.
+There is a high-performance chess engine, written in C under GPL/AGPL. One dev
+maintains an enhanced fork of it, of which he privately gives binaries, only
+after lengthy background checks (a grand waste of time/energy/love).
 </para>
 </listitem>
 
@@ -876,6 +875,12 @@ Accused of "trolling" when I was being frank.
 
 <listitem>
 <para>
+Accused of being narcissistic.
+</para>
+</listitem>
+
+<listitem>
+<para>
 Whatever generalisation I make, there will be someone on IRC/facebook-chat who will claim an exception.
 </para>
 
@@ -918,7 +923,7 @@ Whatever generalisation I make, there will be someone on IRC/facebook-chat who w
 </listitem>
 
 <listitem>
-<para>There is a shortage of <link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml">sentient beings' "love"</link> - education and entertainment and conception of new values (whether tangible or spiritual). Akin to the Biblical verb <link linkend="biblical_to_know">to know</link>.</para>
+<para>There is a shortage of <link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml">sentient beings' "love" and "knowledge"</link> - education and entertainment and conception of new values (whether tangible or spiritual). Akin to the Biblical verb <link linkend="biblical_to_know">to know</link>.</para>
 </listitem>
 
 <listitem>
@@ -1101,15 +1106,12 @@ Whatever generalisation I make, there will be someone on IRC/facebook-chat who w
 <para>humour: challenging truisms/falsisms</para>
 </listitem>
 <listitem>
-<para>free will: the ability to decide to decide to do sth else.</para>
+<para>free will: the ability to decide to decide to do something else.</para>
 </listitem>
 </orderedlist>
 <para>The devils held Planet Earth in a mind hell. Humans had egoes but were "false prophets" and listened to the devils’ mutations of the utterances of the gods/leaders and perceived reality differently in their mediums.</para>
 <para>Nevertheless, many false prophets ascended, relinquished all their fears, and became fearless immortal "true prophets". That caused the psycho-geographical region to stop being a hellhole (possibly without its Capital at first).</para>
 <para><link xl:href="https://en.wikipedia.org/wiki/Land_of_Israel">The Land_of_Israel</link> was particularly problematic because it was segmented into many territories.</para>
-<para>In 1982, <link xl:href="https://en.wikipedia.org/wiki/Samantha_Smith">Samantha Smith</link>, a 1972-born American girl, engaged in a snailmail dialogue with the secretary of the USSR. <link xl:href="https://en.wikipedia.org/wiki/Joss_Whedon">Joss Whedon</link> suggested using the terrestrial mass media infrastructure in place for <link xl:href="https://en.wikipedia.org/wiki/The_Muppet_Show">The Muppet Show</link> to air a The Muppet Show special starring her with the ascension mantra.</para>
-<para>All the remaining false prophets were avid fans of The Muppet Show , but may have thought it was considered silly and childish among the general public. In actuality, Jim Henson and the muppeteers were multiverse superstars and heroes. The Samantha Smith episode was particularly bizarre featuring a <link xl:href="https://muppet.fandom.com/wiki/Muppet_Labs">Muppet Labs</link> skit where Bunsen and Beaker tested a membrane to enclose a (real!) <link xl:href="https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc">hydrogen bomb</link>; the membrane didn’t work and yet there was only a local sand splash.</para>
-<para>The false prophets watched it and ascended.</para>
 
 <section xml:id="_the_terran_terminators">
 
@@ -1126,10 +1128,10 @@ prophets again, or continue as enlightened true prophets.</para>
 <para>Several newly-ascended true prophets opted out, from various reasons.</para>
 
 <para>The remaining spent the summer there creating many crossover memes, stories,
-and franchises, or otherwise enjoying magic, life, love/etc.. However, when we
-met to decide, we realised we were nonetheless still petty / jealous / cruel /
+and franchises, or otherwise enjoying magic, life, love/etc.. However, when they
+met to decide, they realised they were nonetheless still petty / jealous / cruel /
 "unfaithful" / immature / etc. Some had years, or decades (or more?) of history
-they wanted to get rid of. So most of us decided to continue as terminators,
+they wanted to get rid of. So many of them decided to continue as terminators,
 possibly by peer pressure.</para>
 
 <para>Except at least one: the circa 1977-born Selina Mandrake.</para>
