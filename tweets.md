@@ -838,3 +838,15 @@ If a human needs to learn how to intelligently query an artificial intelligence 
 
 ----
 
+I saw this book on a "giveaway bench" and had2take it. Rodman’s strategy seems the opposite of my careful/conscientious/kind/well-meaning one (which I think got me far). But it’s also valid #hacking , and may be enltning.
+
+https://en.wikipedia.org/wiki/Bad_as_I_Wanna_Be
+
+----
+
+
+----
+
+
+----
+
