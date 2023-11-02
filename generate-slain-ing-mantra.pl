@@ -50,8 +50,8 @@ EOF
         my @lines = split /[\n\r]+/ms, <<"EOF";
 Die, fucker, die.
 Yeah, Zine,
-Suck, Dick,
-Cock, Fuck, Hack.
+Suck, Cock,
+Dick, Rock, Hack.
 EOF
 
         foreach my $line (@lines)
@@ -108,6 +108,11 @@ Die, fucker, die.
 Yeah, Zine,
 Suck, Dick,
 Cock, Puke, Hack.
+
+Die, fucker, die.
+Yeah, Zine,
+Suck, Dick,
+Cock, Fuck, Hack.
 
 =head1 COPYRIGHT AND LICENSE
 
