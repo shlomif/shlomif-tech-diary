@@ -844,6 +844,7 @@ https://en.wikipedia.org/wiki/Bad_as_I_Wanna_Be
 
 ----
 
+Inside an interactive unix shell, one can type "zsh" (or "bash") to throw away future env-vars/etc. clutter like "bash themes" ( https://www.shlomifish.org/philosophy/Index/#theming_bash ). #techtip #tip .
 
 ----
 
