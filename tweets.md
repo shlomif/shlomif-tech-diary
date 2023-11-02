@@ -848,6 +848,9 @@ Inside an interactive unix shell, one can type "zsh" (or "bash") to throw away f
 
 ----
 
+https://en.wikipedia.org/wiki/Alexander_the_Great liberated northern Tel Aviv [minus the tau.ac.il campus which would be liberated by Saladin] on his way to Gaza and Egypt, which caused the Yarkon and Ayalon streams to spring-up giving Gush-Dan a Mordor-like geography.
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
 
 ----
 
