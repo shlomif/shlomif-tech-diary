@@ -123,6 +123,13 @@ Moreover, "Stutz" ["סטוץ"], an Israeli dating gameshow used to match teenage
 * "People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
 * Electrical / Internet / water / gas / etc. wiring happens by magic.
 * Many classics are needlessly long and repetitive, e.g: https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex]
++
+The canonical https://en.wikipedia.org/wiki/Hebrew_Bible[Tanakh
+(+++=+++ Hebrew Bible)], Plato`'s https://en.wikipedia.org/wiki/Republic_(Plato)[Republic], Tolkien`'s https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[Lord of the
+Rings], Ayn Rand`'s https://en.wikipedia.org/wiki/Atlas_Shrugged[Atlas Shrugged], Dostoevsky`'s https://en.wikipedia.org/wiki/Crime_and_Punishment[Crime and
+Punishment] , Shakespeare`'s https://en.wikipedia.org/wiki/Shakespeare%27s_plays[Plays], etc.
+have likely undergone lengthening and mutation by the Orcs.
+However, often the originators liked the mutated versions better. 
 * {empty}
 +
 
