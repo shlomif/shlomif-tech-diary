@@ -854,3 +854,9 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
 
 ----
 
+I think Muhammad was being parodical when speaking about Jihad ( https://en.wikipedia.org/wiki/Jihad )
+
+ref: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma
+
+----
+
