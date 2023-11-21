@@ -860,3 +860,4 @@ ref: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-ficti
 
 ----
 
+I find the prospects of rebooting to a new Fedora Linux kernel exciting. either I should be glad that I'm not blasé, or I really should go out more.
