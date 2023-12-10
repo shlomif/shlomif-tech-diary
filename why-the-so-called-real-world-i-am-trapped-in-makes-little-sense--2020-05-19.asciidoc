@@ -55,8 +55,11 @@ And it shall be called ...​ The Earth."
 * https://www.youtube.com/watch?v=gdbh6GUJ5XY[Pirates of the Caribean: Ghost story] - food tastes the same (despite proclemation of being freshly made).
 
 
+[[evidence-that-this-hell-isnt-real]]
+== evidence-that-this-hell-isnt-real
+
 [[more-thoughts]]
-== More thoughts:
+=== More thoughts:
 
 * https://www.explainxkcd.com/[xkcd] had some RPF (= https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/["Real Person Fiction"], e.g: https://www.explainxkcd.com/wiki/index.php/406:_Venting ), and my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ was well-received on https://www.reddit.com/r/xkcd/[/r/xkcd] and elsewhere. Nevertheless, later on I was told "RPF? Never do that!" on an xkcd IRC chatroom, and was promptly banned.
 * "People" online are afraid of http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[critics and contrarians] and yet sadistic enough to ban non-spammers.
@@ -204,7 +207,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 
 
 [[obstacles-and-delays]]
-=== Obstacles and Delays:
+==== Obstacles and Delays:
 
 . Pro/anti-Israel; Pro/anti-"Zionism" - https://www.shlomifish.org/philosophy/politics/define-zionism/ / https://www.shlomifish.org/meta/FAQ/zionist.xhtml
 
