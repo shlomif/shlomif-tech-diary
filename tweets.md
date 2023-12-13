@@ -861,3 +861,13 @@ ref: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-ficti
 ----
 
 I find the prospects of rebooting to a new Fedora Linux kernel exciting. either I should be glad that I'm not blasé, or I really should go out more.
+
+----
+
+LeoNerd: All your buttons must be flat plain black text on the exact same white background as the real BG so users can’t see where the edges of the button are
+
+That’s how you can tell it’s "modern" now
+
+Sorry, did I say black on white? I meant grey on a slightly different grey
+
+— https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-modern-web-sites
