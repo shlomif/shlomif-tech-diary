@@ -871,3 +871,7 @@ That’s how you can tell it’s "modern" now
 Sorry, did I say black on white? I meant grey on a slightly different grey
 
 — https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-modern-web-sites
+
+----
+
+“How can we use sex to get what we want? Sex *is* what we want!” — Frasier via @nyharel
