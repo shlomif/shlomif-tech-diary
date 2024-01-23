@@ -8,7 +8,7 @@ Shlomi Fish <shlomif@cpan.org>
 Note:
 -----
 
-This is just a hypothesis! Even I'm not sure it is true. If you happen to gain access to an actual atomic bomb, then please https://duckduckgo.com/?q=%22don%27t+be+a+dick%22+wheaton%27s+law&atb=v140-1&ia=web[don't be a dick] and detonate it wherever:
+This is just a hypothesis! Even I'm not sure it is true. If you happen to gain access to an actual atomic bomb, then please https://duckduckgo.com/?q=%22don%27t+be+a+dick%22+wheaton%27s+law&atb=v140-1&ia=web[don't be a dick] and detonate it anywhere:
 
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#all_people_are_good[All people are good]
 * https://www.youtube.com/watch?v=cTBx-hHf4BE["One Tin Soldier"] - why destruction is self-defeating
@@ -22,7 +22,7 @@ image::images/Atomic-bomb--Little_boy--Hiroshima.jpg[Model of The "Little Boy" A
 
 The aptly named "Little Boy" bomb: https://en.wikipedia.org/wiki/Little_Boy
 weighed 4.4 tons and contained 64 kilograms of Uranium, and didn't destroy
-the whole of https://en.wikipedia.org/wiki/Hiroshima which was smaller then, and some
+the whole of https://en.wikipedia.org/wiki/Hiroshima[Hiroshima] which was smaller then, and some
 locals survived. Furthermore, a prototype of it was tested in the western
 USA desert.
 
@@ -37,19 +37,19 @@ image::images/true-lies--segment--vlcsnap-2021-02-04-15h49m51s131.png["True Lies
 
 https://www.youtube.com/watch?v=BkyYk1Jr-cg[Segment from the film "True Lies"]
 
-As this segment shows shooting missiles from
+As this segment shows, shooting missiles from
 a fighter jet does not detonate small nuclear bombs.
 
 ---
 
 How come https://en.wikipedia.org/wiki/Iran[Iran] has been working
 on an Atomic Bomb for 31 years now? It took https://en.wikipedia.org/wiki/Manhattan_Project[the Manhattan Project]
-less than 4 years. Iran wishes the uninformed to think they are developing
+less than 4 years. Iran wishes the under-informed to think they are developing
 an atomic bomb but have no intention of actually developing one.
 
 The Iranians cannot be stupid enough to allow https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] to happen given they were aware of Microsoft Windows being vulnerable in the 2000s. I'm fairly certain they cooperated with Israel/USA and possibly large parts of the greater international intelligence community.
 
-A study was published about building an atomic bomb using Uranium ores and home equipment.
+A study was published which described how to build an atomic bomb using only household equipment, except for Uranium ores.
 
 ---
 
@@ -78,7 +78,7 @@ Dispelling some myths about Israel:
 
 . Most Israeli soldiers do not carry guns (as most of them are not combat fighters), nor do the vast majority of Israeli civilians (who will need a very good reason to get a gun license).
 
-. Neither Israelis nor the Palestinians have been genociding each other: https://www.shlomifish.org/meta/FAQ/is_it_true_that_israel_genocides_palestinians.xhtml . Whatever acts of murder and brutality were a far cry from exceeding the population growth.
+. Neither Israelis nor the Palestinians have been genociding each other: https://www.shlomifish.org/meta/FAQ/is_it_true_that_israel_genocides_palestinians.xhtml . Whatever acts of murder and brutality were a far cry from exceeding the natural population growth.
 
 . Not all Israelis are https://www.shlomifish.org/meta/FAQ/are_you_an_agent.xhtml[Mossad agents] (this document is just my attempt at hobbyist espionage based on publicly-accessible sources) and naturally most of them are a far cry from having received https://en.wikipedia.org/wiki/You_Don%27t_Mess_with_the_Zohan["Zohan"-like] commando training. (But see:
 https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ongoing-text.html#summer%5fglau%5fpresents%5f%5fthe%5ftalk%5f%5famateur%5ffighters[Amateur fighters] and https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-english-play-to-lose["Play to Lose"] .)
