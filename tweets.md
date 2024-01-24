@@ -875,3 +875,7 @@ Sorry, did I say black on white? I meant grey on a slightly different grey
 ----
 
 “How can we use sex to get what we want? Sex *is* what we want!” — Frasier via @nyharel
+
+----
+
+The world's chocolate industry would deplete the yearly supply of cocoa beans, in a matter of a few days, if it weren't for magic. McD alone would kill all cows in a few weeks.
