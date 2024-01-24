@@ -879,3 +879,13 @@ Sorry, did I say black on white? I meant grey on a slightly different grey
 ----
 
 The world's chocolate industry would deplete the yearly supply of cocoa beans, in a matter of a few days, if it weren't for magic. McD alone would kill all cows in a few weeks.
+
+----
+
+Sarah: just my luck! I'm stuck with 2 gay guys.
+
+Alan: I'm not gay! I'm British. [Kisses Sarah]
+
+Paulo: well, I am gay. But OTOH, I'm Italian. [Also kisses Sarah]
+
+#flashfic #humor
