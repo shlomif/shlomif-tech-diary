@@ -790,6 +790,8 @@ Re Jennens vs Jennens https://en.wikipedia.org/wiki/William_Jennens , the2sides 
 
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
+⇒
+
 ----
 
 I tend-to-think react/vue/etc. are more trouble than they're worth.
@@ -889,3 +891,7 @@ Alan: I'm not gay! I'm British. [Kisses Sarah]
 Paulo: well, I am gay. But OTOH, I'm Italian. [Also kisses Sarah]
 
 #flashfic #humor
+
+----
+
+https://www.youtube.com/watch?v=cdhHOFv5suY - a great Jazz/Pop/classical fusion-style perf of Pachelbel's Canon. Also see: http://esr.ibiblio.org/?p=4229 ; https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#share-the-love .
