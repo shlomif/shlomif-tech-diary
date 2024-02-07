@@ -895,3 +895,12 @@ Paulo: well, I am gay. But OTOH, I'm Italian. [Also kisses Sarah]
 ----
 
 https://www.youtube.com/watch?v=cdhHOFv5suY - a great Jazz/Pop/classical fusion-style perf of Pachelbel's Canon. Also see: http://esr.ibiblio.org/?p=4229 ; https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#share-the-love .
+
+----
+
+This DDG search has been returning nearly-identical results for many months [despite reloads]: https://duckduckgo.com/?q=green+d10+die&atb=v140-1&iax=images&ia=images
+
+Occam's Razor tells me there *is* a conspiracy.
+
+----
+
