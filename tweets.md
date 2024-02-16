@@ -904,3 +904,13 @@ Occam's Razor tells me there *is* a conspiracy.
 
 ----
 
+I think TheGame™-of-Fantastecha™ has a cheat: you need to think about it enuf times:
+
+https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#dont_just_go_with_the_flow
+
+https://en.wikipedia.org/wiki/The_Game_(mind_game)
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
