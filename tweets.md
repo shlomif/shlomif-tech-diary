@@ -885,9 +885,7 @@ The world's chocolate industry would deplete the yearly supply of cocoa beans, i
 ----
 
 Sarah: just my luck! I'm stuck with 2 gay guys.
-
 Alan: I'm not gay! I'm British. [Kisses Sarah]
-
 Paulo: well, I am gay. But OTOH, I'm Italian. [Also kisses Sarah]
 
 #flashfic #humor
@@ -911,6 +909,14 @@ https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-
 https://en.wikipedia.org/wiki/The_Game_(mind_game)
 
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
+"Good judgement comes from experience. Experience comes from bad judgement." [ By Nasruddin? ]
+
+"The best way to get help on Usenet is not to ask a question, but to post a wrong answer". [ Unknown. ]
+
+If you are wrong, then being corrected (or even humiliated) will make you better understand and remember the right[er] fact. Also see: https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic .
 
 ----
 
