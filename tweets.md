@@ -920,3 +920,9 @@ If you are wrong, then being corrected (or even humiliated) will make you better
 
 ----
 
+Pacifists may be disappointed, but after (and if) the rest-of-days, there’ll still be wars. Civilian wizards can optoutof Earth’s warzone layer, and it's safe.
+
+1 neednot good excuse4a war, just like notneed to play Chess/Checkers/Street-Fighter/etc.
+
+----
+
