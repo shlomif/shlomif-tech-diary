@@ -21,7 +21,7 @@ Here are some reasons the outside world as I perceive it makes little sense:
 We seem to be dealing with epistemological demons.
 
 I exhibit a Descarteseque https://en.wikipedia.org/wiki/Evil_demon[Evil demon] - like situation.
-The demon contorts my perception of the outside world, and may input false emotions and the occasional false thought, but I still have my centre-of-consciousness (aka "the soul", or "the ego"), logic, reason, and older memories.
+The demon contorts my perception of the outside world, and may input false emotions and some false thoughts, but I still have my centre-of-consciousness (aka "the soul", or "the ego"), logic, reason, and older memories.
 
 I believed reality is what I was told it must be (by decree of "Science" or "common sense") rather than what I *wanted* it to be ( re link:#selinaverse_vision[The Selinaverse vision] ). As a result, the demon increasingly tried to convince me the world was getting worse, and that I was increasingly ignored, isolated, and unpopular.
 
@@ -124,7 +124,7 @@ Moreover, "Stutz" ["סטוץ"], an Israeli dating gameshow used to match teenage
 * "People" online are afraid of hearing contrasting views, yet are often cruel enough to block/ban/devoice contrarians. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage criticism].
 * A correspondent told me that "[a flat] 100% of the https://en.wikipedia.org/wiki/Aleppo_Codex is crap." Then I gave https://biblehub.com/parallel/1_kings/20-11.htm as a counterexample, and there was no commentary for it in a site of atheist objections.
 * https://twitter.com/shlomif/status/1407204486985175043
-* The latest obsession of 'geeks' with Japanese culture is a mirage of the fuckers done to make me feel unpopular: https://youtube.com/watch?v=xZLwtc9x4yA ; https://shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
+* The latest obsession of 'geeks' with Japanese culture is a mirage of the fuckers done to make me feel unpopular: https://youtube.com/watch?v=xZLwtc9x4yA ; https://shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/["`The Case for commercial Fan-fiction.`"]
 * Likewise with the 'Asperger syndrome': https://shlomifish.org/meta/FAQ/asperger_syndrome.xhtml ; obesity ; environmental issues ; etc.
 * arduino is a mirage of the devils just like Angular / react.js and bitcoin and discord.gg .
 * Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rock?
@@ -209,6 +209,10 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_arnie.xhtml[Arnold Schwarzenegger] reportedly started his acting career when in his 40s. Ageism aside, the real reason was his template`'s secret history as one of https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#history-lesson-about-the-muppeteers[The Three [Head] Muppeteers]. 
 * https://www.youtube.com/watch?v=Zlot0i3Zykw[Taylor Swift - "Red"] - I match her description, and as of 2023-11-13 my sex-life has amounted to https://www.shlomifish.org/humour/bits/true-stories/my-first-kiss/[one, brief, kiss] . 
 * It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and the https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] were constructed using magic. 
+* Many people to whom I wrote, have not replied to my messages, or requests. 
++
+This is despite https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time["`Sarah Michelle Gellar`' quotation about giving back money and time`"]
+* Videos are removed, blocked, or otherwise censored from my YouTube based on apparent whim. ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#YouTube[Reference] . ) 
 
 
 [[obstacles-and-delays]]
@@ -619,7 +623,7 @@ And a free one.
 === Welcome-to-the-Grimmieverse:
 
 The Terran Terminators have admitted inferiority to one another and the last one standing admitted defeat to their philosophical brainchildren: the YouTube cover/etc.
-scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider and https://en.wikipedia.org/wiki/Christina_Grimmie (Taytay is great too, but she is/was a terminator.)
+scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo Schneider] and https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie] (Taytay is great too, but she is/was a terminator.)
 
 [[post-ascension-plan]]
 == Post-ascension Plan
