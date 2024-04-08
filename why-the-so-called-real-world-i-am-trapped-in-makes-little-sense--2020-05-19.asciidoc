@@ -92,25 +92,25 @@ It is also seems incredibly farfetched to believe that there are enough Cocoa Be
 * Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the https://en.wikipedia.org/wiki/Akashic_records[Akashic_records] are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability and other kinds of https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/notes/quality-software--followup-2018.md[quality]. See e.g. http://www.h-online.com/open/features/Is-Microsoft-running-out-of-steam-1102654.html[the variations on the James Watt`'s steam engine].
 ** => Extraterrestrial technology, although advanced (but naturally not https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#we_all_have_a_master[omnipotent]) was incredibly wasteful. As a result, Earth became a hub for technology - both tangible and intellectual and lately digital as well.
 * As a child, I wanted to be good-hearted (= noble, honest, benevolent) and later on aspired to be world savior / messiah / "the greatest person in history". I guess "nice guys finish last".
-* It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines, dishwashers and refrigerators) when they *can* be made more reliable (like those that had been in the past).
+* It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines, dishwashers, and refrigerators) when they *can* be made more reliable (like those that had been in the past).
 * I have a very low number of Twitter followers (below 650 - https://twitter.com/shlomif ) and my reddit posts are usually not upvoted a lot ( https://www.reddit.com/user/shlomif ) . This is despite some of my older posts being a staple on Slashdot and other sites (e.g: https://www.shlomifish.org/humour/bits/Mastering-Cat/["Mastering cat" Interview].)
 * People cite contemporary copyright law as a justification for censorship:
-** https://www.reddit.com/r/Jennamarbles/comments/mjfmsj/advice_to_jenna_1_youre_awesome_i_love_you_2/
-** https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/
-** https://www.shlomifish.org/philosophy/case-for-file-swapping/
+** https://www.reddit.com/r/Jennamarbles/comments/mjfmsj/advice_to_jenna_1_youre_awesome_i_love_you_2/["`Advice to Jenna: 1. You're awesome. I love you. 2. "Racist" humour is OK. 3. You don't have to absolutely do what you think you must. : r/Jennamarbles`"]
+** https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/["`The Case for commercial fan fiction`"]
+** https://www.shlomifish.org/philosophy/case-for-file-swapping/["`The Case for File Swapping`"]
 * I lost contact with many online friends due to discontinues of IM services and me not receiving their email/etc replies. The devils are clouding my perception of the world using https://twitter.com/shlomif/status/1395025361138761729[my media].
 * Most people I see on the streets in my neighbourhood, are clearly zombies.
 * We went from killing women to raping them to sexual harrassment. Some say one cannot even compliment a woman for her looks.
 * The other day I was talking with a friend about https://en.wikipedia.org/wiki/J._K._Rowling[JK Rowling] as a role model and the following day she said JKR was evil since she opposed https://en.wikipedia.org/wiki/Transgender[Transgender] people (which I do too).
-** => The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss_Whedon]'s alleged "sexual harassment" claims. ( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] for his remarkable advancement of feminism ).
+** => The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon]'s alleged "`sexual harassment`" claims. ( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] for his remarkable advancement of feminism ).
 * People are opposed to the fact that sexual attractiveness strongly correlates with competence:
-** https://www.shlomifish.org/humour/image-macros/indiv-nodes/say_no_to_an_alpha_female.xhtml
-** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#meaning-of-able-competent
-** https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html
+** https://www.shlomifish.org/humour/image-macros/indiv-nodes/say_no_to_an_alpha_female.xhtml[Shlomif`'s Memes - One does not simply say "`no`" to an Alpha Female]
+** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#meaning-of-able-competent["`Putting Cards on the Table (2019-*) - What do "able" and "competent" imply?`"]
+** https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html[Shlomi Fish Resume as Writer Entertainer]
 * People become non-responsive on social media:
-** https://slashdot.org/submission/13002768/queen-padm-amidala-tales-star-trekstar-warsreal-world-crossover
+** https://slashdot.org/submission/13002768/queen-padm-amidala-tales-star-trekstar-warsreal-world-crossover[Slashdot sumbission: queen padmé amidala tales star trek star wars real world crossover]
 * People https://github.com/shlomif/shlomif-tech-diary/blob/master/about-censorship.asciidoc[censor me] saying https://www.youtube.com/watch?v=UF4_WnXhHFM["I Would Not Say Such Things If I Were You"] rather than http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["why, thank you"]
-* There are many one song guest performances in larger live shows. E.g:
+* There are many one song guest performances in longer live shows. E.g:
 .. https://www.youtube.com/watch?v=edV1Px8NHk4[Rolling Stones - with Lady Gaga　"Gimme Shelter"　@ Newark, N.J. 15/12/12 - YouTube]
 .. https://www.youtube.com/watch?v=eZgc8-ry3rc[Taylor Swift Ft. Sara Bareilles - Brave (DVD The RED Tour) Bônus - YouTube]
 .. https://www.youtube.com/watch?v=YMD_L8IDZnc[Ozzie Osbourne at 4m59s]
