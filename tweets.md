@@ -930,3 +930,9 @@ Pacifists may be disappointed, but after (and if) the rest-of-days, there’ll s
 
 ----
 
+I realised that my hell’s Internet removal of yt videos/web-pages on copyright grounds, broken links, etc. was probably due to other users discussing me or my friends/team-mates:
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
