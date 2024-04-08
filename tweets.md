@@ -790,7 +790,11 @@ Re Jennens vs Jennens https://en.wikipedia.org/wiki/William_Jennens , the2sides 
 
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
+( Posted at https://twitter.com/shlomif/status/1703293687600414865 . )
+
 ⇒
+
+One potential downside may have been that the Jennenses had to adopt additional family-names, given some vampires were under the impression they were foolishly wasting time+money.
 
 ----
 
