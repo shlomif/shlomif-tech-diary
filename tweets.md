@@ -942,3 +942,7 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 ----
 
+I spent several hours 2 days ago trying to understand why a change in my TypeScript and Emscripten code ( https://emscripten.org/ ) caused my automated tests to fail. Then I realised that I was using a TS integer var which acted as a C pointer, before I ran the initialise code.
+
+----
+
