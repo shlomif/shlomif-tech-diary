@@ -936,3 +936,9 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 ----
 
+“There is considerable overlap between the intelligence of the smartest bears and the dumbest tourists.” Yellowstone Park Ranger on why it is hard to design a bear-proof garbage can.
+
+— FunkyBob on ##python-offtopic on Freenode/Libera
+
+----
+
