@@ -1228,7 +1228,11 @@ ____
 +
 One doesn`'t have to be a sex addict, and even if you are, link:#boredom[you will likely grow out of it]. 
 . Trans: in the Selinaverse, an organism can expend one mana point to change their DNA and physiology, permanently, but reversibly. So far there are very few takers for a genderchange "operation". 
-. In general, men, while being attracted to men, are attracted more to women, and women are attracted more to men. Both tend to covet https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html#dedication[competence]. MOTASes are usually flexible enough to https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--The-Fifth-Sith.html[forego minor imperfections]. 
+. In general, men, while being attracted to men, are attracted more to women, and women are attracted more to men. This also applies to men and women, who are either very gentle, or very tough, or both. 
++
+Both genders tend to covet https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html#dedication[competence].
+MOTASes are usually flexible enough to https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--The-Fifth-Sith.html[forego
+minor imperfections]. 
 ** {empty}
 +
 
@@ -1244,7 +1248,7 @@ ____
 . At any point, there is a large number of MOTASes who are not in a relationship, but are open for being in one. (References: https://www.breitbart.com/entertainment/2019/12/30/sharon-stone-blocked-from-dating-site-bumble-after-users-thought-her-profile-was-fake/["Sharon Stone Blocked from Dating Site Bumble After Users Thought Her Profile was Fake"]) 
 . I suspect that female terrans were excluded from parts of the workforce due to the tendency of vocal minorities out-of-them to constantly complain/"bitch" about trivialities. 
 .. https://en.wikipedia.org/wiki/Actor[Female stage actors]
-.. https://en.wikipedia.org/wiki/Women_in_the_Israel_Defense_Forces[Women in the IDF]
+.. https://en.wikipedia.org/wiki/Women_in_the_Israel_Defense_Forces[Women in the Israel Defence Forces ("`IDF`")]
 
 
 [[forking-and-merging]]
@@ -1256,7 +1260,7 @@ However, using link:#magic[magic] one can duplicate anything while giving the du
 E.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Valentine Gellar], or https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker].
 The devils/orcs used it to fork entire universes. 
 
-Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix fork() system call], wizards' souls in forked universes are aware that they are the "child process". However, vampires' souls didn't have that privilege! 
+Like the https://en.wikipedia.org/wiki/Fork_(system_call)[Unix "`fork()`" system call], wizards' souls in forked universes are aware that they are the "child process". However, vampires' souls didn't have that privilege! 
 
 There are https://www.reddit.com/r/linux/comments/9m8yi7/there_are_forks_of_existing_projects_but_are/[mergers
 / joins] too.
@@ -1296,7 +1300,7 @@ and his angels as implementing humans' perception of the universe"] an #IRC frie
 
 [quote]
 #BigBangTheory one reason I resented the old Sheldon so much is that he reminded me of my old dogmatic science-ist / atheist too much.
-I suspect Penny was the alpha geek: https://shlom.in/geekyhackers
+I suspect Penny was the alpha geek: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hacking_and_amateur__vs__conformism_and_professional[https://shlom.in/geekyhackers]
 +
 My catalyst: https://www.shlomifish.org/meta/FAQ/atheism_can_be_a_religion.xhtml[South Park's creators about Atheism]
 * {empty}
@@ -1304,10 +1308,10 @@ My catalyst: https://www.shlomifish.org/meta/FAQ/atheism_can_be_a_religion.xhtml
 
 [quote]
 Mr.
-Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[La Linea (TV_series)] ) is TheCreator.
+Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[La Linea (TV series)] ) is TheCreator.
 ;) 
 +
-( -- https://twitter.com/shlomif/status/1485024317062717440 ) 
+( -- https://twitter.com/shlomif/status/1485024317062717440[@shlomif Tweet] ) 
 * https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[Why the so-called-real-world makes little sense]
 
 
@@ -1342,9 +1346,10 @@ The last name "Watson" is cognate with "watcher", and I suspect she is related t
 
 As a watcher, link:#Melissa_Joan_Hart[Melissa Joan Hart (MJH)] was ambitious, and possibly overly so.
 She used https://spaceballs.fandom.com/wiki/Dark_Helmet[Dark Helmet from Spaceballs] as an anti-role-model.
-Despite her ambition, she disliked micro-managing, and encouraged the hackers on her team to be https://www.joelonsoftware.com/2004/12/06/news-45/["Rosh Gadol"]. 
+Despite her ambition, she disliked micro-managing, and encouraged the hackers on her team to be https://www.joelonsoftware.com/2004/12/06/news-45/["Rosh
+Gadol"]. 
 
-However, her liberal use of time wraps and time travel (which likely were employed by link:#slayer-watcher-whicher[Maimonides] before) earned her the unflattering nickname "World's oldest teenager". (References: https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-of-Gul-Dukat-in-the-Selinaverse[Ambassador Hart] ; https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-it-doesnt-take-a-witch-to-fix-this-computer["It doesn't take a witch to fix this computer..."]) 
+However, her liberal use of time wraps and time travel (which likely had been employed by link:#slayer-watcher-whicher[Maimonides] before) earned her the unflattering nickname "World's oldest teenager". (References: https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-of-Gul-Dukat-in-the-Selinaverse[Ambassador Hart] ; https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-it-doesnt-take-a-witch-to-fix-this-computer["It doesn't take a witch to fix this computer..."]) 
 
 MJH had a string of terminators being cathersysed, so she seemed to have "the golden touch". However, after she began managing me, I ended up terminating Amit instead. 
 
@@ -1362,9 +1367,16 @@ She wanted to have a rough sense of the passage of the "real time" and so used t
 She instead depended on other wizard helpers, including those that temporarily assumed her appearance using magic.
 MJH agreed to disagree on that with her given Watson and her team still got a lot done. 
 
-However, at ~1997/1998, MJH was hoping to get me terminated ASAP, but the devils fought back and filled my head with fictional delusions.
-After I sided with Watson ("real time" and "`your time is everybody's time`"), MJH passed the leadership to her, and decided to limit her own use of time skews.
+However, at ~1997/1998, during my "great mania", I likely was pitted against many terminators during a short time, and the devils fought back and filled my head with fictional delusions.
+They later provided inspiration and fodder for my stories and essays, but many of them were not entirely true.
+MJH found herself ineffective in dealing with this crisis, and only Watson and her team were able to handle the pressure.
+Basicly, I was a pawn in TheGame(TM) because theGamers(TM) determined that Emma Watson will replace Hart. 
+
+Eventually, my mind sided with Watson ("real time" and "`your time is everybody's time`"), and MJH passed the leadership to her, and decided to limit her own use of time skews.
 Melissa remained part of my/Rindolf/Emma Watson's team. 
+
+In the meanwhile, while I well-aware of who Melissa Joan Hart was (given she starred in https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[Clarissa
+Explains It All] and in https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(1996_TV_series)[Sabrina the Teenage Witch] ), I was oblivious to Emma Watson`'s existence. 
 
 I recall that having read https://harrypotter.fandom.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone[the first Harry Potter book] by JK Rowling, I found it enjoyable and accessible, but not as good as past children's literature I had read. https://www.shlomifish.org/meta/FAQ/#opinion_on_harry_potter[The
 subsequent terrestrial Harry Potter books took themselves too seriously].
@@ -1386,12 +1398,13 @@ In a sense, she had both a harder time and an easier time than I had.
 It was harder for her because she didn't take for granted the cruelties, lies, and obstacles I ran into.
 On the other hand, the (true prophet) people around her knew better than to overreact when she lost her temper/etc. 
 
-Nevertheless, Emma's job was monumental, and almost superhuman.
+Nevertheless, Emma's job was monumental, and almost super-human.
 I'll be forever grateful to her. 
 
 Given "Eymah" means "terror" or "horror" in Hebrew, females called "Emma" (or even their stunt doubles) tend to burst in rage often.
-Watson also had to cope with her being my (= Shlomi Fish) head watcher, and me incorporating her into fics-and-essays ( https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect[Reference] ), which were often unintentional true lies.
-Part of the reason why she has avoided weight-training, and preferred Yoga (she https://en.wikipedia.org/w/index.php?title=Emma_Watson&oldid=1177175636[became a certified Yoga instructor]), is to cap her physical strength, and to try to become calmer. footnote:[From roughly 2003-to-2021, I considered Bar Refaeli the Alpha Female of Israel, and Esti Ginzburg its "`Beta`" Female ( Reference: "`The Alpha, The Beta, and The Gamma↔Omega [males and females]`" ). Moreover, up to 2021, Emma Watson remained the beta female of both-sides-of-the-Atlantic, whereas Keira Knightley was the British alpha female, and the USA alpha female fluctuated:]
+Watson also had to cope with her being my (= Shlomi Fish`'s) head watcher, and me incorporating her into fics-and-essays ( https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect[Reference] ), which were often unintentional true lies.
+Part of the reason why she has avoided weight-training, and preferred Yoga (she https://en.wikipedia.org/w/index.php?title=Emma_Watson&oldid=1177175636[became
+a certified Yoga instructor]), is to cap her physical strength, and to try to become calmer. footnote:[From roughly 2003-to-2021, I considered Bar Refaeli the Alpha Female of Israel, and Esti Ginzburg its "`Beta`" Female ( Reference: "`The Alpha, The Beta, and The Gamma↔Omega [males and females]`" ). Moreover, up to 2021, Emma Watson remained the beta female of both-sides-of-the-Atlantic, whereas Keira Knightley was the British alpha female, and the woman whom I considered the USA`'s Alpha Female fluctuated:]
 
 [[real-time]]
 == "Your time is everybody`'s time"
