@@ -51,13 +51,13 @@ For the sake of "TheGame(TM) of Fantastecha(TM)", there are two major kinds of f
 For info regarding https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil["the tree of knowledge"] as well as pleasure/"love" and creativity, see https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[Education +++=+++
 Entertainment +++=+++ Conception of Values] often by combining two or more memes. 
 
-Entertainment *can mean* temporary pain, e.g fear.
+Entertainment *can mean* temporary pain, such as fear.
 ( References: https://mlp.fandom.com/wiki/Luna_Eclipsed["Luna Eclipsed"].
 ) 
 
 Love *was not* the last word of memetics. 
 
-Like it or not, in the Selinaverse and Shlomifverse, pleasure (and a possible precluding temporary pain), education, and creativity/conception are intertwined.
+Like it or not, in the Selinaverse and Shlomiverse, pleasure (and a possible precluding temporary pain), education, and creativity/conception are intertwined.
 While we can imagine realities where they are not, they will be, well, different to ours. 
 
 The education of the participants https://www.shlomifish.org/humour/fortunes/show.cgi?id=learned-a-lot-from-my-teachers[happens in all directions]: 
@@ -95,7 +95,9 @@ But even https://en.wikipedia.org/wiki/If%E2%80%94[Kipling's "If--"] or Des'ree'
 
 Jehovah also implies that an organism won't start life from time minus-infinity. 
 
-**One's form is his name, and mission [ not his body ]**.
+A fairy's form is the set of all link:#corporations[corporations (+++=+++ sets of Fantastechan entities)] to which a fairy belongs.
+In TheGame(TM) a hacker`'s "`body`" is the subset of their form that pertains to their physical part of "the network". 
+
 A hacker may opt or be required to change their form. 
 
 Jehovah is often abbreviated as "yeah". 
@@ -187,20 +189,21 @@ circular logic, circular feedback, etc.] are common in Fantastecha(TM), and part
 
 [quote]
 Mr.
-Linea ( https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[La Linea (TV series)] ) is TheCreator.
+Linea ( from https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[La Linea (TV series)] ) is TheCreator.
 ;) 
 +
-( -- https://twitter.com/shlomif/status/1485024317062717440 ) 
+( -- https://twitter.com/shlomif/status/1485024317062717440[@shlomif tweet] ) 
 +
 The characters of animated / imaginary universes often agree that their universes were/are ridiculous, but https://twitter.com/shlomif/status/1479063972934565893[so is ours.]
 
-When we visit the universes of other franchises and sub-franchises, we can see they have variations of many others we have imagined, and even our own "real world" universe. 
+When we visit the fictional universes of and child-universes, we can see they have variations of many others we have imagined, and even our own real world universe. 
 
 [[the-angels]]
 == The Angels:
 
 An "angel" is TheCodex(TM) terminology for an "elohim" who plays one-or-more-characters in an instance of link:#fantasia-vs-fantastecha[the game of Greater Fantasia]. link:#hackers[Fuckers] who play link:#hackers[hackers] (= player characters) in TheGame(TM) of Fantastecha(TM) are called Seraphs.
-organisms / entities who have link:#free-will[souls]. 
+"Suckers" are organisms / entities in Fantastecha(TM) who have link:#free-will[souls] and minds.
+"Hackers" are the Suckers who are being played in TheGame(TM) of Fantastecha(TM), and by the nature of love-and-knowledge, perpetuate other suckers and hackers, and universes thereof. 
 
 [[the-heart-and-mercy-value]]
 == Heart / mercy / forgiveness:
@@ -220,6 +223,17 @@ It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian p
 Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGame(TM) of Fantastecha(TM) challenging. 
 
 Magic might be defined as any transformation of the state of link:#the-network["the network"]: the extended graph theory graph which is the state of our universe. 
+
+Note that magic allows hackers to change their body.
+Recently, full-time Selinaverse-an https://en.wikipedia.org/wiki/Rhinoceros[rhinoes] have decided that they are too heavy and unagile to be happy, and changed their body (often to a human-one). footnote:[Rhinoes may still persist [at least for now] in fictional universes,
+where they abide by different physics.]
+
+Moreover, many historical buildings decided to relocate or change their body, which in my hell, their absence was attributed to historical vandalism, (by e.g. https://en.wikipedia.org/wiki/Genghis_Khan[Genghis Khan] or the Roman or German Nazi militaries.). The https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)[World Trade Center] twin towers decided to relocate, which given they were an iconic part of the New York City skyline, was attributed in the hells of some vampires, to Al-Qaeda.
+Bin-Laden willingly volunteered to take the blame given it made him a media hero, and brought publicity to his affiliations.
+He is/was not a bad man, despite the fact that he continues the historical and parodical tradition of calling for a "holy war" against non-believers. 
+
+The Egyptian pyramids are notable because they captured the imagination of many vampires, who also found it unlikely that they would be spontaneously destroyed given their shape, mass, material, and extent.
+As a result, there was always a hacker who volunteered to be one of them, when and if the old one relocated or retired. 
 
 [[technology]]
 == Technology
@@ -254,8 +268,8 @@ $GOD may also be the link:#hackers[fuckers'] Elohim's Elohim's Elohim's... to in
 == Prevalence of souls
 
 Every observable entity - whether tangible, digital, or spiritual - has a soul and a mind.
-If they're too unhappy, for any reason, they will relocate.
-The https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex] decided to move to Jerusalem [intact!] for a change-of-scenery leaving a nonidentical copy behind. 
+If they're too unhappy, for any reason, they will relocate or change their form (including their physical body). The https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo
+Codex] decided to move to Jerusalem [intact!] for a change-of-scenery leaving a nonidentical copy behind. 
 
 https://twitter.com/shlomif/status/1491652850044309507[Twitter thread]
 
