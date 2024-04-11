@@ -946,3 +946,9 @@ I spent several hours 2 days ago trying to understand why a change in my TypeScr
 
 ----
 
+@infoscav : hi! I wrote about my StaticSiteGen prefs on https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md , https://www.shlomifish.org/philosophy/computers/web/choice-of-docs-formats/ , and https://www.shlomifish.org/meta/FAQ/#how_site_is_generated . The present trendy stock SSG seems to be Hugo ( https://gohugo.io/ ), which ppl claim is very fast.
+
+Moreover, Like I note in one of the links, “I cannot in good conscience recommend against writing your own custom/ad-hoc/home-grown SSG based on some lower-level tools, rather than going through the trouble of learning an existing open source one.”
+
+----
+
