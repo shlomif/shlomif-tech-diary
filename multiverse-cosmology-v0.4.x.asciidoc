@@ -285,9 +285,9 @@ Fantasia] on motion, given having only an abyss of nothingness / non-existence w
 $GOD may also be the link:#hackers[fuckers'] Elohim's Elohim's Elohim's... to the end (or infinity?). 
 
 "$" is used for end-of-line / end-of-string in some https://en.wikipedia.org/wiki/Regular_expression[pattern matching or "regular expression" languages].
-In many https://en.wikipedia.org/wiki/Unix_shell[Unix shells], Perl, and some inspired programming languages, a leading dollar-sign is used to dereference a variable, or sometimes use it as an lvalue. 
+In many https://en.wikipedia.org/wiki/Unix_shell[Unix shells], Perl, and some inspired programming languages, a leading dollar-sign is used to dereference a variable, or sometimes to use it as an lvalue. 
 
-I once chatted with an Internet IM participant in modern Israeli Hebrew.
+I once chatted with an Internet IM participant (in modern Israeli Hebrew.
 He tried to convince me that "God" may exist or even most likely does, despite me asking him "If God created the world, who created God?" ( https://www.shlomifish.org/philosophy/the-eternal-jew/ongoing-text.xhtml#godless_man[Reference] - largely inspired by "The Neo-Tech Cosmic Power [pincer #1]"). He told me that the most reasonable existence we should assume is that nothing had ever existed, or will have existed.
 A "big" abyss of nothing. 
 
@@ -314,26 +314,24 @@ Those who don't exist... well, either they will exist in the future, or they can
 Note that Fantastechans and para-Fantastechans (= "`fuckers`") pre-accept reason, term logic, and even some mathematical axioms, so it is possible that, in actuality, you can be sentient without existing. 
 ____
 
-( Conclusion: consider buying a tinfoil hat if you want to prepare for worst-case scenario, including a https://en.wikipedia.org/wiki/WarGames [thermonuclear war like the film "WarGames"] (rather than a https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[local sand splash] ), 
-
-. https://terminator.fandom.com/wiki/Terminator_(franchise)[A Terminator franchise-style robot acolypse] (rather than https://www.youtube.com/results?search_query=return+jedi+ewoks+battle[clunky Imperial robots and droids] that can be defeated by Ewoks using wood, ropes, stones, ) 
-
-
 [[TheCodex-definition-of-God]]
 === TheCodex(TM)`'s Definition of "God"
 
 TheCodex(TM) of TheGame(TM) of Fantastecha(TM) defines "God" (with no "a/an/some" grammatical articulation, preferably with an uppercase "G", and commonly called "Elohim" in idiomatic modern Hebrew) as each and every entity (whether inside Fantastecha(TM) or outside), which can influence or did influence a hacker`'s present or future.
 They may (or may not) include: 
 
-. Co-hackers living in the same universe. 
+. Fellow hackers living in the same universe. 
 . The para-Fantastechans. 
 . The para-para-Fantastechans 
 . The para-para-para-Fantastechans 
++
+(Etc.
+to $GOD , $CHUCK_NORRIS ...) 
 . his angels and devils 
 . his role-playing-games characters (= "jews") or other "game pieces" 
 . his characters' characters. 
 . his very soul. 
-. his mind, including the models he keeps in his mind of leaders (= guideline-generators). TheCodex(TM) calls these models "gods". This is whereas a "king" is a concrete, physically present leader (and who in the Shlomiverse can be a president, a prime minister, a secretary or a minister, a military commander (including those who are not generals), a dayjob boss or supervisor, a family member, an Internet forum operator, moderator or co-participant, etc. ). 
+. his mind, including the models he keeps in his mind of leaders (= guideline-generators). TheCodex(TM) calls these models "gods". This is whereas a "king" is a concrete, physically-observed leader. In the Shlomiverse, a "king" (who can also be female or whatever) can be a president, a prime minister, a secretary or a minister, a military commander (including those who are not generals or naval admirals), a dayjob boss or supervisor or manager, a family member, an Internet forum operator, moderator or co-participant, a religious/spiritual/intellectual leader, a consultant, an educator, and so forth. There are also often "`implicit`" or temoorary (or both) "kings", like a customer who wishes to buy a serving of icecream at an icecream parlour. 
 +
 During the hacker thought-process, several gods are being temporarily engaged as "actor"s (who are temporal but temporary) in a "play" (= a session of a game), thus creating one-or-more of updated models. 
 
