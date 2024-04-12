@@ -248,10 +248,10 @@ Human language is not only a tool of communication, but also a tool of thought.
 
 . One can say "`I watched the film "`The Princess Bride`" over ten times.`" to convey a piece of information. 
 . One can say "cry wolf" to refer to https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf[The Boy Who Cried Wolf], e.g. in "saying that Microsoft plans to embrace&extend GNU is 'cry wolf'". 
-. One can say "One doesn't simply not know who Marilyn Monroe is" ( https://www.shlomifish.org/humour/image-macros/#not_know_marilyn_monroe[Reference] ) instead of "practically every [ Selinaversan / terran / human / etc. ] hacker has heard of Marilyn Monroe and knows who she was" to piggy back on the https://knowyourmeme.com/memes/one-does-not-simply-walk-into-mordor/[snowclone quote, image-macro, and meme]. This will either make the message more amusing (and possibly more memorable), or if the recipients are not yet familiar with the meme, not hurt much. 
+. One can say "One doesn't simply not know who Marilyn Monroe is" ( https://www.shlomifish.org/humour/image-macros/#not_know_marilyn_monroe[Reference] ) instead of "practically every human-of-importance has heard of Marilyn Monroe and knows who she was" to piggy back on the https://knowyourmeme.com/memes/one-does-not-simply-walk-into-mordor/[snowclone quote, image-macro, and meme]. This will either make the message more amusing (and possibly more memorable), or if the recipients are not yet familiar with the meme, not hurt much, and may be mildly amusing. 
 
 A lot of technology and magic defies the link:#terrestrial[terrestrial] science, including https://en.wikipedia.org/wiki/General_relativity[Einstein's Relativity] or determinism.
-I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma[Reference] ) while having confidence that life will go on. 
+I can also write "2 + 2 == 5" or "qmail is both open-source and non-open-source" or "This statement is false" ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma[Reference] ) while having confidence that life will most probably go on. 
 
 *Technology = pre-developed, reusable maths-like functions, which
 accept parameters, and construct magical transformations of the state of
@@ -263,12 +263,17 @@ I use all of XML, YAML, JSON, Perl, Python 3, C, vlc, mpv, duckduckgo, google [ 
 [[dollar-GOD]]
 == $GOD
 
-$GOD (written using medieval-style chapter-opening letters) is the hypothetical entity, who set link:#the-multiverse-of-imagination[Greater
+$GOD (commonly stylised using medieval-style chapter-opening letters) is the hypothetical entity, who set link:#the-multiverse-of-imagination[Greater
 Fantasia] on motion, given having only an abyss of nothingness / non-existence would have been far less fun. 
 
 $GOD may also be the link:#hackers[fuckers'] Elohim's Elohim's Elohim's... to the end (or infinity?). 
 
-An Internet IM participant (with whom I chatted in modern Israeli Hebrew), and who tried to convince me that "God" may exist, despite me asking him "If God created the world, who created God?" ( https://www.shlomifish.org/philosophy/the-eternal-jew/ongoing-text.xhtml#godless_man[Reference] - largely inspired by "The Neo-Tech Cosmic Power [pincer #1]") told me that the most reasonable existence is that nothing had ever existed, or will have existed. 
+"$" is used for end-of-line / end-of-string in some https://en.wikipedia.org/wiki/Regular_expression[pattern matching or "regular expression" languages].
+In many https://en.wikipedia.org/wiki/Unix_shell[Unix shells], Perl, and some inspired programming languages, a leading dollar-sign is used to dereference a variable, or sometimes use it as an lvalue. 
+
+I once chatted with an Internet IM participant in modern Israeli Hebrew.
+He tried to convince me that "God" may exist or even most likely does, despite me asking him "If God created the world, who created God?" ( https://www.shlomifish.org/philosophy/the-eternal-jew/ongoing-text.xhtml#godless_man[Reference] - largely inspired by "The Neo-Tech Cosmic Power [pincer #1]"). He told me that the most reasonable existence we should assume is that nothing had ever existed, or will have existed.
+A "big" abyss of nothing. 
 
 ____
 "`In the beginning the Universe was created.
@@ -301,7 +306,8 @@ ____
 [[TheCodex-definition-of-God]]
 === TheCodex(TM)`'s Definition of "God"
 
-TheCodex(TM) of TheGame(TM) of Fantastecha(TM) defines "God" (with no "a/an/some" grammatical articulation, preferably with an uppercase "G", and commonly called "Elohim" in idiomatic modern Hebrew) as each and every entity (whether inside Fantastecha(TM) or outside), which can influence or did influence a hacker`'s present or future: 
+TheCodex(TM) of TheGame(TM) of Fantastecha(TM) defines "God" (with no "a/an/some" grammatical articulation, preferably with an uppercase "G", and commonly called "Elohim" in idiomatic modern Hebrew) as each and every entity (whether inside Fantastecha(TM) or outside), which can influence or did influence a hacker`'s present or future.
+They may (or may not) include: 
 
 . Co-hackers living in the same universe. 
 . The para-Fantastechans. 
@@ -331,7 +337,7 @@ I recall my father telling me that bridges in China were built crooked because t
 ____
 
 I think now that outside my hell, the horse, who was/is a wizard hacker, was informed (via telepathy) of what I saw, thought, and my plan to try to avoid getting clobbered to pain.
-He/she was instructed to play along, continue galloping at a somewhat slower pace, and then stay at the corner of the field. 
+He/she was instructed to play along, continue galloping at a somewhat slower pace, and then remain standing at the corner of the field, where I was led to believe he/she posed no danger. 
 
 As a result, I think that if we accept the definition of "God" in TheCodex(TM) of TheGame(TM) of Fantastecha(TM), then they most probably exist, given practically every conscious-and-mindful Selinaverse-an organism, has some amount of self-control and guidance.
 Planet Earth is not fully symmetric, which given https://en.wikipedia.org/wiki/Perfection#Paradoxes["Perfection is
