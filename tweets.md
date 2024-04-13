@@ -952,3 +952,6 @@ Moreover, Like I note in one of the links, “I cannot in good conscience recomm
 
 ----
 
+Someone on ##programming , said he bought an old SGI IRIX system to actively use as a desktop system, and that gcc / g++ produced much slower code than the proprietary cc compiler. Given gcc, as a widely-thought-about, platonic ideal has a mind-and-soul, it may have done it on purpose.
+
+You can "rationally" explain this by a mischievious flesh-and-blood cracker [easily!] having cracked him, and binary patching the compiler to insert busy loops .
