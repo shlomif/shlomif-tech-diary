@@ -2065,21 +2065,26 @@ https://twitter.com/shlomif/status/1636724648120401920[re Will Smith`'s slap inc
 . Love / "01" 
 . Knowledge / "101" 
 . "10101" / Greater Fantasia 
+. "1010110" / The Neo-Tech Conspiracy for establishing the semitic culture. 
+. Sam The Eagle: Hit return. 
 . $MRS_COOKIE_MONSTER / Elohim / "cake is ready" 
-. Animal / "Beat drums, beat drums". 
-+* Fantastecha(TM) / "Die, God, die!" 
+. Fantastecha(TM)! / "Die, God, die!" 
+. Animal "Monty Python's Flying Circus" 
++* Taylor Swift, "Oh well, yeah, let's enjoy the fireworks" 
 
-+* Taylor Swift / "Let's listen to the music!" 
-. The Neo-Tech Conspiracy for establishing the semitic culture. 
-. Taylor Swift, "Oh well, yeah, let's get some entertainment and play some music" 
-. Best regards, your fan, your friend, your frenemy, part of you, your child, your sibling, possibly your parent; yours, Shlomi Fish. a.k.a: "Rindolf"" / "Shlomif" and "The Eternal Jew". Who wishes to remain just a regular Selinaversean / Shlomiversan / "Rindolf"versean / Emma-Watson-versean / whateverversean, hacker, human, Terran, man for the time being. 
-. So long and thanks for all the fish. 
-. You have died. You have lost. Have a good localtime() [if time() is your thing]! 
-. Jehovah forever. 
++* Shlomi Fish / Peace out 
+
++* Best regards, your fan, your friend, your frenemy, part of you, your son, your sibling, possibly your parent; yours, Shlomi Fish. a.k.a: "Rindolf"" / "Shlomif" and "The Eternal Jew". Who wishes to remain just a regular Selinaversean / Shlomiversan / "Rindolf"versean / Emma-Watson-versean / whateverversean, hacker, human, Terran, man for the time being. 
+
++* So long and thanks for all the fish. 
+
++* You have died. You have lost. Have a good localtime() [if time() is your thing]! 
+
++* Jehovah forever. 
 
 
 [[mantra13]]
-== mantra
+=== mantra
 
 .
 
@@ -2787,7 +2792,7 @@ Dick, Rock, Hack.
 
 
 [[mantra12]]
-== mantra
+=== mantra
 
 . Die, fucker, die! 
 +
@@ -2862,7 +2867,7 @@ Hallelujah!
 
 
 [[mantra11]]
-== mantra
+=== mantra
 
 . Die, fucker, die! 
 +
@@ -2937,7 +2942,7 @@ Hallelujah!
 
 
 [[license]]
-== License:
+=== License:
 
 https://creativecommons.org/licenses/by/4.0/[CC-by], Shlomi Fish, 2021 
 
