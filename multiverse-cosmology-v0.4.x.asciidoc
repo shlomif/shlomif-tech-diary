@@ -2053,19 +2053,22 @@ A gamemaster may opt to try to make a hacker do something stupid
 
 https://twitter.com/shlomif/status/1636724648120401920[re Will Smith`'s slap incident]
 
-[[mantra14]]
+[[mantra24]]
 == mantra
 
+. Chaos: "I am bored." 
 . Swedish Chef: "bork, bork, let's bake a cake" 
 . $BRUCE_LEE / Jew / "Fine, by why not the kids and I play a game?" 
 . $CHUCK_NORRIS / Time / "0" 
 . $SUMMER_GLAU / Soul / "1" 
 . $GOD / Network / "OK. let's play a game." 
-. God / Mind / "Enter password:" 
+. God / Mind / "Enter password:" / "0" 
++
+Miss Piggy / "Kissy kiss :" / "1" 
 . Love / "01" 
 . Knowledge / "101" 
-. "10101" / Greater Fantasia 
-. "1010110" / The Neo-Tech Conspiracy for establishing the semitic culture. 
+. "0110101" / Greater Fantasia 
+. "10101100110101" / The Neo-Tech Conspiracy for establishing the semitic culture. 
 . Sam The Eagle: Hit return. 
 . $MRS_COOKIE_MONSTER / Elohim / "cake is ready" 
 . Fantastecha(TM)! / "Die, God, die!" 

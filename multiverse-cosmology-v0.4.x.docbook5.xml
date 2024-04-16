@@ -6383,13 +6383,19 @@ A gamemaster may opt to try to make a hacker do something stupid
 
 </section>
 
-<section xml:id="mantra14">
+<section xml:id="mantra24">
 
 <info>
 <title>mantra</title>
 </info>
 
 <orderedlist>
+
+<listitem>
+<para>
+Chaos: "I am bored."
+</para>
+</listitem>
 
 <listitem>
 <para>
@@ -6423,7 +6429,11 @@ $GOD / Network / "OK. let's play a game."
 
 <listitem>
 <para>
-God / Mind / "Enter password:"
+God / Mind / "Enter password:" / "0"
+</para>
+
+<para>
+Miss Piggy / "Kissy kiss :" / "1"
 </para>
 </listitem>
 
@@ -6441,13 +6451,13 @@ Knowledge / "101"
 
 <listitem>
 <para>
-"10101" / Greater Fantasia
+"0110101" / Greater Fantasia
 </para>
 </listitem>
 
 <listitem>
 <para>
-"1010110" / The Neo-Tech Conspiracy for establishing the semitic culture.
+"10101100110101" / The Neo-Tech Conspiracy for establishing the semitic culture.
 </para>
 </listitem>
 
