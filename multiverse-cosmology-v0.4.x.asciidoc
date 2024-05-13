@@ -1637,7 +1637,7 @@ Moreover, I likely had an easier time than even my father's father who escaped f
 I have been willing to suffer a little more, if it meant that future generations will suffer much less.
 And as I like to say: "If I didn't want excitement in my life, then https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/[I'd go watch grass grow]". 
 
-I believe most of their conventions happen at day time, and are attended by attractive https://en.wiktionary.org/wiki/MOTAS[MOTASes], of whom only a minority have a Goth look. 
+I believe most of their conventions happen at day time, and are attended by attractive https://en.wiktionary.org/wiki/MOTAS[MOTASes], of whom only a minority have a https://en.wikipedia.org/wiki/Goth_subculture[Goth look]. 
 
 In a way, I've been doing https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic[a Hegelian dialectic] of "`thesis -> antithesis -> synthesis`". I also have been "`changing ponies in midwater`": changing intermediate conclusions, while keeping similar end-results. 
 
@@ -1662,8 +1662,7 @@ Native speakers of Japanese often confuse the "L" and "R" sounds.
 I think the 3-D-colour-space ( RGB , HSV , CMY ) was introduced with the Milky Way galaxy, but with some catches like https://en.wikipedia.org/wiki/The_dress["The dress"].
 I see the dress as white-and-gold on my desktop Linux screen and saw it as blue and grey on a friend's smartphone. 
 
-During Englishtants times, the universe was a greyscale 3-D grid, with larger-or-smaller sub-grids.
-Before that, it was binary ( "black / white"). 
+During Englishtants times, the universe was a greyscale 3-D grid, with larger-or-smaller sub-grids, and various alternative layers (= "urban Earth", "ecologically hostile earth", "world conventions ('con') earth", "mass-production earth", "warzone earth layer", "wildlife-friendly Earth layer"). Before that, it was binary ( "black / white"). 
 
 [[ancestors]]
 == Some vampire/etc. ancestors
