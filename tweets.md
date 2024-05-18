@@ -955,3 +955,18 @@ Moreover, Like I note in one of the links, “I cannot in good conscience recomm
 Someone on ##programming , said he bought an old SGI IRIX system to actively use as a desktop system, and that gcc / g++ produced much slower code than the proprietary cc compiler. Given gcc, as a widely-thought-about, platonic ideal has a mind-and-soul, it may have done it on purpose.
 
 You can "rationally" explain this by a mischievious flesh-and-blood cracker having (easily!) cracked him, and binary patching the compiler to insert busy loops.
+
+----
+
+EmWatson hell wikip ( https://en.wikipedia.org/w/index.php?title=Emma_Watson&oldid=1223309727 ) implies she is a workaholic, who still had time2pose4many "nudes" (despite having been a self-proclaimed "feminist"). she also didnt star in a film role since 2019, despite the fact I (n others) wrote screenplays featuring her.
+
+----
+
+The Watsons ( Emma Watson / etc. ) are a blood-line-of-watchers that trace their anscetry to https://en.wikipedia.org/wiki/Maimonides ("ben-Maimon") and https://en.wikipedia.org/wiki/Aharon .
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
+
+https://en.wikipedia.org/wiki/Dr._Watson (John H. Watson) was a British celeb who Doyle fanficced.
+
+----
+
