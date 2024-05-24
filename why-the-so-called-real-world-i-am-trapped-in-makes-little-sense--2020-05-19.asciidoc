@@ -37,7 +37,7 @@ Prior art for my situation:
 ** https://en.wikipedia.org/wiki/Labyrinth_%281986_film%29[Labyrinth] - Sarah deals with the Goblins.
 ** https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer[Buffy the Vampire Slayer] - Buffy Summers gets sucked into a demonic underworld
 ** https://en.wikipedia.org/wiki/The_Hobbit[The Hobbit] - Bilbo is drawn out of his comfort zone
-* https://en.wikipedia.org/wiki/The_Truman_Show[The Truman Show]
+* https://en.wikipedia.org/wiki/The_Truman_Show[The Truman Show] - the perceived reality is wrong. 
 ** https://en.wikipedia.org/wiki/The_Prisoner[The Prisoner]
 ** https://en.wikipedia.org/wiki/The_Matrix[The Matrix]
 * http://www.earthstar.co.uk/deep3.htm[H2G2`'s Planet Earth as a Computer]
@@ -228,6 +228,9 @@ Seems like he was conceived as a parody of me.
 * Many friends and classmates shared a private name with others and a family name with others too. They were likely conceived as bridges or proxies. 
 ** It is hard-to-believe there were so many peasants in previous centuries of history, who begot so many present celebrities. 
 * Often, when I wrote about an insight online, people seem to know about my previous whereabouts (even if tangential) and "`stalked`" me. 
+* I have no coherent memories since before the 1st grade ("Kitah Aleph", `"כיתה אךף"`) in Ramat Aviv Gimel school in Israel, when I was 6-7 years old. 
++
+https://www.shlomifish.org/meta/FAQ/#how_did_you_learn_english[Shlomif's FAQ: How did you learn English? ]
 
 
 [[obstacles-and-delays]]
