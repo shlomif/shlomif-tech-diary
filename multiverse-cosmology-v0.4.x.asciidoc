@@ -436,11 +436,22 @@ The game can often be phrased like:
 .. "Jew" - the word is milliards-years-old, and was associated with the "Yehudim" only relatively recently. 
 +
 "Jew" = a player character. 
-* 3 × 2 concepts: "time, soul, network, mind, love, knowledge". 
-+
 
 Instances of "the game" may be layered, nested, or even link:#self-ref[circular / self-referential].
 They also may contain mini-games, sub-quests, and side-quests.. 
+
+TheGame(TM) of Fantastecha(TM) adds 3 sets of two concepts each: 
+
+. {empty}
+** Time 
+** Soul 
+. {empty}
+** Network 
+** Mind 
+. {empty}
+** Love 
+** Knowledge 
+
 
 [[sample-game-session]]
 ==== Sample session of "the game of Greater Fantasia"
@@ -449,9 +460,9 @@ ____
 One day, https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[Mr. Linea] takes a break from walking along his line, and posts a comedic story that takes place in an absurd 3D1T universe he conceived called "The Selinaverse", on his blog.
 However, his long-time associate https://en.wikipedia.org/wiki/True_and_false_(commands)["/bin/true"] v2.0 "The Strong AI Edition" claims he came up with The Selinaverse first. 
 
-As the two argue in the blog post's comments, https://mlp.fandom.com/wiki/Discord[Discord (from My Little Pony)] notes that "Advanced Selinaverse Geeks" has been a popular fantasy role-playing games' franchise in https://mlp.fandom.com/wiki/Equestria[Equestria] for years. 
+As the two argue in the blog post's comments, https://mlp.fandom.com/wiki/Discord[Discord (from My Little Pony: Friendship is Magic)] notes that "Advanced Selinaverse Geeks" has been a popular fantasy role-playing games' franchise in https://mlp.fandom.com/wiki/Equestria[Equestria] for years. 
 
-The three go to http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[judge Fluttershy (also from My Little Pony)] who sighs and invites them for lunch.
+The three go to http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[judge Fluttershy (also from My Little Pony: Friendship is Magic)] who sighs and invites them for lunch.
 She opens a gateway to https://en.wikipedia.org/wiki/Rabin_Square[Rabin Square] in the Tel Aviv of the Selinaverse (yes! The same universe that the plaintiffs are arguing about), they agree on a restaurant, and order food. 
 
 While they wait for their order to arrive, Fluttershy explains that https://www.shlomifish.org/philosophy/culture/my-real-person-fan-fiction/[copyrights' battles are rarely constructive], and that they should just share the Selinaverse.
@@ -467,10 +478,10 @@ However, after checking into their hotel, they meet https://www.shlomifish.org/h
 ass]). After being a little star-struck and 'geeking out', they decide to play some games together. 
 
 They play ball games, board/card games, and https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki[League of Legends].
-Then they decide to play "The game of Greater Fantasia" with the classic, possibly cliché, campaign of link:#history-lesson-about-the-muppeteers[the Muppeteers in 1969] with Fluttershy and Monroe as gamemasters/arbiters, thus starting the cycle again. 
+Then they decide to play "The game of Greater Fantasia" with the classic, possibly cliché, campaign setting of link:#history-lesson-about-the-muppeteers[the Muppeteers in 1969] with Fluttershy and Monroe as gamemasters/arbiters, thus starting the cycle again. 
 ____
 
-Yes, it is fanfiction, crossover, parody, Real Person Fan Fiction (RPFs), link:#self-ref[circularly referential]; good stuff. 
+Yes, it is fanfiction, crossover, parody, Real Person Fan Fiction (RPFs), link:#self-ref[circularly referential]; hopefully good stuff. 
 
 Now, if the players are playful, and the gamemasters are jerks we can imagine stuff like: 
 
