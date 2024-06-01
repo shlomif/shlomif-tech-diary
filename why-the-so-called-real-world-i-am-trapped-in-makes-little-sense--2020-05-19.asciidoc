@@ -84,6 +84,7 @@ And then there's oil, coal, natural gas, sugar, milk, wheat, rice, copper, iron,
 ** => The Q Continuum can duplicate or conjure energy, precious minerals, raw materials, inanimate products, foods and drinks, organisms (e.g: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-sharp-programming-life-according-to-valentine[Life According to Valentine] and https://memory-alpha.fandom.com/wiki/Thomas_Riker[Thomas Riker]), or even entire galaxies.
 ** => The media keeps saying that there`'ll be shortages of certain products, but they do not happen.
 ** It is unreasonable to assume we can distribute so many food and other products across north America, Europe, Asia, the Middle East, etc. using only trucks and Boeing/etc. aeroplanes. My neighbourhood ( https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel[Ramat Aviv Gimel] ) only has one-and-a-half automobile roads leading into it. 
+** There are many byproducts, bybyproducts, derivatives, mashups/mixes: chocolate, chocolate icecream, cakes, kitkats / mars / snickers. 
 * I think there has been a conspiracy of the demons inside me to try to convince me that the world outside me was getting worse, and that I was more and more isolated, friendless and unpopular. Well, game over - I won - you will lose!
 * There are thousands' years old hackers and below-20 ones who are huge fans of one another: https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/kai-blanche.xhtml["Meet Kai Blanché"] .
 * It is possible yada` (= "to know" in Hebrew) meant "to educate / to entertain" and involves pleasure, but sometimes pain too, and was mutual, and always spawns ( possibly invisible ) baby angels. If it makes you bored or indifferent, it likely is not effective. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[Reference: "`The case for commercial fan fiction`"]
@@ -201,7 +202,19 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * There is a high-performance chess engine, written in C under GPL/AGPL. One dev maintains an enhanced fork of it, of which he privately gives binaries, only after lengthy background checks (a grand waste of time/energy/love). 
 * Android could not have been developed so quickly without using GNU and/or iPhone's source code. 
 * In this hell, I have received very few PayPal/etc. donations, and few people have published critiques of my sites' pages online. This is despite many voicing them on online chats. 
-* "People" keep reporting https://www.shlomifish.org/meta/FAQ/#broken_links[broken links on the webpages of my websites], while the owners of the websites to which they point are not responsive to my requests to restore them. https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perlcafe-misplacing-a-website["How the hell does one misplace an entire website?"]
+* "`People`" keep reporting https://www.shlomifish.org/meta/FAQ/#broken_links[broken links on the webpages of my websites], while the owners of the websites to which they point are not responsive to my requests to restore them. https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perlcafe-misplacing-a-website["How the hell does one misplace an entire website?"]
+** There are many youtube-blocks, youtube takedowns, reddit blocks, broken links in static/etc. websites, placing resources behind a login wall or a pay wall. They likely affect only me. https://www.shlomifish.org/humour/fortunes/paul-graham.html#paul-graham-democracy-and-wikipedia[Paul Graham about free WWW resources:]
++
+
+[quote]
+The second big element of Web 2.0 is democracy.
+We now have several examples to prove that amateurs can surpass professionals, when they have the right kind of system to channel their efforts.
+Wikipedia may be the most famous.
+Experts have given Wikipedia middling reviews, but they miss the critical point: it`'s good enough.
+And it`'s free, which means people actually read it.
+On the web, articles you have to pay for might as well not exist.
+Even if you were willing to pay to read them yourself, you can`'t link to them.
+They`'re not part of the conversation. 
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/starved_of_employees.xhtml[RIAA's youtube-dl takedown request] exhibited both technical and legal competency, and complete naivity about the power of git-scm, the Internet, etc. 
 * The amount of hatred / prejudice / ad-hominemry "people" have against the techs listed on https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma_intro.xhtml and https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/geeks_and_hackers_are_cool.xhtml and https://www.shlomifish.org/meta/FAQ/ is immense. 
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[Hollywood`'s mandated screenplay format] - finicky and boring. Would never have been tolerated by screenwriters, who were/are geeky and hackery.
