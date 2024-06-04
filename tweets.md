@@ -970,3 +970,7 @@ https://en.wikipedia.org/wiki/Dr._Watson (John H. Watson) was a British celeb wh
 
 ----
 
+As I noted on #IRC / #facebook chats, there are many tasks that I want to do, but relatively few I feel I **must** do ASAP. https://en.wikipedia.org/wiki/May_you_live_in_interesting_times .
+
+----
+
