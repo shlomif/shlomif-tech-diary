@@ -978,3 +978,9 @@ Python's many command-line utilities: https://www.pythonmorsels.com/cli-tools/ .
 
 ----
 
+The affairs that some vampirellas had with Alexandre Dumas père ( https://en.wikipedia.org/wiki/Alexandre_Dumas )’s echoes involved unspeakable acts. Unspeakable, but not unbloggable. They often described them in great detail, in their public diaries/columns.
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+----
+
