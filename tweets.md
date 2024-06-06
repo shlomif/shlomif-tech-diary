@@ -974,3 +974,7 @@ As I noted on #IRC / #facebook chats, there are many tasks that I want to do, bu
 
 ----
 
+Python's many command-line utilities: https://www.pythonmorsels.com/cli-tools/ . Seen on #python Weekly.
+
+----
+
