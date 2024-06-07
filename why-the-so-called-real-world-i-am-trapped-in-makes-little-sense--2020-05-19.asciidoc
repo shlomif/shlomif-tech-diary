@@ -246,6 +246,8 @@ Seems like he was conceived as a parody of me.
 * I have no coherent memories since before the 1st grade ("Kitah Aleph", `"כיתה אךף"`) in Ramat Aviv Gimel school in Israel, when I was 6-7 years old. 
 +
 https://www.shlomifish.org/meta/FAQ/#how_did_you_learn_english[Shlomif's FAQ: How did you learn English? ]
+* It seems farfetched to believe that https://www.shlomifish.org/philosophy/psychology/why-openly-bipolar-people-should-not-be-medicated/[psychiatric drugs will help in preventing depressions, hypo-manias, manias, etc.] yet many people support the media positon. 
+** Theses drugs have to be bitter, because otherwise they won't be considered medicine, right?! 
 
 
 [[obstacles-and-delays]]
@@ -272,7 +274,7 @@ https://www.shlomifish.org/meta/FAQ/#how_did_you_learn_english[Shlomif's FAQ: Ho
 .. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Geek/hackers]
 . My 9th grade literature teacher said Philosophy is bad (she must have studied Philosophy for her B.A.) 
 . Labelled as "self-centred" 
-. Labelled as "passive-aggressive" 
+. Labelled as "passive-aggressive" with no one being able to provide a suitable description / definition of what "passive-aggressive" means. 
 . Labelled as https://www.shlomifish.org/meta/FAQ/asperger_syndrome.xhtml[asperger]
 . https://www.shlomifish.org/philosophy/psychology/why-openly-bipolar-people-should-not-be-medicated/[Bipolar]
 . https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml[Labelled as a "pervert"]
@@ -315,7 +317,7 @@ Namely:
 * https://en.wikipedia.org/wiki/Artificial_general_intelligence[Strong AIs] are already possible, but there is still some case for robotic/predictable AIs (e.g: game solvers/players; https://en.wikipedia.org/wiki/Proof_assistant[Proof_assistants]; etc.)
 * There are no calamities of nature: no extreme colds or extreme heats, no killer bees, no over-population, no world hunger, no unnecessary extinctions of species, no diseases, epidemics or pandemics.
 * Companies, NPOs, individuals, franchises, idea systems, etc. are paid by the development time and brands given duplication and distribution are costless. One can "pirate" such goods or create bootleg products, but it is considered noble to transfer profits upstream, downstream or sideways.
-* People`'s minds emitting *thoughts* of "gods" (= "guideline-generators") with the https://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Ego[Ego] as an arbitter is a happy and virtuous state of being: https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/
+* People`'s minds emitting *thoughts* of "gods" (= "guideline-generators") with the https://en.wikipedia.org/wiki/Id,_ego_and_super-ego#Ego[Ego] as an arbitter is a happy and virtuous state of being: https://www.shlomifish.org/philosophy/psychology/crossover-hypothesis-about-the-origin-of-consciousness/[Consciousness and craziness and a hypothesis about their origins]
 * There are mind-reading text-editors, graphics-editors, etc.
 * https://en.wikipedia.org/wiki/Menopause[Menopause] does not happen.
 ** Possibly even single men and women can conceive children or pets by filling a web form.
