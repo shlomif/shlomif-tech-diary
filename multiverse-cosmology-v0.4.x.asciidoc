@@ -1965,12 +1965,13 @@ see evidence that one of my favourite children, Christina Grimmie, is alive, hea
 .. https://www.shlomifish.org/humour/bits/How-Ronda-Rousey-Lost-her-UFC-Streak/["[RPF] How Ronda Rousey Lost her UFC Streak"]
 .. https://www.shlomifish.org/humour/The-10th-Muse/["The 10th Muse"]
 .. https://www.shlomifish.org/humour/Muppets-Show-TNI/Tiffany-Alvord.html[The Muppet Show hosting Tiffany Alvord]
-.. https://www.shlomifish.org/humour/All-in-an-Atypical-Day-Work/["All in an Atypical Day`'s Work"] - MLP / "Rindolf" 
-.. https://www.shlomifish.org/humour/bits/One-does-not-simply-start-a-story-with-And-they-all-lived-happily-ever-after/["`One does not simply start a story with '`And they all lived happily ever after`'`"] - MLP / etc. 
+.. https://www.shlomifish.org/humour/All-in-an-Atypical-Day-Work/["All in an Atypical Day`'s Work"] - https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic[My Little Pony: Friendship Is Magic] / "Rindolf" 
+.. https://www.shlomifish.org/humour/bits/One-does-not-simply-start-a-story-with-And-they-all-lived-happily-ever-after/["`One does not simply start a story with '`And they all lived happily ever after`'`"] - https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic[My Little Pony: Friendship Is Magic] / etc. 
 .. https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/["`So, who the Hell is Qoheleth?`" - An Illustrated Screenplay]
 .. https://www.shlomifish.org/humour/bits/true-stories/[My true stories / memoirs] - may be scary in retrospect. 
 .. https://github.com/shlomif/shlomi-fish-homepage/commits/master/src/meta/FAQ/index.xhtml.tt2[Recent changes to my personal F.A.Q.]
 .. https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-religion-rindolfism[##religion - Reviewing Rindolfism] - mostly by elgranroble. 
+.. https://www.shlomifish.org/humour/bits/The-Princess-Programmer/["`The Princess Programmer`"] - a post-post-modern fairy-tale ( with an https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic[My Little Pony: Friendship Is Magic] influence ). 
 * https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#post-ascension-plan[Post-ascension plan]
 * Precursors / stepping stones: 
 ** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-*)"]
