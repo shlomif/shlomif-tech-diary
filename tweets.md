@@ -984,3 +984,7 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 ----
 
+#techtip : if you are running several #docker VMs one after the other (e.g.: for testing / CI on pristine environments), then you should shut-down the earlier VMs before running the subsequent ones. Else they'll consume CPU+RAM.
+
+----
+
