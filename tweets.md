@@ -998,3 +998,9 @@ How come Iran has been working on an Atomic Bomb for over 30 years? It took http
 
 ----
 
+New "post-post-Modern fairy-tale" bit: The Princess Programmer https://www.shlomifish.org/humour/bits/The-Princess-Programmer/ . #mlpfim #swdev self-ref
+
+( https://twitter.com/shlomif/status/1799821100593053948 )
+
+----
+
