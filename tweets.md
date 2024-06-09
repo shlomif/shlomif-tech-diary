@@ -982,9 +982,19 @@ The affairs that some vampirellas had with Alexandre Dumas père ( https://en.wi
 
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
+( https://twitter.com/shlomif/status/1799782411867390448 )
+
 ----
 
 #techtip : if you are running several #docker VMs one after the other (e.g.: for testing / CI on pristine environments), then you should shut-down the earlier VMs before running the subsequent ones. Else they'll consume CPU+RAM.
+
+( https://twitter.com/shlomif/status/1799782411867390448 )
+
+----
+
+How come Iran has been working on an Atomic Bomb for over 30 years? It took https://en.wikipedia.org/wiki/Manhattan_Project less than 4 years. A study was published which described how to build atomic bombs using only household equipment, except for Uranium ores.
+
+( https://twitter.com/shlomif/status/1799782411867390448 )
 
 ----
 
