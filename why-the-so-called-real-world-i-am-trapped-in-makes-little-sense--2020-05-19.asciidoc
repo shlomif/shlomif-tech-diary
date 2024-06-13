@@ -250,6 +250,18 @@ https://www.shlomifish.org/meta/FAQ/#how_did_you_learn_english[Shlomif's FAQ: Ho
 ** Theses drugs have to be bitter, because otherwise they won't be considered medicine, right?! 
 * https://en.wikipedia.org/wiki/William_Jennens[The Jennens vs. Jennens] court-case supposedly took-over-a-century and wasted a lot of money. In actuality, the two sides split the money 50-50. The case began as a relic in hells of some vampires. But they received enough additional money-to-keep the show afloat. It was a parody court-case that exercised the functionality-of-the-real-legal-system. 
 ** https://en.wikipedia.org/w/index.php?title=Smartphone_patent_wars&oldid=1224319910[the Smartphone patents`' wars] are a facade for smartphone vendors pointing out flaws, features, and misfeatures in each other`'s products. There is little money at stake, and no bans. 
+* Lately, blogging and chatting online has become an obstacle race of censored resources, resources that require registration or payment, broken links, links that are deemed non-free by FLOSS zealots, etc. https://www.shlomifish.org/humour/fortunes/paul-graham.html[Paul Graham had written about that years ago:]
++
+
+[quote]
+The second big element of Web 2.0 is democracy.
+We now have several examples to prove that amateurs can surpass professionals, when they have the right kind of system to channel their efforts.
+Wikipedia may be the most famous.
+Experts have given Wikipedia middling reviews, but they miss the critical point: it`'s good enough.
+And it`'s free, which means people actually read it.
+On the web, articles you have to pay for might as well not exist.
+Even if you were willing to pay to read them yourself, you can`'t link to them.
+They`'re not part of the conversation. 
 
 
 [[obstacles-and-delays]]
