@@ -1,2 +1,2 @@
-$("div[id]").each(function(i){ $(this).prepend(
-' <span class="selfl">[<a href="#' + this.id + '">link</a>]</span>' ) })
+$("div[id]").each(function(i){ const that = this;
+    $(that).prepend( ' <span class="selfl">[<a href="#' + that.id + '">link</a>]</span>' ) })
