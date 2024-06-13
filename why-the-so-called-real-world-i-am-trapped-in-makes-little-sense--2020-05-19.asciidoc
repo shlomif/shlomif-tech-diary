@@ -173,7 +173,7 @@ without magic.
 .. https://mirrors.edge.kernel.org/pub/linux/kernel/ is far more wasteful
 .. https://en.wikipedia.org/wiki/Nazi_book_burnings
 .. https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning
-.. https://www.chabad.org/library/bible_cdo/aid/16186
+.. https://www.chabad.org/library/bible_cdo/aid/16186[Yonah / Jonah: "how come you have shown mercy for the kikayon plant, and I won't show mercy for a Ninveh, the large city?"]
 * https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie`'s song "Feelin' Good"] views' count has been stuck below 4 million.
 * I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( "`OK, OK. Tell you what? I`'ll play along.`" ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
 * My 9th grade literature teacher told us that https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[philosophy / philosophising] was bad! 
@@ -286,6 +286,7 @@ Moreover, the 9th grade literature teacher said Philosophy is bad (she must have
 . Labelled as a "spammer" ( https://shlomif.livejournal.com/20689.html[reference #1] ; https://www.shlomifish.org/meta/FAQ/#advertise_your_site[reference #2] ) 
 . Accused of "trolling" when I was being frank. 
 . Accused of being narcissistic. 
+. https://www.shlomifish.org/meta/FAQ/#pc_nazi[Saying "nazi" alludes to Hitler/etc. 3rd-Reich]
 . Whatever generalisation I make, there will be someone on IRC/facebook-chat who will claim an exception. 
 ** https://www.shlomifish.org/meta/FAQ/[My FAQ]
 
