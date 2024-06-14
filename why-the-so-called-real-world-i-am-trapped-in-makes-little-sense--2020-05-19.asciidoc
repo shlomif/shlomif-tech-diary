@@ -262,6 +262,7 @@ And it`'s free, which means people actually read it.
 On the web, articles you have to pay for might as well not exist.
 Even if you were willing to pay to read them yourself, you can`'t link to them.
 They`'re not part of the conversation. 
+* Many open-source-software projects,  or websites/blogs/etc. have seemingly been abandoned by their originators and maintainers. "`"You divorce wives, not children" -- https://en.wikipedia.org/wiki/Clueless[Clueless].`"
 
 
 [[obstacles-and-delays]]
