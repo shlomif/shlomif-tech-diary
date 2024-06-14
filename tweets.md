@@ -1004,3 +1004,7 @@ New "post-post-Modern fairy-tale" bit: The Princess Programmer https://www.shlom
 
 ----
 
+Seems like I am not the only man who, as a general rule, dislike seeing women naked, and rather see them in bikini/lingerie (“scantily-clad”) https://www.reddit.com/r/unpopularopinion/comments/1deuq21/women_look_way_better_in_a_bikinilingerie_than/ .
+
+----
+
