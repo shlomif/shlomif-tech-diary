@@ -196,7 +196,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * Boeing 747/etc. aeroplanes are so heavy that they can only fly **by magic**. 
 ** Same for honey bees. 
 * I drank so little for many days, that I should have died of water deprivation. 
-* I survived biting an Oak acorn (as a child) despite https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel[Guns, Germs, and Steel]'s claim that they contain poison. 
+* I survived biting an Oak acorn (as a child) despite https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel[Guns, Germs, and Steel]'s claim that acorns contain poison. 
 * The third-reich nazis could not have remained motivated to kill so many people. 
 * A typical Gorilla is far stronger than even the strongest humans, while not exercising. 
 * There is a high-performance chess engine, written in C under GPL/AGPL. One dev maintains an enhanced fork of it, of which he privately gives binaries, only after lengthy background checks (a grand waste of time/energy/love). 
@@ -262,7 +262,8 @@ And it`'s free, which means people actually read it.
 On the web, articles you have to pay for might as well not exist.
 Even if you were willing to pay to read them yourself, you can`'t link to them.
 They`'re not part of the conversation. 
-* Many open-source-software projects,  or websites/blogs/etc. have seemingly been abandoned by their originators and maintainers. "`"You divorce wives, not children" -- https://en.wikipedia.org/wiki/Clueless[Clueless].`"
+* Many open-source-software projects,  or websites/blogs/etc. have seemingly been abandoned by their originators and maintainers. "`You divorce wives, not children -- https://en.wikipedia.org/wiki/Clueless[Clueless].`"
+* Why are there so many copyright takedown requests? As far as the copyright holders or the lawyers acting on their behalf are concerned, they are a waste of time, love, and often -- money. 
 
 
 [[obstacles-and-delays]]
