@@ -1008,3 +1008,9 @@ Seems like I am not the only man who, as a general rule, dislike seeing women na
 
 ----
 
+GitHub/etc. notify me over many vulnerabilities in npm-packages that I cannot easily upgrade and fix. I need to use npm for TypeScript.
+
+( https://twitter.com/shlomif/status/1804774599046889478 )
+
+----
+
