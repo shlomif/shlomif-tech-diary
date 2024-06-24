@@ -1014,3 +1014,9 @@ GitHub/etc. notify me over many vulnerabilities in npm-packages that I cannot ea
 
 ----
 
+When writing code, I often opt to use versions that are more portable, standard, or compatible, in order to ease the maintenance burden on future maints.
+
+But I'm not a purist: https://github.com/shlomif/supporting-older-perl5-releases
+
+----
+
