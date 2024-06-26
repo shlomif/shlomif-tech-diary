@@ -1024,9 +1024,13 @@ But I'm not a purist: https://github.com/shlomif/supporting-older-perl5-releases
 
 As I investigated a headless-browser-test / puppeteer tests failure, I eventually realized that the culprit was that the localhost apache was not successfully serving the pages. I added some regression checks 4that.
 
+( https://twitter.com/shlomif/status/1805794820239024176 )
+
 ----
 
 Fedora tip: one can right-click the "DNF Updates are pending" icon in the Xfce/etc. system-tray to select "Check for updates" and refresh the status even without entering the root's password.
+
+( https://twitter.com/shlomif/status/1805796205986726317 )
 
 ----
 
