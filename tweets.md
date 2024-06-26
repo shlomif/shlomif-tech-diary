@@ -1018,5 +1018,15 @@ When writing code, I often opt to use versions that are more portable, standard,
 
 But I'm not a purist: https://github.com/shlomif/supporting-older-perl5-releases
 
+( https://twitter.com/shlomif/status/1805216675534455201 )
+
+----
+
+As I investigated a headless-browser-test / puppeteer tests failure, I eventually realized that the culprit was that the localhost apache was not successfully serving the pages. I added some regression checks 4that.
+
+----
+
+Fedora tip: one can right-click the "DNF Updates are pending" icon in the Xfce/etc. system-tray to select "Check for updates" and refresh the status even without entering the root's password.
+
 ----
 
