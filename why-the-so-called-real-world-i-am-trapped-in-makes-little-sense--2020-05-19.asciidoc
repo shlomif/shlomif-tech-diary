@@ -263,6 +263,29 @@ On the web, articles you have to pay for might as well not exist.
 Even if you were willing to pay to read them yourself, you can`'t link to them.
 They`'re not part of the conversation. 
 * Many open-source-software projects,  or websites/blogs/etc. have seemingly been abandoned by their originators and maintainers. "`You divorce wives, not children -- https://en.wikipedia.org/wiki/Clueless[Clueless].`"
+** https://en.wikipedia.org/wiki/Npm[npmjs]
+**
++
+[source]
+----
+
+$ cargo install-update -a
+
+    Polling registry 'https://index.crates.io/'......
+
+Package       Installed  Latest   Needs update
+bat           v0.24.0    v0.24.0  No
+cargo-update  v13.4.0    v13.4.0  No
+cbindgen      v0.26.0    v0.26.0  No
+fd-find       v10.1.0    v10.1.0  No
+hexyl         v0.14.0    v0.14.0  No
+ripgrep       v14.1.0    v14.1.0  No
+
+No packages need updating.
+Overall updated 0 packages.
+----
++
+Rust-lang is supposedly a very trendy language currently! 
 * Why are there so many copyright takedown requests? As far as the copyright holders or the lawyers acting on their behalf are concerned, they are a waste of time, love, and often -- money. 
 
 
@@ -304,6 +327,7 @@ Moreover, the 9th grade literature teacher said Philosophy is bad (she must have
 . Accused of applying the words "`hacker`", "`hack`", "`hacking`" to describe enthusiasts which are not computer intruders, or software developers: https://www.shlomifish.org/meta/FAQ/#are_you_a_hacker["`Are you a hacker?`"] ; https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#hackers["`'`hackers`' vs. '`fuckers`'`"]. 
 . Whatever generalisation I make, there will be someone on IRC/facebook-chat who will claim an exception. 
 ** https://www.shlomifish.org/meta/FAQ/[My FAQ]
+** Nevertheless, there are often people who agree with me. 
 
 
 [[selinaverse_vision]]

@@ -1015,6 +1015,41 @@ abandoned by their originators and maintainers. <quote>You divorce wives, not
 children — <link
 xlink:href="https://en.wikipedia.org/wiki/Clueless"><emphasis>Clueless</emphasis></link>.</quote>
 </para>
+
+<itemizedlist>
+
+<listitem>
+<para>
+<link xlink:href="https://en.wikipedia.org/wiki/Npm">npmjs</link>
+</para>
+</listitem>
+
+<listitem>
+<para>
+<programlisting>
+$ cargo install-update -a
+
+    Polling registry 'https://index.crates.io/'......
+
+Package       Installed  Latest   Needs update
+bat           v0.24.0    v0.24.0  No
+cargo-update  v13.4.0    v13.4.0  No
+cbindgen      v0.26.0    v0.26.0  No
+fd-find       v10.1.0    v10.1.0  No
+hexyl         v0.14.0    v0.14.0  No
+ripgrep       v14.1.0    v14.1.0  No
+
+No packages need updating.
+Overall updated 0 packages.
+</programlisting>
+</para>
+<para>
+Rust-lang is supposedly a very trendy language currently!
+</para>
+</listitem>
+
+</itemizedlist>
+
 </listitem>
 
 <listitem>
@@ -1205,6 +1240,12 @@ Whatever generalisation I make, there will be someone on IRC/facebook-chat who w
 <listitem>
 <para>
 <link xlink:href="https://www.shlomifish.org/meta/FAQ/">My FAQ</link>
+</para>
+</listitem>
+
+<listitem>
+<para>
+Nevertheless, there are often people who agree with me.
 </para>
 </listitem>
 
