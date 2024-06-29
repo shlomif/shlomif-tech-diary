@@ -1034,3 +1034,6 @@ Fedora tip: one can right-click the "DNF Updates are pending" icon in the Xfce/e
 
 ----
 
+The Egyptian pyramids and the Mesoamerican pyramids were probly constructed using magic, given they are constructed of many large stones which supposedly originated 100s of kms afar. Thus, 3rd-Reich camps (Auschwitz/etc.) may also sprung-up relics when .pl parts were de-hellholed.
+
+( https://twitter.com/shlomif/status/1806896374614462820 )
