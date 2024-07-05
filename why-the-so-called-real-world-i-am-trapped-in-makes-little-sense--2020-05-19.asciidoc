@@ -166,13 +166,13 @@ ____
 +
 we cannot reasonably distribute so many food products all over USA, Europe, Asia, Israel, etc.
 without magic. 
-* I have fanfics with Emma Watson, which she can film - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she hasn't made a film in years yet everyone talk about her
+* I have fanfics with Emma Watson, which she can film - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect , but she allegedly hasn't made a film in years yet everyone talk about her
 * Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
 * Occam`'s Razor tells me there`'s a conspiracy-- https://is.gd/kSLGdP
 * Someone on freenode told me my site is a "waste of space" even though:
 .. https://mirrors.edge.kernel.org/pub/linux/kernel/ is far more wasteful
-.. https://en.wikipedia.org/wiki/Nazi_book_burnings
-.. https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning
+.. https://en.wikipedia.org/wiki/Nazi_book_burnings[Nazi book burnings]
+.. https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning[Where they have burned books they will end in burning]
 .. https://www.chabad.org/library/bible_cdo/aid/16186[Yonah / Jonah: "how come you have shown mercy for the kikayon plant, and I won't show mercy for a Ninveh, the large city?"]
 * https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie`'s song "Feelin' Good"] views' count has been stuck below 4 million.
 * I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( "`OK, OK. Tell you what? I`'ll play along.`" ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
@@ -194,7 +194,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 .. ARM is underperformant while having low gates' count and power consumption. 
 .. yet, Apple added an x86-64 emulation, which wastes gates and power! 
 * Boeing 747/etc. aeroplanes are so heavy that they can only fly **by magic**. 
-** Same for honey bees. 
+** Same for https://en.wikipedia.org/wiki/Honey_bee[honey bees]. 
 * I drank so little for many days, that I should have died of water deprivation. 
 * I survived biting an Oak acorn (as a child) despite https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel[Guns, Germs, and Steel]'s claim that acorns contain poison. 
 * The third-reich nazis could not have remained motivated to kill so many people. 
@@ -222,7 +222,7 @@ They`'re not part of the conversation.
 ** "I'm now focusing on Ancient Greek philosophy" 
 ** "There's still a lot I don't know about Ruby-on-Rails" [as if one can learn it all!] 
 * I suspect the reason that Christina Grimmie`'s introes/outroes had so many videos' interruptions is that they were lying to me: https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Reference: [my] Christina Grimmie fan page] . Occam's Razor tells me there *is* a conspiracy. 
-* E-mail / blogs / etc. spam should have been stopped by karma (= "what goes around, comes around"). https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#all_people_are_good
+* E-mail / blogs / etc. spam should have been stopped by karma (= "what goes around, comes around"). https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#all_people_are_good[Case for Commercial fan-fiction: all people are good]
 * In the Russia-Ukraine war, the Russians are stupid enough to keep using tanks. 
 * https://en.wikipedia.org/wiki/Alexandre_Dumas[Alexandre Dumas pere] had 40 affairs. 
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_arnie.xhtml[Arnold Schwarzenegger] reportedly started his acting career when in his 40s. Ageism aside, the real reason was his template`'s secret history as one of https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#history-lesson-about-the-muppeteers[The Three [Head] Muppeteers]. 
@@ -289,6 +289,7 @@ Rust-lang is supposedly a very trendy language currently!
 * Why are there so many copyright takedown requests? As far as the copyright holders or the lawyers acting on their behalf are concerned, they are a waste of time, love, and often -- money. 
 * Seems like I am not the only man who, as a general rule, dislike seeing women naked, and rather see them in bikini/lingerie ("`scantily-clad`") https://www.reddit.com/r/unpopularopinion/comments/1deuq21/women_look_way_better_in_a_bikinilingerie_than/["`women look way better in a bikini/lingerie than completely naked. : r/unpopularopinion`"] . However, one allegedly needs to be naked to "4th-base" (or is it "home-run"). Moreover, people pee from penises and vaginas! 
 * In https://www.shlomifish.org/humour/fortunes/show.cgi?id=when-closed-source-bites[this IRC convo] someone keep defending the fact that Firefox, is in some aspects, superior to Opera because it is open-source, changing his arguments and evading mine. 
+* The people I refer to these issues online could not until now give sufficient rationalisations or explanations to refute any substantil number of these "What-The-Fucks?". https://en.wikisource.org/wiki/Amos_(Bible)[Quoting Amos], I can accept 3, but I have many more. 
 
 
 [[obstacles-and-delays]]
