@@ -1046,4 +1046,8 @@ While nested orderedlists, itemlists, and paragraphs, are a nobrainer in DocBook
 
 Also see https://www.shlomifish.org/philosophy/computers/web/choice-of-docs-formats/ .
 
+----
 
+If you want to send start/stop/restart/reload signals to Apache httpd which is using a custom httpd.conf, you can use "httpd -f [path2conffile] -k [start|stop…]" in lieu of apachectl. #techtip
+
+( https://x.com/shlomif/status/1810550876026593741 )
