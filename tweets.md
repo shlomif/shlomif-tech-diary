@@ -1056,3 +1056,5 @@ If you want to send start/stop/restart/reload signals to Apache httpd which is u
 
 3 covers, to which I enjoy listening, whose instrumentations sound professional to me: https://youtu.be/m9noepvAOsQ ; https://youtu.be/li1Rqo2UC88 ; https://youtu.be/PUr0qUNG_XI #music
 
+( https://twitter.com/shlomif/status/1813952814923841877 )
+
