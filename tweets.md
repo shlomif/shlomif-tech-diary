@@ -1058,3 +1058,13 @@ If you want to send start/stop/restart/reload signals to Apache httpd which is u
 
 ( https://twitter.com/shlomif/status/1813952814923841877 )
 
+----
+
+An easy introduction to "edge computing" - similar to CDNs - only acceling other algorithmic services:
+
+https://dev.to/fastly/an-easy-intro-to-edge-computing-3ced
+
+( https://twitter.com/shlomif/status/1816396789143970057 )
+
+----
+
