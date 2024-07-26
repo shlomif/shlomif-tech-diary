@@ -1068,3 +1068,9 @@ https://dev.to/fastly/an-easy-intro-to-edge-computing-3ced
 
 ----
 
+Per the "mailing list diet" on https://www.shlomifish.org/philosophy/by-others/perlcast-transcript--tom-limoncelli-interview/ , I decided that I'll try to sort-or-delete 2 unsorted bookmarks whenever I add one
+
+(  https://twitter.com/shlomif/status/1816800317595582713 )
+
+----
+
