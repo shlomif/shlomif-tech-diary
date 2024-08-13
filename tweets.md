@@ -1074,3 +1074,10 @@ Per the "mailing list diet" on https://www.shlomifish.org/philosophy/by-others/p
 
 ----
 
+1 + 0² = 1
+1 + 1² = 2
+1 + 2² = 5
+1 + 3² = 10 (= 1×2×5)
+1 + 4² = 17 (= 2+5+10)
+
+( https://twitter.com/shlomif/status/1823400318685651259 )
