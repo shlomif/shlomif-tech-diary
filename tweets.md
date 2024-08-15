@@ -1081,3 +1081,12 @@ Per the "mailing list diet" on https://www.shlomifish.org/philosophy/by-others/p
 1 + 4² = 17 (= 2+5+10)
 
 ( https://twitter.com/shlomif/status/1823400318685651259 )
+
+----
+
+https://cybersecuritynews.com/0-click-rce-windows-tcp-ip/ - new MS-Windows vulnerability
+
+( https://twitter.com/shlomif/status/1823987092042498430 )
+
+----
+
