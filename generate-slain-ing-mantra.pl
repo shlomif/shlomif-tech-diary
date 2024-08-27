@@ -44,17 +44,20 @@ sub run
 <orderedlist>
 EOF
 
-    foreach my $idx ( 1 .. 100 )
+    foreach my $idx ( 1 .. 1 )
     {
         $text .= "\n<listitem>\n\n";
         my @lines = split /[\n\r]+/ms, <<"EOF";
 Die, fucker, die.
 Yeah, Zine,
-Suck, Cock,
-Dick, Rock, Hack.
+Hallelujah.
+Now fuck off!
+
+# Suck, Cock,
+# Dick, Rock, Hack.
 EOF
 
-        foreach my $line (@lines)
+        foreach my $line ( grep { /\S/ and ( not /\A#/ ) } @lines )
         {
             $text .= "<para>\n$line\n</para>\n\n";
         }
@@ -72,7 +75,7 @@ EOF
     }
     my $fh       = path("multiverse-cosmology-v0.4.x.docbook5.xml");
     my $contents = $fh->slurp_utf8();
-    $contents =~ s%\Q<section xml:id="mantra13">\E.*?\Q</section>\E\n%$text%ms
+    $contents =~ s%\Q<section xml:id="mantra1">\E.*?\Q</section>\E\n%$text%ms
         or die "cannot subtitute mantra13 text";
     $fh->spew_utf8($contents);
     exit(0);
