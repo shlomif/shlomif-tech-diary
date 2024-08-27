@@ -44,14 +44,16 @@ sub run
 <orderedlist>
 EOF
 
-    foreach my $idx ( 1 .. 1 )
+    foreach my $idx ( 1 .. 2 )
     {
         $text .= "\n<listitem>\n\n";
+        my $changing_line =
+            ( ( $idx == 1 ) ? "Now fuck off!" : "Fuck off, now!" );
         my @lines = split /[\n\r]+/ms, <<"EOF";
 Die, fucker, die.
 Yeah, Zine,
 Hallelujah.
-Now fuck off!
+$changing_line
 
 # Suck, Cock,
 # Dick, Rock, Hack.
