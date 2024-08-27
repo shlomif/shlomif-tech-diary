@@ -35,7 +35,7 @@ sub run
     #    $obj->do_system( { cmd => [ "git", "clone", "-b", $BRANCH, $URL, ] } );
 
     my $text = <<"EOF";
-<section xml:id="mantra13">
+<section xml:id="mantra1">
 
 <info>
 <title>mantra</title>
@@ -76,7 +76,7 @@ EOF
     my $fh       = path("multiverse-cosmology-v0.4.x.docbook5.xml");
     my $contents = $fh->slurp_utf8();
     $contents =~ s%\Q<section xml:id="mantra1">\E.*?\Q</section>\E\n%$text%ms
-        or die "cannot subtitute mantra13 text";
+        or die "cannot subtitute mantra1 text";
     $fh->spew_utf8($contents);
     exit(0);
 }
