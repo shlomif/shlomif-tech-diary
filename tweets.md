@@ -1090,3 +1090,14 @@ https://cybersecuritynews.com/0-click-rce-windows-tcp-ip/ - new MS-Windows vulne
 
 ----
 
+I suspect that as a vampire-in-a-hell, many yes/no decisions have 2 wrong choices. That is "people" will disapprove in both cases. Sometimes the experiences are still educational, though.
+
+( https://twitter.com/shlomif/status/1829098786905305280 )
+
+----
+
+Kermit: it has been said that men would kill to kiss you.
+
+Tiffany: heh, figuratively, I hope.
+
+— https://www.shlomifish.org/humour/Muppets-Show-TNI/Tiffany-Alvord.html
