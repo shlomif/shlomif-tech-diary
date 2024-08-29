@@ -1101,3 +1101,10 @@ Kermit: it has been said that men would kill to kiss you.
 Tiffany: heh, figuratively, I hope.
 
 — https://www.shlomifish.org/humour/Muppets-Show-TNI/Tiffany-Alvord.html
+
+----
+
+One good side-effect to wearing prescription/etc. glasses is that they might provide a layer of eye protection. To avoid hubris, I decided that I'll try2wear my glasses whenever possible. I will also try2otherwise proactively avoid physical peril; glasses r not panacea.
+
+----
+
