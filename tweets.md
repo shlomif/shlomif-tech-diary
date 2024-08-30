@@ -1106,5 +1106,7 @@ Tiffany: heh, figuratively, I hope.
 
 One good side-effect to wearing prescription/etc. glasses is that they might provide a layer of eye protection. To avoid hubris, I decided that I'll try2wear my glasses whenever possible. I will also try2otherwise proactively avoid physical peril; glasses r not panacea.
 
+( https://twitter.com/shlomif/status/1829192643953471685 )
+
 ----
 
