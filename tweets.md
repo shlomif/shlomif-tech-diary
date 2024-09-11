@@ -1110,3 +1110,15 @@ One good side-effect to wearing prescription/etc. glasses is that they might pro
 
 ----
 
+I have a set of scripts that builds fc-solve with some randomly-selected cmake flags, and checks for warnings+failing tests. I noticed I should also test with a relatively small num of flags (less than 5), or else some will shadow others.
+
+( https://twitter.com/shlomif/status/1833849476131193101 )
+
+----
+
+In https://fc-solve.shlomifish.org/js-fc-solve/find-deal/ I originally had 1e6 (iterations) as the GUI update step, but I saw that it's much faster with 1e7. Now I allow customising it using an experimental localStorage key.
+
+( https://twitter.com/shlomif/status/1833849804306206850 )
+
+----
+
