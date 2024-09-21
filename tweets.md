@@ -810,7 +810,7 @@ https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/ongoing-text.html#
 
 ----
 
-It may be heresy, but I think #python 3 benefits less from typechecking (mypy/etc.) than JS → #TypesScript .
+It may be heresy, but I think #python 3 benefits less from typechecking (mypy/etc.) than JS → #TypeScript .
 
 ----
 
