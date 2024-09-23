@@ -350,6 +350,7 @@ My parents also said philosophising was bad and that I shouldn't have it, when I
 . https://www.shlomifish.org/meta/FAQ/#pc_nazi[Saying "nazi" alludes to Hitler/etc. 3rd-Reich]
 . Accused of applying the words "`hacker`", "`hack`", "`hacking`" to describe enthusiasts who are not computer intruders, or software developers: https://www.shlomifish.org/meta/FAQ/#are_you_a_hacker["`Are you a hacker?`"] ; https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#hackers["`'`hackers`' vs. '`fuckers`'`"]. 
 . When I noted on IRC that I think the best diet may vary from person to person, based on their genetics, physiology, etc. someone said "it's always the same https://en.wikipedia.org/wiki/Adenosine_triphosphate[ATP [Adenosine triphosphate]] processing". That does not explain how different people have variable https://en.wikipedia.org/wiki/Food_allergy[Food allergies]. 
+. https://shlomif-tech.livejournal.com/68173.html["`The Lost Souls of Freenode`"] - ridiculus constraints for help-requests. 
 . Whatever generalisation I make, there will be someone on IRC/facebook-chat who will claim an exception. 
 ** https://www.shlomifish.org/meta/FAQ/[My FAQ]
 ** Nevertheless, there are often people who agree with me. 
