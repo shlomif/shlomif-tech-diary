@@ -3,7 +3,7 @@
 Shlomi
 Fish
  <shlomif@shlomifish.org>
-2022-06-10
+2024-09-23
 
 [[intro]]
 == Introduction
@@ -170,10 +170,10 @@ death] and feature them in artworks (e.g.
 However, they were not really real for us. 
 
 Moreover, as appealing and fun universes whose histories have crossovered "Star Trek" and "Star Wars" ( like the one of https://www.shlomifish.org/humour/Queen-Padme-Tales/[Queen Padmé Tales] ) seem to be, "Star Wars" did not really happen in the Selinaverse, while many Star Trek individuals, concepts, and events were present at various times and variations in its history.
-The terresterial core "Star Trek" franchise (of my hell) mixed-and-matched them, as well as other more recent elements, and often idealised, demonised, or romanticised the characters or events. 
+The terresterial core "Star Trek" universe (of my hell) mixed-and-matched them, as well as other more recent elements, and often idealised, demonised, or romanticised the characters or events. 
 
 Earlier in Earth's history, the Jewish scribes had a policy of mutating the Hebrew/Jewish Bible text as little as possible.
-The https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex], which Rabbi Mosheh Ben-Maimon (= "Maimonides") approved of as canonical, was still often both too tedious, and large parts of it had been filtered out by the para-Fantastechans or vampires or wizards acting on their behalf.
+The https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex], which Rabbi Mosheh Ben-Maimon (= "Maimonides", "Harambam") approved of as canonical, was still often both too tedious, and large parts of it had been filtered out by the para-Fantastechans or vampires or wizards acting on their behalf.
 Moreover, while most of its narrative and content, seemed to be reasonable, coherent and believable to me (even as a vampire who started as a "rationality"-ist/"science"-ist person, who thought that supernatural magic did not exist), in the Selinaverse, many of the Tanakh's characters lived (including as pre-slain vampires) in different times, and did different things (including those attributed to other characters). And none of them ever perished (= "physically died") or literally massacred other hackers (including humans, vampires, or even non-primate mammals / birds / etc.). 
 
 As a vampire writer, I also mixed and matched characters, concepts, events, from many sources, times, universes, including from my hell's "real-world", and my online-and-offline present-and-past life. 
@@ -185,7 +185,7 @@ There are likely Judaist jedis too, just like there are https://www.shlomifish.o
 
 --------------------------------------------------------- 
 
-Anyway, TheCodex(TM) of TheGame(TM) of Fantastecha(TM) was kept secret from the link:#hackers[hackers (+++=+++ player characters)] of the Selinaverse and was to be revealed to the Terminal Terran Terminator (me?). 
+Anyway, TheCodex(TM) of TheGameOfSuckers(TM) of Fantastecha(TM) was kept secret from the link:#hackers[hackers (+++=+++ player characters)] of the Selinaverse and was to be revealed to the Terminal Terran Terminator (me?). 
 
 The meta-Fantastechans who play TheGame(TM) of Fantastecha(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
 
@@ -235,7 +235,8 @@ Also see https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-t
 Life in Fantastecha(TM) requires magic.
 For example in https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King`'s opening] the Pelican-like birds start flying out of their own volition. 
 
-It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and their fan-art https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] were constructed using magic. 
+It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and their fan-art https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] were constructed using magic.
+They may have also been conjured almost instanteously, as alternate-historical evidence. footnote:[The same logic may be applied to the World War II "evidence" of the Nazi concentration camps death camps.]
 
 Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGame(TM) of Fantastecha(TM) challenging. 
 
