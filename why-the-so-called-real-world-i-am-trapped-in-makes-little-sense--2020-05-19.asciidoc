@@ -304,6 +304,7 @@ Rust-lang is supposedly a very trendy language currently!
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[Iran has been working on an atomic bomb for over 30 years] whereas it took the Manhattan Project fewer than 5 years, and a study was published on how to construct a nuclear bomb only with home-equipment, except for Uranium ores.
 +
 Moreover, Iran let https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] happen. 
+* Why should our universe be the only "real world"? ( https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#rationality[Reference] ) 
 * The people I refer to these issues online could not until now give sufficient rationalisations or explanations to refute any substantial number of these "What-The-Fucks?". https://en.wikisource.org/wiki/Amos_(Bible)[Quoting Amos], I can accept 3, but I have many more. 
 
 
