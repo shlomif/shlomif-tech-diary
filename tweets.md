@@ -1122,3 +1122,9 @@ In https://fc-solve.shlomifish.org/js-fc-solve/find-deal/ I originally had 1e6 (
 
 ----
 
+While u shud never try2pls everyone ( https://shlomifishswiki.branchable.com/Never_Try_to_Please_Everyone/ ), and cant, u shudnt try to offend/annoy/hurt others purposely, or for vanity. Often ppl's disapproval or crit of ur works have merit, and u can/shud try2alloc time2alloc resources2imporve.
+
+( https://twitter.com/shlomif/status/1838089531716780198 )
+
+----
+
