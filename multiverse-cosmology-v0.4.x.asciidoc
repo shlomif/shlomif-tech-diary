@@ -2048,6 +2048,7 @@ Definitions:
 . *The media / mediums* "in-betweens": the paths that a meme travels until reception. 
 . *Model* (static snapshot) vs. *actor / actress* (dynamic, changing, but temporary). 
 . *Nature*
+. "To die" -> to lose a game, any game ( determined using https://duckduckgo.com/?q=green+d10+die&atb=v140-1&iax=images&ia=images[ (d10?) dice] ); "to be slain" -> "to die in TheGameOfSuckers(TM) Of Fantastecha(TM)" 
 
 
 [[death]]
