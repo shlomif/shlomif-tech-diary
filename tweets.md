@@ -1128,3 +1128,13 @@ While u shud never try2pls everyone ( https://shlomifishswiki.branchable.com/Nev
 
 ----
 
+The word's "slavery". How do u get many men/women working for free? U need paid supervisors, but then they r unhappy. I+others quit high-paying jobs 4 varius reasons. Moreover, a hacker (who has has soul+mind) exhibits https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop .
+
+I suspect https://en.wikipedia.org/wiki/Alexandre_Dumas ’s father’s mother was not actuly a slave or thought of herself as one. It was just a facade for my hell's unified / absolute (and not real) history.
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+( https://twitter.com/shlomif/status/1839539127881957525 )
+
+----
+
