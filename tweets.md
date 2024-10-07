@@ -1138,3 +1138,9 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 ----
 
+While La Linea ( https://en.wikipedia.org/wiki/La_Linea_(TV_series) ) 's dimensionality ranges between 1½ and 3 dimensions , excluding time , Mr. Linea has claimed that he is in fact a 40 dimensions mastermind. 😉
+
+( https://twitter.com/shlomif/status/1843287597214499322 )
+
+----
+
