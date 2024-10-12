@@ -1144,3 +1144,8 @@ While La Linea ( https://en.wikipedia.org/wiki/La_Linea_(TV_series) ) 's dimensi
 
 ----
 
+I recently realised that some CPAN installs in bleadperl were caused by Test::Run failures. Moreover, some dnf5 updates in fedora41 were blocked by telegram-desktop (which I didnt need). If stuff like that fails, it's a good idea2read the errors.
+
+Also https://www.shlomifish.org/humour/fortunes/show.cgi?id=schwern-on-no-broken-windows
+
+( https://twitter.com/shlomif/status/1845014039492976864 )
