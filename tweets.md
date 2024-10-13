@@ -1149,3 +1149,14 @@ I recently realised that some CPAN installs in bleadperl were caused by Test::Ru
 Also https://www.shlomifish.org/humour/fortunes/show.cgi?id=schwern-on-no-broken-windows
 
 ( https://twitter.com/shlomif/status/1845014039492976864 )
+
+----
+
+Internet “people” to me: “I don't click on URLs”.
+
+Me: then what do you intend to do with the URLs? Compress them under several million tonnes of rock for a few eons? 😉 #usability #humor #humour
+
+( https://twitter.com/shlomif/status/1845275362458034229 )
+
+----
+
