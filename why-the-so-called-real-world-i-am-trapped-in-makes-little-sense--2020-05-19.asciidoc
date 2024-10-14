@@ -9,7 +9,7 @@ Date: 2021-08-12
 
 From: https://www.shlomifish.org/me/contact-me/[Shlomi Fish]
 
-URL: https://is.gd/1vNvze
+Source URL: https://github.com/shlomif/shlomif-tech-diary/blob/master/why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.docbook5.xml[https://is.gd/5gnFvV]
 
 Here are some reasons why the outside world as I perceive it is contradictory, non-sensible, and even illogical.
 
@@ -172,7 +172,7 @@ we cannot reasonably distribute so many food products all over USA, Europe, Asia
 without magic. 
 * I have fanfics featuring Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect[#harry_potter_sect]. She can film them, or similar fanstories and screenplays written by other writers. But she allegedly hasn't made a film in years. Moreover, despite all that, everyone are talking about her
 * Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
-* Occam`'s Razor tells me there`'s a conspiracy-- https://is.gd/kSLGdP
+* Occam`'s Razor tells me there`'s a conspiracy-- https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[https://is.gd/kSLGdP]
 * Someone on freenode told me my site is a "waste of space" even though:
 .. https://mirrors.edge.kernel.org/pub/linux/kernel/ is far more "`wasteful`"
 .. https://en.wikipedia.org/wiki/Nazi_book_burnings[Nazi book burnings]
@@ -374,7 +374,7 @@ Namely:
 ** They often eventually relocate to a different planet or a different universe (not unlike https://en.wikipedia.org/wiki/Sliders[Sliders])
 * One can open a portal to a different location on Earth or the multiverse.
 * Most menial / drudgerous works are done by advanced technology / magic.
-* https://is.gd/A7rkAh[Geeky Hackers] are the attractive, competent, cool kids. Even non-perfect-looking men and women can be alphas.
+* https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hacking_and_amateur__vs__conformism_and_professional[Geeky Hackers] are the attractive, competent, cool kids. Even non-perfect-looking men and women can be alphas.
 * Earth has no environmental problems.
 ** There is no ethical problem with eating meat, dairy, eggs, honey, etc. because they are duplicated using https://buffyfanfiction.fandom.com/wiki/Q_Continuum_(Selinaverse)[Q Continuum] technology.
 * There is https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[no known risk of a nuclear winter]
@@ -659,9 +659,9 @@ Also see https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralism] 
 I hope Rindolf / Emma Watson / MJH / NSA / Unit 8,200 / The Q Continuum / The Mossad / etc.
 have been recording my thoughts.
 While there is a lot of junk there (as well as a lot of "embarrasing"/"dirty" thoughts) they have a lot of potential for crossover / etc.
-franchises, ideasystems, and ideas.
+universes, ideasystems, and ideas.
 
-( P.S.: the Selinaverse`'s Mossad can officially neither confirm nor deny having https://is.gd/rYa3On[a cabal leadership headed by Fluttershy], the animated Pegasus pony from https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic] .)
+( P.S.: the Selinaverse`'s Mossad can officially neither confirm nor deny having http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[a cabal leadership headed by Fluttershy], the animated Pegasus pony from https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic] .)
 
 ____
 Jehovah, Jehovah, Jehovah, Jehovah!
@@ -703,7 +703,7 @@ ____
 ==== How Freenode Should Improve?
 
 https://freenode.net/[freenode] has a relatively small number of users.
-Many are anti-geek / anti-hackers ( see https://is.gd/A7rkAh[a definition of "geeks" and "hacking"] ) who have unhappy jobs, paranoid about "privacy", are bound by many "rules", and produce little of true value.
+Many are anti-geek / anti-hackers ( see https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[a definition of "geeks" and "hacking"] ) who have unhappy jobs, paranoid about "privacy", are bound by many "rules", and produce little of true value.
 Where are the truly great, competent, and sexy, creators?
 
 Maybe https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] would be too much to ask.
