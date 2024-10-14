@@ -1160,3 +1160,8 @@ Me: then what do you intend to do with the URLs? Compress them under several mil
 
 ----
 
+That's a fun and wonderful recording! thanks for sharing. The kids are cute too.
+
+I am also a fan of these covers of the Ghostbusters' song: https://www.youtube.com/watch?v=nAFoAzRlDY0 , https://www.youtube.com/watch?v=wdGwNHGP8TI .
+
+According to TheCodex™ , ghosts are echoes of other organisms from other universes in Fantastecha™. For example, the Island of Lesbos was frequented by ghost ship cruises of lesbians, given it was the birthplace of Sappho. And there are also many comment on YouTube by usernames with 4-or-more 0-9 digits.
