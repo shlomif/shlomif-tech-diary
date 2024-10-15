@@ -1170,4 +1170,3 @@ According to TheCodex™ , ghosts are echoes of other organisms from other unive
 
 ----
 
-That's a fun and wonderful recording! thanks for sharing. The kids are cute too.
