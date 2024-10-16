@@ -172,7 +172,7 @@ ____
 +
 we cannot reasonably distribute so many food products all over USA, Europe, Asia, Israel, etc.
 without magic. 
-* I have fanfics featuring Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect[#harry_potter_sect]. She can film them, or similar fanstories and screenplays written by other writers. But she allegedly hasn't made a film in years. Moreover, despite all that, everyone are talking about her
+* I have fanfics featuring Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect[Emma Watson fan-fiction]. She can film them, or similar fanstories and screenplays written by other writers. But she allegedly hasn't made a film in years. Moreover, despite all that, everyone are talking about her
 * Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
 * Occam`'s Razor tells me there`'s a conspiracy-- https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[https://is.gd/kSLGdP]
 * Someone on freenode told me my site is a "waste of space" even though:
@@ -205,6 +205,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * I survived biting an Oak acorn (as a child) despite https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel[Guns, Germs, and Steel]'s claim that acorns contain poison. 
 * The third-reich nazis could not have remained motivated to kill so many people. 
 ** Likewise for the https://www.shlomifish.org/humour/bits/facts/NSA/[NSA], many terrorist/activist organisations, militaries, low-paying jobs. 
+** The Gazan Hamas is at war with Israel, to free the Hamas-men imprisoned in Israel, which causes Israel to bomb the Gaza strip and kill many more people. 
 ** {empty}
 +
 
@@ -325,6 +326,7 @@ Moreover, Iran let https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] happen.
 * Miareosoft Windows is plagued by such major problems as https://www.shlomifish.org/humour/bits/facts/Windows-Update/[Windows Update being slow and unusable], and proliferation of malware and https://pysolfc.sourceforge.io/#anti-viruses[harmful anti-malware (e.g anti-viruses)]. Nevertheless, GNU/Linux and FreeBSD allegdly have little traction on the desktop, despite being cheaper, faster, less buggy, more secure, more free/open, less bloated, etc. 
 +
 Refer to https://www.shlomifish.org/humour/fortunes/show.cgi?id=linux-il-linux-for-the-mother[the post "`Linux for One`'s Mother`"] for why they didn't have major usability problems (and likely do not now). There is also https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/[The "`Broken Window`" fallacy]. 
+* From my experience, when a hacker is https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.), like I did they play "`The Fox in the Chicken Coop`" and end up getting out after some months, while the prison becomes a nut-house. Yet, they are hell-media reports of people being imprisoned for years and decades. 
 * Why should our universe be the only "real world"? ( https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#rationality[Reference] ) 
 * The people I refer to these issues online could not until now give sufficient rationalisations or explanations to refute any substantial number of these "What-The-Fucks?". https://en.wikisource.org/wiki/Amos_(Bible)[Quoting Amos], I can accept 3, but I have many more. 
 
