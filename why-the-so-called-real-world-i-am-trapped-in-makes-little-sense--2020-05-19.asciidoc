@@ -204,6 +204,19 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * At one point close to 2020, I drank so little for many days, that I should have died of water deprivation. 
 * I survived biting an Oak acorn (as a child) despite https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel[Guns, Germs, and Steel]'s claim that acorns contain poison. 
 * The third-reich nazis could not have remained motivated to kill so many people. 
+** Likewise for the https://www.shlomifish.org/humour/bits/facts/NSA/[NSA], many terrorist/activist organisations, militaries, low-paying jobs. 
+** {empty}
++
+
+____
+Pacifists may be disappointed, but after (and if) the rest-of-days, there`'ll still be wars.
+Civilian wizards can optoutof Earth`'s warzone layer, and it's safe. 
+
+One does not need good excuses for taking parts in wars, just like one doess need them to play Chess/Checkers/Street-Fighter/etc. 
+
+Such games are often fun and educational.
+Love and Knowledge. 
+____
 * There is a high-performance chess engine, written in C under GPL/AGPL. One developer maintains an enhanced fork of it, of which he privately gives binaries, only after lengthy background checks (a grand waste of time/energy/love). 
 * Android could not have been developed so quickly without using GNU and/or iPhone's source code. 
 * In this hell, I have received very few PayPal/etc. donations, and few people have published critiques of my sites' pages online. This is despite many voicing them on online chats. 
