@@ -288,8 +288,7 @@ $GOD may also be the link:#hackers[fuckers'] Elohim's Elohim's Elohim's... to th
 "$" is used for end-of-line / end-of-string in some https://en.wikipedia.org/wiki/Regular_expression[pattern matching or "regular expression" languages].
 In many https://en.wikipedia.org/wiki/Unix_shell[Unix shells], Perl, and some inspired programming languages, a leading dollar-sign is used to dereference a variable, or sometimes to use it as an lvalue. 
 
-I once chatted with an Internet IM participant (in modern Israeli Hebrew.
-He tried to convince me that "God" may exist or even most likely does, despite me asking him "If God created the world, who created God?" ( https://www.shlomifish.org/philosophy/the-eternal-jew/ongoing-text.xhtml#godless_man[Reference] - largely inspired by "The Neo-Tech Cosmic Power [pincer #1]"). He told me that the most reasonable existence we should assume is that nothing had ever existed, or will have existed.
+I once chatted with an Internet IM participant (in Hebrew). He tried to convince me that "God" may exist or even most likely does, despite me asking him "If God created the world, who created God?" ( https://www.shlomifish.org/philosophy/the-eternal-jew/ongoing-text.xhtml#godless_man[Reference] - largely inspired by "The Neo-Tech Cosmic Power [pincer #1]"). He told me that the most reasonable existence we should assume is that nothing had ever existed, or will have existed.
 A "big" abyss of nothing. 
 
 ____
