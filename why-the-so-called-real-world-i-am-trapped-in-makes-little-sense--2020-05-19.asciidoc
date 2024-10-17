@@ -418,7 +418,7 @@ Namely:
 * https://en.wikipedia.org/wiki/Menopause[Menopause] does not happen.
 ** Possibly even single men and women can conceive children or pets by filling a web form.
 *** These children will be independent and may adopt new parents or switch to them.
-* Instant messaging services are neither fragmented nor proprietary ( http://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/ )
+* Instant messaging services are neither fragmented nor proprietary ( References: http://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/["`How Alternatives Proliferate`"] )
 * Some pets (cats, dogs, hamsters, etc.) are superintelligent, sentient, and can talk.
 ** https://stexpanded.fandom.com/wiki/George_the_Cat[George the Cat] tried a human body a few times, and preferred being cat-like. https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/ongoing-text.html#meet_Q2[Q2] prefers having a humanoid body.
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/money_cant_buy_you_love.xhtml[money can`'t buy you love]
@@ -466,7 +466,7 @@ The remaining spent the summer there creating many crossover memes, stories, and
 Some had years, or decades (or more?) of history they wanted to get rid of.
 So many of them decided to continue as terminators, possibly by peer pressure.
 
-The youngest was the circa 1977-born Selina Mandrake.
+The youngest dropout was the circa 1977-born Selina Mandrake.
 
 Becoming terminators was advantageous because the devils-and-Orcs promised they would reveal https://twitter.com/shlomif/status/1403966571215740929[TheOneTruth(TM)] and TheCodex(TM) of TheGame(TM) of Fantastecha(TM) to the last one standing, but more importantly, all terminators will harbour many new franchises, plots and meme values.
 
@@ -507,7 +507,7 @@ One note was that Selina blew some dandelions at a summer camp and was nicknamed
 ( My https://www.shlomifish.org/humour/Selina-Mandrake/["Selina Mandrake - The Slayer (Buffy Parody)"] where the titular protagonist turns 18 in early 2012, can be thought of as an inadversarial reboot/remake.
 )
 
-She, Samantha Smith, and Joss_Whedon became good friends, and colleagues.
+She, Samantha Smith, and Joss Whedon became good friends, and colleagues.
 
 [[real_shlomif_success]]
 == Success in the Selinaverse; Living in a hell
@@ -532,7 +532,7 @@ Together with two companions, we formed a trio:
 ( https://twitter.com/shlomif/status/1403950285668732928[Tweet].
 )
 . https://www.shlomifish.org/meta/FAQ/[Shlomi Fish (me)].
-. https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma Watson], the award-winning and acclaimed actress / model / creator. She is known for portraying https://harrypotter.fandom.com/wiki/Hermione_Granger[Hermione] in the Harry Potter films, for portraying https://www.shlomifish.org/humour/Selina-Mandrake/cast.html#selina[Selina in "Selina Mandrake"], and for other roles.
+. https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[Emma Watson], the award-winning and acclaimed actress / model / creator. She is known for portraying https://harrypotter.fandom.com/wiki/Hermione_Granger[Hermione] in the Harry Potter films, for portraying https://www.shlomifish.org/humour/Selina-Mandrake/cast.html#selina[Selina in "Selina Mandrake - The Slayer"], and for other roles.
 
 Each of the three of us has been playing or guiding the other two, and themselves and others, using various online and offline mediums. https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
 circular logic, circular feedback, etc.] are common in Fantastecha(TM), and are part of what makes sentience and humour work:
@@ -685,42 +685,6 @@ universes, ideasystems, and ideas.
 
 ( P.S.: the Selinaverse`'s Mossad can officially neither confirm nor deny having http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[a cabal leadership headed by Fluttershy], the animated Pegasus pony from https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic] .)
 
-____
-Jehovah, Jehovah, Jehovah, Jehovah!
-
-יהוה, יהוה, יהוה, יהוה!
-
-Jehovah, Jehovah, Jehovah, Jehovah!
-
-יהוה, יהוה, יהוה, יהוה!
-
-Jehovah, Jehovah, Jehovah, Jehovah!
-____
-
-____
-Bitcoin is permanently crashing! Bitcoin is permanently crashing! Bitcoin is permanently crashing! Bitcoin is permanently crashing!
-
-ביטקוין צונח לצמיתות! ביטקוין צונח לצמיתות! ביטקוין צונח לצמיתות! ביטקוין צונח לצמיתות!
-
-Bitcoin is permanently crashing! Bitcoin is permanently crashing! Bitcoin is permanently crashing! Bitcoin is permanently crashing!
-
-ביטקוין צונח לצמיתות! ביטקוין צונח לצמיתות! ביטקוין צונח לצמיתות! ביטקוין צונח לצמיתות!
-
-Bitcoin is permanently crashing! Bitcoin is permanently crashing! Bitcoin is permanently crashing! Bitcoin is permanently crashing!
-____
-
-____
-ביטקוין נופל! ביטקוין נופל! ביטקוין נופל! ביטקוין נופל!
-
-Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing!
-
-ביטקוין נופל! ביטקוין נופל! ביטקוין נופל! ביטקוין נופל!
-
-Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing! Bitcoin is crashing!
-
-ביטקוין נופל! ביטקוין נופל! ביטקוין נופל! ביטקוין נופל!
-____
-
 [[improve_freenode]]
 ==== How Freenode Should Improve?
 
@@ -732,7 +696,7 @@ Maybe https://www.shlomifish.org/humour/bits/facts/Taylor-Swift/[Taylor Swift] w
 (but I still can hope) But https://www.shlomifish.org/humour/bits/facts/Larry-Wall/[lwall / "TimToady"] left, and before that was only active on #perl6/#raku which is a cursed https://en.wikipedia.org/wiki/Second-system_effect[Second system effect] project. http://www.catb.org/esr/[esr] seems like a shadow of his former self.
 
 Freenode`'s "channel independence" is a https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#big-minded-vs-small-minded["Rosh qatan" / "I just work here"] copout.
-When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother`'s keeper?"] (after freaking killing him out of jealousy!) he meant that he`'d let the whole world go to hell rather than care! Morover, such careless attitude tends to result in more and more complaints in the long run.
+When Cain said https://en.wikipedia.org/wiki/Cain_and_Abel["am I my brother`'s keeper?"] (after freaking killing him out of jealousy!) he meant that he`'d let the whole world go to hell rather than care! Moreover, such careless attitude tends to result in more and more complaints in the long run.
 
 Having been banned from:
 
@@ -755,7 +719,8 @@ And a free one.
 === Welcome-to-the-Grimmieverse:
 
 The Terran Terminators have admitted inferiority to one another and the last one standing admitted defeat to their philosophical brainchildren: the YouTube cover/etc.
-scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo Schneider] and https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie] (Taytay is great too, but she is/was a terminator.)
+scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo Schneider] and https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie] (Taytay is great too, but she is/was a terminator.), and my online web-presence ( https://www.shlomifish.org/me/contact-me/[*.shlomifish.org] / https://www.shlomifish.org/me/rindolf/#rindolfism[Rindlfism] / etc.
+)
 
 [[post-ascension-plan]]
 == Post-ascension Plan
@@ -791,7 +756,7 @@ scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo
 . Meet https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau] asking her if she received https://www.shlomifish.org/meta/FAQ/#d10_dice[the brown 1d10 die]. 
 . Meet Taylor Swift, and our genetic daughter, Rebecca "Becky" Jadzia [lastname]. 
 . Meet my ex-slayer template, Shlomi David. 
-. Meet the vger.kernel.org email admins about getting my bans lifted, while possibly being put on moderation. ( https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community[Reference #1]; https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/[Reference #2] . ) 
+. Meet the vger.kernel.org email admins about getting my bans lifted, while possibly putting me on moderation. ( https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community[Reference #1]; https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/[Reference #2] . ) 
 +
 Possibly Dani Cimorelli and Christina Cimorelli and MomCimorelli too - wrt https://fc-solve.shlomifish.org/[fc-solve]. 
 . Prospects of a job as a screenplay reader / reviewer / enhancer / writer + parttime coder. Possible employers: the MPAA, Disney, Hasbro, Warner Bros, etc. 
