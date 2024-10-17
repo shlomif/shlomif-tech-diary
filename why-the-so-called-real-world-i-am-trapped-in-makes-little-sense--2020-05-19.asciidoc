@@ -214,10 +214,10 @@ Pacifists may be disappointed, but after (and if) the rest-of-days, there`'ll st
 Civilian wizards can optoutof Earth`'s warzone layer, and it's safe. 
 
 One does not need good excuses for taking parts in wars, just like one doess need them to play Chess/Checkers/Street-Fighter/etc. 
-
+____
++
 Such games are often fun and educational.
 Love and Knowledge. 
-____
 * There is a high-performance chess engine, written in C under GPL/AGPL. One developer maintains an enhanced fork of it, of which he privately gives binaries, only after lengthy background checks (a grand waste of time/energy/love). 
 * Android could not have been developed so quickly without using GNU and/or iPhone's source code. 
 * In this hell, I have received very few PayPal/etc. donations, and few people have published critiques of my sites' pages online. This is despite many voicing them on online chats. 
@@ -319,16 +319,19 @@ Rust-lang is supposedly a very trendy language currently!
 ) 
 * I find it strange that Tobacco smoking is allegedly so prevalent among youth. Many smokers are intelligent and noble enough to have known better. 
 * https://www.youtube.com/watch?v=psIKJlSiuxo["`Auld Lang Syne Bagpipes - The Snake Charmer - YouTube`"] the setting for this video looks extremely-close-to-fully-identical to the field north of my neighbourhood. However: The Snake Charmer is a musician from India, and the video features running boys in traditionally-Indian-outfits. Moreover, to the extent-of-my-minds-hell-education, that field is not a very big tourist attraction. 
-* I have no coherent memories from before the 1st grade in Tel Aviv, despite the fact that I supposedly moved, learned English, and two sisters were born. 
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc[Iran has been working on an atomic bomb for over 30 years] whereas it took the Manhattan Project fewer than 5 years, and a study was published on how to construct a nuclear bomb only with home-equipment, except for Uranium ores.
 +
 Moreover, Iran let https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] happen. 
-* Miareosoft Windows is plagued by such major problems as https://www.shlomifish.org/humour/bits/facts/Windows-Update/[Windows Update being slow and unusable], and proliferation of malware and https://pysolfc.sourceforge.io/#anti-viruses[harmful anti-malware (e.g anti-viruses)]. Nevertheless, GNU/Linux and FreeBSD allegdly have little traction on the desktop, despite being cheaper, faster, less buggy, more secure, more free/open, less bloated, etc. 
+* Microsoft Windows is plagued by such major problems as https://www.shlomifish.org/humour/bits/facts/Windows-Update/[Windows Update being slow and unusable], and proliferation of malware and https://pysolfc.sourceforge.io/#anti-viruses[harmful anti-malware (e.g anti-viruses)]. Nevertheless, GNU/Linux and FreeBSD allegdly have little traction on the desktop, despite being cheaper, faster, less buggy, more secure, more free/open, less bloated, etc. 
 +
 Refer to https://www.shlomifish.org/humour/fortunes/show.cgi?id=linux-il-linux-for-the-mother[the post "`Linux for One`'s Mother`"] for why they didn't have major usability problems (and likely do not now). There is also https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/[The "`Broken Window`" fallacy]. 
 * From my experience, when a hacker is https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.), like I did, they play "`The Fox in the Chicken Coop`", engage the staff and coprisoners in amateur philosophy, and end up getting out after some months, while the prison becomes a nut-house. Yet, they are hell-media reports of people being imprisoned for years and decades. 
 +
 My father`'s father, told me he had been imprisoned https://en.wikipedia.org/wiki/Arkhangelsk[in Arkhangelsk, Russia] when he started his plight from the German Nazi military, as it supposedly invaded Poland including his birthplace, Warsaw around 1939. 
+* The word's "slavery". How do you get many men/women working for free? You need paid supervisors, but then they are unhappy. I+others quit high-paying jobs 4 various reasons. Moreover, a hacker (who has has soul+mind) exhibits https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[fox-in-the-chickens-coop]. 
++
+I suspect https://en.wikipedia.org/wiki/Alexandre_Dumas[Alexandre Dumas pere]`'s father`'s mother was not actually a slave or thought of herself as one.
+It was just a facade for my hell's unified / absolute (and not real) history. 
 * Why should our universe be the only "real world"? ( https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#rationality[Reference] ) 
 * The people I refer to these issues online could not until now give sufficient rationalisations or explanations to refute any substantial number of these "What-The-Fucks?". https://en.wikisource.org/wiki/Amos_(Bible)[Quoting Amos], I can accept 3, but I have many more. 
 
