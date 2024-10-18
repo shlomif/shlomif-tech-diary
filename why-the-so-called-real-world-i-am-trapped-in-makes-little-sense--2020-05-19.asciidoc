@@ -399,9 +399,9 @@ However, despite trying to be benevolent, diligent, kind, generous, honest, sinc
 There were also reported perishing of many hackers I liked and admired: https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie], Jim Henson, Avicii, John Lenon, https://en.wikipedia.org/wiki/Carrie_Fisher[Carrie Fisher], John Candy, Ron Lester, Michael Jackson, Whitney Houston. 
 
 I am also unable to overcome the deceiving communication mediums (= "in-betweens") in this hell: from downvotes/dislikes, to reddit removals, to youtube censorship, to email being unreliable, to discord.gg obviously being insecure, bloated, proprietary, and unreliable; IRC networks are seemingly unpopular.
-Despite that the freenode/libera.chat schism happened.
-WordPress-based blogs eat readers comments.
-Non-voluntary Spam is rampant despite being very bad karma.
+Despite that, the freenode/libera.chat schism happened.
+WordPress-based blogs eat readers`' comments.
+Non-voluntary Spam is rampant, despite being very bad karma.
 "People" accuse me of spamming, when I send very few copies, and of "trolling" when I'm frank.
 Slashdot ignores my posts. 
 
