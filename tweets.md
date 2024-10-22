@@ -1175,3 +1175,7 @@ To everyone that accuse me of being a "pervert" or a "pedophile" see: https://ww
 Moreover, please don't quote sentences or fragments thereof of me out of context. This is a request and advice rather than a demand or a threat.
 
 ( https://twitter.com/shlomif/status/1848544334183801289 )
+
+----
+
+A marvelous event happened today. I discovered I was banned (possibly temply) from a freenode/libera chatroom , and I was relieved and happy. This is despite liking it a lot. Many years ago, someone on freenode had noted his girlfriend broke up with him, and he felt great, despite hading liked her
