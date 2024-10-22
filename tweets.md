@@ -1170,3 +1170,8 @@ According to TheCodex™ , ghosts are echoes of other organisms from other unive
 
 ----
 
+To everyone that accuse me of being a "pervert" or a "pedophile" see: https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml .
+
+Moreover, please don't quote sentences or fragments thereof of me out of context. This is a request and advice rather than a demand or a threat.
+
+( https://twitter.com/shlomif/status/1848544334183801289 )
