@@ -1182,4 +1182,11 @@ A marvelous event happened today. I discovered I was banned (possibly temply) fr
 
 ----
 
-Beautiful song, and I love the comic relief at the end. I think there's a taboo against mixing comedy and more serious philosophy.
+Beautiful song, and I love the comic relief at the end. I think there's a wrong-headed taboo against mixing comedy and more serious philosophy.
+
+----
+
+Here are my thoughts. First of all, I dislike the fact that your school of fans is called "tiffanatics". As much as I love many of yuur works, I am trying to be a critical and non-fanatic fan. In fact, I encourage people
+
+----
+
