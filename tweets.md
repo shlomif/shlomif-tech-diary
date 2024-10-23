@@ -1179,3 +1179,7 @@ Moreover, please don't quote sentences or fragments thereof of me out of context
 ----
 
 A marvelous event happened today. I discovered I was banned (possibly temply) from a freenode/libera chatroom , and I was relieved and happy. This is despite liking it a lot. Many years ago, someone on freenode had noted his girlfriend broke up with him, and he felt great, despite hading liked her
+
+----
+
+Beautiful song, and I love the comic relief at the end. I think there's a taboo against mixing comedy and more serious philosophy.
