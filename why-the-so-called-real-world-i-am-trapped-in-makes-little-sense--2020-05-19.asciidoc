@@ -449,7 +449,7 @@ Namely:
 ** Goods are evaluated and sold based on brand, marketing, and development time.
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[Commercial Real Person Fan Fiction (RPFs), crossovers and parodies] are common, tolerated, and encouraged.
 ** Film Studios review screenplays in https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hollywood_screenplay_format.xhtml[better formats and are communicative].
-** Nevertheless, there are many franchises which are more "original", e.g https://www.shlomifish.org/humour/TheEnemy/["The Enemy"] or https://www.shlomifish.org/humour/human-hacking/["HHFG"].
+** Nevertheless, there are many franchises which are more "original", e.g https://www.shlomifish.org/humour/TheEnemy/["The Enemy"] or https://www.shlomifish.org/humour/human-hacking/["The Human Hacking Field Guide"].
 ** Copyrights/etc. are often used for auctioning making a work PD/permissive.
 *** It is considered fair to channel parts of the profits of derivatives upstream.
 * A person can repair his body, mind or spirit without a lot of effort.
