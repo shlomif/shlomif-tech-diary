@@ -1108,6 +1108,8 @@ One good side-effect to wearing prescription/etc. glasses is that they might pro
 
 ( https://twitter.com/shlomif/status/1829192643953471685 )
 
+Moreover, one good side-effect to being short-sighted is you remember to wear glasses. "Who will watch the watcher?"
+
 ----
 
 I have a set of scripts that builds fc-solve with some randomly-selected cmake flags, and checks for warnings+failing tests. I noticed I should also test with a relatively small num of flags (less than 5), or else some will shadow others.
