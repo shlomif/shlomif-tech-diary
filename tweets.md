@@ -1192,3 +1192,7 @@ Here are my thoughts. First of all, I dislike the fact that your school of fans 
 
 ----
 
+Hi all! With regards to my problem running X.org DEs/WMs from gdm (on fedora41): I found a workaround. Xephyr on GNOME on wayland can run icewm and respects hebrew-keymap.sh . Just letting you know.
+
+----
+

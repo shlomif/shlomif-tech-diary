@@ -43,7 +43,7 @@ In certain contexts, they are known as:
 * "memes" 
 * "fairies" 
 
-For the sake of "TheGame(TM) of Fantastecha(TM)", there are two major kinds of fairies: link:#hackers["Hackers" and "Fuckers"]. 
+For the sake of "TheTrackersGame(TM) of Fantastecha(TM)", there are two major kinds of fairies: link:#hackers["Hackers" and "Fuckers"]. 
 
 [[love-and-knowledge]]
 == Love / Knowledge / Creativity:
@@ -105,7 +105,7 @@ Jehovah is often abbreviated as "yeah".
 [[zine]]
 == "Zine"
 
-"A hacker may only derive pleasure by making love to a thingy by whom they are awe-struck, due to feeling they are more competent in one-or-more aspects." 
+"A tracker may only derive pleasure by making love to a thingy by whom they are awe-struck, due to feeling they are more competent in one-or-more aspects." 
 
 [[the-open-value]]
 == "open":
@@ -119,7 +119,7 @@ in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-
 [[the-devils]]
 == The devils / the Satans:
 
-TheCodex(TM) calls an arbiter or gamemaster in an instance of link:#fantasia-vs-fantastecha[the game of Greater Fantasia] "a devil". "The Satans" are such link:#hackers[Meta-Fantastecha(TM)ns] acting as devils in TheGame(TM) of Fantastecha(TM). They claim they are not really malevolent, just playfully cruel on occasion. 
+TheCodex(TM) calls an arbiter or gamemaster in an instance of link:#fantasia-vs-fantastecha[the game of Greater Fantasia] a "devil". "The Satans" are such link:#hackers[Meta-Fantastecha(TM)ns] acting as devils in TheGame(TM) of Fantastecha(TM). They claim they are not really malevolent, just playfully cruel on occasion. 
 
 Even underage children have been imagining and creating realities. footnote:[The Hebrew verb "לשטן" ("lesaten", "to satanify")
 in the Biblical story
@@ -1692,7 +1692,17 @@ Native speakers of Japanese often confuse the "L" and "R" sounds.
 I think the 3-D-colour-space ( RGB , HSV , CMY ) was introduced with the Milky Way galaxy, but with some catches like https://en.wikipedia.org/wiki/The_dress["The dress"].
 I see the dress as white-and-gold on my desktop Linux screen and saw it as blue and grey on a friend's smartphone. 
 
-During Englishtants times, the universe was a greyscale 3-D grid, with larger-or-smaller sub-grids, and various alternative layers (= "urban Earth", "ecologically hostile earth", "world conventions ('con') earth", "mass-production earth", "warzone earth layer", "wildlife-friendly Earth layer"). Before that, it was binary ( "black / white"). 
+During Englishtants times, the universe was a greyscale 3-D grid, with larger-or-smaller sub-grids, and various alternative layers . Before that, it was binary ( "black / white"). 
+
+Some layers are: 
+
+* "urban Earth" 
+* "ecologically hostile earth" 
+* "world conventions ('con') earth" 
+* "mass-production earth" 
+* "warzone earth layer" 
+* "wildlife-friendly Earth layer" 
+
 
 [[ancestors]]
 == Some vampire/etc. ancestors
