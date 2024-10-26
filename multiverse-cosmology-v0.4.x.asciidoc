@@ -1704,6 +1704,8 @@ Some layers are:
 * "wildlife-friendly Earth layer" 
 * Internet spam earth 
 * Street crime earth 
+* cybersecurity / cracking / etc. earth 
+* parody lawsuits and litigation earth 
 
 
 [[ancestors]]
