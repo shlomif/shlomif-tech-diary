@@ -1202,3 +1202,9 @@ I think outside my hell, GNU/Linux desktops, freenode/libera, and perl5 are all 
 
 ----
 
+Back when The Muppet Show ( https://en.wikipedia.org/wiki/The_Muppet_Show ) aired, it was joked that whenever it was airing was the perfect time to perform burglaries because the streets were empty. But naturally no burglar, whether self-respecting or not, would miss watching The Muppet Show.
+
+( https://twitter.com/shlomif/status/1851182871043604823 )
+
+----
+
