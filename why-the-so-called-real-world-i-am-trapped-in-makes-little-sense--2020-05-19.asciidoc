@@ -65,7 +65,7 @@ ____
 ____
 +
 https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II[Back to the Future Part II]
-* https://en.wikipedia.org/wiki/Occam's_razor[Occam`'s razor] - "the simplest encompassing explanation is the best". 
+* https://en.wikipedia.org/wiki/Occam's_razor[Occam`'s razor] - "the simplest explanation that explains all the phenomena is the best". 
 
 
 [[evidence-that-this-hell-isnt-real]]
