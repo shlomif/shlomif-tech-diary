@@ -1256,6 +1256,16 @@ I recall that when i was in the 7th grade (when I was 12y.o / 13y.o ), a distant
 
 <listitem>
 <para>
+The terrestrial <link xlink:href="https://en.wikipedia.org/wiki/Free_Software_Foundation">Free Software Foundation</link> is stupid enough to keep its software packages GPL/LGPL/AGPL , and even apple.com cannot pay enough to relicense them. Moreover, its websites beg visitors to register as FSF members.
+</para>
+
+<para>
+<link xlink:href="https://github.com/rui314/mold">mold-linker</link> (for example) was relicensed from AGPLv3 to MITL.
+</para>
+</listitem>
+
+<listitem>
+<para>
 Why should our universe be the only "real world"? ( <link xlink:href="https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#rationality">Reference</link> )
 </para>
 </listitem>
