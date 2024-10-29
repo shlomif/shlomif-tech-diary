@@ -1196,3 +1196,9 @@ Hi all! With regards to my problem running X.org DEs/WMs from gdm (on fedora41):
 
 ----
 
+I think outside my hell, GNU/Linux desktops, freenode/libera, and perl5 are all popular and fairly mainstream. https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/selling-for-stupider-ppl.xhtml
+
+( https://twitter.com/shlomif/status/1850582418320671192 )
+
+----
+
