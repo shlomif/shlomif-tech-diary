@@ -1184,7 +1184,13 @@ A marvelous event happened today. I discovered I was banned (possibly temply) fr
 
 ----
 
+https://www.youtube.com/watch?v=CX11yw6YL1w
+
 Beautiful song, and I love the comic relief at the end. I think there's a wrong-headed taboo against mixing comedy and more serious philosophy.
+
+Ref: https://www.shlomifish.org/philosophy/ideas/#stand_up_philosophy
+
+( https://twitter.com/shlomif/status/1851200977346420928 )
 
 ----
 
