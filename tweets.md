@@ -1215,3 +1215,14 @@ Back when The Muppet Show ( https://en.wikipedia.org/wiki/The_Muppet_Show ) aire
 ----
 
 Given pleasure is usually educational and conceptual, I think birthctrl doesnt help.
+
+----
+
+Python 3 has the uncommon combination of traits of being easy-to-learn yet practical (allowing both "whipuptitude" and "manipulexity").
+
+Becoming truly proficient requires more time, tho, given it has dark corners.
+
+( https://twitter.com/shlomif/status/1852000624600097147 )
+
+----
+
