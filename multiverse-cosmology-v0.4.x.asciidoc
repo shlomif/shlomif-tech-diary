@@ -2108,6 +2108,10 @@ https://en.wikipedia.org/wiki/Alexandre_Dumas[Alexandre Dumas] + https://en.wiki
 
 Alisa Rand + https://en.wikipedia.org/wiki/Rudyard_Kipling[Rudyard Kipling] -> Aharon Fish + Chanah Fish 
 
+Alisa Rand + Falk Halperin -> Rivka Halperin 
+
+Rivka Haperin + Aharon Fish -> Falk Fish + Marina Fish 
+
 [[mantra1]]
 == mantra
 
