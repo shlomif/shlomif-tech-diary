@@ -349,6 +349,12 @@ It was just a facade for my hell's unified / absolute (and not real) history.
 * The terrestrial https://en.wikipedia.org/wiki/Free_Software_Foundation[Free Software Foundation] is stupid enough to keep its software packages GPL/LGPL/AGPL , and even apple.com cannot pay enough to relicense them. Moreover, its websites beg visitors to register as FSF members. 
 +
 https://github.com/rui314/mold[mold-linker] (for example) was relicensed from AGPLv3 to MITL. 
++
+In the real world, the FSF is well-financed, and receives/gives enough money to not care for hunting GPL violators.
+Most downstream users of GNU/etc.
+software are clueful / open enough to submit their enhancements upstream.
+( References: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/open_free_share_steal.xhtml["`Openness, Freedom, Sharing, "`Stealing`", Remixing`"] ) 
+* People are bogged down with so many redtape, time-consuming activities (laundry/dish-washing/etc.) 
 * Why should our universe be the only "real world"? ( https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#rationality[Reference] ) 
 * The people I refer to these issues online could not until now give sufficient rationalisations or explanations to refute any substantial number of these "What-The-Fucks?". https://en.wikisource.org/wiki/Amos_(Bible)[Quoting Amos], I can accept 3, but I have many more. 
 
