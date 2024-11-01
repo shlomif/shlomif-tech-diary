@@ -149,3 +149,8 @@ Attribution Noncommercial (CC-by-nc) 3.0 Unported</a> licence, or at your option
 See the
 <a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
 on how to comply with it.
+
+## See Also:
+
+- [Four Ways to Build Web Apps :: Tom Hummel](https://tomhummel.com/posts/four-web-apps/)
+- [How is shlomifish.org generated](https://www.shlomifish.org/meta/FAQ/#how_site_is_generated)
