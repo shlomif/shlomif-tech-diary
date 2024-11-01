@@ -130,7 +130,7 @@ Like I said earlier, I find that writing your own custom SSG is not hard,
 and probably less hard than learning an existing one. Also see
 [this](http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/). So I expect more of them to emerge in the future.
 
-Someone on chat told me he believed that SSGs wont survive the trend towards
+Someone on chat told me he believed that SSGs won’t survive the trend towards
 component-based client-side frameworks (such as React.js or Vue.js) but I'm
 skeptical of such predictions and in my time saw several similar ones not
 materialise. Also see [this funny critique of modern JS](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f).
