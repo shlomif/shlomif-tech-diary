@@ -1226,3 +1226,9 @@ Becoming truly proficient requires more time, tho, given it has dark corners.
 
 ----
 
+I think TheCodex™ says humour happens when one path in a mind's subnet evaluates a predicate function to true, and a diff path evaluates it to false. #humor #humour
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
+
+----
+
