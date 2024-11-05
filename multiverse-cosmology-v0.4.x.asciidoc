@@ -1067,8 +1067,9 @@ Also see: https://www.youtube.com/watch?v=LKPwKFigF8U["Why boredom is good for y
 == Ramat Aviv Gimel
 
 Before having our memories reset, my friend Amit Steinberg, I, and several other future terminators carried with us the "nazi"-ness value: 
-**____The "nazi"-ness value:**https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/[The Golden Rule] implies sincerely criticising others even if it hurts their feelings, gets you in trouble, and even if you do not practice what you preach (see https://en.wikipedia.org/wiki/Tu_quoque[Ad hominem Tu quoque]) 
-____
+
+[quote]
+*The "nazi"-ness value:*https://mygeekwisdom.com/2011/09/12/be-excellent-to-each-other/[The Golden Rule] implies sincerely criticising others even if it hurts their feelings, gets you in trouble, and even if you do not practice what you preach (see https://en.wikipedia.org/wiki/Tu_quoque[Ad hominem Tu quoque]) 
 
 See http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended"].
 From humanitarian reasons, there were attempts to terminate underage terminators before they turned 13 years-old calendarically.
@@ -1208,7 +1209,7 @@ Livingstone, I presume"], Livingstone was wizard-born, and acted as a watcher to
 [[ghost-town-pattern]]
 === The Ghost Town Pattern
 
-E.g: Pompei ( https://www.shlomifish.org/humour/humanity/ongoing-text.html#the-town-council[Reference #1] ). **TODO: ADD**
+E.g: Pompei ( https://www.shlomifish.org/humour/humanity/ongoing-text.html#the-town-council[Reference #1] ). Some towns or cities, which served as the base-town of a vampire and his team of watchers, decided by consensus, to jump forward in time to a time when hopefully there won't be universal forks. 
 
 [[inauspicious-names]]
 === inauspicious-names
@@ -1219,6 +1220,8 @@ E.g: Pompei ( https://www.shlomifish.org/humour/humanity/ongoing-text.html#the-t
 ==== Albert Einstein
 
 The Theory of Relativity's proofs were nonsensical, and its conclusions are empirically known to be false. 
+
+I think there was a wizard-born man who assumed the role of Einstein, given its entertainment value. 
 
 [[ayn-rand]]
 ==== Ayn Rand
