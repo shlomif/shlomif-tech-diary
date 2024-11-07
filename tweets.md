@@ -1232,3 +1232,11 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
 
 ----
 
+Lately, when writing serious #perl / #python code, I've been trying to break complex expressions into a series of one-step-at-a-time assignments
+
+simcop noted compilers often do somthing similar: https://en.wikipedia.org/wiki/Static_single-assignment_form .
+
+( https://twitter.com/shlomif/status/1854546326999982150 )
+
+----
+
