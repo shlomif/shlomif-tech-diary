@@ -5369,11 +5369,11 @@ commercial.
 <link xlink:href="#Clarissa_Darling">Clarissa Darling</link>, whose template had used
 troff on Unix to write letters to the muppeteers and other dispellers, and is/was
 Melissa’s cousin or half-sister, continued to use Unix-like OSes on non-commodity
-hardware. MJH joked thst Clarissa could barely move <link xlink:href="https://en.wikipedia.org/wiki/SGI_IRIS">her Personal IRIS</link> machine, and that neither Melissa nor Schwarzenegger would risk lifting it.
+hardware. MJH joked thst Clarissa could barely move <link xlink:href="https://en.wikipedia.org/wiki/SGI_IRIS">her Personal IRIS</link> machine, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it.
 </para>
 
 <para>
-The POSIX standard was created as a relatively-minimalist essential subset of Unix.
+The POSIX standard was created as a relatively-minimalist essential subset of Unix. Some software developers have <link xlink:href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#how-can-i-make-insert-application-or-library-here-from-scratch">implemented kernels from scratch</link> that supported enough of POSIX to bootstrap a <link xlink:href="https://en.wikipedia.org/wiki/GNU">GNU</link> system.
 </para>
 
 </section>
