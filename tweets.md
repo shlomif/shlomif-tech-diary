@@ -1240,3 +1240,9 @@ simcop noted compilers often do somthing similar: https://en.wikipedia.org/wiki/
 
 ----
 
+Given Love/Pleasure ≈ Knowledge ≈ Creativity , I think birth-ctrl has no effect.
+
+I think Em Watson materialised (a day after SMG’s 13th bday), and requested shelter from her parents. Like Dr. Watson, and Maimonides (who r her ancestors).
+
+----
+
