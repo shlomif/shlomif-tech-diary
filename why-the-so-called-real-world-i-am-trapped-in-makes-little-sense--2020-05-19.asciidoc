@@ -208,7 +208,9 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * https://www.today.com/pets/hundreds-golden-retrievers-met-scotland-150th-anniversary-breed-t133915["Hundreds of golden retrievers met in Scotland for 150th anniversary of breed"] - no way can you fly so many (over 300) in Boeing/etc. planes, or even drive them by automobiles. Moreover, many Scotland roads have a single lane, with pass-by road-widening extensions. 
 * I have a supposedly younger cousin called "Shlomi" despite our Jewries' unwillingness to name newborns after living relatives. 
 * As a false prophet child, https://www.shlomifish.org/meta/FAQ/where_are_you_from.xhtml[my template was relocated] three times before he was 6, despite common wisdom that one should not relocate young children. This was probably due to the effect of The Muppet Show and other television series on the Terran hellholes and my parents' wishes to have more children. 
-* The freenode / 'libera.chat' split is hard-to-believe. 
+* Everyone seems to know about freenode and other IRC networks, but they are not too mainstream and popular. This is despite https://www.shlomifish.org/meta/FAQ/do_people_still_use_irc.xhtml[having many advantages]. 
+** Despite freenode allegdly being unpopular, Andrew Lee found it a good idea to capitalise on it. So the freenode / 'libera.chat' split is hard-to-believe. 
+** discord-dot-gg is clearly so bloated, insecure, and proprietary that a hacker must be borderline-suicidal to use. 
 * Apple M1 is hard-to-believe: 
 .. ARM is underperformant while having low gates' count and power consumption. 
 .. yet, Apple added an x86-64 emulation, which wastes gates and power! 
@@ -338,14 +340,14 @@ Moreover, Iran let https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] happen.
 * Microsoft Windows is plagued by such major problems as https://www.shlomifish.org/humour/bits/facts/Windows-Update/[Windows Update being slow and unusable], and proliferation of malware and https://pysolfc.sourceforge.io/#anti-viruses[harmful anti-malware (e.g anti-viruses)]. Nevertheless, GNU/Linux and FreeBSD allegdly have little traction on the desktop, despite being cheaper, faster, less buggy, more secure, more free/open, less bloated, etc. 
 +
 Refer to https://www.shlomifish.org/humour/fortunes/show.cgi?id=linux-il-linux-for-the-mother[the post "`Linux for One`'s Mother`"] for why they didn't have major usability problems (and likely do not now). There is also https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/[The "`Broken Window`" fallacy]. 
-* From my experience, when a hacker is https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.), like I did, they play "`The Fox in the Chicken Coop`", engage the staff and coprisoners in amateur philosophy, and end up getting out after some months, while the prison becomes a nut-house. Yet, they are hell-media reports of people being imprisoned for years and decades. 
+* From my experience, when a hacker is https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.), like I did, they play "`The Fox in the Chicken Coop`", engage the staff and coprisoners in amateur philosophy, and end up getting out after some months, while the prison becomes a nut-house. Yet, there are hell-media reports of people being imprisoned for years and decades. 
 +
 My father`'s father, told me he had been imprisoned https://en.wikipedia.org/wiki/Arkhangelsk[in Arkhangelsk, Russia] when he started his plight from the German Nazi military, as it supposedly invaded Poland including his birthplace, Warsaw around 1939. 
 * The word's "slavery". How do you get many men/women working for free? You need paid supervisors, but then they are unhappy. Other people and I quit high-paying jobs for various reasons. Moreover, a hacker (who has has soul+mind) exhibits https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[the fox-in-the-chickens-coop effect]. 
 +
 I suspect https://en.wikipedia.org/wiki/Alexandre_Dumas[Alexandre Dumas pere]`'s father`'s mother was not actually a slave or thought of herself as one.
 It was just a facade for my hell's unified / absolute (and not real) history. 
-* I recall that when i was in the 7th grade (when I was 12y.o / 13y.o ), a distant female relative from the USA came-to-my neighbourhood and the local Scouts allowed her to use a device to pull me to air. I think it was Sarah Michelle Gellar, and I didn't imagine it, and it was for passing the master-terran-terminator baton. 
+* I recall that when i was in the 7th grade (when I was 12y.o / 13y.o ), a distant female relative from the USA came-to-my neighbourhood and the local Scouts allowed her to use a device to pull me to air. I think it was Sarah Michelle Gellar, and I didn't imagine it, and it was for passing the master-terran-terminator status to me. 
 * The terrestrial https://en.wikipedia.org/wiki/Free_Software_Foundation[Free Software Foundation] is stupid enough to keep its software packages GPL/LGPL/AGPL , and even apple.com cannot pay enough to relicense them. Moreover, its websites beg visitors to register as FSF members. 
 +
 https://github.com/rui314/mold[mold-linker] (for example) was relicensed from AGPLv3 to MITL. 
