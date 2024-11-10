@@ -1230,6 +1230,8 @@ I think TheCodex™ says humour happens when one path in a mind's subnet evaluat
 
 https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/
 
+( https://twitter.com/shlomif/status/1853654348040900811 )
+
 ----
 
 Lately, when writing serious #perl / #python code, I've been trying to break complex expressions into a series of one-step-at-a-time assignments
