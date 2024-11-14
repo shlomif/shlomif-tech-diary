@@ -507,7 +507,7 @@ do a commendable job handling people who are possessed or obsessed, making peopl
 == History of the Selinaverse (OUT-OF-DATE!)
 
 The terrans were given several gifts of a blessing and a curse.
-Being hackers ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/ ) they often took the curse to their advantage:
+Being hackers ( https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/["`The Case for Commercial Fan Fiction`"] ) they often took the curse to their advantage:
 
 . body
 . mind: hearing voices of leaders
@@ -703,11 +703,11 @@ But... whatever floats your boat, buddy.
 After Syria (minus Damascus itself) in the levant ascended to being a true prophets zone (by Mosheh / Aharon / Jehovah slaying Nimrod ?), The-Curse splintered the modern day State of Israel into 1,000 parts, and .uk into many shires and Scottish clans and promised they won`'t do it again.
 Note that pre-Levantine was modern Hebrew (which was spoken by https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/Q_home_planet.xhtml[the Englishtants over 6 milliard years ago]) and Modern English is also a product of TheGame(TM) of Fantastecha(TM).
 
-Anyway, the tribe of Yehudah (except their Capital, Jerusalem) ascended when David "slew" Goliath by almost hitting him with a sling (https://www.youtube.com/watch?v=EE2TZAdoaS8["I missed on purpose; I can kill you now"]) and telling him the Judeans and Philistines should become friends.
+Anyway, part of Yehudah (not including Jerusalem) was de-hell-holed when David "slew" Goliath (and King Saul) by almost hitting him with a sling (https://www.youtube.com/watch?v=EE2TZAdoaS8["I missed on purpose; I can kill you now"]) and telling him the Judeans and Philistines should become friends.
 
 By the time of https://en.wikipedia.org/wiki/Samantha_Smith[Samantha_Smith] (and Selina Mandrake?) only parts of https://en.wikipedia.org/wiki/Gush_Dan[Gush Dan], which did not include "northern Tel Aviv" north of the https://en.wikipedia.org/wiki/Yarkon_River[Yarkon River] remained as hell holes in the State of Israel.
 I was born there, possibly to two false prophets-at-the-time parents.
-I am fairly certain https://en.wikipedia.org/wiki/Ovadia_Yosef[Ovadia Yosef] (who may be much older than he looks and dresses in an extravagant but memorable outfit, not unlike Darth Vader) christened all the terran terminators as "pure Jews".
+I am fairly certain https://en.wikipedia.org/wiki/Ovadia_Yosef[Ovadia Yosef] (who may be much older than he looks and dresses in an extravagant but memorable outfit, not unlike Darth Vader) blessed all the terran terminators as "pure Jews".
 
 Despite my youth (I am 1977-born, so am 44) I likely amassed many titles.
 But to quote a https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--The-Fifth-Sith-indiv-nodes/yoda-as-a-closet-Sith.xhtml[recent Fic of mine]
@@ -789,7 +789,7 @@ And a free one.
 === Welcome-to-the-Grimmieverse:
 
 The Terran Terminators have admitted inferiority to one another and the last one standing admitted defeat to their philosophical brainchildren: the YouTube cover/etc.
-scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo Schneider] and https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie] (Taytay is great too, but she is/was a terminator.), and my online web-presence ( https://www.shlomifish.org/me/contact-me/[*.shlomifish.org] / https://www.shlomifish.org/me/rindolf/#rindolfism[Rindlfism] / etc.
+scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo Schneider] and https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie] (Taytay is great too, but she is/was a terminator.), and my online web-presence ( https://www.shlomifish.org/me/contact-me/[*.shlomifish.org] / https://www.shlomifish.org/me/rindolf/#rindolfism[Rindolfism] / etc.
 )
 
 [[post-ascension-plan]]
@@ -803,11 +803,11 @@ scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo
 .. A smartphone. 
 .. My credit cards. 
 .. My magic wand. 
-.. A 7-piece RPG dice set: translucent, green-yellow, with a red font. 
+.. A 7-piece RPG dice set: translucent, green-yellow, with swirls, and with a red font. 
 .. A copy of my apartment's key. 
 . Eat a decent meal, and shower (?). 
 . Lost-and-found digitalisable works. 
-. Meet Tiffany Alvord, and give her the black-with-green-and-yellow-twirls RPG dice set. ( https://raw.githubusercontent.com/shlomif/shlomif-tech-diary/master/images/live-forever--soul-mind-and-body--free--800px.webp[Photo #1] . ) 
+. Meet Tiffany Alvord, and give her the black-with-green-and-yellow-twirls role-playing games dice set. ( https://raw.githubusercontent.com/shlomif/shlomif-tech-diary/master/images/live-forever--soul-mind-and-body--free--800px.webp[Photo #1] . ) 
 . Being updated about the state of the universe. 
 . https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#the-six-chocolate-hearts[Christina Grimmie's chocolate hearts] - give one; sell one. 
 . Handing over the ten ( = 1 + 3 × 3 ) d10 dice in my drawer: 
@@ -829,7 +829,7 @@ scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo
 . Meet the vger.kernel.org email admins about getting my bans lifted, while possibly putting me on moderation. ( https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community[Reference #1]; https://www.shlomifish.org/philosophy/computers/open-source/linus-torvalds-bus-factor/[Reference #2] . ) 
 +
 Possibly Dani Cimorelli and Christina Cimorelli and MomCimorelli too - wrt https://fc-solve.shlomifish.org/[fc-solve]. 
-. Prospects of a job as a screenplay reader / reviewer / enhancer / writer + parttime coder. Possible employers: the MPAA, Disney, Hasbro, Warner Bros, etc. 
+. Prospects of a job as a screenplay reader / reviewer / enhancer / writer + parttime software developer. Possible employers: the MPAA, Disney, Hasbro, Warner Bros, etc. 
 . Go to https://shlomif.fandom.com/wiki/Olamot_Con[Olamot Con ("worlds' con")]. 
 
 
