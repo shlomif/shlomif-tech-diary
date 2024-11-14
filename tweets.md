@@ -1246,5 +1246,7 @@ Given Love/Pleasure ≈ Knowledge ≈ Creativity , I think birth-ctrl has no eff
 
 I think Em Watson materialised (a day after SMG’s 13th bday), and requested shelter from her parents. Like Dr. Watson, and Maimonides (who r her ancestors).
 
+( https://twitter.com/shlomif/status/1856884677656617285 )
+
 ----
 
