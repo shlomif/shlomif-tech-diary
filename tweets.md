@@ -1250,3 +1250,15 @@ I think Em Watson materialised (a day after SMG’s 13th bday), and requested sh
 
 ----
 
+2 notable projects from https://github.com/trending :
+
+https://github.com/tursodatabase/libsql - opensrc and open-contrib fork of SQLite
+
+https://github.com/facebook/lexical - TypeScript texteditor framework
+
+Note that I'm not sure theyll amount2much and Idont hav immediat util4them
+
+( https://twitter.com/shlomif/status/1858006730254286885 )
+
+----
+
