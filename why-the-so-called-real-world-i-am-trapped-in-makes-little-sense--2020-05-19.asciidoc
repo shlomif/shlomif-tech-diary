@@ -363,7 +363,7 @@ software are clueful / open enough to submit their enhancements upstream.
 * I've been suffering from fingers/hands/legs stiffness (possibly caused by my cursed hell, or by treating the psychiatric drugs as more than placebos). Moreover, it comes and goes based on an apparent whim of the gamemasters/players. I've been diagnosed with "Parkinsonism", as if that is a real thing. 
 * My online chat/E-mail/etc. buddies often pointed to a significant number of people who hate me, and refuse to interact with me. This is despite the fact that I didn't deliberately lie, the forums appear to be small, and people should know well enough to https://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage critics and become offended] ( "`Keep your friends close and enemies closer`" / etc.). 
 * Someone on IRC told me I should not phrase sentences in the negative. E.g.: "`2.1 times 2.1 is not 4.1`". This is a very stupid superstition. 
-* A fellow Israeli FOSS enthusiast published an essay where he claimed that while there are hundreds-of-thousands of vendors of proprietary software, there are "`only 3 or 4 profitable ones`"
+* A fellow Israeli FOSS enthusiast published an essay where he claimed that while there are hundreds-of-thousands ("`100,000`"s) of vendors of proprietary software on Earth, there are "`only 3 or 4 profitable ones`". In a drupal/post-nuke comment, a responder listed 10 well-known and profitable vendors of proprietary software. While being a proprietary software vendor, does not guarantee profitability, I suspect there are at least a 1,000 profitable ones. ( This is while https://www.shlomifish.org/philosophy/computers/open-source/not-trust-non-FOSS/[I try to avoid depending on non-open-source software] ) 
 * Why should our universe be the only "real world"? ( https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#rationality[Reference] ) 
 * The people I refer to these issues online could not until now give sufficient rationalisations or explanations to refute any substantial number of these "What-The-Fucks?". https://en.wikisource.org/wiki/Amos_(Bible)[Quoting Amos], I can accept 3, but I have many more. 
 
@@ -458,7 +458,8 @@ Moreover, I'll try to stay on the safe side of the terresterial law:.
 . Do physical exercise. 
 . Do not approach strangers in the physical "world". 
 +
-I can still do philosophy/comedy on Internet forums and sub-forums (Freenode/libera/etc.) where there is less harm instead. 
+I can still do philosophy/comedy on Internet forums and sub-forums (Freenode/libera/etc.), where there is usually less risk for potential damage.
+(References: https://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage critics and become offended]) 
 
 If God thinks I am a malevolent hacker (= a Fantastechan character who is given a soul and mind) and the multiverse will be better without me, and the murdered hackers will be alive and happy, then my soul can be perished.
 Just note that I consistently tried to be noble and perform the most benevolent and beneficial action and be honest. 

@@ -1322,9 +1322,15 @@ Someone on IRC told me I should not phrase sentences in the negative. E.g.: <quo
 
 <listitem>
 <para>
-A fellow Israeli FOSS enthusiast published an essay where he claimed that while there
-are hundreds-of-thousands of vendors of proprietary software, there are <quote>only
-3 or 4 profitable ones</quote>
+A fellow Israeli FOSS enthusiast published an essay where he claimed that while
+there are hundreds-of-thousands (“100,000”s) of vendors of proprietary software
+on Earth, there are <quote>only 3 or 4 profitable ones</quote>. In a
+drupal/post-nuke comment, a responder listed 10 well-known and profitable
+vendors of proprietary software. While being a proprietary software vendor,
+does not guarantee profitability, I suspect there are at least a 1,000
+profitable ones. ( This is while <link
+xlink:href="https://www.shlomifish.org/philosophy/computers/open-source/not-trust-non-FOSS/">I
+try to avoid depending on non-open-source software</link> )
 </para>
 </listitem>
 
@@ -1634,8 +1640,8 @@ Do not approach strangers in the physical "world".
 </para>
 
 <para>
-I can still do philosophy/comedy on Internet forums and sub-forums (Freenode/libera/etc.)
-where there is less harm instead.
+I can still do philosophy/comedy on Internet forums and sub-forums (Freenode/libera/etc.), where there is usually less risk for potential damage.
+(References: <link xlink:href="https://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/">Encourage critics and become offended</link>)
 </para>
 </listitem>
 
