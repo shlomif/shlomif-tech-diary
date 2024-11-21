@@ -1262,3 +1262,7 @@ Note that I'm not sure theyll amount2much and Idont hav immediat util4them
 
 ----
 
+House cats in Selinaverse can talk, and if they defecate or pee, its considered a bad omen. However, they normally expect their owners2feed them,4 commitmnt.
+
+Tradly, many cats stayd home, and used astral bodis to traverse "the network" [= the outside world]. Rcntly, some decided2accompany their owners/dogs on walks.
+I saw a photo of a leashed female cat too.
