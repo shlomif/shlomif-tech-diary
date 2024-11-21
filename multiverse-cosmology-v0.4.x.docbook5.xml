@@ -5412,6 +5412,15 @@ hardware. MJH joked thst Clarissa could barely move <link xlink:href="https://en
 The POSIX standard was created as a relatively-minimalist essential subset of Unix. Some software developers have <link xlink:href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#how-can-i-make-insert-application-or-library-here-from-scratch">implemented kernels from scratch</link> that supported enough of POSIX to bootstrap a <link xlink:href="https://en.wikipedia.org/wiki/GNU">GNU</link> system.
 </para>
 
+<para>
+The GNU/FSF was created to concentrate changes and enhancements from individual
+Unix/IPv4 developers and vendors into a common codebase. The Selinaverse's FSF
+relicenses the GNU software packages to a permissive licence, and Apple.com,
+IBM, etc. can afford paying for the license-changes. As a general rule, the
+FSF or other software originators, do not engage in non-voluntary,
+non-parodical, licensing violations' litigation.
+</para>
+
 </section>
 
 <section xml:id="corporations">
