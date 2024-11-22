@@ -5416,9 +5416,21 @@ The POSIX standard was created as a relatively-minimalist essential subset of Un
 The GNU/FSF was created to concentrate changes and enhancements from individual
 Unix/IPv4 developers and vendors into a common codebase. The Selinaverse's FSF
 relicenses the GNU software packages to a permissive licence, and Apple.com,
-IBM, etc. can afford paying for the license-changes. As a general rule, the
-FSF or other software originators, do not engage in non-voluntary,
-non-parodical, licensing violations' litigation.
+IBM, Microsoft, etc. can afford paying for the license-changes. As a general rule, the FSF
+or other software originators, do not engage in non-voluntary, non-parodical,
+licensing violations' litigation. This is because they have better tasks to
+accomplish with their time than go on a litigatious offence, which wastes time,
+good will, love, reputation, etc. ( References: )
+</para>
+
+<para>
+The GNU project made some other smart decisions, such as keeping the C code 32-bit-only
+rather than 16-bit C compatible.
+</para>
+
+<para>
+Meanwhile, in the DOS world, which was prevalent on IBM PC-compatibles, users and
+developers had
 </para>
 
 </section>
