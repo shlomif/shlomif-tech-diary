@@ -1778,7 +1778,7 @@ This is because they have better tasks to accomplish with their time than go on 
 
 The GNU project made some other smart decisions, such as keeping the C code 32-bit-only rather than 16-bit C compatible. 
 
-Meanwhile, in the DOS world, which was prevalent on IBM PC-compatibles, users and developers had 
+Meanwhile, in the DOS world, which was prevalent on IBM PC-compatibles, users and developers had to deal with relatively limited, but cheaper, content mediums (such as 360 kiloByte diskettes, or RAM that was limited to 640 kiloBytes,). As a result, many games and other apps were distributed without their sources, and often "hacked"-and-modified directly by changing the binaries. 
 
 [[corporations]]
 == Corporations / companies / organisations / schools
