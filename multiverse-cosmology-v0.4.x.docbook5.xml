@@ -5433,7 +5433,14 @@ Meanwhile, in the DOS world, which was prevalent on IBM PC-compatibles, users an
 developers had to deal with relatively limited, but cheaper, content mediums (such as
 360 kiloByte diskettes, or RAM that was limited to 640 kiloBytes,). As a result,
 many games and other apps were distributed without their sources, and often
-"hacked"-and-modified directly by changing the binaries.
+"hacked"-and-modified directly by changing the binaries. The hardware devices
+used by the Unix/GNU users were fast and powerful enough to allow exchanging C
+sources (or patches), to build them, and to run them.
+</para>
+
+<para>
+For a time, Intel/AMD were notorious for being buggy ( <quote>They are junk,
+but cheap junk.</quote> )
 </para>
 
 </section>
