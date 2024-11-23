@@ -1200,6 +1200,8 @@ Here are my thoughts. First of all, I dislike the fact that your school of fans 
 
 Hi all! With regards to my problem running X.org DEs/WMs from gdm (on fedora41): I found a workaround. Xephyr on GNOME on wayland can run icewm and respects hebrew-keymap.sh . Just letting you know.
 
+<b>Update</b>: I use startx now.
+
 ----
 
 I think outside my hell, GNU/Linux desktops, freenode/libera, and perl5 are all popular and fairly mainstream. https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/selling-for-stupider-ppl.xhtml
@@ -1266,3 +1268,8 @@ House cats in Selinaverse can talk, and if they defecate or pee, its considered 
 
 Tradly, many cats stayd home, and used astral bodis to traverse "the network" [= the outside world]. Rcntly, some decided2accompany their owners/dogs on walks.
 I saw a photo of a leashed female cat too.
+
+( https://twitter.com/shlomif/status/1860293215896698979 )
+
+----
+
