@@ -2,11 +2,11 @@
 
 A "fairy" is what TheCodex™ calls a player character who has a soul and mind. A Fantastechan fairy is called a "hacker".
 
-TheCodex™ defines a hacker's God, as any-and-every entity that affected their past-or-present or can affect their future. This includs his players, "laws" of physics, his friends/leaders, he himself - even his roleplaying games / stories / screenplays / etc. characters.
+TheCodex™ defines a hacker's God, as any-and-every entity that affected their past-or-present or can affect their future. This includes his players, "laws" of physics, his friends/leaders, he himself - even his roleplaying games / stories / screenplays / etc. characters.
 
 Accepting this definition, I tend to think that God exists, given my mind, and my surrounding have a lot of law-and-order. I think I am part of my (and many other hackers’) God. But there are many other entities who are also part of my God.
 
-However, on freenode IRC, a friend told me that God is me and only me. Given my first coherent memories are from israeli 1st grade in https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel at around 1983 (I was born in 5 May 1977). that implies my mind created numerous beautiful entities (including street cats, Golden Retriever dogs, and beautiful human ladies), which I cannot draw/paint realisticly, much less sculpt, much less biologically engineer.
+However, on freenode IRC, a friend told me that God is me and only me. Given my first coherent memories are from Israeli 1st grade in https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel at around 1983 (I was born in 5 May 1977). that implies my mind created numerous beautiful entities (including street cats, Golden Retriever dogs, and beautiful human ladies), which I cannot draw/paint realisticly, much less sculpt, much less biologically engineer.
 
 Moreover, I am responsible for the assassination of numerous people. An assassination is TheCodex™ terminology for a staged and fake "physical-death" / soul and/or mind Oblivion of a hacker. Often from "old age", or "natural causes". Anyway, given I am my God, I didn't even stop at "murdering" Christina Grimmie in 2016 (after an unprecended number of celebrity "deaths" that year). My heart (and mind) chose her as one of my two favourite children (along with my Internet/Web/social-media/etc presence ; https://www.shlomifish.org/ / etc. )
 
@@ -14,4 +14,4 @@ If my God is me and only me, then I am an arch-villain, with a very intelligent 
 
 A function defined as “For every x, if x is a hacker, then God(x) = x”, is roughly equivalent to the https://en.wikipedia.org/wiki/Identity_function[Identity function], which is not too useful.
 
-While I think many of my brainchildren (screenplays, aphorisms, essays, sourcecodes, graphics) are beautiful and I love them, there are many accomplishments I have yet to achieve. I’ve never could do 50-or-more pushups in a row. However many men-or-women can do 100 pushups or more; many of them are much younger than I and/or much older than I and/or heavier than I am. Moreover, while software development is one of my specialisations, I learbed about version control systems (CVS/svn/git/etc.), automated tests, and CI, and linters from other devs.
+While I think many of my brainchildren (screenplays, aphorisms, essays, sourcecodes, graphics) are beautiful and I love them, there are many accomplishments I have yet to achieve. I’ve never could do 50-or-more pushups in a row. However, many men-or-women can do 100 pushups or more; many of them are much younger than I and/or much older than I and/or heavier than I am. Moreover, while software development is one of my specialisations, I learned about version control systems (CVS/svn/git/etc.), automated tests, and CI, and linters from other devs.
