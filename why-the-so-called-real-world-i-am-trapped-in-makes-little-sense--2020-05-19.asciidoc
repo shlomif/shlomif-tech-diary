@@ -103,7 +103,7 @@ And then there's oil, coal, natural gas, sugar, milk, wheat, rice, copper, iron,
 ** => The media keeps saying that there`'ll be shortages of certain products, but they do not happen.
 ** It is unreasonable to assume we can distribute so many food and other products across north America, Europe, Asia, the Middle East, etc. using only trucks and Boeing/etc. aeroplanes. My neighbourhood ( https://en.wikipedia.org/wiki/Ramat_Aviv_Gimel[Ramat Aviv Gimel] ) only has one-and-a-half automobile roads leading into it. 
 ** There are many byproducts, bybyproducts, derivatives, mashups/mixes: chocolate, chocolate icecream, cakes, kitkats / mars / snickers. 
-* I think there has been a conspiracy of the demons inside me to try to convince me that the world outside me was getting worse, and that I was more and more isolated, friendless and unpopular. Well, game over - I won - you will lose!
+* I think there has been a conspiracy of the demons inside me to try to convince me that the world outside me was getting worse, and that I was more and more isolated, friendless and unpopular. Well, I probably cannot be fooled anymore!
 * There are thousands' years old hackers and below-20 ones who are huge fans of one another: https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/kai-blanche.xhtml["Meet Kai Blanché"] .
 * It is possible yada` (= "to know" in Hebrew) meant "to educate / to entertain" and involves pleasure, but sometimes pain too, and was mutual, and always spawns ( possibly invisible ) baby angels. If it makes you bored or indifferent, it likely is not effective. https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[Reference: "`The case for commercial fan fiction`"]
 * I had a very short haircut for many years now and given many girls have many "bad hair days" (re https://www.shlomifish.org/humour/Muppets-Show-TNI/Harry-Potter-indiv-nodes/the_beautiful_assistant.xhtml["`The beautiful assistant`"] and https://www.youtube.com/watch?v=8N2k-gv6xNE ) think they may wish to follow suit: https://www.refinery29.com/en-us/2021/03/10365754/emma-watson-bob-haircut-2021["`Emma Watson Has New Short Bob Hair Cut In LA For Spring`"]. That page was published a day after I wrote https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-beauty-products-as-the-stone-soup-effect["`Beauty Products as the Stone Soup/Placebo Effect`"]
@@ -186,12 +186,12 @@ we cannot reasonably distribute so many food products all over USA, Europe, Asia
 without magic. 
 * I have fanfics featuring Emma Watson - https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_sect[Emma Watson fan-fiction]. She can film them, or similar fanstories and screenplays written by other writers. But she allegedly hasn't made a film in years. Moreover, despite all that, everyone are talking about her
 * Tiffany Alvord`'s manager told me she wants to record original songs, but she hasn`'t uploaded either them or covers.
-* Occam`'s Razor tells me there`'s a conspiracy-- https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[https://is.gd/kSLGdP]
+* Occam`'s Razor tells me there`'s a conspiracy-- https://www.shlomifish.org/philosophy/fan-pages/christina-grimmie/[Christina Grimmie is probably alive]
 * Someone on freenode told me my site is a "waste of space" even though:
 .. https://mirrors.edge.kernel.org/pub/linux/kernel/ is far more "`wasteful`"
 .. https://en.wikipedia.org/wiki/Nazi_book_burnings[Nazi book burnings]
 .. https://www.goodreads.com/quotes/17802-where-they-have-burned-books-they-will-end-in-burning[Where they have burned books they will end in burning human beings]
-.. https://www.chabad.org/library/bible_cdo/aid/16186[Yonah / Jonah: "how come you have shown mercy for the kikayon plant, and I won't show mercy for a Ninveh, the large city?"]
+.. https://www.chabad.org/library/bible_cdo/aid/16186[Yonah / Jonah: "how come you have shown mercy for the kikayon plant, and I won't show mercy for Ninveh, the large city?"]
 * https://www.youtube.com/watch?v=kYX8sjIzjGw[Christina Grimmie`'s song "Feelin' Good"] views' count has been stuck below 4 million.
 * I also suspect that Christina Grimmie, many other fellow entertainers / creators, and the universal defence community cooperated reluctantly ( "`OK, OK. Tell you what? I`'ll play along.`" ). Nevertheless, the introes and outroes of Grimmie`'s videos, and also those of other artists I liked (e.g.: https://www.tiffanyalvord.com/[Tiffany Alvord] ) contain many cuts, likely because they were lying to me.
 * My 9th grade literature teacher told us that https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml[philosophy / philosophising] was bad! 
@@ -208,6 +208,8 @@ puberty on 5 May 1990 [= my 13th birthday].]
 * https://www.today.com/pets/hundreds-golden-retrievers-met-scotland-150th-anniversary-breed-t133915["Hundreds of golden retrievers met in Scotland for 150th anniversary of breed"] - no way can you fly so many (over 300) in Boeing/etc. planes, or even drive them by automobiles. Moreover, many Scotland roads have a single lane, with pass-by road-widening extensions. 
 * I have a supposedly younger cousin called "Shlomi" despite our Jewries' unwillingness to name newborns after living relatives. 
 * As a false prophet child, https://www.shlomifish.org/meta/FAQ/where_are_you_from.xhtml[my template was relocated] three times before he was 6, despite common wisdom that one should not relocate young children. This was probably due to the effect of The Muppet Show and other television series on the Terran hellholes and my parents' wishes to have more children. 
++
+My friend, Tal, who was born in 1977, was moved from Harrow, Greater London, to Israel when he was a month old. 
 * Everyone seems to know about freenode and other IRC networks, but they are not too mainstream and popular. This is despite https://www.shlomifish.org/meta/FAQ/do_people_still_use_irc.xhtml[having many advantages]. 
 ** Despite freenode allegdly being unpopular, Andrew Lee found it a good idea to capitalise on it. So the freenode / 'libera.chat' split is hard-to-believe. 
 ** discord-dot-gg is clearly so bloated, insecure, and proprietary that a hacker must be borderline-suicidal to use. 
@@ -285,7 +287,7 @@ I also seemed to possess some significant inherent knowledge of Modern Hebrew an
 +
 I was told people forget painful experiences much more rarely than pleasant ones. 
 * It seems farfetched to believe that https://www.shlomifish.org/philosophy/psychology/why-openly-bipolar-people-should-not-be-medicated/[psychiatric drugs will help in preventing depressions, hypo-manias, manias, etc.] yet many people support the media position. 
-** Theses drugs have to be bitter, because otherwise they won't be considered medicine, right?! 
+** These drugs have to be bitter, because otherwise they won't be considered medicine, right?! 
 * https://en.wikipedia.org/wiki/William_Jennens[The Jennens vs. Jennens] court-case supposedly took-over-a-century and wasted a lot of money. In actuality, the two sides split the money 50-50. The case began as a relic in hells of some vampires. But they received enough additional money-to-keep the show afloat. It was a parody court-case that exercised the functionality-of-the-real-legal-system. 
 ** https://en.wikipedia.org/w/index.php?title=Smartphone_patent_wars&oldid=1224319910[the Smartphone patents`' wars] are a facade for smartphone vendors pointing out flaws, features, and misfeatures in each other`'s products. There is little money at stake, and no bans. 
 * Lately, blogging and chatting online has become an obstacle race of censored resources, resources that require registration or payment, broken links, links that are deemed non-free by FLOSS zealots, etc. https://www.shlomifish.org/humour/fortunes/paul-graham.html[Paul Graham had written about that years ago:]
@@ -345,7 +347,7 @@ Refer to https://www.shlomifish.org/humour/fortunes/show.cgi?id=linux-il-linux-f
 * From my experience, when a hacker is https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.), like I did, they play "`The Fox in the Chicken Coop`", engage the staff and coprisoners in amateur philosophy, and end up getting out after some months, while the prison becomes a nut-house. Yet, there are hell-media reports of people being imprisoned for years and decades. 
 +
 My father`'s father, told me he had been imprisoned https://en.wikipedia.org/wiki/Arkhangelsk[in Arkhangelsk, Russia] when he started his plight from the German Nazi military, as it supposedly invaded Poland including his birthplace, Warsaw around 1939. 
-* The word's "slavery". How do you get many men/women working for free? You need paid supervisors, but then they are unhappy. Other people and I quit high-paying jobs for various reasons. Moreover, a hacker (who has has soul+mind) exhibits https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[the fox-in-the-chickens-coop effect]. 
+* The word's "slavery". How do you get many men/women working for free? You need paid supervisors, but then the supervisors are unhappy. Other people and I quit high-paying jobs for various reasons. Moreover, a hacker (who has has soul+mind) exhibits https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[the fox-in-the-chickens-coop effect]. 
 +
 I suspect https://en.wikipedia.org/wiki/Alexandre_Dumas[Alexandre Dumas pere]`'s father`'s mother was not actually a slave or thought of herself as one.
 It was just a facade for my hell's unified / absolute (and not real) history. 
