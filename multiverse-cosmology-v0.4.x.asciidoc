@@ -2160,6 +2160,11 @@ TheCodex(TM) uses various loaded terms to describe phenomena in Fantastecha(TM):
 . god 
 . fucker 
 . angel 
+. wizard 
+. die (= to lose a game) 
+. fairy 
+. zombie 
+. wolf / werewolf 
 
 
 [[shlomif-ancestry]]
