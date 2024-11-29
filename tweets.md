@@ -1273,3 +1273,9 @@ I saw a photo of a leashed female cat too.
 
 ----
 
+If you think there aren't many female #DandD / #TTRPG players, see: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-cinema-contemplating-Strip-DnD . Moreover: many female con attendees look great, IMO
+
+( https://twitter.com/shlomif/status/1862399912119275918 )
+
+----
+
