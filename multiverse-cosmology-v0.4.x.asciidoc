@@ -2027,6 +2027,7 @@ see evidence that one of my favourite children, Christina Grimmie, is alive, hea
 * A less organised, but more comprehensive in parts, document about the devils and the "real world". 
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#more-thoughts[Evidence that this hell cannot be real] - logically and reasonably. 
+** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#I-give-up-on-this-hell["`I give up on this hell`"] - also why an appeal to rationality, and that I should cope with the harsh "`reality`" is wrong. 
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#post-ascension-plan[short-term post-Catharsis plan]
 * https://github.com/shlomif/shlomif-tech-diary/blob/master/my-candidates-for-terran-leadership.asciidoc[Candidates for new Terran leadership]
 * https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/screenplay-xml/txt/end-game-for-shlomif-as-a-false-prophet.txt[End game for @shlomif as a false prophet]
