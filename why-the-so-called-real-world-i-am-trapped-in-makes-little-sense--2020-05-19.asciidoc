@@ -228,9 +228,9 @@ My friend, Tal, who was born in 1977, was moved from Harrow, Greater London, to 
 
 ____
 Pacifists may be disappointed, but after (and if) the rest-of-days, there`'ll still be wars.
-Civilian wizards can optoutof Earth`'s warzone layer, and it's safe. 
+Civilian wizards can opt-out of Earth`'s warzone layer, and it's safe. 
 
-One does not need good excuses for taking parts in wars, just like one does need them to play Chess/Checkers/Street-Fighter/etc. 
+One does not need good excuses for taking parts in wars, just like one does not need them to play Chess/Checkers/Street-Fighter/etc. 
 ____
 +
 Such games are often fun and educational.
@@ -277,7 +277,7 @@ This is despite https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about
 Having read https://en.wikipedia.org/wiki/Sheldon_Cooper[Sheldon`'s wikipedia page] , it seems he resembles me in many ways.
 Seems like he was conceived as a parody of me. 
 * Many friends and classmates shared a private name with others and a family name with others too. They were likely conceived as bridges or proxies. 
-** It is hard-to-believe there were so many peasants in previous centuries of history, who begot so many present celebrities. 
+** It is hard-to-believe there were so many peasants in previous centuries of history, who begot so many present-day celebrities. 
 * Often, when I wrote about an insight online, people seem to know about my previous whereabouts (even if tangential) and "`stalked`" me. 
 * I have no coherent memories since before the 1st grade ("Kitah Aleph", `"כיתה אלף"`) in Ramat Aviv Gimel school in Israel, when I was 6-7 years old. This is while two younger sisters had been born then, (and was told I reacted to their presence) and I was moved from Dallas, Texas to Rockville Maryland, to Ramat Aviv Gimel. 
 +
@@ -288,7 +288,7 @@ I also seemed to possess some significant inherent knowledge of Modern Hebrew an
 I was told people forget painful experiences much more rarely than pleasant ones. 
 * It seems farfetched to believe that https://www.shlomifish.org/philosophy/psychology/why-openly-bipolar-people-should-not-be-medicated/[psychiatric drugs will help in preventing depressions, hypo-manias, manias, etc.] yet many people support the media position. 
 ** These drugs have to be bitter, because otherwise they won't be considered medicine, right?! 
-* https://en.wikipedia.org/wiki/William_Jennens[The Jennens vs. Jennens] court-case supposedly took-over-a-century and wasted a lot of money. In actuality, the two sides split the money 50-50. The case began as a relic in hells of some vampires. But they received enough additional money-to-keep the show afloat. It was a parody court-case that exercised the functionality-of-the-real-legal-system. 
+* https://en.wikipedia.org/wiki/William_Jennens[The Jennens vs. Jennens] court-case supposedly took-over-a-century and wasted a lot of money. In actuality, the two sides split the money 50-50. The case began as a relic in hells of some vampires. But the participants received enough additional money-to-keep the show afloat. It was a parody court-case that exercised the functionality-of-the-real-legal-system. 
 ** https://en.wikipedia.org/w/index.php?title=Smartphone_patent_wars&oldid=1224319910[the Smartphone patents`' wars] are a facade for smartphone vendors pointing out flaws, features, and misfeatures in each other`'s products. There is little money at stake, and no bans. 
 * Lately, blogging and chatting online has become an obstacle race of censored resources, resources that require registration or payment, broken links, links that are deemed non-free by FLOSS zealots, etc. https://www.shlomifish.org/humour/fortunes/paul-graham.html[Paul Graham had written about that years ago:]
 +
