@@ -123,12 +123,13 @@ WML is quite complex.
 
 I also found the hybrid approach taken by
 [ikiwiki](https://en.wikipedia.org/wiki/Ikiwiki) of providing both an SSG and
-a server-side CMS appealing and used git repositories containing markdown files
-for a good effect.
+a server-side CMS appealing, and used git repositories containing files
+written in markdown and other markup languages, for a good effect.
 
 Like I said earlier, I find that writing your own custom SSG is not hard,
 and probably less hard than learning an existing one. Also see
-[this](http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/). So I expect more of them to emerge in the future.
+[this](http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/).
+So I expect more of them to emerge in the future.
 
 Someone on chat told me he believed that SSGs won’t survive the trend towards
 component-based client-side frameworks (such as React.js or Vue.js) but I'm
@@ -153,4 +154,4 @@ on how to comply with it.
 ## See Also:
 
 - [Four Ways to Build Web Apps :: Tom Hummel](https://tomhummel.com/posts/four-web-apps/)
-- [How is shlomifish.org generated](https://www.shlomifish.org/meta/FAQ/#how_site_is_generated)
+- [How is shlomifish.org generated?](https://www.shlomifish.org/meta/FAQ/#how_site_is_generated)
