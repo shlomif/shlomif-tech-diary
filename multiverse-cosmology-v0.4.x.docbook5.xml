@@ -5411,7 +5411,7 @@ They are mainly concerned with preventing physical pain and peril.
 <para>
 <link xlink:href="#Melissa_Joan_Hart">Melissa Joan Hart
 (MJH)</link> is considered the patron saint of the PC revolution given
-her role in it, and having featured in the "Phillips Screwdriver"
+her role in it, and having been featured in the "Phillips Screwdriver"
 commercial.
 </para>
 
@@ -5439,7 +5439,7 @@ good will, love, reputation, etc. ( References: )
 
 <para>
 The GNU project made some other smart decisions, such as keeping the C code 32-bit-only
-rather than 16-bit C compatible.
+rather than compatible with 16-bit C.
 </para>
 
 <para>
@@ -5453,8 +5453,10 @@ sources (or patches), to build them, and to run them.
 </para>
 
 <para>
-For a time, Intel/AMD were notorious for being buggy ( <quote>They are junk,
-but cheap junk.</quote> )
+For a time, Intel/AMD-based hardware components were notorious for being buggy
+( <quote>They are junk, but cheap junk.</quote> ). As time went by, they became
+more reliable, which made the case for the hardware architectures used by
+the computers running Unix-like OSes less pronounced.
 </para>
 
 </section>

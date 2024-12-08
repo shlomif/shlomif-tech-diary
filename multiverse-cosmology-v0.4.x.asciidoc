@@ -1768,7 +1768,7 @@ They are mainly concerned with preventing physical pain and peril.
 == History of operating systems
 
 link:#Melissa_Joan_Hart[Melissa Joan Hart
-(MJH)] is considered the patron saint of the PC revolution given her role in it, and having featured in the "Phillips Screwdriver" commercial. 
+(MJH)] is considered the patron saint of the PC revolution given her role in it, and having been featured in the "Phillips Screwdriver" commercial. 
 
 link:#Clarissa_Darling[Clarissa Darling], whose template had used troff on Unix to write letters to the muppeteers and other dispellers, and is/was Melissa`'s cousin or half-sister, continued to use Unix-like OSes on non-commodity hardware.
 MJH joked thst Clarissa could barely move https://en.wikipedia.org/wiki/SGI_IRIS[her Personal IRIS] machine, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it. 
@@ -1783,13 +1783,12 @@ As a general rule, the FSF or other software originators, do not engage in non-v
 This is because they have better tasks to accomplish with their time than go on a litigatious offence, which wastes time, good will, love, reputation, etc.
 ( References: ) 
 
-The GNU project made some other smart decisions, such as keeping the C code 32-bit-only rather than 16-bit C compatible. 
+The GNU project made some other smart decisions, such as keeping the C code 32-bit-only rather than compatible with 16-bit C. 
 
 Meanwhile, in the DOS world, which was prevalent on IBM PC-compatibles, users and developers had to deal with relatively limited, but cheaper, content mediums (such as 360 kiloByte diskettes, or RAM that was limited to 640 kiloBytes,). As a result, many games and other apps were distributed without their sources, and often "hacked"-and-modified directly by changing the binaries.
 The hardware devices used by the Unix/GNU users were fast and powerful enough to allow exchanging C sources (or patches), to build them, and to run them. 
 
-For a time, Intel/AMD were notorious for being buggy ( "`They are junk,
-but cheap junk.`" ) 
+For a time, Intel/AMD-based hardware components were notorious for being buggy ( "`They are junk, but cheap junk.`" ). As time went by, they became more reliable, which made the case for the hardware architectures used by the computers running Unix-like OSes less pronounced. 
 
 [[corporations]]
 == Corporations / companies / organisations / schools
