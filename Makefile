@@ -41,6 +41,11 @@ multiverse-cosmology-v0.4.x.xhtml/all-in-one.xhtml.temp.xml.xhtml/all-in-one.xht
 render: multiverse-cosmology-v0.4.x.asciidoc
 render: multiverse-cosmology-v0.4.x.xhtml/all-in-one.xhtml.temp.xml.xhtml/all-in-one.xhtml.temp.xml.xhtml
 
+static-site-generators--despair.md: static-site-generators--despair.docbook5.xml.tt2
+	tpage $< | pandoc -f docbook -t gfm -s -  > $@
+
+render: static-site-generators--despair.md
+
 why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.asciidoc: why-the-so-called-real-world-i-am-trapped-in-makes-little-sense--2020-05-19.docbook5.xml
 	perl render-cosmology.pl
 	git add $@

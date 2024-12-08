@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article>
+<article
+  xmlns="http://docbook.org/ns/docbook" version="5.0"
+  xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <info>
+    <title></title>
+  </info>
+  <section xml:id="the-despair-of-a-static-site-generator-creator">
+    <title>The Despair of a Static Site Generator Creator</title>
+    <section xml:id="tldr">
+      <title>TL;DR</title>
+      <para>
+        The main take-away from this essay is that I cannot in good
+        conscience recommend against writing your own
+        custom/ad-hoc/home-grown
+        <link xlink:href="https://davidwalsh.name/introduction-static-site-generators">static
+        site generator</link> (&quot;SSG&quot;) based on some
+        lower-level tools, rather than going through the trouble of
+        learning an existing open source one. Feel free to publish your
+        own creation as open source as well, but you should anticipate
+        that it is most probably not going to be popular.
+      </para>
+    </section>
+    <section xml:id="introduction">
+      <title>Introduction</title>
+      <para>
+        (A crowded room in a support group session:)
+      </para>
+      <para>
+        Me: Hi all! My name is Shlomi and I wrote several of my own
+        static site generators!
+      </para>
+      <para>
+        The others: Hello, Shlomi! We all love you!
+      </para>
+      <para>
+        (By inspiration from Kilmo.)
+      </para>
+      <para>
+        Yes, I wrote several static site generators (follow
+        <link xlink:href="https://davidwalsh.name/introduction-static-site-generators">this
+        link</link> to learn more about SSGs in general and the
+        motivation for them), and while they have served me mostly well,
+        I suspect few people use them except me. They all were built on
+        existing
+        <link xlink:href="http://www.shlomifish.org/open-source/resources/text-processing-tools/">preprocessors
+        or template systems</link>, some of which could be considered
+        static site gens in their own right.
+      </para>
+      <para>
+        In this essay, I'd also like to give some historical
+        perspective.
+      </para>
+    </section>
+    <section xml:id="requirements-for-a-static-site-generator">
+      <title>Requirements for a static site generator</title>
+      <para>
+        Your static site generator should have:
+      </para>
+      <orderedlist numeration="arabic">
+        <listitem>
+          <para>
+            A good preprocessor, generator, or template system.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            A good build system, but one that could be ad-hoc and hacked
+            together in a
+            <link xlink:href="https://en.wikipedia.org/wiki/Dynamic_programming_language">dynamic
+            language</link> or similar.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            The other
+            <link xlink:href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn#what-are-some-best-practices-in-programming-that-i-should-adopt">best
+            practices</link> related to software dev, such as using
+            version control, or CI.
+          </para>
+        </listitem>
+      </orderedlist>
+    </section>
+    <section xml:id="how-it-started">
+      <title>How it started</title>
+      <para>
+        I originally learned how to write
+        <link xlink:href="https://en.wikipedia.org/wiki/HTML">HTML</link>
+        from an article in an Internet magazine that my father bought me
+        back around 1995. In 1996, I started working as a web developer
+        for Cortext Web Design where I wrote HTML or CGI scripts
+        generating it server-side in
+        <link xlink:href="https://en.wikipedia.org/wiki/Perl">Perl
+        5</link> and learned some other technologies.
+      </para>
+      <para>
+        After a while, I set up my own web site consisting of several
+        hand-maintained HTML pages and maintained it for many years this
+        way. You can find an old
+        <link xlink:href="http://www.shlomifish.org/meta/old-site-snapshots/">1998
+        snapshot</link> of it.
+      </para>
+      <para>
+        A bit later while working on the Israeli Group of Linux Users'
+        site, I wrote my first static site generator, in PHP (version 3
+        if I recall correctly) where it used PHP to preprocess the pages
+        offline and generate a static site. While it worked, the use of
+        PHP for that seemed suboptimal.
+      </para>
+    </section>
+    <section xml:id="the-birth-of-latemp">
+      <title>The birth of Latemp</title>
+      <para>
+        <link xlink:href="http://www.shlomifish.org/open-source/projects/website-meta-language/">Website
+        META Language</link> or WML for short was a relatively early and
+        open source offline HTML preprocessing toolkit that proved to be
+        somewhat popular. I learnt about it in a news digest that one of
+        the Linux-Israel members posted, and eventually decided to try
+        it out. After writing some smaller projects with it, I ended up
+        converting most of my sites to it. This resulted in some
+        duplicate code, which I decided to extract into
+        <link xlink:href="http://www.shlomifish.org/open-source/projects/latemp/">Latemp</link>
+        (a play on &quot;Template&quot; and
+        <link xlink:href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</link>),
+        which was a static site generator that was marketed as an
+        “offline content management system”, which in turn caused me to
+        be contacted by some people seeking a server-side CMS such as
+        <link xlink:href="https://en.wikipedia.org/wiki/Drupal">Drupal</link>.
+        To be fair: at that point, I wasn't aware that &quot;static site
+        generator&quot; was the more conventional term.
+      </para>
+      <para>
+        WML and Latemp proved to be powerful and flexible, but on the
+        other hand, were relatively slow in comparison to other
+        alternatives.
+      </para>
+      <para>
+        I should note that I ended up becoming the maintainer of WML.
+      </para>
+    </section>
+    <section xml:id="facing-some-criticism">
+      <title>Facing some criticism</title>
+      <para>
+        Back in the early to mid-200xs, a fellow Linux-IL worker kept
+        telling me that I should not generate static HTML sections of
+        our sites and instead should use PHP on the server side,
+        implying that static HTML was no longer a valid approach.
+      </para>
+      <para>
+        Furthermore, when a different contributor volunteered to create
+        a site and I told him to use static HTML and not depend on PHP,
+        he asked me if he could use HTML frames. Turns out that despite
+        his years of experience in PHP, he didn't realise that static
+        HTML can be generated from templates, something I had realised
+        years ago.
+      </para>
+      <para>
+        Nowadays, with the advent of
+        <link xlink:href="https://en.wikipedia.org/wiki/Jekyll_%28software%29">Jekyll</link>
+        and other popular SSGs, many clueful web-developers are more
+        informed about them, but OTOH, someone recently argued that
+        Jekyll was the only valid alternative to server-side PHP, and
+        not SSG in general.
+      </para>
+    </section>
+    <section xml:id="recent-developments">
+      <title>Recent developments</title>
+      <para>
+        Some time after
+        <link xlink:href="https://en.wikipedia.org/wiki/GitHub">GitHub</link>
+        started, it started offering the “GitHub pages” service for
+        hosting static HTML sites, and shortly afterwards Jekyll and
+        other SSGs emerged and made the concept of SSG more well-known.
+        GitHub also allows previewing files in several formats as rich
+        text HTML directly from the repository view.
+      </para>
+      <para>
+        I tried using Jekyll for
+        <link xlink:href="http://vim.begin-site.org/">Vim-Begin</link>
+        and ended up not liking it out of finding it too opaque and hard
+        to use. As a result, I ended up creating a new SSG for Vim-Begin
+        based on
+        <link xlink:href="https://en.wikipedia.org/wiki/Template_Toolkit">Template
+        Toolkit</link>. Later, I used it for the
+        <link xlink:href="http://www.linux.org.il/"><link xlink:href="http://www.linux.org.il">www.linux.org.il</link>
+        site</link>. One possible indication of its ease-of-use is that
+        it received some pull-requests from other contributors on
+        GitHub.
+      </para>
+      <para>
+        Moreover, it seems it is much faster than Latemp, as well.
+      </para>
+      <para>
+        My sites now incorporate such
+        <link xlink:href="https://perlhacks.com/2012/03/you-must-hate-version-control-systems/">industry
+        best practices</link> as using version control, having an
+        automated test suite, and using a Continuous Integration
+        service. They should also be mostly valid HTML/XHTML markup.
+        However, the Latemp-based ones take a while to build and
+        sometimes involve quite a few levels of
+        <link xlink:href="https://en.wikipedia.org/wiki/Indirection">indirection</link>
+        and preprocessing. So I cannot recommend using Latemp, due to
+        this and because WML is quite complex.
+      </para>
+      <para>
+        I also found the hybrid approach taken by
+        <link xlink:href="https://en.wikipedia.org/wiki/Ikiwiki">ikiwiki</link>
+        of providing both an SSG and a server-side CMS appealing, and
+        used git repositories containing files written in markdown and
+        other markup languages, for a good effect.
+      </para>
+      <para>
+        Like I said earlier, I find that writing your own custom SSG is
+        not hard, and probably less hard than learning an existing one.
+        Also see
+        <link xlink:href="http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/">this</link>.
+        So I expect more of them to emerge in the future.
+      </para>
+      <para>
+        Someone on chat told me he believed that SSGs won’t survive the
+        trend towards component-based client-side frameworks (such as
+        React.js or Vue.js) but I'm skeptical of such predictions and in
+        my time saw several similar ones not materialise. Also see
+        <link xlink:href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f">this
+        funny critique of modern JS</link>.
+      </para>
+      <para>
+        So static site generation has proven to be a valid approach in
+        the past and into the near future. However, I maintain several
+        sites using my own custom ones (with all their quirks) and don't
+        expect them to be of much interest to anyone except me and
+        future maintainers of the sites. And here lies my despair.
+      </para>
+    </section>
+    <section xml:id="licence">
+      <title>Licence</title>
+      <para>
+        You can reuse this entry under
+        <a href="http://creativecommons.org/licenses/by-nc/3.0/">the
+        Creative Commons Attribution Noncommercial (CC-by-nc) 3.0
+        Unported</a> licence, or at your option any later version. See
+        the
+        <a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
+        on how to comply with it.
+      </para>
+    </section>
+    <section xml:id="see-also">
+      <title>See Also:</title>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>
+            <link xlink:href="https://tomhummel.com/posts/four-web-apps/">Four
+            Ways to Build Web Apps :: Tom Hummel</link>
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <link xlink:href="https://www.shlomifish.org/meta/FAQ/#how_site_is_generated">How
+            is shlomifish.org generated?</link>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </section>
+  </section>
+</article>
