@@ -5459,6 +5459,14 @@ more reliable, which made the case for the hardware architectures used by
 the computers running Unix-like OSes less pronounced.
 </para>
 
+<para>
+The software of the GNU project was notorius for being more feature-rich than
+that of the commercial UNIXes, and was often installed by end-users on
+<code>/usr/local/gnu</code>, <code>~/gnu</code>, <code>/opt/gnu</code> / etc.
+When systems based on the Linux kernel emerged, they based their user-land
+software on GNU wholesale.
+</para>
+
 </section>
 
 <section xml:id="corporations">

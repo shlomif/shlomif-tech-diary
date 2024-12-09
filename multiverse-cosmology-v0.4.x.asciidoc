@@ -1790,6 +1790,9 @@ The hardware devices used by the Unix/GNU users were fast and powerful enough to
 
 For a time, Intel/AMD-based hardware components were notorious for being buggy ( "`They are junk, but cheap junk.`" ). As time went by, they became more reliable, which made the case for the hardware architectures used by the computers running Unix-like OSes less pronounced. 
 
+The software of the GNU project was notorius for being more feature-rich than that of the commercial UNIXes, and was often installed by end-users on ``/usr/local/gnu``, ``~/gnu``, `/opt/gnu` / etc.
+When systems based on the Linux kernel emerged, they based their user-land software on GNU wholesale. 
+
 [[corporations]]
 == Corporations / companies / organisations / schools
 
