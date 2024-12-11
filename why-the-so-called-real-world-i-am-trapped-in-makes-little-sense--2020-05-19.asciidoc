@@ -84,7 +84,7 @@ I will try to show why accepting them and the media "facts" will result in havin
 ** A typical Gorilla is far stronger than even the strongest humans, while not exercising. 
 * https://twitter.com/TheRealGrimmie[Christina Grimmie] was reportedly killed after several years of not doing stuff her way. This is despite advocating confidence and individualism, in her works. 
 ** Despite her reported assassination, many people online and in the outside world claim they have not heard of her. 
-** Grimmie is/was my favourite YouTuber. Cannot be a coincidence. ( https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Reference] ) 
+** Grimmie is/was my favourite YouTuber. Cannot be a coincidence. ( https://www.shlomifish.org/philosophy/fan-pages/christina-grimmie/[Reference] ) 
 ** Others with bad outcomes: https://www.shlomifish.org/humour/bits/facts/Summer-Glau/[Summer Glau], https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], https://en.wikipedia.org/wiki/Jennifer_Aniston[Jennifer Aniston] , https://en.wikipedia.org/wiki/John_Candy[John Candy] , https://en.wikipedia.org/wiki/Beverly_Hills_Ninja[Chris Farley] , https://www.imdb.com/name/nm0504516/[Ron Lester], https://en.wikipedia.org/wiki/Jim_Henson[Jim Henson], https://en.wikipedia.org/wiki/Ayn_Rand[Ayn Rand].
 * I am a feeble and frail man (who is otherwise of strong spirit), and who is attracted to strong girls, especially physically strong and/or muscular ones: https://twitter.com/shlomif/status/1394689324554334210[Reference: tweet] .
 * I "pirate" (= copy, share, and build upon) copyrighted works all over the place. I`'ve been told https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/fighting_against_the_world.xhtml[it is bad and even "unethical"] or that FOSS / open content / free music / commercial fan-fiction will "never happen".
@@ -258,7 +258,7 @@ They`'re not part of the conversation.
 * "People" with whom I chat online find poor excuses not to peruse my recommendations: 
 ** "I'm now focusing on Ancient Greek philosophy" 
 ** "There's still a lot I don't know about Ruby-on-Rails" [as if one can learn it all!] 
-* I suspect the reason that Christina Grimmie`'s introes/outroes had so many videos' interruptions is that they were lying to me: https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Reference: [my] Christina Grimmie fan page] . Occam's Razor tells me there *is* a conspiracy. 
+* I suspect the reason that Christina Grimmie`'s introes/outroes had so many videos' interruptions is that they were lying to me: https://www.shlomifish.org/philosophy/fan-pages/christina-grimmie/[Reference: [my] Christina Grimmie fan page] . Occam's Razor tells me there *is* a conspiracy. 
 * E-mail / blogs / etc. spam should have been stopped by karma (= "what goes around, comes around"). https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#all_people_are_good[Case for Commercial fan-fiction: all people are good]
 * In the Russia-Ukraine war, the Russians are stupid enough to keep using tanks. 
 * https://en.wikipedia.org/wiki/Alexandre_Dumas[Alexandre Dumas pere] had 40 affairs. 
@@ -439,9 +439,22 @@ I've been a fan and advocate of http://shlomifishswiki.branchable.com/Self-Suffi
 However, despite trying to be benevolent, diligent, kind, generous, honest, sincere, rational, forgiving and non-vindictive, believing people can change and grow, open-minded, etc.
 , I was met with lack of responses to my posts and with violent antagonism (bans, filterings, devoices, downvotes). 
 
-There were also reported perishing of many people, whom I liked and admired: https://www.shlomifish.org/art/recommendations/music/online-artists/fan-pages/chris-grimmie/[Christina Grimmie], Jim Henson, Avicii, John Lennon, https://en.wikipedia.org/wiki/Carrie_Fisher[Carrie Fisher], John Candy, https://www.imdb.com/name/nm0504516/[Ron Lester], Michael Jackson, Whitney Houston. 
+There were also reported perishing of many people, whom I liked and admired: https://www.shlomifish.org/philosophy/fan-pages/christina-grimmie/[Christina Grimmie], Jim Henson, Avicii, John Lennon, https://en.wikipedia.org/wiki/Carrie_Fisher[Carrie Fisher], John Candy, https://www.imdb.com/name/nm0504516/[Ron Lester], Michael Jackson, Whitney Houston. 
 
-I am also unable to overcome the deceiving communication mediums (= "in-betweens") in this hell: from downvotes/dislikes, to reddit removals, to youtube censorship, to email being unreliable, to discord.gg obviously being insecure, bloated, proprietary, and unreliable; IRC networks are seemingly unpopular.
+I am also unable to overcome the deceiving communication mediums (= "in-betweens") in this hell: 
+
+. Downvotes/dislikes / non-responses. 
+. https://en.wikipedia.org/wiki/Reddit[reddit] removals 
+. youtube censorship ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#YouTube[Reference] ). 
+. email being unreliable 
+. discord-dot-gg obviously being insecure, bloated, proprietary, and unreliable 
+** {empty}
++
+
+[quote]
+A hacker must be borderline-suicidal to use discord-dot-gg. 
+
+; IRC networks are seemingly unpopular.
 Despite that, the freenode/libera.chat schism happened.
 WordPress-based blogs eat readers`' comments.
 Non-voluntary Spam is rampant, despite being very bad karma for the spammers.
