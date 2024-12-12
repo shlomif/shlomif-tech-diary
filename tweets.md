@@ -1279,7 +1279,11 @@ If you think there aren't many female #DandD / #TTRPG players, see: https://www.
 
 ----
 
-On JoelOnSW forum, a dev said that while algo code's faster2write in py, it is ofset by delphi's GUI-editing. Later on freenode apple chan, a dev said Qt's mac-UIs had bad UX and shud be redone.
+On JoelOnSW forum, a dev said that while algo code's faster2write in py, it is ofset by delphi's GUI-editing. Later on freenode apple chan, a dev said Qt's mac-UIs had bad UX and shud be redone in shrinkwrap apps.
+
+Wrt web-apps some say "put load on the serve" and some on the browser.
+
+( https://twitter.com/shlomif/status/1867083355310993468 )
 
 ----
 
