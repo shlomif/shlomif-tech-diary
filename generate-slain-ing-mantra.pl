@@ -17,6 +17,19 @@ use Getopt::Long                           qw/ GetOptions /;
 use Path::Tiny                             qw/ cwd path tempdir tempfile /;
 use Docker::CLI::Wrapper::Container v0.0.4 ();
 
+sub _text_to_markup
+{
+    my ($TEXT) = @_;
+    my @lines  = split /[\n\r]+/ms, $TEXT;
+    my $out    = "";
+    foreach my $line ( grep { /\S/ and ( not /\A#/ ) } @lines )
+    {
+        $out .= "<para>\n$line\n</para>\n\n";
+    }
+
+    return $out;
+}
+
 sub run
 {
     my $output_fn;
@@ -49,7 +62,7 @@ EOF
     foreach my $changing_line (@lines1)
     {
         $text .= "\n<listitem>\n\n";
-        my @lines = split /[\n\r]+/ms, <<"EOF";
+        my $OUT = _text_to_markup( <<"EOF" );
 Die, fucker, die.
 Yeah, Zine,
 Hallelujah.
@@ -59,10 +72,7 @@ $changing_line
 # Dick, Rock, Hack.
 EOF
 
-        foreach my $line ( grep { /\S/ and ( not /\A#/ ) } @lines )
-        {
-            $text .= "<para>\n$line\n</para>\n\n";
-        }
+        $text .= $OUT;
         $text .= "</listitem>\n";
     }
     continue
