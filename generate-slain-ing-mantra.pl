@@ -11,6 +11,7 @@ use strict;
 use warnings;
 use 5.014;
 use autodie;
+use utf8;
 
 use Carp                                   qw/ confess /;
 use Getopt::Long                           qw/ GetOptions /;
@@ -57,7 +58,7 @@ sub run
 <orderedlist>
 EOF
 
-    my @lines1 = ( "Now fuck off!", "Fuck off, now!", );
+    my @lines1 = ( "Now fuck off!", "Fuck off, now!", "Do, suck, ass!™" );
     my $idx    = 0;
     foreach my $fairy_type ( "fucker", "hacker" )
     {
