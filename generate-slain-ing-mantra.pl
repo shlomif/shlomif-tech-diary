@@ -59,11 +59,13 @@ EOF
 
     my @lines1 = ( "Now fuck off!", "Fuck off, now!", );
     my $idx    = 0;
-    foreach my $changing_line (@lines1)
+    foreach my $fairy_type ( "fucker", "hacker" )
     {
-        $text .= "\n<listitem>\n\n";
-        my $OUT = _text_to_markup( <<"EOF" );
-Die, fucker, die.
+        foreach my $changing_line (@lines1)
+        {
+            $text .= "\n<listitem>\n\n";
+            my $OUT = _text_to_markup( <<"EOF" );
+Die, $fairy_type, die.
 Yeah, Zine,
 Hallelujah.
 $changing_line
@@ -72,12 +74,13 @@ $changing_line
 # Dick, Rock, Hack.
 EOF
 
-        $text .= $OUT;
-        $text .= "</listitem>\n";
-    }
-    continue
-    {
-        ++$idx;
+            $text .= $OUT;
+            $text .= "</listitem>\n";
+        }
+        continue
+        {
+            ++$idx;
+        }
     }
     $text .= <<"EOF";
 

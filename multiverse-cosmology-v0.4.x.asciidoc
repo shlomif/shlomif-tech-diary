@@ -2218,6 +2218,20 @@ Yeah, Zine,
 Hallelujah. 
 +
 Fuck off, now! 
+. Die, hacker, die. 
++
+Yeah, Zine, 
++
+Hallelujah. 
++
+Now fuck off! 
+. Die, hacker, die. 
++
+Yeah, Zine, 
++
+Hallelujah. 
++
+Fuck off, now! 
 
 
 [[license]]
