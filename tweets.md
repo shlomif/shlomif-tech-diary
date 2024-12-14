@@ -1287,3 +1287,19 @@ Wrt web-apps some say "put load on the serve" and some on the browser.
 
 ----
 
+Outside my hell:
+
+1. Netanyahu retired from politics; due2lethargy
+
+2. Japnese gnrly no longer have taboo of talk2strangers
+
+3. Desktop GNU/linux is popular
+
+4. PHP is based on perl5 + is saner
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+( https://twitter.com/shlomif/status/1867840252301258955 )
+
+----
+
