@@ -1303,3 +1303,9 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 
 ----
 
+Wisely said, IMO. TheCodex™ notes that humour happens when a predicate P(from $start to $end ) evaluates to true for one path and as false for another. So, if you switch to the other path, the joke stays funny.
+
+( https://www.facebook.com/shlomi.fish/posts/pfbid0282BDqrtJdADFj17vJpeDTTyiVuF79k9FjsgJWguYQYDGmzoGrCfviPcv3Z5dyhKhl )
+
+----
+
