@@ -1250,6 +1250,8 @@ I think Em Watson materialised (a day after SMG’s 13th bday), and requested sh
 
 ( https://twitter.com/shlomif/status/1856884677656617285 )
 
+While you cant prevent children from being conceived, trueprophets can speedup a child's birth by filling "the form". Often the soul+mind will be recycled. Some ppl were adopted by parents who r descndents of their former selves.
+
 ----
 
 2 notable projects from https://github.com/trending :
@@ -1306,6 +1308,9 @@ https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
 Wisely said, IMO. TheCodex™ notes that humour happens when a predicate P(from $start to $end ) evaluates to true for one path and as false for another. So, if you switch to the other path, the joke stays funny.
 
 ( https://www.facebook.com/shlomi.fish/posts/pfbid0282BDqrtJdADFj17vJpeDTTyiVuF79k9FjsgJWguYQYDGmzoGrCfviPcv3Z5dyhKhl )
+
+----
+
 
 ----
 
