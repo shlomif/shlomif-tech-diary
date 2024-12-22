@@ -1311,6 +1311,8 @@ Wisely said, IMO. TheCodex™ notes that humour happens when a predicate P(from 
 
 ----
 
+If u play drivtiv of https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#fantasia-vs-fantastecha ["the [RPG] game"] ur characters can play instance of it too, and their chars too. But, evntuly, they need2play a more rigid game: maths/STEM exercises, board/card games, ball games, video games [tetris/streetfighter/DOOM/etc]
+
 
 ----
 
