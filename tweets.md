@@ -1317,3 +1317,13 @@ If u play drivtiv of https://www.shlomifish.org/philosophy/culture/multiverse-co
 
 ----
 
+I received very few useful comments about https://www.shlomifish.org/humour/He-Damsel-in-Distress-and-a-Distressing-Damsel/ongoing-text.html 😞
+
+It is in a usable state, and mostly complete. #parody #muppets #RPF
+
+See https://www.shlomifish.org/meta/FAQ/i_hate_one_of_your_works.xhtml for review advice/guidelines.
+
+( https://twitter.com/shlomif/status/1870864586284634594 )
+
+----
+
