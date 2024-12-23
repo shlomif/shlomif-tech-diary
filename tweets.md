@@ -1327,3 +1327,11 @@ See https://www.shlomifish.org/meta/FAQ/i_hate_one_of_your_works.xhtml for revie
 
 ----
 
+If the creators / gamemasters / players of Earth were able2create big mountains (eg Mt. Fiji) and endearing/aesthetic animals like Otters,rabbits,ibexes,cats, why cudnt they create the egypt/msoamrican pyramids?
+
+just coz it looks manmade, dont make it so.
+
+( https://twitter.com/shlomif/status/1871206799703155151 )
+
+----
+
