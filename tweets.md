@@ -1335,3 +1335,11 @@ just coz it looks manmade, dont make it so.
 
 ----
 
+The #mlpfim series was mutated based on input of the orcs to make it suitable to be watched by me. At the start of the 8th season, they made unreasonable reqs, so I was made to stop watching it.
+
+I suspect it featured an EvilReindeer called Rindolf
+
+( https://twitter.com/shlomif/status/1871516506154320075 )
+
+----
+
