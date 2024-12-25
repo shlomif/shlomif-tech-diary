@@ -1333,6 +1333,8 @@ just coz it looks manmade, dont make it so.
 
 ( https://twitter.com/shlomif/status/1871206799703155151 )
 
+→ a IRC discussion I sparked abt that reminded me of the "unladen swallow" skit ( https://www.youtube.com/watch?v=liIlW-ovx0Y ) and of "why ponies floatonwater" ( https://www.reddit.com/r/mylittlepony/comments/kaa7wl/swimming_lessons_by_vergolophus/ ).
+
 ----
 
 The #mlpfim series was mutated based on input of the orcs to make it suitable to be watched by me. At the start of the 8th season, they made unreasonable reqs, so I was made to stop watching it.
