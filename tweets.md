@@ -1345,3 +1345,9 @@ I suspect it featured an EvilReindeer called Rindolf
 
 ----
 
+Over on #IRC , someone asked me if I fulfilled all my 2024 year's tasks. I told him that many completed tasks beget others. There r many things I want2do , but relatively few that I feel I must do right away.
+
+( https://twitter.com/shlomif/status/1873277551604580719 )
+
+----
+
