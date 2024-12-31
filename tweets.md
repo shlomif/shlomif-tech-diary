@@ -1349,5 +1349,11 @@ Over on #IRC , someone asked me if I fulfilled all my 2024 year's tasks. I told 
 
 ( https://twitter.com/shlomif/status/1873277551604580719 )
 
+→ https://www.shlomifish.org/humour/fortunes/show.cgi?id=osp-rules-48
+
+“Rule of Open-Source Programming #48:
+
+The number of items on a project’s to-do list always grows or remains constant.”
+
 ----
 
