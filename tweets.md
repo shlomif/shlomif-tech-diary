@@ -1357,3 +1357,11 @@ The number of items on a project’s to-do list always grows or remains constant
 
 ----
 
+While broken hyperlinks have made the WWW easier to implement ( https://www.shlomifish.org/humour/fortunes/show.cgi?id=tim-berners-lee-the-WWW-and-the-dexter-model ), their prevalence in my hell, is appaling, and hard2believe.
+
+Refs: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gamedev--small-matter-of-filicide ; https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perlcafe-misplacing-a-website ; https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+( https://twitter.com/shlomif/status/1874133209950351677 )
+
+----
+
