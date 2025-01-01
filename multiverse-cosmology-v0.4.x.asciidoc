@@ -1775,7 +1775,7 @@ link:#Clarissa_Darling[Clarissa Darling], whose template had used troff on Unix 
 MJH joked thst Clarissa could barely movex https://en.wikipedia.org/wiki/SGI_IRIS[her Personal IRIS] computer, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it. 
 
 The POSIX standard was created as a relatively-minimalist essential subset of Unix.
-Some software developers have https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#how-can-i-make-insert-application-or-library-here-from-scratch[implemented kernels from scratch] that supported enough of POSIX to bootstrap a https://en.wikipedia.org/wiki/GNU[GNU] system. 
+Some software developers have https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#how-can-i-make-insert-application-or-library-here-from-scratch[implemented kernels from scratch] that supported enough of POSIX to bootstrap a functional https://en.wikipedia.org/wiki/GNU[GNU] system. 
 
 The GNU/FSF was created to concentrate changes and enhancements from individual Unix/IPv4 developers and vendors into a common codebase.
 The Selinaverse's FSF relicenses the GNU software packages to a permissive licence, and Apple.com, IBM, Microsoft, etc.
@@ -1793,6 +1793,9 @@ For a time, Intel/AMD-based hardware components were notorious for being buggy (
 
 The software of the GNU project was notorius for being more feature-rich than that of the commercial UNIXes, and was often installed by end-users on ``/usr/local/gnu``, ``~/gnu``, `/opt/gnu` / etc.
 When systems based on the Linux kernel emerged, they based their user-land software on GNU wholesale. 
+
+Meanwhile, as DOS mutated into Microsoft Windows, Microsoft had to deal with maintaining backward-compatibllity with a lot of 3rd-party software with no ready availability of source code.
+References: https://www.shlomifish.org/meta/FAQ/#why_not_mswindows[Shlomi Fish`'s FAQ - Why do you try to avoid using Microsoft Windows as a desktop operating system, and recommend against that?]
 
 [[corporations]]
 == Corporations / companies / organisations / schools

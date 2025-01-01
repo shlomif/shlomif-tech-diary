@@ -5440,7 +5440,7 @@ computer, and that neither Melissa nor Arnold Schwarzenegger would risk lifting 
 </para>
 
 <para>
-The POSIX standard was created as a relatively-minimalist essential subset of Unix. Some software developers have <link xlink:href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#how-can-i-make-insert-application-or-library-here-from-scratch">implemented kernels from scratch</link> that supported enough of POSIX to bootstrap a <link xlink:href="https://en.wikipedia.org/wiki/GNU">GNU</link> system.
+The POSIX standard was created as a relatively-minimalist essential subset of Unix. Some software developers have <link xlink:href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#how-can-i-make-insert-application-or-library-here-from-scratch">implemented kernels from scratch</link> that supported enough of POSIX to bootstrap a functional <link xlink:href="https://en.wikipedia.org/wiki/GNU">GNU</link> system.
 </para>
 
 <para>
@@ -5482,6 +5482,10 @@ that of the commercial UNIXes, and was often installed by end-users on
 <code>/usr/local/gnu</code>, <code>~/gnu</code>, <code>/opt/gnu</code> / etc.
 When systems based on the Linux kernel emerged, they based their user-land
 software on GNU wholesale.
+</para>
+
+<para>
+Meanwhile, as DOS mutated into Microsoft Windows, Microsoft had to deal with maintaining backward-compatibllity with a lot of 3rd-party software with no ready availability of source code. References: <link xlink:href="https://www.shlomifish.org/meta/FAQ/#why_not_mswindows">Shlomi Fish’s FAQ - Why do you try to avoid using Microsoft Windows as a desktop operating system, and recommend against that?</link>
 </para>
 
 </section>
