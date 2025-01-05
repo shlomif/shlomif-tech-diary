@@ -69,7 +69,7 @@ EOF
         foreach my $changing_line (@lines1)
         {
             $text .= "\n<listitem>\n\n";
-            my $OUT = _text_to_markup( <<"EOF" );
+            my $OUT = _text_to_markup(<<"EOF");
 Die, $fairy_type, die.
 Yeah, Zine,
 Hallelujah.
