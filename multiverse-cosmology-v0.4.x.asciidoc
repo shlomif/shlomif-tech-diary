@@ -1772,7 +1772,7 @@ link:#Melissa_Joan_Hart[Melissa Joan Hart
 (MJH)] is considered the patron saint of the PC revolution given her role in it, and having been featured in the "Phillips Screwdriver" commercial. 
 
 link:#Clarissa_Darling[Clarissa Darling], whose template had used troff on Unix to write letters to the muppeteers and other dispellers, and is/was Melissa`'s cousin or half-sister, continued to use Unix-like OSes on non-commodity hardware.
-MJH joked thst Clarissa could barely movex https://en.wikipedia.org/wiki/SGI_IRIS[her Personal IRIS] computer, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it. 
+MJH joked thst Clarissa could barely move https://en.wikipedia.org/wiki/SGI_IRIS[her Personal IRIS] computer, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it. 
 
 The POSIX standard was created as a relatively-minimalist essential subset of Unix.
 Some software developers have https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#how-can-i-make-insert-application-or-library-here-from-scratch[implemented kernels from scratch] that supported enough of POSIX to bootstrap a functional https://en.wikipedia.org/wiki/GNU[GNU] system. 
