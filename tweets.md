@@ -1365,3 +1365,13 @@ Refs: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gamedev--smal
 
 ----
 
+Katie: Maybe… But enough about boring ol’ twenty-something-old…
+
+Jake: And looking much younger…
+
+— https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/
+
+( https://twitter.com/shlomif/status/1878343489286513102 )
+
+----
+
