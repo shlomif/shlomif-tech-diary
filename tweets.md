@@ -1375,3 +1375,9 @@ Jake: And looking much younger…
 
 ----
 
+Maybe "There is no IGLU Cabal!" https://www.shlomifish.org/humour/fortunes/tinic.html , and "Knuth isnot God" https://www.shlomifish.org/humour/bits/facts/Knuth/ were step stones to #chucknorrisfacts . https://en.wikipedia.org/wiki/In_Soviet_Russia "InSoviet .ru" was even earlier.
+
+( https://twitter.com/shlomif/status/1878688661224731089 )
+
+----
+
