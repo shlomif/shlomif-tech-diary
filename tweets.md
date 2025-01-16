@@ -1381,3 +1381,9 @@ Maybe "There is no IGLU Cabal!" https://www.shlomifish.org/humour/fortunes/tinic
 
 ----
 
+It's Gonna Be OKAY - The Piano Guys https://youtu.be/5pBjopDymts?si=9AX04OdmQKgfAzIU via @YouTube ; I think I spot Taylor Swift and Madonna there looking gorgeous and youthful. also communication media/mediums -> in betweens
+
+( https://twitter.com/shlomif/status/1879564784758337734 )
+
+----
+
