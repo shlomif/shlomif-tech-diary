@@ -5433,10 +5433,11 @@ commercial.
 <para>
 <link xlink:href="#Clarissa_Darling">Clarissa Darling</link>, whose template had used
 troff on Unix to write letters to the muppeteers and other dispellers, and is/was
-Melissa’s cousin or half-sister, continued to use Unix-like OSes on non-commodity
-hardware. MJH joked thst Clarissa could barely move
+Melissa’s cousin or half-sister, continued to use Unix-like OSes, and on non-commodity
+hardware at first. MJH joked thst Clarissa could barely move
 <link xlink:href="https://en.wikipedia.org/wiki/SGI_IRIS">her Personal IRIS</link>
-computer, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it.
+computer, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it
+for vanity.
 </para>
 
 <para>
@@ -5485,7 +5486,14 @@ software on GNU wholesale.
 </para>
 
 <para>
-Meanwhile, as DOS mutated into Microsoft Windows, Microsoft had to deal with maintaining backward-compatibllity with a lot of 3rd-party software with no ready availability of source code. References: <link xlink:href="https://www.shlomifish.org/meta/FAQ/#why_not_mswindows">Shlomi Fish’s FAQ - “Why do you try to avoid using Microsoft Windows as a desktop operating system, and recommend against that?”</link>. This made the Microsoft Windows sources larger, less elegant, and more dicouraged to modify.
+Meanwhile, as DOS mutated into Microsoft Windows, Microsoft had to deal with maintaining backward-compatibllity with a lot of 3rd-party software with no ready availability of source code. References: <link xlink:href="https://www.shlomifish.org/meta/FAQ/#why_not_mswindows">Shlomi Fish’s FAQ - “Why do you try to avoid using Microsoft Windows as a desktop operating system, and recommend against that?”</link>. This made the Microsoft Windows sources larger, less elegant, and more discouraged to modify.
+</para>
+
+<para>
+I think in the Selinaverse, Android uses sources, both from iOS and from the GNU projects.
+So <quote>Android is an OS that is almost, but not quite, entirely unlike GNU / Linux</quote>
+is not true there. I suspect that the Smartphone patent wars involve vendors pointing out
+bugs and issues in each others' products.
 </para>
 
 </section>

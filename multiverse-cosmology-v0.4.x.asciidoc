@@ -1771,8 +1771,8 @@ They are mainly concerned with preventing physical pain and peril.
 link:#Melissa_Joan_Hart[Melissa Joan Hart
 (MJH)] is considered the patron saint of the PC revolution given her role in it, and having been featured in the "Phillips Screwdriver" commercial. 
 
-link:#Clarissa_Darling[Clarissa Darling], whose template had used troff on Unix to write letters to the muppeteers and other dispellers, and is/was Melissa`'s cousin or half-sister, continued to use Unix-like OSes on non-commodity hardware.
-MJH joked thst Clarissa could barely move https://en.wikipedia.org/wiki/SGI_IRIS[her Personal IRIS] computer, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it. 
+link:#Clarissa_Darling[Clarissa Darling], whose template had used troff on Unix to write letters to the muppeteers and other dispellers, and is/was Melissa`'s cousin or half-sister, continued to use Unix-like OSes, and on non-commodity hardware at first.
+MJH joked thst Clarissa could barely move https://en.wikipedia.org/wiki/SGI_IRIS[her Personal IRIS] computer, and that neither Melissa nor Arnold Schwarzenegger would risk lifting it for vanity. 
 
 The POSIX standard was created as a relatively-minimalist essential subset of Unix.
 Some software developers have https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#how-can-i-make-insert-application-or-library-here-from-scratch[implemented kernels from scratch] that supported enough of POSIX to bootstrap a functional https://en.wikipedia.org/wiki/GNU[GNU] system. 
@@ -1796,7 +1796,11 @@ When systems based on the Linux kernel emerged, they based their user-land softw
 
 Meanwhile, as DOS mutated into Microsoft Windows, Microsoft had to deal with maintaining backward-compatibllity with a lot of 3rd-party software with no ready availability of source code.
 References: https://www.shlomifish.org/meta/FAQ/#why_not_mswindows[Shlomi Fish`'s FAQ - "`Why do you try to avoid using Microsoft Windows as a desktop operating system, and recommend against that?`"].
-This made the Microsoft Windows sources larger, less elegant, and more dicouraged to modify. 
+This made the Microsoft Windows sources larger, less elegant, and more discouraged to modify. 
+
+I think in the Selinaverse, Android uses sources, both from iOS and from the GNU projects.
+So "`Android is an OS that is almost, but not quite, entirely unlike GNU / Linux`" is not true there.
+I suspect that the Smartphone patent wars involve vendors pointing out bugs and issues in each others' products. 
 
 [[corporations]]
 == Corporations / companies / organisations / schools
