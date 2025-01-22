@@ -1387,3 +1387,9 @@ It's Gonna Be OKAY - The Piano Guys https://youtu.be/5pBjopDymts?si=9AX04OdmQKgf
 
 ----
 
+I think Dr. David Livingstone, Sharon Stone, Alicia Silverstone, and Emma Stone, are related and trace their ancestry to King David (and Avshalom and Tamar daughter-of-David?)
+
+( https://twitter.com/shlomif/status/1881964106598744513 )
+
+----
+
