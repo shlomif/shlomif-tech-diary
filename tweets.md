@@ -1393,3 +1393,11 @@ I think Dr. David Livingstone, Sharon Stone, Alicia Silverstone, and Emma Stone,
 
 ----
 
+Some #WWW #webdesign ers argue that black-on-white style is more accessible for colorblinds. Fair enuf, but why avoid black edges and (rounded/squared) corners?
+
+Refs: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-linux-offtopic--nixdoc-WinXP-style-and-modern-Web
+
+( https://twitter.com/shlomif/status/1881990308776583189 )
+
+----
+
