@@ -214,7 +214,7 @@ puberty on 5 May 1990 [= my 13th birthday].]
 My friend, Tal, who was born in 1977, was moved from Harrow, Greater London, to Israel when he was a month old. 
 * Everyone seems to know about freenode and other IRC networks, but they are not too mainstream and popular. This is despite https://www.shlomifish.org/meta/FAQ/do_people_still_use_irc.xhtml[having many advantages]. 
 ** Despite freenode allegdly being unpopular, Andrew Lee found it a good idea to capitalise on it. So the freenode / 'libera.chat' split is hard-to-believe. 
-** discord-dot-gg is clearly so bloated, insecure, and proprietary that a hacker must be borderline-suicidal to use. 
+** discord-dot-gg is clearly so bloated, insecure, and proprietary that a hacker must be borderline-suicidal to use it. 
 * Apple M1 is hard-to-believe: 
 .. ARM is underperformant while having low gates' count and power consumption. 
 .. yet, Apple added an x86-64 emulation, which wastes gates and power! 
@@ -330,7 +330,7 @@ Overall updated 0 packages.
 Rust-lang is supposedly a very trendy language currently! 
 * Why are there so many copyright takedown requests? As far as the copyright holders or the lawyers acting on their behalf are concerned, they are a waste of time, love, and often -- money. 
 * Seems like I am not the only man who, as a general rule, dislike seeing women naked, and rather see them in bikini/lingerie ("`scantily-clad`") https://www.reddit.com/r/unpopularopinion/comments/1deuq21/women_look_way_better_in_a_bikinilingerie_than/["`women look way better in a bikini/lingerie than completely naked. : r/unpopularopinion`"] . However, one allegedly needs to be naked to "4th-base" (or is it "home-run"). Moreover, people pee from penises and vaginas! 
-* In https://www.shlomifish.org/humour/fortunes/show.cgi?id=when-closed-source-bites[this IRC convo] someone keep defending the fact that Firefox, is in some aspects, superior to Opera because it is open-source, changing his arguments and evading mine. 
+* In https://www.shlomifish.org/humour/fortunes/show.cgi?id=when-closed-source-bites[this IRC convo] someone keep protesting the fact that Firefox, is in some aspects, superior to Opera because it is open-source, changing his arguments and evading mine. 
 +
 ( Possibly-related: https://en.wikipedia.org/wiki/No_true_Scotsman["`No true Scotsman`"].
 ) 
