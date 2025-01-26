@@ -183,10 +183,9 @@
         based on
         <link xlink:href="https://en.wikipedia.org/wiki/Template_Toolkit">Template
         Toolkit</link>. Later, I used it for the
-        <link xlink:href="http://www.linux.org.il/"><link xlink:href="http://www.linux.org.il">www.linux.org.il</link>
-        site</link>. One possible indication of its ease-of-use is that
-        it received some pull-requests from other contributors on
-        GitHub.
+        <link xlink:href="http://www.linux.org.il/">Israeli Linux users’ site</link>.
+        One possible indication of its ease-of-use is that it received some
+        pull-requests from other contributors on GitHub.
       </para>
       <para>
         Moreover, it seems it is much faster than Latemp, as well.
@@ -214,7 +213,7 @@
         Like I said earlier, I find that writing your own custom SSG is
         not hard, and probably less hard than learning an existing one.
         Also see
-        <link xlink:href="http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/">this</link>.
+          <link xlink:href="http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/">ţhe list of Programs Every Programmer Has Written</link>.
         So I expect more of them to emerge in the future.
       </para>
       <para>

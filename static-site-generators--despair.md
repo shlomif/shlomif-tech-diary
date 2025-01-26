@@ -125,10 +125,9 @@ I tried using Jekyll for [Vim-Begin](http://vim.begin-site.org/) and
 ended up not liking it out of finding it too opaque and hard to use. As
 a result, I ended up creating a new SSG for Vim-Begin based on [Template
 Toolkit](https://en.wikipedia.org/wiki/Template_Toolkit). Later, I used
-it for the [[www.linux.org.il](http://www.linux.org.il)
-site](http://www.linux.org.il/). One possible indication of its
-ease-of-use is that it received some pull-requests from other
-contributors on GitHub.
+it for the [Israeli Linux users’ site](http://www.linux.org.il/). One
+possible indication of its ease-of-use is that it received some
+pull-requests from other contributors on GitHub.
 
 Moreover, it seems it is much faster than Latemp, as well.
 
@@ -150,7 +149,8 @@ good effect.
 
 Like I said earlier, I find that writing your own custom SSG is not
 hard, and probably less hard than learning an existing one. Also see
-[this](http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/).
+[ţhe list of Programs Every Programmer Has
+Written](http://www.shlomifish.org/humour/bits/Programs-Every-Programmer-has-Written/).
 So I expect more of them to emerge in the future.
 
 Someone on chat told me he believed that SSGs won’t survive the trend
