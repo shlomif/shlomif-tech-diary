@@ -1401,3 +1401,9 @@ Refs: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-linux-offtopi
 
 ----
 
+The other night, I dreamt I was riding a chicken.
+
+( https://twitter.com/shlomif/status/1889954494101987816 )
+
+----
+
