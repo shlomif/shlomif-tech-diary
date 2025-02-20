@@ -1407,3 +1407,13 @@ The other night, I dreamt I was riding a chicken.
 
 ----
 
+A local supermarket sells many kinds of dried fruit. I saw dried kiwi, and we bought some to try. They were good.
+
+Looked sth like:
+
+https://duckduckgo.com/?q=dried+kiwi&iax=images&ia=images&iai=https%3A%2F%2Fi0.wp.com%2Fhilltree.in%2Fwp-content%2Fuploads%2F2020%2F07%2Fdry-kiwi.jpg%3Ffit%3D1188%252C1280%26ssl%3D1
+
+( https://x.com/shlomif/status/1892542907304804405  )
+
+----
+
