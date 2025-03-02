@@ -1417,3 +1417,11 @@ https://duckduckgo.com/?q=dried+kiwi&iax=images&ia=images&iai=https%3A%2F%2Fi0.w
 
 ----
 
+“Every job has its boring moments. And I don’t want to hire people that only want to do the fun stuff. ” https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/ .
+
+I think I've been too picky about doing mildly important tasks only when I feel like that.
+
+( https://x.com/shlomif/status/1896227409818722461 )
+
+----
+
