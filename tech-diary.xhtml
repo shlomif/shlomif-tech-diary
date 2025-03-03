@@ -6013,6 +6013,48 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 
 </div>
 
+<div class="entry" id="tech-tip--update-stale-docker-containers">
+
+<!-- Tags: tip, tech, tech tip, linux, open-source, foss
+-->
+
+<h2>2025-03-03: Tech Tip: Update stale docker containers before using them to test software</h2>
+
+<p>
+Recently the "fedora:41" Docker container used by one of my GitHub actions runners started
+emitting this error when running node ( node-js ):
+</p>
+
+<pre>
+/usr/bin/node-22: symbol lookup error: /lib64/libnode.so.127: undefined symbol: sqlite3session_attach” ?
+</pre>
+
+<p>
+I noticed it didn't happen when I ran the Perl code that I used to setup the docker container and run the build and tests locally (on my fedora xfce desktop, and using podman).
+</p>
+
+<h2>Licence</h2>
+
+<p>
+Copyright by Shlomi Fish, 2025.
+</p>
+
+<p>
+You can reuse this entry under
+<a href="https://creativecommons.org/licenses/by/4.0/">the Creative Commons
+Attribution 4.0 Unported ( CC-by )</a> licence, or at your option any later version of
+it.
+See the
+<a href="https://www.shlomifish.org/meta/copyrights/#cc_by_intr">instructions</a>
+on how to comply with it.
+</p>
+
+<p>
+Whatever code given here is provided under the <a href="https://tldrlegal.com/license/mit-license">MIT / Expat licence</a>.
+</p>
+
+</div>
+
 <script type="text/javascript" src="anchors.js"></script>
 
 </body>
