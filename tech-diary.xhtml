@@ -6021,7 +6021,7 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 <h2>2025-03-03: Tech Tip: Update stale docker containers before using them to test software</h2>
 
 <p>
-Recently the "fedora:41" Docker container used by one of my GitHub actions runners started
+Recently the "fedora:41" <a href="https://en.wikipedia.org/wiki/Docker_(software)">Docker</a> container used by one of my GitHub actions ( <a href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#what-do-continuous-integration-ci-services-such-as-travis-ci-jenkins-or-appveyor-provide">Reference: “CI”</a> ) runners started
 emitting this error when running node ( node-js ):
 </p>
 
@@ -6031,12 +6031,19 @@ emitting this error when running node ( node-js ):
 
 <p>
 I noticed it didn't happen when I ran the Perl code that I used to setup the
-docker container and run the build and tests locally (on my Fedora xfce
-desktop, and using podman). After many hours of trying to isolate the offending code.
+docker container and run the build and the tests, only locally (on my Fedora xfce
+desktop, and using podman). After many hours of trying to isolate the offending code,
 I fixed the problem by telling my scripts to run
-<code>sudo dnf -y upgrade --refresh</code> to update the system.
+<code>sudo dnf -y upgrade --refresh</code> inside the container, to update the system,
+and close-to-its-start-of-use.
 Its Debian rough equivalent is <code>sudo apt-get update &amp;&amp; sudo
-apt-get -y dist-upgrade</code>
+apt-get -y dist-upgrade</code>. ( See <a href="https://en.wikipedia.org/wiki/APT_(software)">Apt</a> ).
+</p>
+
+<p>
+Finally, I should note that updating the system's packages of the container
+Operating System may not be desirable, based on your use case. So apply your
+judgement before adding that.
 </p>
 
 <h2>Licence</h2>
