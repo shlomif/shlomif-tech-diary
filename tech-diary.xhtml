@@ -6030,7 +6030,13 @@ emitting this error when running node ( node-js ):
 </pre>
 
 <p>
-I noticed it didn't happen when I ran the Perl code that I used to setup the docker container and run the build and tests locally (on my fedora xfce desktop, and using podman).
+I noticed it didn't happen when I ran the Perl code that I used to setup the
+docker container and run the build and tests locally (on my Fedora xfce
+desktop, and using podman). After many hours of trying to isolate the offending code.
+I fixed the problem by telling my scripts to run
+<code>sudo dnf -y upgrade --refresh</code> to update the system.
+Its Debian rough equivalent is <code>sudo apt-get update &amp;&amp; sudo
+apt-get -y dist-upgrade</code>
 </p>
 
 <h2>Licence</h2>
