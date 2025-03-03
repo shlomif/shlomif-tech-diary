@@ -13,6 +13,10 @@ div.entry
     margin: 0.5em;
 }
 a:hover { background-color: palegreen; }
+pre
+{
+    text-wrap: wrap;
+}
 </style>
 <script type="text/javascript" src="../js/jq.js"></script>
 
@@ -6022,11 +6026,11 @@ Whatever code given here is provided under the <a href="https://tldrlegal.com/li
 
 <p>
 Recently the "fedora:41" <a href="https://en.wikipedia.org/wiki/Docker_(software)">Docker</a> container used by one of my GitHub actions ( <a href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#what-do-continuous-integration-ci-services-such-as-travis-ci-jenkins-or-appveyor-provide">Reference: “CI”</a> ) runners started
-emitting this error when running node ( node-js ):
+emitting this error when running <code>npm install</code> ( node-js ):
 </p>
 
 <pre>
-/usr/bin/node-22: symbol lookup error: /lib64/libnode.so.127: undefined symbol: sqlite3session_attach” ?
+/usr/bin/node-22: symbol lookup error: /lib64/libnode.so.127: undefined symbol: sqlite3session_attach
 </pre>
 
 <p>
