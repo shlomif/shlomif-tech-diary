@@ -1425,3 +1425,11 @@ I think I've been too picky about doing mildly important tasks only when I feel 
 
 ----
 
+While I think the meso-American pyramids ( with the cube roof on top ) are more aestheticly pleasing than the egyptian, I think the 3 Giza ones will look awkward that way.
+
+https://en.wikipedia.org/wiki/Egyptian_pyramids
+
+( https://x.com/shlomif/status/1899342655412113492 )
+
+----
+
