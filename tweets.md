@@ -1433,3 +1433,9 @@ https://en.wikipedia.org/wiki/Egyptian_pyramids
 
 ----
 
+From the strange dreams' elements' department: I dreamt that people had their own, big, M&M pallet (roughly the size of a human's fist or a sandwich). I ate (smaller) M&Ms the afternoon before.
+
+( https://twitter.com/shlomif/status/1899678514929893702 )
+
+----
+
