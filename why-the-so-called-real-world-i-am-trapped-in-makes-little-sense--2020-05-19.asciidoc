@@ -883,4 +883,4 @@ Possibly Dani Cimorelli and Christina Cimorelli and MomCimorelli too - wrt https
 [[license]]
 == License:
 
-https://creativecommons.org/licenses/by/4.0/[CC-by], Shlomi Fish, 2021 
+https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 License (CC-by)], Shlomi Fish, 2021 
