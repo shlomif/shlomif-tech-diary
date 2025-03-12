@@ -1439,3 +1439,11 @@ From the strange dreams' elements' department: I dreamt that people had their ow
 
 ----
 
+Given an intelligent individual - x - we can define C( x ) as the set of entities that he/she is aware of. Given I, shlomif, am aware of C ( shlomif ) then C ( shlomif ) ∈ C ( shlomif ).
+
+https://en.wikipedia.org/wiki/Russell%27s_paradox
+
+( https://twitter.com/shlomif/status/1899685812364575026 )
+
+----
+
