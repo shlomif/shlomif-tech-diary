@@ -1413,7 +1413,7 @@ Looked sth like:
 
 https://duckduckgo.com/?q=dried+kiwi&iax=images&ia=images&iai=https%3A%2F%2Fi0.wp.com%2Fhilltree.in%2Fwp-content%2Fuploads%2F2020%2F07%2Fdry-kiwi.jpg%3Ffit%3D1188%252C1280%26ssl%3D1
 
-( https://x.com/shlomif/status/1892542907304804405  )
+( https://twitter.com/shlomif/status/1892542907304804405  )
 
 ----
 
@@ -1421,7 +1421,7 @@ https://duckduckgo.com/?q=dried+kiwi&iax=images&ia=images&iai=https%3A%2F%2Fi0.w
 
 I think I've been too picky about doing mildly important tasks only when I feel like that.
 
-( https://x.com/shlomif/status/1896227409818722461 )
+( https://twitter.com/shlomif/status/1896227409818722461 )
 
 ----
 
@@ -1429,7 +1429,7 @@ While I think the meso-American pyramids ( with the cube roof on top ) are more 
 
 https://en.wikipedia.org/wiki/Egyptian_pyramids
 
-( https://x.com/shlomif/status/1899342655412113492 )
+( https://twitter.com/shlomif/status/1899342655412113492 )
 
 ----
 
