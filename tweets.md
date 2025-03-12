@@ -1447,3 +1447,11 @@ https://en.wikipedia.org/wiki/Russell%27s_paradox
 
 ----
 
+Tonight I woke up several times, but don't remember being awake4many hours. It also felt abit like i'll be MDDed, but today I am overjoyous ( hypomania ), despite being tired.
+
+Today is https://en.wikipedia.org/wiki/Christina_Grimmie 's 31st bday. I hope tis no coincidence,
+
+( https://twitter.com/shlomif/status/1899724954897203336 )
+
+----
+
