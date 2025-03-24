@@ -1455,3 +1455,15 @@ Today is https://en.wikipedia.org/wiki/Christina_Grimmie 's 31st bday. I hope ti
 
 ----
 
+"great cover", "better than the original", "what the original shud have been", "who's here in 2025"...
+
+what to they tell us about the world? nothing
+
+https://www.youtube.com/watch?v=_RRyniZG0Jo
+
+u can thumb up or tweet abut a yt video u like, if u have nothing to say.
+
+( https://twitter.com/shlomif/status/1903991764207251631 )
+
+----
+
