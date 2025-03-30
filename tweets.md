@@ -1457,7 +1457,7 @@ Today is https://en.wikipedia.org/wiki/Christina_Grimmie 's 31st bday. I hope ti
 
 "great cover", "better than the original", "what the original shud have been", "who's here in 2025"...
 
-what to they tell us about the world? nothing
+what do they tell us about the world? nothing
 
 https://www.youtube.com/watch?v=_RRyniZG0Jo
 
