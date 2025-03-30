@@ -1475,3 +1475,14 @@ https://en.wikipedia.org/wiki/Second-system_effect
 
 ----
 
+To all the Internet people who accused me of being a “pervert” given I testify that I'm attracted to competent, sexy, women, or even feature them inn my stories:
+
+* https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml
+
+* https://www.shlomifish.org/humour/bits/true-stories/socialising-with-a-young-hermione-cosplayer/
+
+* https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/indiv-nodes/about-sex.xhtml
+*
+
+----
+
