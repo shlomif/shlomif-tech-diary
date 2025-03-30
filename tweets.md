@@ -1343,6 +1343,13 @@ I suspect it featured an EvilReindeer called Rindolf
 
 ( https://twitter.com/shlomif/status/1871516506154320075 )
 
+→
+One "problem" of pretending that a vamp in his hell is unpopular and obscure, is that the hackers outside find him and his interests more influential. So larger parts of his WWW have2be censored.
+
+https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#see-also
+
+( https://twitter.com/shlomif/status/1906340733860057374 )
+
 ----
 
 Over on #IRC , someone asked me if I fulfilled all my 2024 year's tasks. I told him that many completed tasks beget others. There r many things I want2do , but relatively few that I feel I must do right away.
@@ -1475,14 +1482,17 @@ https://en.wikipedia.org/wiki/Second-system_effect
 
 ----
 
-To all the Internet people who accused me of being a “pervert” given I testify that I'm attracted to competent, sexy, women, or even feature them inn my stories:
+To all the Internet people who accused me of being a “pervert” given I testify that I'm attracted to competent, sexy, women, or even feature them in my stories:
 
 * https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml
 
 * https://www.shlomifish.org/humour/bits/true-stories/socialising-with-a-young-hermione-cosplayer/
 
 * https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/indiv-nodes/about-sex.xhtml
-*
+
+Some facts ( "IANAL" / etc ):
+
+* A 14 years old Israeli can have sex with older men or women, as long as no penetration is involved.
 
 ----
 
