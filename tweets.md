@@ -1471,7 +1471,7 @@ I am proud that having been made aware of the 2nd sys effect, the design of blac
 
 https://en.wikipedia.org/wiki/Second-system_effect
 
-( https://x.com/shlomif/status/1906180890553700533 )
+( https://twitter.com/shlomif/status/1906180890553700533 )
 
 ----
 
