@@ -1467,3 +1467,11 @@ u can thumb up or tweet abut a yt video u like, if u have nothing to say.
 
 ----
 
+I am proud that having been made aware of the 2nd sys effect, the design of blackhole-solve ( https://github.com/shlomif/black-hole-solitaire ) is more elegant&simple than that of the  older fc-solve.
+
+https://en.wikipedia.org/wiki/Second-system_effect
+
+( https://x.com/shlomif/status/1906180890553700533 )
+
+----
+
