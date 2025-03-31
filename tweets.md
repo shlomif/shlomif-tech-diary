@@ -1482,6 +1482,14 @@ https://en.wikipedia.org/wiki/Second-system_effect
 
 ----
 
+Despite the fact that being brave and bold, on Inet chats/forums, is good, I think a person shud maintain large amount of control, descency, and respect.
+
+Ref: https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-community
+
+( https://twitter.com/shlomif/status/1906707152527376885 )
+
+----
+
 To all the Internet people who accused me of being a “pervert” given I testify that I'm attracted to competent, sexy, women, or even feature them in my stories:
 
 * https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml
