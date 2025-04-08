@@ -1490,6 +1490,16 @@ Ref: https://github.com/shlomif/Call-for-a-fork-of-the-Linux-kernel-devs-communi
 
 ----
 
+The FreeBSD kernel is smaller than Linux, supports less hardware, and has fewer moving parts. Thus, SteveJobs might made a right decision to base Darwin on the fbsd kernel [given Apple controls the hardware].
+
+https://twitter.com/shlomif/status/1542047869989011457
+
+https://en.wikipedia.org/wiki/MkLinux
+
+( https://twitter.com/shlomif/status/1909439571458220411 )
+
+----
+
 To all the Internet people who accused me of being a “pervert” given I testify that I'm attracted to competent, sexy, women, or even feature them in my stories:
 
 * https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml
