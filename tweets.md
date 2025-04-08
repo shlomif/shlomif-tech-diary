@@ -1500,6 +1500,10 @@ https://en.wikipedia.org/wiki/MkLinux
 
 ----
 
+I think Hitler thought of the “National Socialist German Workers' Party” as a joke of contemporary political trends, not unlike my “Freecell Solver Enterprises™” ( https://www.shlomifish.org/humour/bits/#fc_solve_ee )
+
+----
+
 To all the Internet people who accused me of being a “pervert” given I testify that I'm attracted to competent, sexy, women, or even feature them in my stories:
 
 * https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml
