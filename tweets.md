@@ -1500,7 +1500,9 @@ https://en.wikipedia.org/wiki/MkLinux
 
 ----
 
-I think Hitler thought of the “National Socialist German Workers' Party” as a joke of contemporary political trends, not unlike my “Freecell Solver Enterprises™” ( https://www.shlomifish.org/humour/bits/#fc_solve_ee )
+I think Hitler thought of the “National Socialist German Workers' Party” as a joke of contemporary political trends, not unlike my “Freecell Solver Enterprises™” ( https://www.shlomifish.org/humour/bits/#fc_solve_ee ). 4other insights see: https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/indiv-nodes/world-war-2.xhtml .
+
+( https://twitter.com/shlomif/status/1909798751838871677 )
 
 ----
 
