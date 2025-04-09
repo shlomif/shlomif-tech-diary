@@ -1518,5 +1518,11 @@ Some facts ( "IANAL" / etc ):
 
 * A 14 years old Israeli can have sex with older men or women, as long as no penetration is involved.
 
+* A 16 years old Israeli can have sex with older men or women, which involves penetration, and can legally marry.
+
+* An 18 years old Israeli can buy and consume alcoholic beverages, as well as vote for both the Israeli parliament (= the Knesset), and their local municipality.
+
+* A 21 years old Israeli can run for office.
+
 ----
 
