@@ -66,10 +66,25 @@ EOF
     my $idx    = 0;
     foreach my $fairy_type ( "fucker", "hacker" )
     {
-        foreach my $changing_line (@lines1)
+        #        foreach my $changing_line (@lines1)
+        foreach my $constenants ( [ 's', 'x', ], [ 'x', 's', ], )
         {
-            $text .= "\n<listitem>\n\n";
-            my $OUT = _text_to_markup(<<"EOF");
+            my @c      = ( @$constenants, $constenants->[0] );
+            my @VOWELS = qw( a e i o u );
+            foreach my $v0 (@VOWELS)
+            {
+                # body...
+                foreach my $v1 (@VOWELS)
+                {
+                    my @lines2;
+                    my $l = sprintf( "%s%s%s%s", $c[0], $v0, $c[1], $v1, );
+                    my $ll =
+                        ucfirst($l) . $c[2] . scalar( reverse($l) ) . "™";
+                    push @lines2, $ll;
+                    foreach my $changing_line (@lines2)
+                    {
+                        $text .= "\n<listitem>\n\n";
+                        my $OUT = _text_to_markup(<<"EOF");
 Die, $fairy_type, die.
 Yeah, Zine,
 Hallelujah.
@@ -79,12 +94,15 @@ $changing_line
 # Dick, Rock, Hack.
 EOF
 
-            $text .= $OUT;
-            $text .= "</listitem>\n";
-        }
-        continue
-        {
-            ++$idx;
+                        $text .= $OUT;
+                        $text .= "</listitem>\n";
+                    }
+                }
+            }
+            continue
+            {
+                ++$idx;
+            }
         }
     }
     $text .= <<"EOF";
