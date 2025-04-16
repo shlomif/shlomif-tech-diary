@@ -1514,6 +1514,14 @@ It's the opposite4me: I remember the birthyears of some celebs, but not their ex
 
 ----
 
+Not a therapist, but recently I had exhibitd at the same time hypomania, mania, paranoia, and mild depression.
+
+I was otherwise happy and productive. 😃 #psychology #SelinaMandrake #shlomiverse
+
+( https://twitter.com/shlomif/status/1912371912921018497 )
+
+----
+
 To all the Internet people who accused me of being a “pervert” given I testify that I'm attracted to competent, sexy, women, or even feature them in my stories:
 
 * https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml
