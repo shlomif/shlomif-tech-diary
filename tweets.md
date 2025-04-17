@@ -1522,6 +1522,14 @@ I was otherwise happy and productive. 😃 #psychology #SelinaMandrake #shlomive
 
 ----
 
+Progres update: a "zombie", which is The-Codex term4a "robot" has a finite state machine for a pseudo-mind. They call them "determinist finite automata" 4a reason. https://en.wikipedia.org/wiki/Deterministic_finite_automaton
+
+A fairy's mind has memory.
+
+( https://twitter.com/shlomif/status/1912848004677054519 )
+
+----
+
 To all the Internet people who accused me of being a “pervert” given I testify that I'm attracted to competent, sexy, women, or even feature them in my stories:
 
 * https://www.shlomifish.org/meta/FAQ/featuring_sexy_women_and_girls.xhtml
