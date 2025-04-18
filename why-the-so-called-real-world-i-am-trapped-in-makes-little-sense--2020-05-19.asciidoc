@@ -371,6 +371,7 @@ software are clueful / open enough to submit their enhancements upstream.
 +
 Anyway, when I confronted him about that (in the "real", physical, world; eye to eye), he said that Economists agreed with his original assertion. 
 * In https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-programming-bad-C-code[this IRC chat] "Felishia" was smart enough to find her way to freenode, but stupid enough not to know that commas ("`,`") are used for separating thousands in English (and Hebrew) while full stops / dots ("`.`") are used for decimal/fractional parts. 
+** She also told me I should not be a "grammar nazi" because I'm Jewish (and because fellow Jews were allegdly killed by the Third Reich nazis). That's a stupid https://en.wikipedia.org/wiki/Equivocation[Equivocation] if I ever saw one. 
 * Foods of the same type, e.g: hamburgers from restaurants in Gush Dan, taste much the same eventually, despite supposedly being made by different cooks, from different source animals and plants, made on the spot, even at different restaurants chains. 
 * The Hebrew texts of https://www.shlomifish.org/humour/by-others/oded-c/[Oded C.'s stories'] incorporated grammar/syntax errors when I reread them, that I should have noticed when I originally read them a few years back. 
 * The implementations of the https://en.wikipedia.org/wiki/Raku_(programming_language)[Raku programming language] were/are unreasonably slow. 
