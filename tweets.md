@@ -1548,5 +1548,7 @@ Some facts ( "IANAL" / etc ):
 
 * A 21 years old Israeli can run for office.
 
+( https://www.facebook.com/shlomi.fish/posts/pfbid02jfNdkg5DVmg8DtKvdvs7qsPVzoT3jr28WxdpxhyesnFEsUssMiEoeKKacAMXN1Jfl )
+
 ----
 
