@@ -348,12 +348,12 @@ Moreover, Iran let https://en.wikipedia.org/wiki/Stuxnet[Stuxnet] happen.
 Refer to https://www.shlomifish.org/humour/fortunes/show.cgi?id=linux-il-linux-for-the-mother[the post "`Linux for One`'s Mother`"] for why they didn't have major usability problems (and likely do not now). There is also https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/[The "`Broken Window`" fallacy]. 
 * From my experience, when a hacker is https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.), like I did, they play "`The Fox in the Chicken Coop`", engage the staff and coprisoners in amateur philosophy, and end up getting out after some months, while the prison becomes a nut-house. Yet, there are hell-media reports of people being imprisoned for years and decades. 
 +
-My father`'s father, told me he had been imprisoned https://en.wikipedia.org/wiki/Arkhangelsk[in Arkhangelsk, Russia] when he started his plight from the German Nazi military, as it supposedly invaded Poland including his birthplace, Warsaw around 1939. 
+My father`'s father, Aharon Fish, told me he had been imprisoned https://en.wikipedia.org/wiki/Arkhangelsk[in Arkhangelsk, Russia] when he started his plight from the German Nazi military, as it supposedly invaded Poland including his birthplace, Warsaw around 1939. 
 * The word's "slavery". How do you get many men/women working for free? You need paid supervisors, but then the supervisors are unhappy. Other people and I quit high-paying jobs for various reasons. Moreover, a hacker (who has soul+mind) exhibits https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[the fox-in-the-chickens-coop effect]. 
 +
 I suspect https://en.wikipedia.org/wiki/Alexandre_Dumas[Alexandre Dumas pere]`'s father`'s mother was not actually a slave or thought of herself as one.
 It was just a facade for my hell's unified / absolute (and not real) history. 
-* I recall that when i was in the 7th grade (when I was 12y.o / 13y.o ), a distant female relative from the USA came-to-my neighbourhood and the local Scouts allowed her to use a device to pull me to air. I think it was Sarah Michelle Gellar, and I didn't imagine it, and it was intended for passing the master-terran-terminator status to me. 
+* I recall that when I was in the 7th grade (when I was 12y.o / 13y.o ), a distant female relative from the USA came-to-my neighbourhood and the local Scouts allowed her to use a device to pull me to air. I think it was Sarah Michelle Gellar, and I didn't imagine it, and it was intended for passing the master-terran-terminator status to me. 
 * The terrestrial https://en.wikipedia.org/wiki/Free_Software_Foundation[Free Software Foundation] is stupid enough to keep its software packages GPL/LGPL/AGPL , and even apple.com cannot pay enough to relicense them. Moreover, its websites beg visitors to register as FSF members. 
 +
 https://github.com/rui314/mold[mold-linker] (for example) was relicensed from AGPLv3 to MITL. 
@@ -385,8 +385,7 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 ==== Obstacles and Delays:
 
 . Pro/anti-Israel; Pro/anti-"Zionism" - https://www.shlomifish.org/philosophy/politics/define-zionism/["`Define Zionism`"] / https://www.shlomifish.org/meta/FAQ/zionist.xhtml["`Are you a Zionist?`"]
-
-[loweralpha].. "Israel is a Nazi Country"
+.. "Israel is a Nazi Country"
 .. "Zionism = Racism"
 .. "Tel Aviv is a rock in the desert"
 . https://github.com/shlomif/shlomif-tech-diary/blob/master/static-site-generators--despair.md#facing-some-criticism[Criticism against Static Site Generation]
@@ -449,7 +448,7 @@ There were also reported perishing of many people, whom I liked and admired: htt
 
 I am also unable to overcome the deceiving communication mediums (= "in-betweens") in this hell: 
 
-. Downvotes/dislikes / non-responses. 
+. Downvotes / dislikes / non-responses. 
 . https://en.wikipedia.org/wiki/Reddit[reddit] removals 
 . youtube censorship ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#YouTube[Reference] ). 
 . email being unreliable 
