@@ -1552,3 +1552,17 @@ Some facts ( "IANAL" / etc ):
 
 ----
 
+I switched my xfce's clock's font to Source Code Pro Bold 12, and its now much easier2read.
+
+( The woman in the wallpaper is Emma Stone. )
+
+( https://twitter.com/shlomif/status/1917258220957061522  )
+
+⇒
+
+The font's github repo seems to be https://github.com/adobe-fonts/source-code-pro by Adobe-Fonts and Paul D. Hunt. Thanks!
+
+( https://twitter.com/shlomif/status/1917269421061726318 )
+
+----
+
