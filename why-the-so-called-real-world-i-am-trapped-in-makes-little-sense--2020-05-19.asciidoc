@@ -464,7 +464,7 @@ I am also unable to overcome the deceiving communication mediums (= "in-betweens
 A hacker must be borderline-suicidal to use discord-dot-gg. 
 . IRC networks are seemingly unpopular. ( References: https://www.shlomifish.org/meta/FAQ/do_people_still_use_irc.xhtml[Do people still use IRC?] ) 
 ** Despite that, the freenode/libera.chat schism happened. 
-. WordPress-based blogs eat readers`' comments. ( References: https://shlomifishswiki.branchable.com/WordPress/[Shlomi Fish`'s Wiki page] ) 
+. WordPress-based blogs eat readers`' comments. ( References: https://shlomifishswiki.branchable.com/WordPress/[Shlomi Fish`'s "`WordPress`" Wiki page] ) 
 . Non-voluntary Spam is rampant, despite being very bad karma for the spammers. ( References: https://en.wikipedia.org/wiki/Karma#Comparable_concepts[Karma on the Wikipedia]) 
 . "People" accuse me of "`spamming`", when I send very few copies, and of "trolling" when I'm frank. 
 . Slashdot keeps my posts in moderation queue for months. 
