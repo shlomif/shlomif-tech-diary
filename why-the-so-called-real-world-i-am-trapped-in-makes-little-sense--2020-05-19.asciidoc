@@ -82,7 +82,7 @@ I will try to show why accepting them and the media "facts" will result in havin
 * "People" online are afraid of http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[critics and contrarians] and yet sadistic enough to ban non-spammers.
 * It is not clear whether bigger muscles imply that a person is physically stronger or not.
 ** https://www.youtube.com/watch?v=CEpkmoCBPkM["`Strength comes in all shapes and sizes and this young lady is proof of that. Watch "`Lovely Joy`" lifting a few times her own weight for your daily dose of gym motivation!`"]
-** A typical Gorilla is far stronger than even the strongest humans, while not exercising. 
+** A typical https://en.wikipedia.org/wiki/Gorilla[Gorilla] is far stronger than even the strongest humans, while not exercising. 
 * https://twitter.com/TheRealGrimmie[Christina Grimmie] was reportedly killed after several years of not doing stuff her way. This is despite advocating confidence and individualism, in her works. 
 ** Despite her reported assassination, many people online and in the outside world claim they have not heard of her. 
 ** Grimmie is/was my favourite YouTuber. Cannot be a coincidence. ( https://www.shlomifish.org/philosophy/fan-pages/christina-grimmie/[Reference] ) 
@@ -114,7 +114,7 @@ And then there's oil, coal, natural gas, sugar, milk, wheat, rice, copper, iron,
 ** => Arnold Schwarzenegger likely won it as well: https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_acting_ftw.xhtml["`'`Bad`' Acting for the win`"]
 * Terran science was an epistemological facade (Faster-than-light travel, duplication of galaxies, the https://en.wikipedia.org/wiki/Akashic_records[Akashic_records] are all possible). However it turned out to be a blessing in disguise, because many Terran scientists and engineers and developers were highly concerned about efficiency and reliability and other kinds of https://github.com/shlomif/shlomi-fish-homepage/blob/master/lib/notes/quality-software--followup-2018.md[quality]. See e.g. http://www.h-online.com/open/features/Is-Microsoft-running-out-of-steam-1102654.html[the variations on the James Watt`'s steam engine].
 ** => Extraterrestrial technology, although advanced (but naturally not https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#we_all_have_a_master[omnipotent]) was incredibly wasteful. As a result, Earth became a hub for technology - both tangible and intellectual and lately digital as well.
-* As a child, I wanted to be good-hearted (= noble, honest, benevolent) and later on aspired to be world savior / messiah / "the greatest person in history". I guess "nice guys finish last".
+* As a child, I wanted to be good-hearted (= noble, honest, benevolent, kind) and later on aspired to be world savior / messiah / "`the greatest person in history`". I guess "`nice guys finish last`".
 * It is not clear why we have to suffer from https://en.wikipedia.org/wiki/Consumerism[Consumerism] of large electrical appliances (e.g: washing machines, dishwashers, and refrigerators) when they *can* be made more reliable (like those that had been in the past).
 * I have a very low number of Twitter followers (below 650 - https://twitter.com/shlomif ) and my reddit posts are usually not upvoted a lot ( https://www.reddit.com/user/shlomif ) . This is despite some of my older posts being a staple on Slashdot and other sites (e.g: https://www.shlomifish.org/humour/bits/Mastering-Cat/["Mastering cat" Interview].)
 * People cite contemporary copyright law as a justification for censorship:
@@ -376,6 +376,9 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 * The Hebrew texts of https://www.shlomifish.org/humour/by-others/oded-c/[Oded C.'s stories'] incorporated grammar/syntax errors when I reread them, that I should have noticed when I originally read them a few years back. 
 * The implementations of the https://en.wikipedia.org/wiki/Raku_(programming_language)[Raku programming language] were/are unreasonably slow. 
 * Many times, I received criticism of my posts in private or semi-private, and after I replied with a rebuttal or a request for clarification, I didn`'t receive a reply. 
+* People online keep accusing celebrities of being stupid, selfish, and overrated just because they are famous. 
+.. https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#paris_hilton[The media view of Paris Hilton]
+.. "`Kim Kardashian is the worst human in history`"
 * Why should our universe be the only "real world"? If we imagine universes like the American Sesame Street, Dragon Lance, the Forgotten Realms, the Hebrew Bible's, La Linea, My Little Pony, Star Trek, Star Wars, and the Monkey Islands, -- why cannot they imagine ours? ( https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#rationality[Reference] ) 
 ** Moreover, if this is the only real world, then it is a pathetic one indeed. 
 * The people I refer to these issues online could not until now give sufficient rationalisations or explanations to refute any substantial number of these "What-The-Fucks?". https://en.wikisource.org/wiki/Amos_(Bible)[Quoting Amos], I can accept 3, but I have many more. 
