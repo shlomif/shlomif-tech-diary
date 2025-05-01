@@ -6399,6 +6399,22 @@ Hacks:
 </para>
 </listitem>
 
+<listitem>
+<para>
+Software projects' activity:
+</para>
+
+<itemizedlist>
+
+<listitem>
+<para>
+<link xlink:href="https://github.com/shlomif/pysol-cards-in-C">Embed pysol_cards in C</link>
+</para>
+</listitem>
+
+</itemizedlist>
+</listitem>
+
 </orderedlist>
 
 </listitem>

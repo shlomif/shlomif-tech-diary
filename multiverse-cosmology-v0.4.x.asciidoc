@@ -2082,6 +2082,8 @@ see evidence that one of my favourite children, Christina Grimmie, is alive, hea
 .. https://github.com/shlomif/shlomif-tech-diary/blob/master/who-is-God.asciidoc["`Who is God?`"]
 .. https://www.shlomifish.org/humour/How-to-Play-Strip-Dungeons-and-Dragons/["`How to Play Strip Dungeons-and-Dragons`"]
 .. https://www.shlomifish.org/humour/He-Damsel-in-Distress-and-a-Distressing-Damsel/[He-Damsel-in-Distress-and-a-Distressing-Damsel]
+.. Software projects' activity: 
+*** https://github.com/shlomif/pysol-cards-in-C[Embed pysol_cards in C]
 * https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#post-ascension-plan[Post-ascension plan]
 * Precursors / stepping stones: 
 ** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/["Putting Cards on the Table (2019-*)"]
