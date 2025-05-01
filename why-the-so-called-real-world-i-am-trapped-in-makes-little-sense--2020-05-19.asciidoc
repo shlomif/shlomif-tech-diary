@@ -376,6 +376,7 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 * The Hebrew texts of https://www.shlomifish.org/humour/by-others/oded-c/[Oded C.'s stories'] incorporated grammar/syntax errors when I reread them, that I should have noticed when I originally read them a few years back. 
 * The implementations of the https://en.wikipedia.org/wiki/Raku_(programming_language)[Raku programming language] were/are unreasonably slow. 
 * Many times, I received criticism of my posts in private or semi-private, and after I replied with a rebuttal or a request for clarification, I didn`'t receive a reply. 
+* Speaking of critics, I would love to receive more public criticisms of my works, but https://www.google.com/search?q=shlomi+fish[Google search] and https://duckduckgo.com/?q=shlomi+fish&ia=web[duckduckgo searches] do not display many. 
 * People online keep accusing celebrities of being stupid, selfish, and overrated just because they are famous. 
 .. https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#paris_hilton[The media view of Paris Hilton]
 .. "`Kim Kardashian is the worst human in history`"
