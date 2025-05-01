@@ -1566,3 +1566,13 @@ The font's github repo seems to be https://github.com/adobe-fonts/source-code-pr
 
 ----
 
+Some essays on my site r comprised of several section tags ( https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/section ), each with a title and id="". On IRC, I gave link2such sect (with # fragment), and someone asked chatgpt2summarize it.
+
+Some essays on my site r comprised of several sections, each with a title and id="". On IRC, I gave link2such sect (with # fragment), and someone asked chatgpt2summarize it.
+
+It summarized the whole webpage. Artificial "Intelligence" foiled by natural stupidity.
+
+( https://twitter.com/shlomif/status/1917830828123373951 )
+
+----
+
