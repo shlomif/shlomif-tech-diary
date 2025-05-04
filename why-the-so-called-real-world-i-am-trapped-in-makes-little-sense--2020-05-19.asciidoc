@@ -146,7 +146,7 @@ On E-mail, http://linuxmafia.com/%7Erick/[Rick Moen] told me Israelis`' knowledg
 Would they travel by plane/automobile for 10 minutes? 
 +
 Moreover, "Stutz" ["סטוץ"], an Israeli dating gameshow used to match teenagers from distant towns. 
-* => I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late.
+* I adore https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)], but learned of https://www.reddit.com/r/IAmA/comments/1z4nu6/i_am_sarah_michelle_gellar_also_known_as_the_girl/[her reddit IAmA] only when it was too late. 
 * https://twitter.com/shlomif/status/1418433188091793412["If you`'re the smartest person in the world - you are in the wrong world."]
 * "People" online are afraid of hearing contrasting views, yet are often cruel enough to block/ban/devoice contrarians. http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[Encourage criticism].
 * A correspondent told me that "[a flat] 100% of the https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex (the Hebrew Bible)] is crap." Then I gave https://biblehub.com/parallel/1_kings/20-11.htm as a counterexample, and there was no commentary for it in a site of atheist objections.
@@ -241,7 +241,9 @@ Love and Knowledge.
 * Android could not have been developed so quickly without using GNU and/or iPhone's source code. 
 * In this hell, I have received very few PayPal/etc. donations, and few people have published critiques of my sites' pages online. This is despite many voicing them on online chats. 
 * "`People`" keep reporting https://www.shlomifish.org/meta/FAQ/#broken_links[broken links on the webpages of my websites], while the owners of the websites to which they point are not responsive to my requests to restore them. https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perlcafe-misplacing-a-website["How the hell does one misplace an entire website?"]
-** There are many youtube-blocks, youtube takedowns, reddit blocks, broken links in static/etc. websites, placing resources behind a login wall or a pay wall. They likely affect only me. https://www.shlomifish.org/humour/fortunes/paul-graham.html#paul-graham-democracy-and-wikipedia[Paul Graham about free WWW resources:]
+** There are many youtube-blocks, youtube takedowns, reddit blocks, broken links in static/etc. websites, placing resources behind a login wall or a pay wall. They likely affect only me. 
++
+https://www.shlomifish.org/humour/fortunes/paul-graham.html#paul-graham-democracy-and-wikipedia[Paul Graham about free WWW resources:]
 +
 
 [quote]
