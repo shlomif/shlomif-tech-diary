@@ -1590,3 +1590,9 @@ https://www.youtube.com/watch?v=ytGqUs3UIPk :Sweeter than Fiction
 
 ----
 
+https://en.wikipedia.org/wiki/Chaos in Ancient Greek, and תוהו "Toho" in Bible Hebrew, both meant both a "big" abyss of nothing, and disorder. Neither can sustain soulful and mindful organisms such as Shlomiverse humans.
+
+(   )
+
+----
+
