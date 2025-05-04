@@ -1576,3 +1576,17 @@ It summarized the whole webpage. Artificial "Intelligence" foiled by natural stu
 
 ----
 
+taytay songs whichRprobly inspird byme:
+
+https://www.youtube.com/watch?v=Zlot0i3Zykw :Red [love w my echo]
+
+→ https://www.youtube.com/watch?v=jYa1eI1hpDE :Mean
+
+https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/bad_blood.xhtml :Bad Blood
+
+https://www.youtube.com/watch?v=ytGqUs3UIPk :Sweeter than Fiction
+
+( https://twitter.com/shlomif/status/1919044140525908147  )
+
+----
+
