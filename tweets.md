@@ -1590,9 +1590,22 @@ https://www.youtube.com/watch?v=ytGqUs3UIPk :Sweeter than Fiction
 
 ----
 
-https://en.wikipedia.org/wiki/Chaos in Ancient Greek, and תוהו "Toho" in Bible Hebrew, both meant both a "big" abyss of nothing, and disorder. Neither can sustain soulful and mindful organisms such as Shlomiverse humans.
+https://en.wikipedia.org/wiki/Chaos in Ancient Greek, and תוהו "Tohu" in Bible Hebrew, both meant both a "big" abyss of nothing, and disorder. Neither can sustain soulful and mindful organisms such as Shlomiverse humans. While Earth isnt 100% symmetric, but still has alotof Law+Order.
 
-(   )
+( https://twitter.com/shlomif/status/1919227541895733548 )
+
+----
+
+If you can keep your head when all about you
+Are losing theirs and blaming it on you,
+If you can trust yourself when all men doubt you,
+But make allowance for their doubting too;
+
+https://www.poetryfoundation.org/poems/46473/if---
+
+[ me now. ] also see the buddha in https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/fighting_against_the_world.xhtml
+
+( https://twitter.com/shlomif/status/1919225626046722160 )
 
 ----
 
