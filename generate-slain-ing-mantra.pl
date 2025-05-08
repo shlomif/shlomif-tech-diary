@@ -66,6 +66,33 @@ EOF
     my $idx    = 0;
     foreach my $fairy_type ( "fucker", "hacker" )
     {
+        {
+            my (@lines_options);
+
+            push @lines_options, "E J K L M N Q R S T";
+            foreach my $changing_line (@lines_options)
+            {
+                # body...
+                $text .= "\n<listitem>\n\n";
+                my $OUT = _text_to_markup(<<"EOF");
+Die, $fairy_type, die.
+Yeah, Zine,
+Hallelujah.
+$changing_line
+
+The Neo-Tech Conspiracy For Establishing the Semitic Culture
+# Suck, Cock,
+# Dick, Rock, Hack.
+EOF
+
+                $text .= $OUT;
+                $text .= "</listitem>\n";
+            }
+        }
+    }
+
+    foreach my $fairy_type ( "fucker", "hacker" )
+    {
         #        foreach my $changing_line (@lines1)
         foreach my $constenants ( [ 's', 'x', ], [ 'x', 's', ], )
         {
