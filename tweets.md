@@ -1609,3 +1609,11 @@ https://www.poetryfoundation.org/poems/46473/if---
 
 ----
 
+https://www.youtube.com/watch?v=Go7gn6dugu0 ; great song with a msg I agree with. If and when I'll have a gf/wife, I'm planning on staying loyal2her inreallife. We both can kiss other MOTAS on screen.
+
+"My baby already got all my love." impossible: https://www.shlomifish.org/humour/He-Damsel-in-Distress-and-a-Distressing-Damsel/ .
+
+( https://twitter.com/shlomif/status/1920703785086632211  )
+
+----
+
