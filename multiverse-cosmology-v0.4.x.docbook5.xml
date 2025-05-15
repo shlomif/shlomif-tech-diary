@@ -5782,8 +5782,22 @@ home site.
 </para>
 
 <para>
-Things I learnt from him included the revelation that hacking often requires
-expending more than slacking, and the <link xlink:href="https://www.shlomifish.org/meta/FAQ/#i_hate_one_of_your_works">importance of providing pinpointed, concrete, criticism</link>.
+Things I learnt from him included the revelation that good hacking often requires
+expending more resources than slacking
+<footnote label="Decent Hacking" xml:id="decent-hacking">
+<para>
+Like the adages go:
+</para>
+<itemizedlist>
+<listitem>
+<para>
+You reap what you sow.
+</para>
+</listitem>
+</itemizedlist>
+</footnote>
+, and the
+<link xlink:href="https://www.shlomifish.org/meta/FAQ/#i_hate_one_of_your_works">importance of providing pinpointed, concrete, criticism</link>.
 </para>
 </listitem>
 

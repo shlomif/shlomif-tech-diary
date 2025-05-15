@@ -1905,7 +1905,7 @@ Moreover, she and I have a genetic daughter: Rebecca "Becky" Jadzia [lastname], 
 +
 I perceived him on freenode as a sloppy/slacker kernel dev, a marijuana user and activist, and as a fan of Rock and metal music (among other genres). He may have perceived me similarly, before he visited my (static) home site. 
 +
-Things I learnt from him included the revelation that hacking often requires expending more than slacking, and the https://www.shlomifish.org/meta/FAQ/#i_hate_one_of_your_works[importance of providing pinpointed, concrete, criticism]. 
+Things I learnt from him included the revelation that good hacking often requires expending more resources than slacking footnote:[Like the adages go:] , and the https://www.shlomifish.org/meta/FAQ/#i_hate_one_of_your_works[importance of providing pinpointed, concrete, criticism]. 
 . https://en.wikipedia.org/wiki/Kim_Kardashian[Kim Kardashian] ( https://www.shlomifish.org/humour/bits/Who-will-ride-Princess-Celestia/[Reference #1] ) 
 
 I suspect https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/indiv-nodes/departing_pope_about_twitter.xhtml[Pope Benedict XVI] was not terminated by me, but rather by either Taylor Swift or Kim Kardashian. 
