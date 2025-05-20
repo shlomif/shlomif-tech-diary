@@ -958,7 +958,7 @@ As a result, new vampire soul+mind combos were allocated and started their lives
 The latter had to change their names, and became bona-fide true prophets.
 Whether relieved or disappointed, they were still alive. 
 
-So my soul+mind were effectively created in September 1983, close tp the first day of the 1st grade of elementary school with the body of a 6 years old. link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] and others started their terminators' lives as grown-ups. 
+So my soul+mind were effectively created in September 1983, close to the first day of the 1st grade of elementary school with the body of a 6 years old. link:#Arnold_Schwarzenegger[Arnold Schwarzenegger] and others started their terminators' lives as grown-ups. 
 
 [[causes-shlomif-will-die-for]]
 === Causes Shlomi Fish will die for
@@ -1029,7 +1029,8 @@ Moreover, similarly to Jesus, I have been willing to suffer a little more if it 
 
 I also preferred to err on naivity than on cynicism, and https://www.shlomifish.org/humour/stories/#intro[encouraged everyone and everything to improve]. 
 
-It may also have helped that I have been seld-centred, narcissistic, and meglomaniacal. 
+It may also have helped that I have been seld-centred, narcissistic, and meglomaniacal.
+( References: https://www.shlomifish.org/meta/FAQ/#what_are_your_personality_faults["What are some of your personality faults/quirks?"] ) 
 
 [[why-shlomif-became-a-terminator]]
 === Why my template made me a terran terminator
@@ -1052,7 +1053,7 @@ However, his last-day decision to make me (and him) optimistic/life-loving/human
 Worf's.]
 
 [[who-created-time]]
-== Who created time
+== [ Joke ] Who created time
 
 A popular theory is that https://memory-alpha.fandom.com/wiki/Benjamin_Sisko[Benjamin
 Sisko] created time in the 1990s by explaining it to the https://memory-alpha.fandom.com/wiki/Prophet[Prophets of the
@@ -1086,7 +1087,7 @@ Before having our memories reset, my friend Amit Steinberg, I, and several other
 
 See http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/["Encourage criticism and try to get offended"].
 From humanitarian reasons, there were attempts to terminate underage terminators before they turned 13 years-old calendarically.
-However the 1977-born Amit terminated link:#Arnold_Schwarzenegger[Arnold Schwarzenegger], link:#Melissa_Joan_Hart[Melissa Joan Hart (MJH)], and link:#Samantha_Smith[Samantha Smith].
+However, the 1977-born Amit terminated link:#Arnold_Schwarzenegger[Arnold Schwarzenegger], link:#Melissa_Joan_Hart[Melissa Joan Hart (MJH)], and link:#Samantha_Smith[Samantha Smith].
 The two of us were afterward kept in the same elementary school classroom with few other false prophets.
 This is given the "Age of the Terran Terminators" was supposed to last 40 years. link:#Clarissa_Darling[Clarissa Darling] likely was terminated shortly afterwards. 
 
@@ -1150,7 +1151,7 @@ When Earth became the last frontier of link:#zionism[Ziyoonism], it was negotiat
 After Syria (minus Damascus itself) in the Levant was liberated to being a sanctuary (by Mosheh / Aharon / Jehovah slaying https://en.wikipedia.org/wiki/Tukulti-Ninurta_I[Nimrod] ?), TheGame(TM) splintered the Terran countries further. 
 
 England was split into many shires and the contiguous USA into 48 states.
-I also suspect Africa used to be one big country, and so was the USSR (with Russia a large province, with St.
+I also suspect Africa used to be one big country, and the USSR was not (Russia was a large country, with St.
 Petersburg as its mystical capital). 
 
 The mystical capitals of all countries except Syria were splintered too. 
@@ -1250,6 +1251,8 @@ Petersburg.
 
 [[nVidia]]
 ==== nVidia
+
+https://www.youtube.com/watch?v=_36yNWw_07g[Linus Torvalds To Nvidia - "`Fuck You`"]
 
 [[Elizabeth-I-and-II]]
 === Queens Elizabeth I and Elizabeth II (of England)
