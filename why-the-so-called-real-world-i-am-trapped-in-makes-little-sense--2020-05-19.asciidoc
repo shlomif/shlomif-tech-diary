@@ -382,6 +382,12 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 ** In a video on Grimmie`'s channel, her father notes that she received many legitimate/nonspam emails to her personal email inbox in succession, and they were legitimate emails from her fans. 
 ** I recall reading a youtube comment from a school boy who noted that he had mentioned Christina Grimmie to his friend, and a few weeks later, the whole school was talking about her. 
 ** Starting from around 2012 , there were some "`viral`" videos: https://en.wikipedia.org/wiki/Gangnam_Style[Gangnam Style], https://en.wikipedia.org/wiki/Harlem_Shake_(meme)[Harlem Shake]
+* The following entities are too obscure or antagonised than they should be: 
+** XML 
+** DocBook 5 
+** *.shlomifish.org and Shlomi Fish`'s social media 
+** Christina Grimmie 
+** IRC ( freenode/etc. ) 
 * Many times, I received criticism of my posts in private or semi-private, and after I replied with a rebuttal or a request for clarification, I didn`'t receive a reply. 
 * Speaking of critics, I would love to receive more public criticisms of my works, but https://www.google.com/search?q=shlomi+fish[Google search] and https://duckduckgo.com/?q=shlomi+fish&ia=web[duckduckgo searches] do not display many. 
 * People online keep accusing celebrities of being stupid, selfish, and overrated just because they are famous. 
