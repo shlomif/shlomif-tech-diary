@@ -388,6 +388,8 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 ** *.shlomifish.org and Shlomi Fish`'s social media 
 ** Christina Grimmie 
 ** IRC ( freenode/etc. ) 
+** https://www.shlomifish.org/meta/FAQ/why_perl.xhtml[Perl 5]
+** XHTML 5: some 'people' go to great lengths to defend HTML 5 which is much less regular and unpredictable. To say nothing of the markdowns. 
 * Many times, I received criticism of my posts in private or semi-private, and after I replied with a rebuttal or a request for clarification, I didn`'t receive a reply. 
 * Speaking of critics, I would love to receive more public criticisms of my works, but https://www.google.com/search?q=shlomi+fish[Google search] and https://duckduckgo.com/?q=shlomi+fish&ia=web[duckduckgo searches] do not display many. 
 * People online keep accusing celebrities of being stupid, selfish, and overrated just because they are famous. 
