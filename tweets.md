@@ -1617,3 +1617,9 @@ https://www.youtube.com/watch?v=Go7gn6dugu0 ; great song with a msg I agree with
 
 ----
 
+https://github.com/rendi-api/ffmpeg-cheatsheet ( ffmpeg cheatsheat ) seems like a lifesaver. Via Reddit: https://www.reddit.com/r/programming/comments/1kv185s/54_ffmpeg_commands_for_video_automation_based_on/ .
+
+( https://twitter.com/shlomif/status/1926621928963383587 )
+
+----
+
