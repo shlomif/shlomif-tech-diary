@@ -378,18 +378,18 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 * Foods of the same type, e.g: hamburgers from restaurants in Gush Dan, taste much the same eventually, despite supposedly being made by different cooks, from different source animals and plants, made on the spot, even at different restaurants chains. 
 * The Hebrew texts of https://www.shlomifish.org/humour/by-others/oded-c/[Oded C.'s stories'] incorporated grammar/syntax errors when I reread them, that I should have noticed when I originally read them a few years back. 
 * The implementations of the https://en.wikipedia.org/wiki/Raku_(programming_language)[Raku programming language] were/are unreasonably slow. 
-* I've been thinking of Christina Grimmie. Ellen DeGeneres said she was the youtube unsigned artist with the most total views, 200 million ( https://www.youtube.com/watch?v=sFRr3gPMKPA[Reference], https://www.youtube.com/watch?v=R0a3jb3qqB8[Reference no. 2] ) and yet Grimmie later went through the ordeal with being a contestant on The Voice  ( https://en.wikipedia.org/w/index.php?title=The_Voice_(American_TV_series)_season_6&oldid=1288432702[Reference] ). 
+* I've been thinking of Christina Grimmie. Ellen DeGeneres said she was the youtube unsigned artist with the most total views, 200 million ( https://www.youtube.com/watch?v=sFRr3gPMKPA[Reference], https://www.youtube.com/watch?v=R0a3jb3qqB8[Reference No. 2] ) and yet Grimmie later went through the ordeal with being a contestant on The Voice  ( https://en.wikipedia.org/w/index.php?title=The_Voice_(American_TV_series)_season_6&oldid=1288432702[Reference] ). 
 ** In a video on Grimmie`'s channel, her father notes that she received many legitimate/nonspam emails to her personal email inbox in succession, and they were legitimate emails from her fans. 
 ** I recall reading a youtube comment from a school boy who noted that he had mentioned Christina Grimmie to his friend, and a few weeks later, the whole school was talking about her. 
 ** Starting from around 2012 , there were some "`viral`" videos: https://en.wikipedia.org/wiki/Gangnam_Style[Gangnam Style], https://en.wikipedia.org/wiki/Harlem_Shake_(meme)[Harlem Shake]
-* The following entities are too obscure or antagonised than they should be: 
+* The following entities are too obscure or too antagonised than they should be: 
 ** XML 
 ** DocBook 5 
 ** *.shlomifish.org and Shlomi Fish`'s social media 
 ** Christina Grimmie 
 ** IRC ( freenode/etc. ) 
 ** https://www.shlomifish.org/meta/FAQ/why_perl.xhtml[Perl 5]
-** XHTML 5: some 'people' go to great lengths to defend HTML 5 which is much less regular and unpredictable. To say nothing of the markdowns. 
+** XHTML 5: some 'people' go to great lengths to defend HTML 5 which is much less regular and predictable. To say nothing of the markdowns. 
 * Many times, I received criticism of my posts in private or semi-private, and after I replied with a rebuttal or a request for clarification, I didn`'t receive a reply. 
 * Speaking of critics, I would love to receive more public criticisms of my works, but https://www.google.com/search?q=shlomi+fish[Google search] and https://duckduckgo.com/?q=shlomi+fish&ia=web[duckduckgo searches] do not display many. 
 * People online keep accusing celebrities of being stupid, selfish, and overrated just because they are famous. 
