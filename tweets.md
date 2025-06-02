@@ -1623,3 +1623,9 @@ https://github.com/rendi-api/ffmpeg-cheatsheet ( ffmpeg cheatsheat ) seems like 
 
 ----
 
+Happy Shavuoth everyone! https://en.wikipedia.org/wiki/Shavuot #judaism
+
+( https://twitter.com/shlomif/status/1929379101397119195 )
+
+----
+
