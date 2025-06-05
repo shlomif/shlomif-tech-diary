@@ -1437,12 +1437,12 @@ The following entities are too obscure or too antagonised than they should be:
 <itemizedlist>
 <listitem>
 <para>
-XML
+XML ( <link xlink:href="https://www.shlomifish.org/meta/FAQ/why_xml.xhtml">Reference</link> )
 </para>
 </listitem>
 <listitem>
 <para>
-DocBook 5
+<link xlink:href="https://en.wikipedia.org/wiki/DocBook">DocBook 5</link>
 </para>
 </listitem>
 <listitem>
@@ -1457,7 +1457,7 @@ Christina Grimmie
 </listitem>
 <listitem>
 <para>
-IRC ( freenode/etc. )
+IRC ( freenode/etc. ; <link xlink:href="https://www.shlomifish.org/meta/FAQ/do_people_still_use_irc.xhtml">Reference</link> )
 </para>
 </listitem>
 <listitem>
@@ -1468,7 +1468,7 @@ IRC ( freenode/etc. )
 <listitem>
 <para>
 XHTML 5: some 'people' go to great lengths to defend HTML 5 which is much less
-regular and predictable. To say nothing of the markdowns.
+regular and predictable. To say nothing of the markdowns. <link xlink:href="https://www.shlomifish.org/meta/FAQ/#why_xhtml">Reference</link>
 </para>
 </listitem>
 </itemizedlist>
