@@ -156,7 +156,9 @@ Moreover, "Stutz" ["סטוץ"], an Israeli dating gameshow used to match teenage
 * arduino is a mirage of the devils just like Angular / react.js and bitcoin and discord.gg .
 * Why did https://twitter.com/shlomif/status/1357258591498100736[Monty Python and Python-Lang cross streams] only on 2021? Has @EricIdle been living under a rock?
 * "People" are afraid to live: told me there is risk when https://github.com/shlomif/MeToo-me-too[invoking the #MeToo tag]; told me I should not approach people on the street.
-* Electrical / Internet / water / gas / etc. wiring happens by magic.
+* Electrical / Internet / water / gas / etc. wiring, distribution, and networking is highly involved, wastes raw material such as metals, plastic.
++
+There doesn't seem to be shortages in the supply despite the fact that only a few civilians work there. 
 * Many classics are needlessly long and repetitive, e.g: https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex]
 +
 The canonical https://en.wikipedia.org/wiki/Hebrew_Bible[Tanakh
