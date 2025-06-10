@@ -1629,3 +1629,9 @@ Happy Shavuoth everyone! https://en.wikipedia.org/wiki/Shavuot #judaism
 
 ----
 
+I decided that I won't spend too much energy regretting that I spent a lot of time+emotion succesfully graduating from EE in the Technion. I've drawn inspiration from my studies, and online/offline forums. also wrote fc-solve, TOWTF, "humnity", PopeDiedOnSunday, and essays then.
+
+( https://twitter.com/shlomif/status/1932381110412968357 )
+
+----
+
