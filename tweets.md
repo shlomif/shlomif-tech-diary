@@ -1635,3 +1635,13 @@ I decided that I won't spend too much energy regretting that I spent a lot of ti
 
 ----
 
+https://www.youtube.com/watch?v=mONHFtAk7wI
+
+"I'm sick of standing on the curve, when some asshole slows down his car4me2cross the street.Just drive already.It'll be much quicker if you'll drive and I'll cross afterwards."
+
+Sounds like he/we have a lesser pb now.
+
+( https://twitter.com/shlomif/status/1933384891149770802 )
+
+----
+
