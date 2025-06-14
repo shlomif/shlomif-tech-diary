@@ -1645,3 +1645,11 @@ Sounds like he/we have a lesser pb now.
 
 ----
 
+My assumption with most of my 1→many blogs/FOSS posts is that they do not recv too many pending 3rd party contributions. However if+when I stop being a vamp-in-my-hell, I'll likely recv many contribs, and have2check before working on my own changes.
+
+"Rich man’s problems", heh.
+
+( https://twitter.com/shlomif/status/1933886322441417144 )
+
+----
+
