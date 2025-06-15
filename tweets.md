@@ -1653,3 +1653,9 @@ My assumption with most of my 1→many blogs/FOSS posts is that they do not recv
 
 ----
 
+In addition, I'll take that over cars driving fast and out of control, including turning madly at corner (when I'm trying2cross as a pedestrian or bicycleist). At least it show caution and respect towards pedestrians, which are good when driving cars/etc..
+
+( https://twitter.com/shlomif/status/1934150555972317465 )
+
+----
+
