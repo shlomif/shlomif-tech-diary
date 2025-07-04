@@ -1659,3 +1659,9 @@ In addition, I'll take that over cars driving fast and out of control, including
 
 ----
 
+Hi all! So today installing black and using ":!black %" saved me a lot of time autofmt ing "flake8" happy (with previously legacy #python code). I was told of ruff too: https://www.packetcoders.io/whats-the-difference-black-vs-ruff/ .
+
+( https://twitter.com/shlomif/status/1941119101252092276 )
+
+----
+
