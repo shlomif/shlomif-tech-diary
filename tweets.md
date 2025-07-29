@@ -1665,3 +1665,11 @@ Hi all! So today installing black and using ":!black %" saved me a lot of time a
 
 ----
 
+Off-by-one errors? I have ZERO-tolerance for those! https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-folklore-numerology
+
+#joke #tech #techjoke
+
+( https://twitter.com/shlomif/status/1950087343983014131 )
+
+----
+
