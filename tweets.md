@@ -1673,3 +1673,9 @@ Off-by-one errors? I have ZERO-tolerance for those! https://www.shlomifish.org/h
 
 ----
 
+I just wondered what Men in Black ( https://en.wikipedia.org/wiki/Men_in_Black_(1997_film) ) will be like if it was "Men in Red" or "Men in Neon Pink".
+
+( https://twitter.com/shlomif/status/1952736062486278341 )
+
+----
+
