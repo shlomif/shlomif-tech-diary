@@ -1679,3 +1679,9 @@ I just wondered what Men in Black ( https://en.wikipedia.org/wiki/Men_in_Black_(
 
 ----
 
+https://nixsanctuary.com/debian-13-trixie-released/ - good coverage of the Debian 13 ("Trixie") Release, two days ago. ( On @nixsanctuary ) . It introd me to wcurl, which wasnt installed on deb13 or fedora 43, and is written in shell.
+
+( https://twitter.com/shlomif/status/1954897042876273053 )
+
+----
+
