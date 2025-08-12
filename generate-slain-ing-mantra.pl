@@ -73,8 +73,8 @@ EOF
             {
                 push @lines_options, "E J K L M N Q R S T";
             }
-            push @lines_options, "Suck ass, now!";
-            push @lines_options, "Now, suck ass!";
+            push @lines_options, "Suck ass, now;";
+            push @lines_options, "Now, suck ass;";
             foreach my $changing_line (@lines_options)
             {
                 my $out_fairy_type = ucfirst($fairy_type);
@@ -86,6 +86,7 @@ Die, $out_fairy_type, die.
 Yeah, Zine,
 Hallelujah.
 $changing_line
+Please!
 
 The Neo-Tech Conspiracy For Establishing the Semitic Culture
 # Suck, Cock,
