@@ -1685,3 +1685,11 @@ https://nixsanctuary.com/debian-13-trixie-released/ - good coverage of the Debia
 
 ----
 
+My Fedora (GNU/Linux) 42 x86-64 system boots up in a few seconds. It takes my Nokia Android phone tens of seconds. It makes me both happy and disappointed.
+
+https://www.shlomifish.org/philosophy/computers/high-quality-software/reflections-on-software-quality-trends/
+
+( https://twitter.com/shlomif/status/1956676875230515481 )
+
+----
+
