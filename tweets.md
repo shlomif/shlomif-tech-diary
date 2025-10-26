@@ -1693,3 +1693,21 @@ https://www.shlomifish.org/philosophy/computers/high-quality-software/reflection
 
 ----
 
+“SysCo”s: systems’ coordinators, collaborators, cooperators, consolidators, conventions, conferences ("Cons"). Bringing order (and simplicity) into madnesses. E.g:
+
+* Intel : 1 CPU, GPU, soundcard, etc. standards for non-professionals.
+
+* SCO Unixware / Linux: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-linux-The-SCO-vs-Linux-TV-Series
+
+* conCERN: where HTTP/WorldWideWeb were invented
+
+* The smartphone wars: lawyers are often "showy" SysCo.
+
+* https://www.shlomifish.org/humour/fortunes/show.cgi?id=clarissa-darling x86 +  UNIX → POSIX, GNU, Linux, FreeBSD, Mac OS X
+
+* AleppoCon: "the crown of Aleppo": https://en.wikipedia.org/wiki/Aleppo_Codex is a "small" book with a "big ego". It put Aleppo on the map.
+
+( https://www.facebook.com/shlomi.fish/posts/pfbid0ACGmWjkkjFzKSt3YKLVDyn7GfhA1iFs77vNKKR716jruvww1sPj1pYWNJFn9nGmDl )
+
+----
+
