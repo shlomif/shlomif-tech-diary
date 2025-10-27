@@ -47,6 +47,7 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const 
         return false;
     }
     new_tamar->count_times_to_enforce_a_little_destruction = 1;
+    new_tamar->time_to_leave = 1;
     if (tamar_init_time_to_leave > tamar_max_time_to_leave)
     {
         return false;
@@ -58,3 +59,12 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const 
     new_tamar->time_to_leave = tamar_init_time_to_leave;
     return true;
 }
+
+const tamar_int tamar_max_summary_len = 100;
+const tamar_octet tamar_max_hacker_explantion_len = 1000;
+typedef struct {
+    tamar_octet summary[tamar_max_summary_len];
+    tamar_octet hacker_explanation[tamar_max_hacker_explantion_len];
+} tamar_query_verdict;
+
+static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_query_verdict * const verdict, const tamar_int superiour_len, const tamar_int inferior_len, const tamar_boolean  )
