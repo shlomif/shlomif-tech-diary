@@ -62,6 +62,8 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const 
 }
 
 const tamar_int tamar_max_summary_len = 100;
+const tamar_int tamar_min_word_len = 1;
+const tamar_int tamar_max_word_len = 10;
 const tamar_octet tamar_max_hacker_explantion_len = 1000;
 typedef struct {
     tamar_octet summary[tamar_max_summary_len];
@@ -117,11 +119,11 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
         is_enforcing = true;
     }
 
-    if (elohim_boolean || is_enforcing)
+    if (elohim_boolean || is_enforcing || (superiour_len > tamar_max_word_len) || (inferior_len > tamar_max_word_len))
     {
         if ((from_1_to_5 < 5) && (! is_enforcing))
         {
-            *verdict = {.summary="IDK. Ask your guideline-generators.", .hacker_explanation="Message to the hacker seeker's elohim [or its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeekers vampire's media and mind and what not."};
+            *verdict = {.summary="IDK. Ask your guideline-generators.", .hacker_explanation="\"I don't know! Do I look like a philosopher / \""};
             /* code */
         }
 
