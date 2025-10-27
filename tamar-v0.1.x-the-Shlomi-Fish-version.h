@@ -119,11 +119,13 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
         is_enforcing = true;
     }
 
+    tamar_api_ret_code ret = true;
+
     if (elohim_boolean || is_enforcing || (superiour_len > tamar_max_word_len) || (inferior_len > tamar_max_word_len))
     {
         if ((from_1_to_5 < 5) && (! is_enforcing))
         {
-            *verdict = {.summary="IDK. Ask your guideline-generators.", .hacker_explanation="\"I don't know! Do I look like a philosopher / \""};
+            *verdict = {.summary="IDK. Ask your guideline-generators.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them??\""};
             /* code */
         }
 
