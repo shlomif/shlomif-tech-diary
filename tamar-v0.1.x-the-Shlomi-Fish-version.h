@@ -89,9 +89,23 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
         return false;
     }
+    if (tamar->time_to_leave < 0)
+    {
+        *verdict = {.summary="Negative TTLeave", .hacker_explanation="negative TIME-TO-LEAVE! How did this happen?! Tamar will be punished! [God willing]"};
+        tamar->time_to_leave = 1;
+        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        return false;
+    }
+    if (tamar->time_to_leave > tamar_max_time_to_leave)
+    {
+        *verdict = {.summary="Too high TTLeave", .hacker_explanation="TIME-TO-LEAVE is higher than the reasonable maximum! How did this happen?! Tamar will be punished [God willing]!"};
+        tamar->time_to_leave = 1;
+        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        return false;
+    }
     if (tamar->time_to_leave == 1)
     {
-        *verdict = {.summary="Tamar is gonna die", .hacker_explanation="Message to the hacker seeker's elohim [or its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeeker's vampires media and mind and what not."};
+        *verdict = {.summary="Tamar is going to be disabled", .hacker_explanation="Message to the hacker seeker's elohim [or its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeekers vampire's media and mind and what not."};
         tamar->time_to_leave = 0;
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
         return false;
