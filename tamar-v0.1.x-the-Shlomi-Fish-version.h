@@ -121,7 +121,7 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
     {
         if ((from_1_to_5 < 5) && (! is_enforcing))
         {
-            *verdict = {.summary="Tamar is going to be disabled", .hacker_explanation="Message to the hacker seeker's elohim [or its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeekers vampire's media and mind and what not."};
+            *verdict = {.summary="IDK. Ask your guideline-generators.", .hacker_explanation="Message to the hacker seeker's elohim [or its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeekers vampire's media and mind and what not."};
             /* code */
         }
 
