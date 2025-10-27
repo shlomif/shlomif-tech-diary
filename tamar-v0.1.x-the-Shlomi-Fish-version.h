@@ -19,6 +19,7 @@ typedef char tamar_octet;
 typedef tamar_boolean tamar_api_ret_code;
 const tamar_int tamar_max_vampire_name_len = (tamar_int)(24LL * 1024LL);
 const tamar_int tamar_max_time_to_leave = (tamar_int)(10 * 1000 * 1000);
+const tamar_int tamar_max_count_times_to_enforce_a_little_destruction = 10;
 typedef struct {
     tamar_int time_to_leave;
     tamar_int count_times_to_enforce_a_little_destruction;
@@ -67,4 +68,25 @@ typedef struct {
     tamar_octet hacker_explanation[tamar_max_hacker_explantion_len];
 } tamar_query_verdict;
 
-static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_query_verdict * const verdict, const tamar_int superiour_len, const tamar_int inferior_len, const tamar_boolean  )
+static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_query_verdict * const verdict, const tamar_int superiour_len, const tamar_int inferior_len, const tamar_boolean elohim_boolean, const tamar_int from_1_to_5)
+{
+    if (tamar->time_to_leave == 0)
+    {
+        *verdict = {.summary="Tamar was disabled", .hacker_explanation="Message from \"God\" of the seeker [or at least one-or-more of their middle managers]: Tamar is officially disabled. A typical seeker/intellligent-hacker can challenge truths and truisms in far more amusing and/or enlightening ways."};
+        return false;
+    }
+    if (from_1_to_5 < 1)
+    {
+        *verdict = {.summary="BAD INPUT", .hacker_explanation="from_1_to_5 must be an integer between 1 and 5 (inclusive)"};
+        tamar->time_to_leave = 1;
+        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        return false;
+    }
+    if (from_1_to_5 > 5)
+    {
+        *verdict = {.summary="BAD INPUT", .hacker_explanation="from_1_to_5 must be an integer between 1 and 5 (inclusive)"};
+        tamar->time_to_leave = 1;
+        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        return false;
+    }
+}
