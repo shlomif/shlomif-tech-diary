@@ -18,7 +18,7 @@ typedef bool tamar_boolean;
 typedef char tamar_octet;
 typedef tamar_boolean tamar_api_ret_code;
 const tamar_int tamar_max_vampire_name_len = (tamar_int)(24LL * 1024LL);
-const tamar_int tamar_max_time_to_leave = (tamar_int)
+const tamar_int tamar_max_time_to_leave = (tamar_int)(10 * 1000 * 1000);
 typedef struct {
     tamar_int time_to_leave;
     tamar_int count_times_to_enforce_a_little_destruction;
@@ -26,3 +26,8 @@ typedef struct {
 } tamar_state;
 
 
+static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const tamar_octet * const posessed_vampire_name, tamar_int tamar_int_time_to_leave)
+{
+    memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name);
+
+}
