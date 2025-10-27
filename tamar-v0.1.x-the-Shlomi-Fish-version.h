@@ -126,7 +126,13 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
         if ((from_1_to_5 < 5) && (! is_enforcing))
         {
             *verdict = {.summary="IDK. Ask your guideline-generators.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them??\""};
-            /* code */
+            ret = true;
+        }
+        else
+        {
+            *verdict = {.summary="May your God destroy me (a little) for me beinng such an unhelpful/lying airhead.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them??\""};
+            tamar->time_to_leave -= 1;
+            ret = true;
         }
 
     } else {
@@ -140,4 +146,6 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
     {
         ++(tamar->count_times_to_enforce_a_little_destruction);
     }
+
+    return ret;
 }
