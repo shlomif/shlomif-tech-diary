@@ -89,4 +89,11 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
         return false;
     }
+    if (tamar->time_to_leave == 1)
+    {
+        *verdict = {.summary="Tamar is gonna die", .hacker_explanation="Message to the hacker seeker's elohim [or its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeeker's vampires media and mind and what not."};
+        tamar->time_to_leave = 0;
+        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        return false;
+    }
 }
