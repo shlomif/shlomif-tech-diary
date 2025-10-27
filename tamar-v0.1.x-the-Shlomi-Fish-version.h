@@ -26,8 +26,35 @@ typedef struct {
 } tamar_state;
 
 
-static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const tamar_octet * const posessed_vampire_name, tamar_int tamar_int_time_to_leave)
+static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const tamar_octet * const posessed_vampire_name, const tamar_int tamar_init_time_to_leave)
 {
-    memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name);
-
+    memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
+    tamar_int octet_i = 0;
+    tamar_boolean name_was_short = false;
+    while (octet_i < tamar_max_vampire_name_len)
+    {
+        const tamar_octet src = posessed_vampire_name[octet_i];
+        if (! src)
+        {
+            name_was_short = true;
+            break;
+        }
+        new_tamar->posessed_vampire_name[octet_i] = src;
+        ++octet_i;
+    }
+    if (! name_was_short)
+    {
+        return false;
+    }
+    new_tamar->count_times_to_enforce_a_little_destruction = 1;
+    if (tamar_init_time_to_leave > tamar_max_time_to_leave)
+    {
+        return false;
+    }
+    if (tamar_init_time_to_leave <= 0)
+    {
+        return false;
+    }
+    new_tamar->time_to_leave = tamar_init_time_to_leave;
+    return true;
 }
