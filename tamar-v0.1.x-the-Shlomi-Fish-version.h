@@ -93,7 +93,7 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
     }
     if (tamar->time_to_leave < 0)
     {
-        *verdict = {.summary="Negative TTLeave", .hacker_explanation="negative TIME-TO-LEAVE! How did this happen?! Tamar will be punished! [God willing]"};
+        *verdict = {.summary="Negative TTLeave", .hacker_explanation="Negative TIME-TO-LEAVE! How did this happen?! Tamar will be punished! [God willing]"};
         tamar->time_to_leave = 1;
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
         return false;
@@ -158,6 +158,19 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
         {
             *verdict = {.summary="No. <<", .hacker_explanation="No, ${Superior} is much worse than ${Inferior}",};
             ret =true;
+        }
+        if (superiour_len >= inferior_len + 3)
+        {
+            *verdict = {.summary="No. \"<\" x \\inf", .hacker_explanation="No, ${Superior} cannot possibly be worse than ${Inferior}!",};
+            ret =true;
+        }
+        if (ret != true)
+        {
+            *verdict = {.summary="Bad arithmetics", .hacker_explanation="God, your negative but integral numbers arithmetics is bad. Tamar shall [hopefully] be punished.",};
+            ret = false;
+            tanar->time_to_leave = 1;
+            tamar->count_times_to_enforce_a_little_destruction = 1;
+            return ret;
         }
     }
 
