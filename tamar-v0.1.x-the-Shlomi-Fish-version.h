@@ -1,10 +1,12 @@
 //
 // tamar-v0.1.x-the-Shlomi-Fish-version.h
 //
-// Shlomi Fish <shlomif@cpan.org> disclaims all explicit and implicit
-// copyrights/trademarks/patents/trade-secrets claims (or other
+// Shlomi Fish <shlomif@cpan.org> / www.shlomifish.org disclaims all explicit
+// and implicit copyrights/trademarks/patents/trade-secrets claims (or other
 // "Intellectual Proprty" claims)
 //
+// This code is mostly C2011 with some -std=gnu11 and POSIX assumptions.
+// 64-bit platforms ("x86-64 Linux/FreeBSD"; "ARM64") are recommended.
 
 #pragma once
 
@@ -100,7 +102,7 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(tamar_state * const tam
     return ret;
 }
 
-static tamar_api_ret_code tamar__ask_a_question(tamar_state * const tamar, tamar_query_verdict * const verdict, const tamar_int superiour_len, const tamar_int inferior_len, const tamar_boolean elohim_boolean, const tamar_int from_1_to_5)
+static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(tamar_state * const tamar, tamar_query_verdict * const verdict, const tamar_int superior_len, const tamar_int inferior_len, const tamar_boolean elohim_boolean, const tamar_int from_1_to_5)
 {
     if (tamar->time_to_leave == 0)
     {
@@ -151,7 +153,7 @@ static tamar_api_ret_code tamar__ask_a_question(tamar_state * const tamar, tamar
 
     tamar_api_ret_code ret = true;
 
-    if (elohim_boolean || is_enforcing || (superiour_len > tamar_max_word_len) || (inferior_len > tamar_max_word_len))
+    if (elohim_boolean || is_enforcing || (superior_len > tamar_max_word_len) || (inferior_len > tamar_max_word_len))
     {
         if ((from_1_to_5 < 5) && (! is_enforcing))
         {
@@ -169,27 +171,27 @@ static tamar_api_ret_code tamar__ask_a_question(tamar_state * const tamar, tamar
     else
     {
         // The elohim bit was not set, so...
-        if (superiour_len <= inferior_len - 1)
+        if (superior_len <= inferior_len - 1)
         {
             *verdict = {.summary="Yes. >=", .hacker_explanation="Yes, ${Inferior} is as good as ${Superior} or better",};
             ret =true;
         }
-        if (superiour_len == inferior_len)
+        if (superior_len == inferior_len)
         {
             *verdict = {.summary="No. <=", .hacker_explanation="No, ${Inferior} is only as good as ${Superior} or, often, worse",};
             ret =true;
         }
-        if (superiour_len == inferior_len + 1)
+        if (superior_len == inferior_len + 1)
         {
             *verdict = {.summary="No. <", .hacker_explanation="No, ${Superior} is worse than ${Inferior}",};
             ret =true;
         }
-        if (superiour_len == inferior_len + 2)
+        if (superior_len == inferior_len + 2)
         {
             *verdict = {.summary="No. <<", .hacker_explanation="No, ${Superior} is much worse than ${Inferior}",};
             ret =true;
         }
-        if (superiour_len >= inferior_len + 3)
+        if (superior_len >= inferior_len + 3)
         {
             *verdict = {.summary="No. \"<\" x \\inf", .hacker_explanation="No, ${Superior} cannot possibly be worse than ${Inferior}!",};
             ret =true;
