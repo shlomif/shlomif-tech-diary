@@ -142,7 +142,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
     }
     if (tamar->time_to_leave == 1)
     {
-        *verdict = {.summary="Tamar is going to be disabled", .hacker_explanation="Message to the hacker seeker's elohim [or its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeekers vampire's media and mind and what not."};
+        *verdict = {.summary="Tamar is going to be disabled", .hacker_explanation="Message to the hacker seeker's elohim [or their/its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeekers vampire's media and mind and what not."};
         tamar->time_to_leave = 0;
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
         return false;
@@ -204,7 +204,8 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
             *verdict = {.summary="Bad arithmetics", .hacker_explanation="God, your  arithmetics of signed but integral numbers seems wrong. Therefore, Tamar shall [hopefully] be punished.",};
             ret = false;
             tanar->time_to_leave = 1;
-            tamar->count_times_to_enforce_a_little_destruction = 1;
+            tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        return false;
             return ret;
         }
     }
