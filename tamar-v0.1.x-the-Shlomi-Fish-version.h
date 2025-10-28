@@ -70,27 +70,32 @@ typedef struct {
     tamar_octet hacker_explanation[tamar_max_hacker_explantion_len];
 } tamar_query_verdict;
 
-static tamar_api_ret_code tamar_query_the_time_to_leave(tamar_state * const tamar, tamar_int * const return_time_to_leave)
+
+// To be used by the managers of the hacker/seeker/vampire's Tamar instance
+// ( the meta-Fantastikans? ) Fortified a bit but God ("Elohim") could and
+// can do whatever they want.
+static tamar_api_ret_code tamar__query_the_time_to_leave(tamar_state * const tamar, tamar_query_verdict * const verdict, tamar_int * const return_time_to_leave)
 {
+    tamar_api_ret_code ret = true;
     if (tamar->time_to_leave < 0)
     {
         *verdict = {.summary="Negative TTLeave", .hacker_explanation="Negative TIME-TO-LEAVE! How did this happen?! Tamar will be punished! [God willing]"};
         tamar->time_to_leave = 1;
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
-        return false;
+        ret = false;
     }
     if (tamar->time_to_leave > tamar_max_time_to_leave)
     {
         *verdict = {.summary="Too high TTLeave", .hacker_explanation="TIME-TO-LEAVE is higher than the reasonable maximum! How did this happen?! Tamar will be punished [God willing]!"};
         tamar->time_to_leave = 1;
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
-        return false;
+        ret = false;
     }
     *return_time_to_leave = tamar->time_to_leave;
-    return true;
+    return ret;
 }
 
-static tamar_api_ret_code tamar_ask_a_question(tamar_state * const tamar, tamar_query_verdict * const verdict, const tamar_int superiour_len, const tamar_int inferior_len, const tamar_boolean elohim_boolean, const tamar_int from_1_to_5)
+static tamar_api_ret_code tamar__ask_a_question(tamar_state * const tamar, tamar_query_verdict * const verdict, const tamar_int superiour_len, const tamar_int inferior_len, const tamar_boolean elohim_boolean, const tamar_int from_1_to_5)
 {
     if (tamar->time_to_leave == 0)
     {
