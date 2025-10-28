@@ -77,6 +77,7 @@ typedef struct {
 static tamar_api_ret_code tamar__query_the_time_to_leave(tamar_state * const tamar, tamar_query_verdict * const verdict, tamar_int * const return_time_to_leave)
 {
     tamar_api_ret_code ret = true;
+    *return_time_to_leave  = 1;
     if (tamar->time_to_leave < 0)
     {
         *verdict = {.summary="Negative TTLeave", .hacker_explanation="Negative TIME-TO-LEAVE! How did this happen?! Tamar will be punished! [God willing]"};
@@ -84,13 +85,17 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(tamar_state * const tam
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
         ret = false;
     }
-    if (tamar->time_to_leave > tamar_max_time_to_leave)
+    else if (tamar->time_to_leave > tamar_max_time_to_leave)
     {
         *verdict = {.summary="Too high TTLeave", .hacker_explanation="TIME-TO-LEAVE is higher than the reasonable maximum! How did this happen?! Tamar will be punished [God willing]!"};
         tamar->time_to_leave = 1;
         tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
         ret = false;
     }
+    else
+    {
+        *verdict = {.summary="Seems \"OK\"", .hacker_explanation="TIME-TO-LEAVE is within the reasonable range."};
+    :V
     *return_time_to_leave = tamar->time_to_leave;
     return ret;
 }
