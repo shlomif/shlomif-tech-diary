@@ -130,12 +130,19 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
         }
         else
         {
-            *verdict = {.summary="May your God destroy me (a little) for me beinng such an unhelpful/lying airhead.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them??\""};
+            *verdict = {.summary="May your God destroy me (a little) for me beinng such an unhelpful/lying airhead.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them??\ May your God destroy me (a little) for me beinng such an unhelpful/lying airhead. \"ANALIHATION!\": may God (collection of guideline generators acting as one; = \"Elohimn\") destroy me because i hate myself for being such an anal.",};
             tamar->time_to_leave -= 1;
             ret = true;
         }
 
-    } else {
+    }
+    else
+    {
+        // The elohim bit was not set, so...
+        if (superiour_len <= inferior_len -1)
+        {
+
+        }
     }
 
     if (is_enforcing)
