@@ -139,9 +139,10 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
     else
     {
         // The elohim bit was not set, so...
-        if (superiour_len <= inferior_len -1)
+        if (superiour_len <= inferior_len - 1)
         {
-
+            *verdict = {.summary="Yes. >=", .hacker_explanation="Yes, ${Inferior} is as good as ${Superior} or better",};
+            ret =true;
         }
     }
 
