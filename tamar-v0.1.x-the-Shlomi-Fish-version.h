@@ -109,6 +109,11 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(tamar_state * const tam
     return ret;
 }
 
+// "tamar" is being asked one of:
+// 1. Is ${Superior} better than ${Inferior} ? ( > )
+// 2. Is ${Superior} as good as ${Inferior} or better? ( >= )
+// 3. Is ${Superior} as good as ${Inferior} ? ( = )
+// "tamar" does not know which one and only receives
 static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(tamar_state * const tamar, tamar_query_verdict * const verdict, const tamar_int superior_len, const tamar_int inferior_len, const tamar_boolean elohim_boolean, const tamar_int from_1_to_5)
 {
     if (tamar->time_to_leave == 0)
