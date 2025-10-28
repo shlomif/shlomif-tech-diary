@@ -144,6 +144,21 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const tamar, tamar_quer
             *verdict = {.summary="Yes. >=", .hacker_explanation="Yes, ${Inferior} is as good as ${Superior} or better",};
             ret =true;
         }
+        if (superiour_len == inferior_len)
+        {
+            *verdict = {.summary="No. <=", .hacker_explanation="No, ${Inferior} is only as good as ${Superior} or, often, worse",};
+            ret =true;
+        }
+        if (superiour_len == inferior_len + 1)
+        {
+            *verdict = {.summary="No. <", .hacker_explanation="No, ${Superior} is worse than ${Inferior}",};
+            ret =true;
+        }
+        if (superiour_len == inferior_len + 2)
+        {
+            *verdict = {.summary="No. <<", .hacker_explanation="No, ${Superior} is much worse than ${Inferior}",};
+            ret =true;
+        }
     }
 
     if (is_enforcing)
