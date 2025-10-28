@@ -47,16 +47,19 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const 
     }
     if (! name_was_short)
     {
+        memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
         return false;
     }
     new_tamar->count_times_to_enforce_a_little_destruction = 1;
     new_tamar->time_to_leave = 1;
     if (tamar_init_time_to_leave > tamar_max_time_to_leave)
     {
+        memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
         return false;
     }
     if (tamar_init_time_to_leave <= 0)
     {
+        memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
         return false;
     }
     new_tamar->time_to_leave = tamar_init_time_to_leave;
@@ -66,7 +69,7 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const 
 const tamar_int tamar_max_summary_len = 100;
 const tamar_int tamar_min_word_len = 1;
 const tamar_int tamar_max_word_len = 10;
-const tamar_octet tamar_max_hacker_explantion_len = 1000;
+const tamar_int tamar_max_hacker_explantion_len = 1000;
 typedef struct {
     tamar_octet summary[tamar_max_summary_len];
     tamar_octet hacker_explanation[tamar_max_hacker_explantion_len];
@@ -188,17 +191,17 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
         }
         if (superior_len == inferior_len + 2)
         {
-            *verdict = {.summary="No. <<", .hacker_explanation="No, ${Superior} is much worse than ${Inferior}",};
-            ret =true;
+            *verdict = {.summary="No. <<", .hacker_explanation="No, ${Superior} is *much* worse than ${Inferior}",};
+            ret = true;
         }
         if (superior_len >= inferior_len + 3)
         {
             *verdict = {.summary="No. \"<\" x \\inf", .hacker_explanation="No, ${Superior} cannot possibly be worse than ${Inferior}!",};
-            ret =true;
+            ret = true;
         }
         if (ret != true)
         {
-            *verdict = {.summary="Bad arithmetics", .hacker_explanation="God, your negative but integral numbers arithmetics is bad. Tamar shall [hopefully] be punished.",};
+            *verdict = {.summary="Bad arithmetics", .hacker_explanation="God, your  arithmetics of signed but integral numbers seems wrong. Therefore, Tamar shall [hopefully] be punished.",};
             ret = false;
             tanar->time_to_leave = 1;
             tamar->count_times_to_enforce_a_little_destruction = 1;
