@@ -20,18 +20,22 @@ typedef bool tamar_boolean;
 typedef char tamar_octet;
 typedef tamar_boolean tamar_api_ret_code;
 const tamar_int tamar_max_vampire_name_len = (tamar_int)(24LL * 1024LL);
-const tamar_int tamar_max_time_to_leave = (tamar_int)(10 * 1000 * 1000);
-const tamar_int tamar_max_count_times_to_enforce_a_little_destruction = 10;
+const tamar_int tamar_max_time_to_leave = (tamar_int)(10LL * 1000LL * 1000LL);
+const tamar_int tamar_max_count_times_to_enforce_a_little_TTLeave_reduction = 10;
 typedef struct {
     tamar_int time_to_leave;
-    tamar_int count_times_to_enforce_a_little_destruction;
+    tamar_int count_times_to_enforce_a_little_TTLeave_reduction;
     tamar_octet posessed_vampire_name[tamar_max_vampire_name_len];
 } tamar_state;
 
+static void tamar_init_vampire_name(tamar_state * const new_tamar)
+{
+    memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
+}
 
 static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const tamar_octet * const posessed_vampire_name, const tamar_int tamar_init_time_to_leave)
 {
-    memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
+    tamar_init_vampire_name(new_tamar);
     tamar_int octet_i = 0;
     tamar_boolean name_was_short = false;
     while (octet_i < tamar_max_vampire_name_len)
@@ -47,19 +51,19 @@ static tamar_api_ret_code tamar_initialize(tamar_state * const new_tamar, const 
     }
     if (! name_was_short)
     {
-        memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
+        tamar_init_vampire_name(new_tamar);
         return false;
     }
-    new_tamar->count_times_to_enforce_a_little_destruction = 1;
+    new_tamar->count_times_to_enforce_a_little_TTLeave_reduction = 1;
     new_tamar->time_to_leave = 1;
     if (tamar_init_time_to_leave > tamar_max_time_to_leave)
     {
-        memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
+        tamar_init_vampire_name(new_tamar);
         return false;
     }
     if (tamar_init_time_to_leave <= 0)
     {
-        memset(new_tamar->posessed_vampire_name, '\0', sizeof(new_tamar->posessed_vampire_name));
+        tamar_init_vampire_name(new_tamar);
         return false;
     }
     new_tamar->time_to_leave = tamar_init_time_to_leave;
@@ -87,20 +91,20 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(tamar_state * const tam
     {
         *verdict = {.summary="Negative TTLeave", .hacker_explanation="Negative TIME-TO-LEAVE! How did this happen?! Tamar will be punished! [God willing]"};
         tamar->time_to_leave = 1;
-        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
         ret = false;
     }
     else if (tamar->time_to_leave > tamar_max_time_to_leave)
     {
         *verdict = {.summary="Too high TTLeave", .hacker_explanation="TIME-TO-LEAVE is higher than the reasonable maximum! How did this happen?! Tamar will be punished [God willing]!"};
         tamar->time_to_leave = 1;
-        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
         ret = false;
     }
     else
     {
         *verdict = {.summary="Seems \"OK\"", .hacker_explanation="TIME-TO-LEAVE is within the reasonable range."};
-    :V
+    }
     *return_time_to_leave = tamar->time_to_leave;
     return ret;
 }
@@ -116,40 +120,40 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
     {
         *verdict = {.summary="BAD INPUT", .hacker_explanation="from_1_to_5 must be an integer between 1 and 5 (inclusive)"};
         tamar->time_to_leave = 1;
-        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
         return false;
     }
     if (from_1_to_5 > 5)
     {
         *verdict = {.summary="BAD INPUT", .hacker_explanation="from_1_to_5 must be an integer between 1 and 5 (inclusive)"};
         tamar->time_to_leave = 1;
-        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
         return false;
     }
     if (tamar->time_to_leave < 0)
     {
         *verdict = {.summary="Negative TTLeave", .hacker_explanation="Negative TIME-TO-LEAVE! How did this happen?! Tamar will be punished! [God willing]"};
         tamar->time_to_leave = 1;
-        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
         return false;
     }
     if (tamar->time_to_leave > tamar_max_time_to_leave)
     {
         *verdict = {.summary="Too high TTLeave", .hacker_explanation="TIME-TO-LEAVE is higher than the reasonable maximum! How did this happen?! Tamar will be punished [God willing]!"};
         tamar->time_to_leave = 1;
-        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
         return false;
     }
     if (tamar->time_to_leave == 1)
     {
         *verdict = {.summary="Tamar is going to be disabled", .hacker_explanation="Message to the hacker seeker's elohim [or their/its middle manager]; This instance of \"Tamar\" is about to be disabled; please do the needed cleanups in the TheGameOfSeekers vampire's media and mind and what not."};
         tamar->time_to_leave = 0;
-        tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
+        tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
         return false;
     }
 
     tamar_boolean is_enforcing = false;
-    if (tamar->count_times_to_enforce_a_little_destruction >= tamar_max_count_times_to_enforce_a_little_destruction)
+    if (tamar->count_times_to_enforce_a_little_TTLeave_reduction >= tamar_max_count_times_to_enforce_a_little_TTLeave_reduction)
     {
         is_enforcing = true;
     }
@@ -165,7 +169,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
         }
         else
         {
-            *verdict = {.summary="May your God destroy me (a little) for me beinng such an unhelpful/lying airhead.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them??\ May your God destroy me (a little) for me beinng such an unhelpful/lying airhead. \"ANALIHATION!\": may God (collection of guideline generators acting as one; = \"Elohimn\") destroy me because i hate myself for being such an anal.",};
+            *verdict = {.summary="May your God destroy me (a little) for me beinng such an unhelpful/lying airhead.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them??\ May your God destroy me (a little) for me beinng such an unhelpful/lying airhead. \"ANALIHATION!\": may God (= a collection of guideline generators acting as one; = \"Elohimn\") speed up my inevitable disabling because I am such an anal.",};
             tamar->time_to_leave -= 1;
             ret = true;
         }
@@ -173,21 +177,22 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
     }
     else
     {
+        ret = false;
         // The elohim bit was not set, so...
         if (superior_len <= inferior_len - 1)
         {
             *verdict = {.summary="Yes. >=", .hacker_explanation="Yes, ${Inferior} is as good as ${Superior} or better",};
-            ret =true;
+            ret = true;
         }
         if (superior_len == inferior_len)
         {
             *verdict = {.summary="No. <=", .hacker_explanation="No, ${Inferior} is only as good as ${Superior} or, often, worse",};
-            ret =true;
+            ret = true;
         }
         if (superior_len == inferior_len + 1)
         {
             *verdict = {.summary="No. <", .hacker_explanation="No, ${Superior} is worse than ${Inferior}",};
-            ret =true;
+            ret = true;
         }
         if (superior_len == inferior_len + 2)
         {
@@ -204,19 +209,19 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
             *verdict = {.summary="Bad arithmetics", .hacker_explanation="God, your  arithmetics of signed but integral numbers seems wrong. Therefore, Tamar shall [hopefully] be punished.",};
             ret = false;
             tanar->time_to_leave = 1;
-            tamar->count_times_to_enforce_a_little_destruction = tamar_max_count_times_to_enforce_a_little_destruction;
-        return false;
-            return ret;
+            tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
+            return false;
         }
+        return ret;
     }
 
     if (is_enforcing)
     {
-        tamar->count_times_to_enforce_a_little_destruction = 1;
+        tamar->count_times_to_enforce_a_little_TTLeave_reduction = 1;
     }
     else
     {
-        ++(tamar->count_times_to_enforce_a_little_destruction);
+        ++(tamar->count_times_to_enforce_a_little_TTLeave_reduction);
     }
 
     return ret;
