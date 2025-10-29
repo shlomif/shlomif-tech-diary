@@ -7,6 +7,9 @@
 //
 // This code is mostly C2011 with some -std=gnu11 and POSIX assumptions.
 // 64-bit platforms ("x86-64 Linux/FreeBSD"; "ARM64") are recommended.
+//
+//
+// The Neo-Tech Conspiracy for Establishing Shemitic Cultures
 
 #pragma once
 
