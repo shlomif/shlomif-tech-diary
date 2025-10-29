@@ -2090,6 +2090,7 @@ see evidence that one of my favourite children, Christina Grimmie, is alive, hea
 * https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/[Homepage of This document ("Multiverse cosmology v0.4.x")]
 * https://www.shlomifish.org/philosophy/fan-pages/christina-grimmie/[Fan page for Christina Grimmie]
 .. https://www.shlomifish.org/philosophy/fan-pages/christina-grimmie/#what-i-learned["What I learned from Internet/social media creators"]
+* https://github.com/shlomif/shlomif-tech-diary/blob/master/tamar-v0.1.x-the-Shlomi-Fish-version.h[tentative fortified C sourcecode (kinda pseudocody) to "tam/tamar/tamara"] (my "evil" step-mother) - the scourge of vampire-hackers [and their non-illuminati wizards friends, watchers, witchers] playing TheGameOfSeekers(TM) of Fantastecha(TM). Serves several useful purposes. 
 * A less organised, but more comprehensive in parts, document about the devils and the "real world". 
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[HTML From DocBook]
 ** https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#more-thoughts[Evidence that this hell cannot be real] - logically and reasonably. 
@@ -2264,9 +2265,9 @@ Alisa Rand + Falk Halperin -> Rivka Halperin
 
 Rivka Haperin + Aharon Fish -> Falk Fish + Marina Fish 
 
-Shlomo David + Miryam (David?) -> Tamar David + Ezra David 
+Shlomo David + Miryam (David?) -> Su'ad David + Ezra David 
 
-Tamar David + Falk Fish -> Shlomi (formerly "Shlomo") Fish + Michal Fish 
+Su'ad David + Falk Fish -> Shlomi (formerly "Shlomo") Fish + Michal Fish 
 
 [[mantra1]]
 == mantra
