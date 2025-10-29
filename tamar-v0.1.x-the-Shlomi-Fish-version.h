@@ -151,7 +151,8 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
 // not 5 , tamar admits that she doesn't know the answer and tells the posessed
 // hacker playing TheGameOfSeekers<TM> of Fantastecha/Fantastika/etc. to
 // consult his guideline-generators. If it _is_ 5, tamar also gets its
-// count-of-times-to-leave-the-posessed-seeker reduced.
+// count-of-times-to-leave-the-posessed-seeker reduced (and it must always
+// be a non-negative integer).
 //
 static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     tamar_state *const tamar, tamar_query_verdict *const verdict,
