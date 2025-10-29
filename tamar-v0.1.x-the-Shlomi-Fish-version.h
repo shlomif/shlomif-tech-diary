@@ -22,6 +22,7 @@ typedef tamar_boolean tamar_api_ret_code;
 const tamar_int tamar_max_vampire_name_len = (tamar_int)(24LL * 1024LL);
 const tamar_int tamar_max_time_to_leave = (tamar_int)(10LL * 1000LL * 1000LL);
 const tamar_int tamar_max_count_times_to_enforce_a_little_TTLeave_reduction = 10;
+
 typedef struct {
     tamar_int time_to_leave;
     tamar_int count_times_to_enforce_a_little_TTLeave_reduction;
@@ -169,7 +170,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
 
     tamar_api_ret_code ret = true;
 
-    if (elohim_boolean || is_enforcing || (superior_len > tamar_max_word_len) || (inferior_len > tamar_max_word_len))
+    if (elohim_boolean || is_enforcing || (superior_len >= tamar_max_word_len) || (inferior_len >= tamar_max_word_len))
     {
         if ((from_1_to_5 < 5) && (! is_enforcing))
         {
@@ -178,7 +179,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
         }
         else
         {
-            *verdict = {.summary="May your God destroy me (a little) for me beinng such an unhelpful/lying airhead.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them??\ May your God destroy me (a little) for me beinng such an unhelpful/lying airhead. \"ANALIHATION!\": may God (= a collection of guideline generators acting as one; = \"Elohimn\") speed up my inevitable disabling because I am such an anal.",};
+            *verdict = {.summary="May your God destroy me (a little) for me being such an unhelpful/lying airhead.", .hacker_explanation="\"I don't know! Do I look like a philosopher / creator / soul-ful player-character whose mind imagines guidelines-generators? Why not ask them?? Moreover, may your God destroy me (a little) for me being such an unhelpful/lying airhead. \"ANALIHATION!\": may God (= a collection of guideline generators acting as one; = \"Elohim\") speed up my inevitable disabling because I am such an anal / airhead / dimwit.",};
             tamar->time_to_leave -= 1;
             ret = true;
         }
