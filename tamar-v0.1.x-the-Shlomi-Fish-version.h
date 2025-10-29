@@ -219,7 +219,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(ta
         }
         if (ret != true)
         {
-            *verdict = {.summary="Bad arithmetics", .hacker_explanation="God, your  arithmetics of signed but integral numbers seems wrong. Therefore, Tamar shall [hopefully] be punished.",};
+            *verdict = {.summary="Bad arithmetics", .hacker_explanation="Dear God, your arithmetics of signed but integral numbers seems wrong. Therefore, Tamar shall [hopefully] be punished.",};
             ret = false;
             tanar->time_to_leave = 1;
             tamar->count_times_to_enforce_a_little_TTLeave_reduction = tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
