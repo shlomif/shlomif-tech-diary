@@ -142,7 +142,7 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
 static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     tamar_state *const tamar, tamar_query_verdict *const verdict,
     const tamar_int superior_len, const tamar_int inferior_len,
-    const tamar_boolean elohim_boolean, const tamar_int from_1_to_5)
+    const tamar_boolean jehovah_flag, const tamar_int from_1_to_5)
 {
     if (tamar->time_to_leave == 0)
     {
@@ -219,8 +219,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
 
     tamar_api_ret_code ret = true;
 
-    if (elohim_boolean || is_enforcing ||
-        (superior_len >= tamar_max_word_len) ||
+    if (jehovah_flag || is_enforcing || (superior_len >= tamar_max_word_len) ||
         (inferior_len >= tamar_max_word_len))
     {
         if ((from_1_to_5 < 5) && (!is_enforcing))
