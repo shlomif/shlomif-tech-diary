@@ -137,8 +137,20 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
 // 3. Is ${Superior} as good as ${Inferior} ? ( = )
 //
 // "tamar" does not know which one. Moreover, it only receives
-// the lengths of ${Superior} and ${Inferior} (capped to
-// tamar_max_word_len, which is 10??!)
+// the lengths of ${Superior} and ${Inferior} capped to
+// tamar_max_word_len. Is it 10?! I'm not sure. Anyway, however capped
+// it is, it should not overflow 32-bit signed integers, much less 64-bit
+// (which signed long long is at least as much in GCC or clang on linux)
+//
+// "tamar" also receives the so called "jehovah_flag" which means "I/we [=
+// "tamar"'s master know better than to believe its lies]" if true, and "I'm
+// naive enough to believe you" if false.
+//
+// It also receives a positive integral number from_1_to_5 which it ignores
+// if the "jehovah_flag" is false. If jehovah_flag is true and from_1_to_5 is
+// not 5 , tamar admits that she doesn't know the answer and tells the posessed
+// hacker playing TheGameOfSeekers<TM> of Fantastecha/Fantastika/etc.
+//
 static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     tamar_state *const tamar, tamar_query_verdict *const verdict,
     const tamar_int superior_len, const tamar_int inferior_len,
