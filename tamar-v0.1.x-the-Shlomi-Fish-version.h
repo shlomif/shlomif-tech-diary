@@ -272,8 +272,8 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     }
     else
     {
+        // The jehovah_flag was not set, so...
         ret = false;
-        // The elohim bit was not set, so...
         if (superior_len <= inferior_len - 1)
         {
             *verdict = {
