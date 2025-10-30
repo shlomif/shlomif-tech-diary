@@ -157,7 +157,7 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
 // In the Shlomiverse / Selinaverse, ( jehovah_flag ? 1 : 0 ) * 5 + from_1_to_5
 // was commonly desguised as a ten-sided die roll (
 // https://www.shlomifish.org/meta/FAQ/#d10_dice ) where "10" was shortened as
-// "0". A d10 can be forced
+// "0". A d10 can be forced to land on a certain
 static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     tamar_state *const tamar, tamar_query_verdict *const verdict,
     const tamar_int superior_len, const tamar_int inferior_len,
