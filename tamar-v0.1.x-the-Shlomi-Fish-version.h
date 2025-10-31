@@ -11,6 +11,13 @@
 //
 // The Neo-Tech Conspiracy for Establishing Shemitic Cultures
 
+// tentative fortified C sourcecode (kinda pseudocody) to "tam/tamar/tamara"
+// (my "evil" step-mother) - the scourge of vampire-hackers [and their
+// non-illuminati wizards friends, watchers, witchers] playing
+// TheGameOfSeekers™ of Fantastecha™. Serves several useful purposes.
+//
+// "TAMAR" => ""
+
 #pragma once
 
 #include <stdbool.h>
