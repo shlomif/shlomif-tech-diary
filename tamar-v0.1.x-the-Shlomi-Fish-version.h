@@ -97,8 +97,8 @@ typedef struct
 } tamar_query_verdict;
 
 // To be used by the managers of the hacker/seeker/vampire's Tamar instance
-// ( the meta-Fantastikans? ) Fortified a bit but God ("Elohim") could and
-// can do whatever they want.
+// ( the meta-Fantastikans? ) Fortified a bit but God ("Elohim") could
+// and can do things differently.
 static tamar_api_ret_code tamar__query_the_time_to_leave(
     tamar_state *const tamar, tamar_query_verdict *const verdict,
     tamar_int *const return_time_to_leave)
@@ -332,7 +332,8 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
                 .summary = "Bad arithmetics",
                 .hacker_explanation =
                     "Dear God, your arithmetics of signed but integral numbers "
-                    "seems wrong. Therefore, Tamar shall [hopefully] be "
+                    "seems wrong. Therefore, this Tamar instance shall "
+                    "[hopefully] be "
                     "punished.",
             };
             ret = false;
