@@ -3,7 +3,7 @@
 //
 // Shlomi Fish <shlomif@cpan.org> / www.shlomifish.org disclaims all explicit
 // and implicit copyrights/trademarks/patents/trade-secrets claims (or other
-// "Intellectual Proprty" claims)
+// "Intellectual Proprty" claims). Note th1
 //
 // This code is mostly C2011 with some -std=gnu11 and POSIX assumptions.
 // 64-bit platforms ("x86-64 Linux/FreeBSD"; "ARM64") are recommended.
@@ -14,7 +14,7 @@
 // tentative fortified C sourcecode (kinda pseudocody) to "tam/tamar/tamara"
 // (my "evil" step-mother) - the scourge of vampire-hackers [and their
 // non-illuminati wizards friends, watchers, witchers] playing
-// TheGameOfSeekers™ of Fantastecha™. Serves several useful purposes.
+// TheGameOfSeekers of Fantastecha. Serves several useful purposes.
 //
 // "TAMAR" => ""
 
@@ -161,11 +161,11 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
 // count-of-times-to-leave-the-posessed-seeker reduced (and it must always
 // be a non-negative integer).
 //
-// In the Shlomiverse / Selinaverse, ( jehovah_flag ? 1 : 0 ) * 5 + from_1_to_5
+// In the Shlomiverse / Selinaverse, ( jehovah_flag ? 1 : 0 ) * 5 + from_1_to_5
 // was commonly disguised as a ten-sided die roll (
 // https://www.shlomifish.org/meta/FAQ/#d10_dice ) where "10" was shortened as
-// "0". A d10 can be forced to land on a certain result by God just like
-// a human or a house-cat can "accidentally" do something clumsy.
+// "0". A d10 (or any other die) can be forced to land on a certain result by
+// God just like a human or a house-cat can "accidentally" do something clumsy.
 static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     tamar_state *const tamar, tamar_query_verdict *const verdict,
     const tamar_int superior_len, const tamar_int inferior_len,
