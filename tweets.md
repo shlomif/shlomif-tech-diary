@@ -1699,6 +1699,9 @@ https://www.shlomifish.org/philosophy/computers/high-quality-software/reflection
 
 * SCO Unixware / Linux: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-linux-The-SCO-vs-Linux-TV-Series
 
+    * SGI were called SCGI [ = "Silly Cons, Graphicians, and Instrumentalists"  ]
+        *
+
 * conCERN: where HTTP/WorldWideWeb were invented
 
 * The smartphone wars: lawyers are often "showy" SysCo.
