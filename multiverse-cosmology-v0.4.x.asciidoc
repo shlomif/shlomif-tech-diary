@@ -2078,13 +2078,13 @@ On the other hand, I just placed them on the Web as XHTML or text (and they were
 
 * * Intel : 1 CPU, GPU, soundcard, etc. standards for non-professionals. 
 * * SCO Unixware / Linux: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-linux-The-SCO-vs-Linux-TV-Series * SGI were called SCGI [ = "Silly Cons, Graphicians, and Instrumentalists"  ] * 
-* DARPA/ARPA: "`When DARPA fails, big industries spring up`"
-*
+* DARPA/ARPA: "`When DARPA fails, whole industries spring up`"
+* conCERN: where HTTP/WorldWideWeb were invented 
 *
 *
 
 "`SysCo`"s: systems`' coordinators, collaborators, cooperators, consolidators, conventions, conferences ("Cons"). Bringing order (and simplicity) into madnesses.
-E.g:    * conCERN: where HTTP/WorldWideWeb were invented  * The smartphone wars: lawyers are often "showy" SysCo.
+E.g:    * The smartphone wars: lawyers are often "showy" SysCo.
 * https://www.shlomifish.org/humour/fortunes/show.cgi?id=clarissa-darling x86 +  UNIX -> POSIX, GNU, Linux, FreeBSD, Mac OS X  * AleppoCon: "the crown of Aleppo": https://en.wikipedia.org/wiki/Aleppo_Codex is a "small" book with a "big ego". It put Aleppo on the map. 
 
 [[ultimatum-to-the-devils]]
