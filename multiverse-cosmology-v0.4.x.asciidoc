@@ -236,7 +236,7 @@ Life in Fantastecha(TM) requires magic.
 For example in https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King`'s opening] the Pelican-like birds start flying out of their own volition. 
 
 It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and their fan-art https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] were constructed using magic.
-They may have also been conjured almost instanteously, as alternate-historical evidence. footnote:[The same logic may be applied to the World War II "evidence" of the Nazi concentration camps death camps.]
+They may have also been conjured almost instanteously, as alternate-historical evidence. footnote:[The same logic may be applied to the World War II "evidence" of the Nazi concentration camps and death camps.]
 
 Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGame(TM) of Fantastecha(TM) challenging. 
 
@@ -275,7 +275,7 @@ accept parameters, and construct magical transformations of the state of
 the universe (possibly by calling other techs) and perform them. (??!)*
 
 Hackers prefer to use technology that "makes sense" over one-off magic spells: https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter["newer technology often doesn't completely eliminate the use of older one"].
-I use all of XML, YAML, JSON, Perl, Python 3, C, vlc, mpv, duckduckgo, google [ https://www.shlomifish.org/meta/FAQ/[Reference] ]. 
+I use all of XML, YAML, JSON, Perl, Python 3, C, vlc, mpv, duckduckgo, google [ https://www.shlomifish.org/meta/FAQ/[Reference: my FAQ] ]. 
 
 [[dollar-GOD]]
 == $GOD
@@ -362,7 +362,7 @@ galloping at a somewhat slower pace, and then remain standing at the corner of
 the field, where I was led to believe he/she posed no danger.]
 ____
 
-As a result, I think that if we accept the definition of "God" in TheCodex(TM) of TheGameOfSeekers(TM) of Fantastecha(TM), then they most probably do exist, given practically every conscious-and-mindful Selinaverse-an organism, has some amount of self-control and guidance.
+As a result, I think that if we accept the definition of "God" in TheCodex(TM) of TheGameOfSeekers(TM) of Fantastecha(TM), then they most probably do exist, given practically very conscious-and-mindful Selinaverse-an organism, has some amount of self-control and guidance.
 Planet Earth is not fully symmetric, which given https://en.wikipedia.org/wiki/Perfection#Paradoxes["Perfection is
 in imperfection"] would imply it would have been really boring, if not completely lifeless.
 However, there is still a large amount of "law and order". 
@@ -377,7 +377,7 @@ are too beautiful and/or logic/science - defying to have been fully conceived by
 [[mind-control]]
 === Mind control, unthinkablity
 
-As a "rationality"-ist, somewhat timid, and even paranoid-at-times, and anti-cynical, optimistic, humans/humanity/life-loving (but somewhat too naïve), vampire, I https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#evidence-that-this-hell-isnt-real[accepted many true-isms which I now think were too farfetched to take for granted], from "the real world" being perceived in an absolute manner ("`Objectivism`"?), to magic not existing, to the hell-"`world`" supply and transportation of many elements from chocolate beans and their by products, to very rare metals and other minerals, to oil, which are all moved across thousands of kilometres using extremely-heavy-and-big ships-and-aeroplanes, that should have burned oil like no tomorrow. 
+As a "rationality"-ist, somewhat timid, and even paranoid-at-times, and anti-cynical, optimistic, humans/humanity/life-loving (but somewhat too naïve), vampire, I https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#evidence-that-this-hell-isnt-real[accepted many true-isms which I now think were too farfetched to take for granted], from "the real world" being perceived in an absolute manner ("`Objectivism`"?), to magic not existing, to the hell-"`world`" supply and transportation of many elements from chocolate beans and their by products, to very rare metals and other minerals, to oil, which are all moved across thousands of kilometres using extremely-heavy-and-big ships-and-aeroplanes, that should have burned oil like there's no tomorrow. 
 
 Some of these "irrational" doubts were something that often passed through my mind, but thinking there "was a conspiracy" was something I only thought was true during clinical depressions (when I also believed I was a malevolent person) and *some* "manias" when I was almost or "completely" sure my fantastical (often rationalised as "Science Fiction") and farfetched-seeming models-of-the-universe (which were not quite accurate) were true. 
 
@@ -442,6 +442,7 @@ While it is one of the first games that wizard children are taught, many vampire
 The game can often be phrased like: 
 
 * 1 × 2 core concepts: 
+.. Imagination 
 .. link:#the-gods[Elohim]
 .. "Jew" - the word is milliards-years-old, and was associated with the "Yehudim" only relatively recently. 
 +
