@@ -29,6 +29,11 @@
    }
    else
    {
+        6: IDK
+        7: IDK
+        8: IDK
+        9: IDK
+        10: IDK ; TTLeave -= TTLeaveDelta
    }
 
 
