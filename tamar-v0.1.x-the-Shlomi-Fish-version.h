@@ -17,6 +17,19 @@
 // TheGameOfSeekers of Fantastecha. Serves several useful purposes.
 //
 // "TAMAR" => ""
+/*
+
+   if ( ! jehovah_flag )
+   {
+       dl <= -1 -----> Yes. >=
+   }
+   else
+   {
+   }
+
+
+
+ */
 
 #pragma once
 
