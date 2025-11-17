@@ -1714,3 +1714,11 @@ https://www.shlomifish.org/philosophy/computers/high-quality-software/reflection
 
 ----
 
+Timon: hi. I'm an african praire dog.
+Pumbaa: I think they're called “meerkat” in English.
+Timon: amateur
+
+(  )
+
+----
+
