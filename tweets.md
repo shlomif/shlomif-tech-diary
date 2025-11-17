@@ -1716,7 +1716,9 @@ https://www.shlomifish.org/philosophy/computers/high-quality-software/reflection
 
 Timon: hi. I'm an african praire dog.
 Pumbaa: I think they're called “meerkat” in English.
-Timon: amateur
+Timon: amateur! Real biologists use the Latin name. However: I don't know what sub-species I am.
+
+#flashfic
 
 (  )
 
