@@ -2082,7 +2082,7 @@ E.g:
 
 * Intel : 1 CPU, GPU, soundcard, network card, etc. standards for non-professionals. 
 * SCO Unixware / Linux: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-linux-The-SCO-vs-Linux-TV-Series
-** SGI were nicknamed SCGI [ = "Silly Cons, Graphicians, and Instrumentalists" ] 
+** SGI [ = "Silicon Graphics Instruments" ] were nicknamed SCGI [ = "Silly Cons, Graphicians, and Instrumentalists" ] 
 ** https://www.shlomifish.org/humour/fortunes/show.cgi?id=clarissa-darling[Clarissa Darling] : x86 + UNIX -> POSIX, GNU, Linux, FreeBSD, Mac OS X 
 * DARPA/ARPA: "`When DARPA fails, whole industries spring up`"
 * conCERN: where HTTP/WorldWideWeb were invented 
