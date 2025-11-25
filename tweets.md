@@ -1724,3 +1724,11 @@ Timon: amateur! Real biologists use the Latin name. However: I don't know what s
 
 ----
 
+McDonalds sells Happy Meals for less than $20 (whose carton packaging is often beautiful). But they won’t sell the DNS domains mcdonalds-dot-com (or mcdonalds-dot-co-uk) even for all the money in the world.
+
+So what’s their net worth?
+
+( https://www.facebook.com/shlomi.fish/posts/pfbid0xnoUwDbGGbEe2MdDCP6WBo8T8CV8zRBYv9gmBvtEN4fTDjW5UUhuQu9UhWsSdxsvl )
+
+----
+
