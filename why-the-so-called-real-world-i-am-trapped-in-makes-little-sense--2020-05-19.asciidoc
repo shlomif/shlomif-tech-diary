@@ -133,7 +133,7 @@ They and their ingredients are moved from place to place, and there are no short
 On E-mail, http://linuxmafia.com/%7Erick/[Rick Moen] told me Israelis`' knowledge of English is only exceeded by the Dutch ("Netherlands"). 
 * We went from killing women to raping them to sexual harrassment. Some say one cannot even compliment a woman for her looks.
 * The other day I was talking with a friend about https://en.wikipedia.org/wiki/J._K._Rowling[JK Rowling] as a role model and the following day she said JKR was evil since she opposed https://en.wikipedia.org/wiki/Transgender[Transgender] people (which I do too).
-** => The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon]'s alleged "`sexual harassment`" claims. ( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] for his remarkable advancement of feminism ).
+** =>  The same thing happened with https://en.wikipedia.org/wiki/Joss_Whedon[Joss Whedon]'s alleged "`sexual harassment`" claims. ( also see https://en.wikipedia.org/w/index.php?title=Buffy_studies&oldid=1022301852[Buffy studies] for his remarkable advancement of feminism ).
 * People are opposed to the fact that sexual attractiveness strongly correlates with competence:
 ** https://www.shlomifish.org/humour/image-macros/indiv-nodes/say_no_to_an_alpha_female.xhtml[Shlomif`'s Memes - One does not simply say "`no`" to an Alpha Female]
 ** https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#meaning-of-able-competent["`Putting Cards on the Table (2019-*) - What do "able" and "competent" imply?`"]
@@ -314,7 +314,7 @@ And it`'s free, which means people actually read it.
 On the web, articles you have to pay for might as well not exist.
 Even if you were willing to pay to read them yourself, you can`'t link to them.
 They`'re not part of the conversation. 
-* Many open-source-software projects,  or websites/blogs/etc. have seemingly been abandoned by their originators and maintainers. "`You divorce wives, not children -- https://en.wikipedia.org/wiki/Clueless[Clueless].`"
+* Many open-source-software projects, or websites/blogs/etc. have seemingly been abandoned by their originators and maintainers. "`You divorce wives, not children -- https://en.wikipedia.org/wiki/Clueless[Clueless].`"
 ** https://en.wikipedia.org/wiki/Npm[npmjs]
 **
 +
@@ -345,7 +345,7 @@ Rust-lang is supposedly a very trendy language currently!
 +
 ( Possibly-related: https://en.wikipedia.org/wiki/No_true_Scotsman["`No true Scotsman`"].
 ) 
-* https://en.wikipedia.org/wiki/Cimorelli[Cimorelli] were a music band of 6 sisters (who also have 5 brothers) in a Catholic family. ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#make-your-own-kind-of-music[Reference: "make your own kind of music"] ).  They were signed artists ( "`VEVO`" ) for several years, which I doubt would have been politically-correct enough in the context of this non-real-hell. 
+* https://en.wikipedia.org/wiki/Cimorelli[Cimorelli] were a music band of 6 sisters (who also have 5 brothers) in a Catholic family. ( https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#make-your-own-kind-of-music[Reference: "make your own kind of music"] ). They were signed artists ( "`VEVO`" ) for several years, which I doubt would have been politically-correct enough in the context of this non-real-hell. 
 +
 ( Outside this hell, I believe that Earth is not over-populated, nor are there global warming and other environmental problems.
 ) 
@@ -360,7 +360,7 @@ Refer to https://www.shlomifish.org/humour/fortunes/show.cgi?id=linux-il-linux-f
 * From my experience, when a hacker is https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[being imprisoned] (in a psychiatric ward/etc.), like I did, they play "`The Fox in the Chicken Coop`", engage the staff and coprisoners in amateur philosophy, and end up getting out after some months, while the prison becomes a nut-house. Yet, there are hell-media reports of people being imprisoned for years and decades. 
 +
 My father`'s father, Aharon Fish, told me he had been imprisoned https://en.wikipedia.org/wiki/Arkhangelsk[in Arkhangelsk, Russia] when he started his plight from the German Nazi military, as it supposedly invaded Poland including his birthplace, Warsaw around 1939. 
-* The word's "slavery". How do you get many men/women working for free? You need paid supervisors, but then the supervisors are unhappy. Other people and I quit high-paying jobs for various reasons. Moreover, a hacker (who has soul+mind) exhibits https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[the fox-in-the-chickens-coop effect]. 
+* The word is "slavery". How do you get many men/women working for free? You need paid supervisors, but then the supervisors are unhappy. Other people and I quit high-paying jobs for various reasons. Moreover, a hacker (who has soul+mind) exhibits https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[the fox-in-the-chickens-coop effect]. 
 +
 I suspect https://en.wikipedia.org/wiki/Alexandre_Dumas[Alexandre Dumas pere]`'s father`'s mother was not actually a slave or thought of herself as one.
 It was just a facade for my hell's unified / absolute (and not real) history. 
@@ -388,17 +388,17 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 * The implementations of the https://en.wikipedia.org/wiki/Raku_(programming_language)[Raku programming language] were/are unreasonably slow. 
 * Most major cities in the USA have slums full of Black Americans: NYC, Chicago, Detroit, Los Angeles, even San-Francisco ("a very geeky town") and https://en.wikipedia.org/wiki/Washington,_D.C.[Washington D.C.] whose USA Admin centre is clean and beautiful, and full of white/Oriental tourists, and Caucasian police officers riding brown horses. 
 +
-Why? The newer parts  (often formerly hell-holes) benefitted from close/enthusiastic Negro labour which had been there previously.
+Why? The newer parts (often formerly hell-holes) benefitted from close/enthusiastic Negro labour which had been there previously.
 Moreover, the slums were in worse condition before the white settlers came than they are now. 
 ** A similar thing happened with Jerusalem in Israel/Palestine. When Sulliman the Magnificent rebuilt the old city, it was a marvel of beauty. But by the 1800s, even many Judeans established https://en.wikipedia.org/wiki/Mea_Shearim[Mea Shearim] and other neighbourds. 
 +
 The British mandate, and the Jordanian and Israeli admin ( https://en.wikipedia.org/wiki/Teddy_Kollek[Teddy Kollek] / etc.
 ) made the situation better, by a lot of volunteer labour. 
 ** https://www.youtube.com/watch?v=p-fRo5-p9hE["`Monty Python's Life of Brian - What Have The Romans ever done for us?`"]
-* I've been thinking of Christina Grimmie. Ellen DeGeneres said she was the youtube unsigned artist with the most total views, 200 million ( https://www.youtube.com/watch?v=sFRr3gPMKPA[Reference], https://www.youtube.com/watch?v=R0a3jb3qqB8[Reference No. 2] ) and yet Grimmie later went through the ordeal with being a contestant on The Voice  ( https://en.wikipedia.org/w/index.php?title=The_Voice_(American_TV_series)_season_6&oldid=1288432702[Reference] ). 
+* I've been thinking of Christina Grimmie. Ellen DeGeneres said she was the youtube unsigned artist with the most total views, 200 million ( https://www.youtube.com/watch?v=sFRr3gPMKPA[Reference], https://www.youtube.com/watch?v=R0a3jb3qqB8[Reference No. 2] ) and yet Grimmie later went through the ordeal with being a contestant on The Voice ( https://en.wikipedia.org/w/index.php?title=The_Voice_(American_TV_series)_season_6&oldid=1288432702[Reference] ). 
 ** In a video on Grimmie`'s channel, her father notes that she received many legitimate/nonspam emails to her personal email inbox in succession, and they were legitimate emails from her fans. 
 ** I recall reading a youtube comment from a school boy who noted that he had mentioned Christina Grimmie to his friend, and a few weeks later, the whole school was talking about her. 
-** Starting from around 2012 , there were some "`viral`" videos: https://en.wikipedia.org/wiki/Gangnam_Style[Gangnam Style], https://en.wikipedia.org/wiki/Harlem_Shake_(meme)[Harlem Shake]
+** Starting from around 2012, there were some "`viral`" videos: https://en.wikipedia.org/wiki/Gangnam_Style[Gangnam Style], https://en.wikipedia.org/wiki/Harlem_Shake_(meme)[Harlem Shake]
 * "`Fish`" is reportedly a fairly common last name in England and among Americans of English descent. In Israel, it is rare, but associated with Jews of Polish descent. When I studied in the Technion, there were three "Fish"-es studying there: I, my sister, and Marina Fish, who was non-coincidentally my next door neighbour, and also studied Electrical Engineering. 
 * The following entities are too obscure or too antagonised than they should be: 
 ** XML ( https://www.shlomifish.org/meta/FAQ/why_xml.xhtml[Reference] ) 
@@ -466,7 +466,7 @@ My parents also said philosophising was bad and that I shouldn't have it, when I
 [[I-give-up-on-this-hell]]
 === I Give up on this hell
 
-Regarding the current bombing of Israel (by Gaza and Lebanon), no missile hit my building yet, and my family and I utilise the alarms' sessions, to talk with our neighbours.
+Regarding the current bombing of Israel (by Gaza and Lebanon), no missile hit my building yet, and I sleep through the alarms.
 I doubt the war is real as far as I'm concerned (References: https://www.shlomifish.org/humour/fortunes/show.cgi?id=the-programmer-and-the-genie["`The Programmer and the Genie`"] ; https://twitter.com/shlomif/status/1713518111339454966[Tweet about the mideast warzone layer]) 
 
 Moreover, I am not "`off my medications`". I am taking all the pills that my "`father`" gives me.
