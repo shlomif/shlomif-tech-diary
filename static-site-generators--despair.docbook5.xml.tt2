@@ -7,9 +7,13 @@
     <title></title>
   </info>
   <section xml:id="the-despair-of-a-static-site-generator-creator">
+<info>
     <title>The Despair of a Static Site Generator Creator</title>
+</info>
     <section xml:id="tldr">
+<info>
       <title>TL;DR</title>
+</info>
       <para>
         The main take-away from this essay is that I cannot in good
         conscience recommend against writing your own
@@ -23,7 +27,9 @@
       </para>
     </section>
     <section xml:id="introduction">
+<info>
       <title>Introduction</title>
+</info>
       <para>
         (A crowded room in a support group session:)
       </para>
@@ -54,7 +60,9 @@
       </para>
     </section>
     <section xml:id="requirements-for-a-static-site-generator">
+<info>
       <title>Requirements for a static site generator</title>
+</info>
       <para>
         Your static site generator should have:
       </para>
@@ -83,7 +91,9 @@
       </orderedlist>
     </section>
     <section xml:id="how-it-started">
+<info>
       <title>How it started</title>
+</info>
       <para>
         I originally learned how to write
         <link xlink:href="https://en.wikipedia.org/wiki/HTML">HTML</link>
@@ -110,7 +120,9 @@
       </para>
     </section>
     <section xml:id="the-birth-of-latemp">
+<info>
       <title>The birth of Latemp</title>
+</info>
       <para>
         <link xlink:href="http://www.shlomifish.org/open-source/projects/website-meta-language/">Website
         META Language</link> or WML for short was a relatively early and
@@ -140,7 +152,9 @@
       </para>
     </section>
     <section xml:id="facing-some-criticism">
+<info>
       <title>Facing some criticism</title>
+</info>
       <para>
         Back in the early to mid-200xs, a fellow Linux-IL worker kept
         telling me that I should not generate static HTML sections of
@@ -159,13 +173,15 @@
         Nowadays, with the advent of
         <link xlink:href="https://en.wikipedia.org/wiki/Jekyll_%28software%29">Jekyll</link>
         and other popular SSGs, many clueful web-developers are more
-        informed about them, but OTOH, someone recently argued that
+        informed about them. On the other hand, someone recently argued that
         Jekyll was the only valid alternative to server-side PHP, and
         not SSG in general.
       </para>
     </section>
     <section xml:id="recent-developments">
+<info>
       <title>Recent developments</title>
+</info>
       <para>
         Some time after
         <link xlink:href="https://en.wikipedia.org/wiki/GitHub">GitHub</link>
@@ -233,7 +249,9 @@
       </para>
     </section>
     <section xml:id="licence">
+<info>
       <title>Licence</title>
+</info>
       <para>
         You can reuse this entry under
         <a href="http://creativecommons.org/licenses/by-nc/3.0/">the
@@ -245,7 +263,9 @@
       </para>
     </section>
     <section xml:id="see-also">
+<info>
       <title>See Also:</title>
+</info>
       <itemizedlist spacing="compact">
         <listitem>
           <para>

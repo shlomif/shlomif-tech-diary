@@ -1,4 +1,5 @@
 ---
+title: "See Also:"
 ---
 
 # The Despair of a Static Site Generator Creator
@@ -109,9 +110,9 @@ templates, something I had realised years ago.
 
 Nowadays, with the advent of
 [Jekyll](https://en.wikipedia.org/wiki/Jekyll_%28software%29) and other
-popular SSGs, many clueful web-developers are more informed about them,
-but OTOH, someone recently argued that Jekyll was the only valid
-alternative to server-side PHP, and not SSG in general.
+popular SSGs, many clueful web-developers are more informed about them.
+On the other hand, someone recently argued that Jekyll was the only
+valid alternative to server-side PHP, and not SSG in general.
 
 ## Recent developments
 
