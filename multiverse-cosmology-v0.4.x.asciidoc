@@ -2075,9 +2075,9 @@ On the other hand, I just placed them on the Web as XHTML or text (and they were
 |===
 
 [[convergers-consolidators]]
-== "`SysCo`"s: systems`' coordinators, collaborators, cooperators, consolidators, conventions, conferences ("Cons"). Bringing order (and simplicity) into madnesses. E.g:
+== "`SysCo`"s: systems`' coordinators, collaborators, cooperators, consolidators, convergers, conventions, conferences ("Cons"). Bringing order (and simplicity) into madnesses. E.g:
 
-"`SysCo`"s: systems`' coordinators, collaborators, cooperators, consolidators, conventions, conferences ("Cons"). Bringing order (and simplicity) into madnesses.
+"`SysCo`"s: systems`' coordinators, collaborators, cooperators, consolidators, convergers, conventions, conferences ("Cons"). Bringing order (and simplicity) into madnesses.
 E.g: 
 
 * Intel : 1 CPU, GPU, soundcard, network card, etc. standards for non-professionals. 
