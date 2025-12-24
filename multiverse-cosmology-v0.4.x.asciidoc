@@ -238,7 +238,7 @@ For example in https://www.youtube.com/watch?v=GibiNy4d4gc[the Lion King`'s open
 It is likely that https://en.wikipedia.org/wiki/Egyptian_pyramids[the Egyptian pyramids] and their fan-art https://en.wikipedia.org/wiki/Mesoamerican_pyramids[Mesoamerican pyramids] were constructed using magic.
 They may have also been conjured almost instanteously, as alternate-historical evidence. footnote:[The same logic may be applied to the World War II "evidence" of the Nazi concentration camps and death camps.]
 
-Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGame(TM) of Fantastecha(TM) challenging. 
+Black Magic is initiated by the link:#the-devils[the gamemasters] in order to keep TheGameOfSeekers(TM) of Fantastecha(TM) challenging. 
 
 Magic might be defined as any surprising and unexpected transformation of the state of link:#the-network["the network"]: the extended graph theory graph which is the state of our universe. 
 
