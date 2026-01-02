@@ -45,7 +45,7 @@ One of my favourite pastimes is crossover https://www.shlomifish.org/humour/imag
 
 == Wedding rings’ policy
 
-https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-reddit--rindolf-planning-his-wedding[My wedding rings policy].
+link:++https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-reddit--rindolf-planning-his-wedding++[My wedding rings policy].
 
 == Modelling
 
