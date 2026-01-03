@@ -4,11 +4,20 @@ SHELL = /bin/bash
 
 SSG_DEST = dest/ssgen.xhtml
 SSG_SRC = static-site-generators--despair.md
+SSG_DOCBOOK5_SRC = static-site-generators--despair.docbook5.xml
+SSG_TT2_SRC = static-site-generators--despair.docbook5.xml.tt2
+
+# /home/shlomif/Docs/homepage/homepage/trunk--clones/shlomif-tech-diary/static-site-generators--despair.docbook5.xml.tt2
+
+$(SSG_DOCBOOK5_SRC): $(SSG_TT2_SRC)
+	tpage $< > $@
 
 render: $(SSG_DEST)
 
-$(SSG_DEST): $(SSG_SRC)
-	perl bin/render-markdown.pl $< > $@
+$(SSG_DEST): $(SSG_DOCBOOK5_SRC)
+	docmake -v --ns --trailing-slash=0 -o $@ xhtml5 $<
+
+# perl bin/render-markdown.pl $< > $@
 
 upload: render
 	rsync -a -v --progress --rsh=ssh anchors.js tech-diary.xhtml \
