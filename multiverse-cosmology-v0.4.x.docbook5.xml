@@ -6312,7 +6312,11 @@ SGI [ = "Silicon Graphics Instruments" ] were nicknamed SCGI [ = "Silly Cons, Gr
 
 <listitem>
 <para>
-<link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=clarissa-darling">Clarissa Darling</link> : x86 + UNIX → POSIX, GNU, Linux, FreeBSD, Mac OS X
+<link xlink:href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=clarissa-darling">Clarissa Darling</link> : ( x86 + UNIX ) → ( POSIX, GNU, Linux, FreeBSD, Mac OS X )
+</para>
+
+<para>
+I think SGI’s hardware and software were open-source, but often the size of the sources was prohibitive.
 </para>
 </listitem>
 

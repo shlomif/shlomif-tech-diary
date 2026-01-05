@@ -2083,7 +2083,9 @@ E.g:
 * Intel : 1 CPU, GPU, soundcard, network card, etc. standards for non-professionals. 
 * SCO Unixware / Linux: https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-linux-The-SCO-vs-Linux-TV-Series
 ** SGI [ = "Silicon Graphics Instruments" ] were nicknamed SCGI [ = "Silly Cons, Graphicians, and Instrumentalists" ] 
-** https://www.shlomifish.org/humour/fortunes/show.cgi?id=clarissa-darling[Clarissa Darling] : x86 + UNIX -> POSIX, GNU, Linux, FreeBSD, Mac OS X 
+** https://www.shlomifish.org/humour/fortunes/show.cgi?id=clarissa-darling[Clarissa Darling] : ( x86 + UNIX ) -> ( POSIX, GNU, Linux, FreeBSD, Mac OS X ) 
++
+I think SGI`'s hardware and software were open-source, but often the size of the sources was prohibitive. 
 * DARPA/ARPA: "`When DARPA fails, whole industries spring up`". I think DARPA has a relatively small budget, and also outsource a lot. 
 * conCERN: where HTTP/WorldWideWeb were invented 
 * The smartphone wars: lawyers are often "showy" SysCo. They had to consolidate the legacy of 2-D geometry, 3-D geometry, many user-interfaces of desktop environments, smart devices, games, shells, etc. 
