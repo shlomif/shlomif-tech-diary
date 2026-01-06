@@ -254,11 +254,11 @@
 </info>
       <para>
         You can reuse this entry under
-        <a href="http://creativecommons.org/licenses/by-nc/3.0/">the
+        <link xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">the
         Creative Commons Attribution Noncommercial (CC-by-nc) 3.0
-        Unported</a> licence, or at your option any later version. See
+        Unported</link> licence, or at your option any later version. See
         the
-        <a href="http://www.shlomifish.org/meta/copyrights/">instructions</a>
+        <link xlink:href="http://www.shlomifish.org/meta/copyrights/">instructions</link>
         on how to comply with it.
       </para>
     </section>

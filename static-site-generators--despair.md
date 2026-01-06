@@ -168,9 +168,12 @@ here lies my despair.
 
 ## Licence
 
-You can reuse this entry under the Creative Commons Attribution
-Noncommercial (CC-by-nc) 3.0 Unported licence, or at your option any
-later version. See the instructions on how to comply with it.
+You can reuse this entry under [the Creative Commons Attribution
+Noncommercial (CC-by-nc) 3.0
+Unported](http://creativecommons.org/licenses/by-nc/3.0/) licence, or at
+your option any later version. See the
+[instructions](http://www.shlomifish.org/meta/copyrights/) on how to
+comply with it.
 
 ## See Also:
 
