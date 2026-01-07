@@ -9,7 +9,7 @@ title: "See Also:"
 The main take-away from this essay is that I cannot in good conscience
 recommend against writing your own custom/ad-hoc/home-grown [static site
 generator](https://davidwalsh.name/introduction-static-site-generators)
-("SSG") based on some lower-level tools, rather than going through the
+(“SSG”) based on some lower-level tools, rather than going through the
 trouble of learning an existing open source one. Feel free to publish
 your own creation as open source as well, but you should anticipate that
 it is most probably not going to be popular.
@@ -82,12 +82,12 @@ eventually decided to try it out. After writing some smaller projects
 with it, I ended up converting most of my sites to it. This resulted in
 some duplicate code, which I decided to extract into
 [Latemp](http://www.shlomifish.org/open-source/projects/latemp/) (a play
-on "Template" and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)), which
+on “Template” and [LaTeX](https://en.wikipedia.org/wiki/LaTeX)), which
 was a static site generator that was marketed as an “offline content
 management system”, which in turn caused me to be contacted by some
 people seeking a server-side CMS such as
 [Drupal](https://en.wikipedia.org/wiki/Drupal). To be fair: at that
-point, I wasn't aware that "static site generator" was the more
+point, I wasn't aware that “static site generator” was the more
 conventional term.
 
 WML and Latemp proved to be powerful and flexible, but on the other
@@ -106,7 +106,7 @@ Furthermore, when a different contributor volunteered to create a site
 and I told him to use static HTML and not depend on PHP, he asked me if
 he could use HTML frames. Turns out that despite his years of experience
 in PHP, he didn't realise that static HTML can be generated from
-templates, something I had realised years ago.
+templates, something I had realised years before.
 
 Nowadays, with the advent of
 [Jekyll](https://en.wikipedia.org/wiki/Jekyll_%28software%29) and other
@@ -181,3 +181,5 @@ comply with it.
   Hummel](https://tomhummel.com/posts/four-web-apps/)
 - [How is shlomifish.org
   generated?](https://www.shlomifish.org/meta/FAQ/#how_site_is_generated)
+- [ Ideas for automated tests of static web
+  sites](https://github.com/shlomif/testing-static-sites)

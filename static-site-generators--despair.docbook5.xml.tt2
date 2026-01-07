@@ -4,32 +4,36 @@
   xmlns="http://docbook.org/ns/docbook" version="5.0"
   xmlns:xlink="http://www.w3.org/1999/xlink" >
   <info>
-    <title></title>
+    <title>The Despair of a Static Site Generator Creator</title>
   </info>
   <section xml:id="the-despair-of-a-static-site-generator-creator">
 <info>
     <title>The Despair of a Static Site Generator Creator</title>
 </info>
+
     <section xml:id="tldr">
 <info>
       <title>TL;DR</title>
 </info>
+
       <para>
         The main take-away from this essay is that I cannot in good
         conscience recommend against writing your own
         custom/ad-hoc/home-grown
         <link xlink:href="https://davidwalsh.name/introduction-static-site-generators">static
-        site generator</link> (&quot;SSG&quot;) based on some
+        site generator</link> (“SSG”) based on some
         lower-level tools, rather than going through the trouble of
         learning an existing open source one. Feel free to publish your
         own creation as open source as well, but you should anticipate
         that it is most probably not going to be popular.
       </para>
     </section>
+
     <section xml:id="introduction">
 <info>
       <title>Introduction</title>
 </info>
+
       <para>
         (A crowded room in a support group session:)
       </para>
@@ -59,10 +63,12 @@
         perspective.
       </para>
     </section>
+
     <section xml:id="requirements-for-a-static-site-generator">
 <info>
       <title>Requirements for a static site generator</title>
 </info>
+
       <para>
         Your static site generator should have:
       </para>
@@ -90,10 +96,12 @@
         </listitem>
       </orderedlist>
     </section>
+
     <section xml:id="how-it-started">
 <info>
       <title>How it started</title>
-</info>
+  </info>
+
       <para>
         I originally learned how to write
         <link xlink:href="https://en.wikipedia.org/wiki/HTML">HTML</link>
@@ -119,10 +127,12 @@
         PHP for that seemed suboptimal.
       </para>
     </section>
+
     <section xml:id="the-birth-of-latemp">
 <info>
       <title>The birth of Latemp</title>
 </info>
+
       <para>
         <link xlink:href="http://www.shlomifish.org/open-source/projects/website-meta-language/">Website
         META Language</link> or WML for short was a relatively early and
@@ -133,14 +143,14 @@
         converting most of my sites to it. This resulted in some
         duplicate code, which I decided to extract into
         <link xlink:href="http://www.shlomifish.org/open-source/projects/latemp/">Latemp</link>
-        (a play on &quot;Template&quot; and
+        (a play on “Template” and
         <link xlink:href="https://en.wikipedia.org/wiki/LaTeX">LaTeX</link>),
         which was a static site generator that was marketed as an
         “offline content management system”, which in turn caused me to
         be contacted by some people seeking a server-side CMS such as
         <link xlink:href="https://en.wikipedia.org/wiki/Drupal">Drupal</link>.
-        To be fair: at that point, I wasn't aware that &quot;static site
-        generator&quot; was the more conventional term.
+        To be fair: at that point, I wasn't aware that “static site
+        generator” was the more conventional term.
       </para>
       <para>
         WML and Latemp proved to be powerful and flexible, but on the
@@ -151,10 +161,12 @@
         I should note that I ended up becoming the maintainer of WML.
       </para>
     </section>
+
     <section xml:id="facing-some-criticism">
 <info>
       <title>Facing some criticism</title>
 </info>
+
       <para>
         Back in the early to mid-200xs, a fellow Linux-IL worker kept
         telling me that I should not generate static HTML sections of
@@ -167,7 +179,7 @@
         he asked me if he could use HTML frames. Turns out that despite
         his years of experience in PHP, he didn't realise that static
         HTML can be generated from templates, something I had realised
-        years ago.
+        years before.
       </para>
       <para>
         Nowadays, with the advent of
@@ -178,10 +190,12 @@
         not SSG in general.
       </para>
     </section>
+
     <section xml:id="recent-developments">
 <info>
       <title>Recent developments</title>
 </info>
+
       <para>
         Some time after
         <link xlink:href="https://en.wikipedia.org/wiki/GitHub">GitHub</link>
@@ -248,10 +262,12 @@
         future maintainers of the sites. And here lies my despair.
       </para>
     </section>
+
     <section xml:id="licence">
 <info>
       <title>Licence</title>
 </info>
+
       <para>
         You can reuse this entry under
         <link xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">the
@@ -262,10 +278,12 @@
         on how to comply with it.
       </para>
     </section>
+
     <section xml:id="see-also">
 <info>
       <title>See Also:</title>
 </info>
+
       <itemizedlist spacing="compact">
         <listitem>
           <para>
@@ -279,7 +297,14 @@
             is shlomifish.org generated?</link>
           </para>
         </listitem>
+        <listitem>
+          <para>
+              <link xlink:href="https://github.com/shlomif/testing-static-sites">
+                      Ideas for automated tests of static web sites</link>
+          </para>
+        </listitem>
       </itemizedlist>
     </section>
+
   </section>
 </article>
