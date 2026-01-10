@@ -1732,3 +1732,11 @@ So what’s their net worth?
 
 ----
 
+I am going to march now, even though it is January.
+
+— 2026-01-10
+
+( https://www.facebook.com/shlomi.fish/posts/pfbid0FntSiuen1B4Cu8xKZraApfQYBJKHU8yypcZsZS9KGNoNcnYP1EWBQPnxGs7cofuul  )
+
+----
+
