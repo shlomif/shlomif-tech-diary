@@ -118,6 +118,8 @@ typedef struct
     tamar_octet hacker_explanation[tamar_max_hacker_explantion_len];
 } tamar_query_verdict;
 
+#define CAST2VERDICT() (typeof(*verdict))
+
 // To be used by the managers of the hacker/seeker/vampire's Tamar instance
 // ( the meta-Fantastikans? ) Fortified a bit but God ("Elohim") could
 // and can do things differently.
@@ -129,7 +131,7 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
     *return_time_to_leave = 1;
     if (tamar->time_to_leave < 0)
     {
-        *verdict = {.summary = "Negative TTLeave",
+        *verdict = CAST2VERDICT(){.summary = "Negative TTLeave",
             .hacker_explanation =
                 "Negative TIME-TO-LEAVE! How did this happen?! Tamar will be "
                 "punished! [God willing]"};
@@ -140,7 +142,7 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
     }
     else if (tamar->time_to_leave > tamar_max_time_to_leave)
     {
-        *verdict = {.summary = "Too high TTLeave",
+        *verdict = CAST2VERDICT(){.summary = "Too high TTLeave",
             .hacker_explanation =
                 "TIME-TO-LEAVE is higher than the reasonable maximum! How did "
                 "this happen?! Tamar will be punished [God willing]!"};
@@ -151,7 +153,7 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
     }
     else
     {
-        *verdict = {.summary = "Seems \"OK\"",
+        *verdict = CAST2VERDICT(){.summary = "Seems \"OK\"",
             .hacker_explanation =
                 "TIME-TO-LEAVE is within the reasonable range."};
     }
@@ -188,8 +190,6 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
 // https://www.shlomifish.org/meta/FAQ/#d10_dice ) where "10" was shortened as
 // "0". A d10 (or any other die) can be forced to land on a certain result by
 // God, just like a human or a house-cat can "accidentally" do something clumsy.
-
-#define CAST2VERDICT() (typeof(*verdict))
 
 static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     tamar_state *const tamar, tamar_query_verdict *const verdict,
