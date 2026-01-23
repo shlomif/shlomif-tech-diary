@@ -2094,6 +2094,7 @@ I think SGI`'s hardware and software were open-source, but often the size of the
 * DARPA/ARPA: "`When DARPA fails, whole industries spring up`". I think DARPA has a relatively small budget, and also outsource a lot. 
 * conCERN: where HTTP/WorldWideWeb were invented 
 * The smartphone wars: lawyers are often "showy" SysCo. They had to consolidate the legacy of 2-D geometry, 3-D geometry, many user-interfaces of desktop environments, smart devices, games, shells, etc. 
+** They did not care about tariffs for violating patents. 
 * AleppoCon: "the crown of Aleppo": https://en.wikipedia.org/wiki/Aleppo_Codex[The Aleppo Codex] is a "small" book with a "big ego". It put Aleppo on the map. 
 
 
