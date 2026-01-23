@@ -188,6 +188,9 @@ static tamar_api_ret_code tamar__query_the_time_to_leave(
 // https://www.shlomifish.org/meta/FAQ/#d10_dice ) where "10" was shortened as
 // "0". A d10 (or any other die) can be forced to land on a certain result by
 // God, just like a human or a house-cat can "accidentally" do something clumsy.
+
+#define CAST2VERDICT() (typeof(*verdict))
+
 static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     tamar_state *const tamar, tamar_query_verdict *const verdict,
     const tamar_int superior_len, const tamar_int inferior_len,
@@ -195,7 +198,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
 {
     if (tamar->time_to_leave == 0)
     {
-        *verdict = {.summary = "Tamar was disabled",
+        *verdict = CAST2VERDICT(){.summary = "Tamar was disabled",
             .hacker_explanation =
                 "Message from \"God\" of the seeker [or at least one-or-more "
                 "of their middle managers]: Tamar is officially disabled. A "
@@ -205,7 +208,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     }
     if (from_1_to_5 < 1)
     {
-        *verdict = {.summary = "BAD INPUT",
+        *verdict = CAST2VERDICT(){.summary = "BAD INPUT",
             .hacker_explanation =
                 "from_1_to_5 must be an integer between 1 and 5 (inclusive)"};
         tamar->time_to_leave = 1;
@@ -215,7 +218,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     }
     if (from_1_to_5 > 5)
     {
-        *verdict = {.summary = "BAD INPUT",
+        *verdict = CAST2VERDICT(){.summary = "BAD INPUT",
             .hacker_explanation =
                 "from_1_to_5 must be an integer between 1 and 5 (inclusive)"};
         tamar->time_to_leave = 1;
@@ -225,7 +228,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     }
     if (tamar->time_to_leave < 0)
     {
-        *verdict = {.summary = "Negative TTLeave",
+        *verdict = CAST2VERDICT(){.summary = "Negative TTLeave",
             .hacker_explanation =
                 "Negative TIME-TO-LEAVE! How did this happen?! Tamar will be "
                 "punished! [God willing]"};
@@ -236,7 +239,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     }
     if (tamar->time_to_leave > tamar_max_time_to_leave)
     {
-        *verdict = {.summary = "Too high TTLeave",
+        *verdict = CAST2VERDICT(){.summary = "Too high TTLeave",
             .hacker_explanation =
                 "TIME-TO-LEAVE is higher than the reasonable maximum! How did "
                 "this happen?! Tamar will be punished [God willing]!"};
@@ -247,7 +250,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     }
     if (tamar->time_to_leave == 1)
     {
-        *verdict = {.summary = "Tamar is going to be disabled",
+        *verdict = CAST2VERDICT(){.summary = "Tamar is going to be disabled",
             .hacker_explanation =
                 "Message to the hacker seeker's elohim [or their/its middle "
                 "manager]; This instance of \"Tamar\" is about to be disabled; "
@@ -273,7 +276,8 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
     {
         if ((from_1_to_5 < 5) && (!is_enforcing))
         {
-            *verdict = {.summary = "IDK. Ask your guideline-generators.",
+            *verdict = CAST2VERDICT(){
+                .summary = "IDK. Ask your guideline-generators.",
                 .hacker_explanation =
                     "\"I don't know! Do I look like a philosopher / creator / "
                     "soul-ful player-character whose mind imagines "
@@ -282,7 +286,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
         }
         else
         {
-            *verdict = {
+            *verdict = CAST2VERDICT(){
                 .summary = "May your God destroy me (a little) for me being "
                            "such an unhelpful/lying airhead.",
                 .hacker_explanation =
@@ -305,7 +309,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
         ret = false;
         if (superior_len <= inferior_len - 1)
         {
-            *verdict = {
+            *verdict = CAST2VERDICT(){
                 .summary = "Yes. >=",
                 .hacker_explanation =
                     "Yes, ${Inferior} is as good as ${Superior} or better",
@@ -314,7 +318,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
         }
         if (superior_len == inferior_len)
         {
-            *verdict = {
+            *verdict = CAST2VERDICT(){
                 .summary = "No. <=",
                 .hacker_explanation = "No, ${Inferior} is only as good as "
                                       "${Superior} or, often, worse",
@@ -323,7 +327,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
         }
         if (superior_len == inferior_len + 1)
         {
-            *verdict = {
+            *verdict = CAST2VERDICT(){
                 .summary = "No. <",
                 .hacker_explanation =
                     "No, ${Superior} is worse than ${Inferior}",
@@ -332,7 +336,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
         }
         if (superior_len == inferior_len + 2)
         {
-            *verdict = {
+            *verdict = CAST2VERDICT(){
                 .summary = "No. <<",
                 .hacker_explanation =
                     "No, ${Superior} is *much* worse than ${Inferior}",
@@ -341,7 +345,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
         }
         if (superior_len >= inferior_len + 3)
         {
-            *verdict = {
+            *verdict = CAST2VERDICT(){
                 .summary = "No. \"<\" x \\inf",
                 .hacker_explanation = "No, ${Superior} cannot possibly be "
                                       "worse than ${Inferior}!",
@@ -350,7 +354,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
         }
         if (ret != true)
         {
-            *verdict = {
+            *verdict = CAST2VERDICT(){
                 .summary = "Bad arithmetics",
                 .hacker_explanation =
                     "Dear God, your arithmetics of signed but integral numbers "
@@ -359,7 +363,7 @@ static tamar_api_ret_code tamar__provide_an_answer_for_a_comparative_question(
                     "punished.",
             };
             ret = false;
-            tanar->time_to_leave = 1;
+            tamar->time_to_leave = 1;
             tamar->count_times_to_enforce_a_little_TTLeave_reduction =
                 tamar_max_count_times_to_enforce_a_little_TTLeave_reduction;
             return false;
