@@ -1740,3 +1740,13 @@ I am going to march now, even though it is January.
 
 ----
 
+Re Python ( https://en.wikipedia.org/wiki/Python_(programming_language) ), while I think its use of indent for scoping is sub optimal ( ref: https://shlomifishswiki.branchable.com/Indentation_for_Scoping/ ), I think py code tends to be involved so its harm is relatively small.
+
+Also see https://github.com/brython-dev/brython and bash/zsh's dollar single quote. Note that dollar doublequote doesn't do the right thing.
+
+— 2026-01-27
+
+( https://www.facebook.com/shlomi.fish/posts/pfbid0c4YWBoSrNWHbVjPdtoVKFVJf1XYicShtg2xd7obFjHRdn2DKsRLsvKqFf5zN6nkWl )
+
+----
+
