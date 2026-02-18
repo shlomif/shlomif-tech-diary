@@ -1750,3 +1750,9 @@ Also see https://github.com/brython-dev/brython and bash/zsh's dollar single quo
 
 ----
 
+After "ncu -u" ( https://www.npmjs.com/package/npm-check-updates ; and “npm i” ) several of my websites’ build-procs failed. The solution? Simply do not run "ncu -u". It had become muscle-memory to me. #programming #nodejs
+
+(  https://twitter.com/shlomif/status/2024085535476658427 )
+
+----
+
