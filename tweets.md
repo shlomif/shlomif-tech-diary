@@ -1756,3 +1756,11 @@ After "ncu -u" ( https://www.npmjs.com/package/npm-check-updates ; and “npm i�
 
 ----
 
+Part of the premise of #BtVS ( https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer ) was that its chars' dealing w fighting demons interfered but often assisted, their "teen angst"/social life.
+
+#TBBT followed similar, w demons→physix/etc. and so did some of my fics.
+
+( https://twitter.com/shlomif/status/2028440164599799967 )
+
+----
+
