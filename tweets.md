@@ -7,7 +7,7 @@ I am a big fan of many of your yt vids. You're really talented. Here's my [publi
 Re spiderman, I recall having watched https://www.youtube.com/watch?v=kCl3ho6_gbg w @SarahMGellar & @jackblack before I watched the orig film (w @kirstendunst / etc.) found it
 
 
-Re spiderman, I recall having watched https://www.youtube.com/watch?v=kCl3ho6_gbg w @SarahMGellar & @jackblack before I watched the orig film (w @kirstendunst / etc.) found it funny. Then as I watched the orig, I said in my mind "now I know why that was funny."  several times.
+Re spiderman, I recall having watched https://www.youtube.com/watch?v=kCl3ho6_gbg w @SarahMGellar & @jackblack before I watched the orig film (w @kirstendunst / etc.) found it funny. Then as I watched the orig, I said in my mind "now I know why that was funny." several times.
 
 Perhaps I will be slain by all my children. Together, you are much more awesome than I am.
 
@@ -251,7 +251,7 @@ hi. i am getting a horizontal scrollbar on https://www.shlomifish.org/fc-solve-t
 
 ----
 
-I reworked https://www.shlomifish.org/art/d-and-d-cartoon--comparing-lances/ yesterday.  #D&D #StarWars .
+I reworked https://www.shlomifish.org/art/d-and-d-cartoon--comparing-lances/ yesterday. #D&D #StarWars .
 
 ----
 
@@ -564,7 +564,7 @@ The celebration involved harmless streetfights of “Jews”vs“Goys”
 
 "Friend" = a parent, a sibling, and/or a child.
 
-"Family" = a set of hackers where every 2 members are friends.  https://en.wikipedia.org/wiki/Clique_(graph_theory)
+"Family" = a set of hackers where every 2 members are friends. https://en.wikipedia.org/wiki/Clique_(graph_theory)
 
 "School" = a sparser corporation.
 
@@ -699,7 +699,7 @@ https://github.com/shlomif/fortune-mod/releases/tag/fortune-mod-3.20.0 - fortune
 
 https://github.com/shlomif/rebookmaker - rebookmaker EPUB generator.
 
-https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/ -  reworked essay.
+https://www.shlomifish.org/philosophy/computers/the-broken-window-fallacy/ - reworked essay.
 
 ----
 
@@ -1070,7 +1070,7 @@ https://dev.to/fastly/an-easy-intro-to-edge-computing-3ced
 
 Per the "mailing list diet" on https://www.shlomifish.org/philosophy/by-others/perlcast-transcript--tom-limoncelli-interview/ , I decided that I'll try to sort-or-delete 2 unsorted bookmarks whenever I add one
 
-(  https://twitter.com/shlomif/status/1816800317595582713 )
+( https://twitter.com/shlomif/status/1816800317595582713 )
 
 ----
 
@@ -1420,7 +1420,7 @@ Looked sth like:
 
 https://duckduckgo.com/?q=dried+kiwi&iax=images&ia=images&iai=https%3A%2F%2Fi0.wp.com%2Fhilltree.in%2Fwp-content%2Fuploads%2F2020%2F07%2Fdry-kiwi.jpg%3Ffit%3D1188%252C1280%26ssl%3D1
 
-( https://twitter.com/shlomif/status/1892542907304804405  )
+( https://twitter.com/shlomif/status/1892542907304804405 )
 
 ----
 
@@ -1556,7 +1556,7 @@ I switched my xfce's clock's font to Source Code Pro Bold 12, and its now much e
 
 ( The woman in the wallpaper is Emma Stone. )
 
-( https://twitter.com/shlomif/status/1917258220957061522  )
+( https://twitter.com/shlomif/status/1917258220957061522 )
 
 ⇒
 
@@ -1586,7 +1586,7 @@ https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/in
 
 https://www.youtube.com/watch?v=ytGqUs3UIPk :Sweeter than Fiction
 
-( https://twitter.com/shlomif/status/1919044140525908147  )
+( https://twitter.com/shlomif/status/1919044140525908147 )
 
 ----
 
@@ -1613,7 +1613,7 @@ https://www.youtube.com/watch?v=Go7gn6dugu0 ; great song with a msg I agree with
 
 "My baby already got all my love." impossible: https://www.shlomifish.org/humour/He-Damsel-in-Distress-and-a-Distressing-Damsel/ .
 
-( https://twitter.com/shlomif/status/1920703785086632211  )
+( https://twitter.com/shlomif/status/1920703785086632211 )
 
 ----
 
@@ -1720,7 +1720,7 @@ Timon: amateur! Real biologists use the Latin name. However: I don't know what s
 
 #flashfic
 
-(  )
+( )
 
 ----
 
@@ -1736,7 +1736,7 @@ I am going to march now, even though it is January.
 
 — 2026-01-10
 
-( https://www.facebook.com/shlomi.fish/posts/pfbid0FntSiuen1B4Cu8xKZraApfQYBJKHU8yypcZsZS9KGNoNcnYP1EWBQPnxGs7cofuul  )
+( https://www.facebook.com/shlomi.fish/posts/pfbid0FntSiuen1B4Cu8xKZraApfQYBJKHU8yypcZsZS9KGNoNcnYP1EWBQPnxGs7cofuul )
 
 ----
 
@@ -1752,7 +1752,7 @@ Also see https://github.com/brython-dev/brython and bash/zsh's dollar single quo
 
 After "ncu -u" ( https://www.npmjs.com/package/npm-check-updates ; and “npm i” ) several of my websites’ build-procs failed. The solution? Simply do not run "ncu -u". It had become muscle-memory to me. #programming #nodejs
 
-(  https://twitter.com/shlomif/status/2024085535476658427 )
+( https://twitter.com/shlomif/status/2024085535476658427 )
 
 ----
 
