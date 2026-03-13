@@ -14,5 +14,5 @@ gens ./\[SHC\]\ \[contest2021\]\ 505\ -\ Sonic\ the\ Hedgehog\ -\ Anniversary\ E
 
 == License
 
-The authors (Shlomi Fish) hereby place this work, written in 2021, under https://creativecommons.org/choose/zero/[CC0 / Public Domain].
+The authors (Shlomi Fish) hereby place this work, written in 2026, under https://creativecommons.org/choose/zero/[CC0 / Public Domain].
 
