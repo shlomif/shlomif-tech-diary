@@ -1,5 +1,4 @@
-Getting Sonic the Hedgehog Up and Running in Linux
-==========================================================
+= Getting Sonic the Hedgehog Up and Running in Linux
 
 Run `sudo dnf install gens` (or equivalent on non-Fedora).
 
