@@ -1,0 +1,19 @@
+Getting Sonic the Hedgehog Up and Running in Linux
+==========================================================
+
+Run `sudo dnf install gens` (or equivalent on non-Fedora).
+
+Download the `.7z` file from
+https://archive.org/details/sonic-the-hedgehog-anniversary-edition
+and unpack it.
+
+.Type this to run the game.
+[source,sh]
+----
+gens ./\[SHC\]\ \[contest2021\]\ 505\ -\ Sonic\ the\ Hedgehog\ -\ Anniversary\ Edition\ By\ SophieDude.bin
+----
+
+== License
+
+The authors (Shlomi Fish) hereby place this work, written in 2021, under https://creativecommons.org/choose/zero/[CC0 / Public Domain].
+
