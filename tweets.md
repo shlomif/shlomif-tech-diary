@@ -1764,3 +1764,11 @@ Part of the premise of #BtVS ( https://en.wikipedia.org/wiki/Buffy_the_Vampire_S
 
 ----
 
+“Well I don't see why I have to make one man miserable, when I can make so many men happy.”
+
+— Ellyn Mustard about marriage quoted by fortune-mod .
+
+( https://twitter.com/shlomif/status/2032858715414569314 )
+
+----
+
