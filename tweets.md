@@ -1772,3 +1772,11 @@ Part of the premise of #BtVS ( https://en.wikipedia.org/wiki/Buffy_the_Vampire_S
 
 ----
 
+I suspect #chucknorris passaway is false from my PoV and part of the unlikely calamities in my hell. But 2 not b insensitive, https://en.wikipedia.org/wiki/Sidekicks_(1992_film) is a Norris film I loved, while https://youtu.be/ZrHmcpRAZNs is "Hitler finds out #chucknorrisfacts is coming".
+
+#TBBT followed similar, w demons→physix/etc. and so did some of my fics.
+
+( https://twitter.com/shlomif/status/2035653109121221102 )
+
+----
+
