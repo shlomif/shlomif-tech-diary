@@ -513,6 +513,11 @@ bfr she retired queen Liz II cudnt wear captioned shirts, while her grandkids ca
 
 We all have dfrnt affils.
 
+( https://twitter.com/shlomif/status/1639567280471252992 )
+
+⇒
+in addition, a woman wearing only a bikini will draw2much attention in ramatavivgimel shop centre [or get arrested]. OTOH, in TelBarukh beach, 1hr walk away, she'll be fine. Pornography has subtle geography.
+
 ----
 
 I've been mildly obsessed with https://www.youtube.com/watch?v=Gy35AJ09S3k - a multi-female farfetched-in-a-goodway #action vid. #girlpower
@@ -1777,6 +1782,12 @@ I suspect #chucknorris passaway is false from my PoV and part of the unlikely ca
 #TBBT followed similar, w demons→physix/etc. and so did some of my fics.
 
 ( https://twitter.com/shlomif/status/2035653109121221102 )
+
+----
+
+I have a hypothesis that the universe we live in is considered fantastical by sentient beings in other universes (eg star trek, the tanakh, greek myth, מר קו  , buffy, star wars, MLP FiM, etc.  ) moreover, sciences have their domain limits. eg: honey bees in principle should not have been able2fly according2newtonian physics. However, many humans, other animals, and their elohim [=[ RPG players ] like honey better so they exempt them from that
+
+( )
 
 ----
 

@@ -103,6 +103,7 @@ I will try to show why accepting them and the media "facts" will result in havin
 
 * https://www.explainxkcd.com/[xkcd] had some RPF (= https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/["Real Person Fiction"], e.g: https://www.explainxkcd.com/wiki/index.php/406:_Venting["`xkcd #406: Venting`"] ), and my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/[Summerschool-at-the-NSA screenplay] was well-received on https://www.reddit.com/r/xkcd/[/r/xkcd] and elsewhere. Nevertheless, later on I was told "RPF? Never do that!" on an xkcd IRC chatroom, and was promptly banned.
 * "People" online are afraid of http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[critics and contrarians] and yet sadistic enough to ban non-spammers.
+** I was also told that "`emotional hurt is worse than physical hurt`" even though one becomes more and more immune to it. 
 * It is not clear whether bigger muscles imply that a person is physically stronger or not.
 ** https://www.youtube.com/watch?v=CEpkmoCBPkM["`Strength comes in all shapes and sizes and this young lady is proof of that. Watch "`Lovely Joy`" lifting a few times her own weight for your daily dose of gym motivation!`"]
 ** A typical https://en.wikipedia.org/wiki/Gorilla[Gorilla] is far stronger than even the strongest humans, while not exercising. 
@@ -422,6 +423,7 @@ The British mandate, and the Jordanian and Israeli admin ( https://en.wikipedia.
 ** In a video on Grimmie`'s channel, her father notes that she received many legitimate/nonspam emails to her personal email inbox in succession, and they were legitimate emails from her fans. 
 ** I recall reading a youtube comment from a school boy who noted that he had mentioned Christina Grimmie to his friend, and a few weeks later, the whole school was talking about her. 
 ** Starting from around 2012, there were some "`viral`" videos: https://en.wikipedia.org/wiki/Gangnam_Style[Gangnam Style], https://en.wikipedia.org/wiki/Harlem_Shake_(meme)[Harlem Shake]
+* My "father" disapproves of me featuring celebrities in my screenplays, but watches https://en.wikipedia.org/wiki/Eretz_Nehederet[Eretz Nehederet]
 * "`Fish`" is reportedly a fairly common last name in England and among Americans of English descent. In Israel, it is rare, but associated with Jews of Polish descent. When I studied in the Technion, there were three "Fish"-es studying there: I, my sister, and Marina Fish, who was non-coincidentally my next door neighbour, and also studied Electrical Engineering. 
 * The following entities are too obscure or too antagonised than they should be: 
 ** XML ( https://www.shlomifish.org/meta/FAQ/why_xml.xhtml[Reference] ) 
