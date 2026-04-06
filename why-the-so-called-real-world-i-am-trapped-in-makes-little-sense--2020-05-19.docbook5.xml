@@ -245,7 +245,7 @@ change it to make it less scientifically acceptable. I will try to show why acce
 and the media "facts" will result in having to reject them ( <link xlink:href="https://en.wikipedia.org/wiki/Reductio_ad_absurdum">Reductio ad absurdum</link> ).
 </para>
 
-<itemizedlist>
+<orderedlist>
 
 <listitem>
 <para><link xl:href="https://www.explainxkcd.com/">xkcd</link> had some RPF (= <link xl:href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/">"Real Person Fiction"</link>, e.g: <link xl:href="https://www.explainxkcd.com/wiki/index.php/406:_Venting">“xkcd #406: Venting”</link> ), and my <link xl:href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/">Summerschool-at-the-NSA screenplay</link> was well-received on <link xl:href="https://www.reddit.com/r/xkcd/">/r/xkcd</link> and elsewhere. Nevertheless, later on I was told "RPF? Never do that!" on an xkcd IRC chatroom, and was promptly banned.</para>
@@ -1697,7 +1697,7 @@ The people I refer to these issues online could not until now give sufficient ra
 </para>
 </listitem>
 
-</itemizedlist>
+</orderedlist>
 
 <section xml:id="obstacles-and-delays">
 
