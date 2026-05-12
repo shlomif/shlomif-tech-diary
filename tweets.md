@@ -1789,3 +1789,9 @@ I have a hypothesis that the universe we live in is considered fantastical by se
 
 ----
 
+Evil fairies consider every thing evil. If an entity is good, it is detrimental to Evil. If it is evil, then it’s evil by definition. #humor #joke
+
+( https://twitter.com/shlomif/status/2054257692110152163 )
+
+----
+
