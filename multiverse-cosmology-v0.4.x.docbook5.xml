@@ -5619,7 +5619,7 @@ IBM, Microsoft, etc. can afford paying for the license-changes. As a general rul
 or other software originators, do not engage in non-voluntary, non-parodical,
 licensing violations' litigation. This is because they have better tasks to
 accomplish with their time than go on a litigatious offence, which wastes time,
-good will, love, reputation, etc. ( References: )
+good will, love, and reputation. ( References: )
 </para>
 
 <para>
@@ -5649,7 +5649,7 @@ The software of the GNU project was notorius for being more feature-rich than
 that of the commercial UNIXes, and was often installed by end-users on
 <code>/usr/local/gnu</code>, <code>~/gnu</code>, <code>/opt/gnu</code> / etc.
 When systems based on the Linux kernel emerged, they based their user-land
-software on GNU wholesale.
+software on GNU’s wholesale.
 </para>
 
 <para>
@@ -5661,6 +5661,10 @@ I think in the Selinaverse, Android uses sources, both from iOS and from the GNU
 So <quote>Android is an OS that is almost, but not quite, entirely unlike GNU / Linux</quote>
 is not true there. I suspect that the Smartphone patent wars involve vendors pointing out
 bugs and issues in each others' products.
+</para>
+
+<para>
+I suspect many of the POSIX/GNU compatible kernels are figuratively gathering dust on software sharing sites and VCS repositories. However, Linus Torvalds was serious about making the Linux kernel a more serious contender. As opposed to Microsoft Windows, Linux assumes that offending user-land applications will be fixed; possibly by recompiling and/or patching the sources. It does not have Windows’ "bug-to-bug backward-compatibllity" guarantee.
 </para>
 
 </section>

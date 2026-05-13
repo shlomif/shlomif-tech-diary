@@ -1839,7 +1839,7 @@ The GNU/FSF was created to concentrate changes and enhancements from individual 
 The Selinaverse's FSF relicenses the GNU software packages to a permissive licence, and Apple.com, IBM, Microsoft, etc.
 can afford paying for the license-changes.
 As a general rule, the FSF or other software originators, do not engage in non-voluntary, non-parodical, licensing violations' litigation.
-This is because they have better tasks to accomplish with their time than go on a litigatious offence, which wastes time, good will, love, reputation, etc.
+This is because they have better tasks to accomplish with their time than go on a litigatious offence, which wastes time, good will, love, and reputation.
 ( References: ) 
 
 The GNU project made some other smart decisions, such as keeping the C code 32-bit-only rather than compatible with 16-bit C. 
@@ -1850,7 +1850,7 @@ The hardware devices used by the Unix/GNU users were fast and powerful enough to
 For a time, Intel/AMD-based hardware components were notorious for being buggy ( "`They are junk, but cheap junk.`" ). As time went by, they became more reliable, which made the case for the hardware architectures used by the computers running Unix-like OSes less pronounced. 
 
 The software of the GNU project was notorius for being more feature-rich than that of the commercial UNIXes, and was often installed by end-users on ``/usr/local/gnu``, ``~/gnu``, `/opt/gnu` / etc.
-When systems based on the Linux kernel emerged, they based their user-land software on GNU wholesale. 
+When systems based on the Linux kernel emerged, they based their user-land software on GNU`'s wholesale. 
 
 Meanwhile, as DOS mutated into Microsoft Windows, Microsoft had to deal with maintaining backward-compatibllity with a lot of 3rd-party software with no ready availability of source code.
 References: https://www.shlomifish.org/meta/FAQ/#why_not_mswindows[Shlomi Fish`'s FAQ - "`Why do you try to avoid using Microsoft Windows as a desktop operating system, and recommend against that?`"].
@@ -1859,6 +1859,11 @@ This made the Microsoft Windows sources larger, less elegant, and more discourag
 I think in the Selinaverse, Android uses sources, both from iOS and from the GNU projects.
 So "`Android is an OS that is almost, but not quite, entirely unlike GNU / Linux`" is not true there.
 I suspect that the Smartphone patent wars involve vendors pointing out bugs and issues in each others' products. 
+
+I suspect many of the POSIX/GNU compatible kernels are figuratively gathering dust on software sharing sites and VCS repositories.
+However, Linus Torvalds was serious about making the Linux kernel a more serious contender.
+As opposed to Microsoft Windows, Linux assumes that offending user-land applications will be fixed; possibly by recompiling and/or patching the sources.
+It does not have Windows`' "bug-to-bug backward-compatibllity" guarantee. 
 
 [[corporations]]
 == Corporations / companies / organisations / schools
