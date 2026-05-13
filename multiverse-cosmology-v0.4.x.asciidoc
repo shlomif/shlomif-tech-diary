@@ -1819,7 +1819,7 @@ The Defence Community comprises of:
 
 They avoid mass-surveillance and instead rely on observers`' reports.
 During crime prevention, they profile the fairy (a hacker/etc.) who intends to perform the crime (due to being obsessed/etc.) by profiling him: constructing a static *model* of him.
-This model is temporary, and can and likely will get out-pf-date, given his mind is dynamic. 
+This model is temporary, and can and likely will get out-of-date, given his mind is dynamic. 
 
 They are mainly concerned with preventing physical pain and peril. 
 
