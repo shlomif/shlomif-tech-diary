@@ -1795,3 +1795,9 @@ Evil fairies consider every thing evil. If an entity is good, it is detrimental 
 
 ----
 
+Memo to self, in SCSS "& :hover" is NOT the same as "&:hover". #techtip #tip .
+
+( https://twitter.com/shlomif/status/2055589930877763642 )
+
+----
+
