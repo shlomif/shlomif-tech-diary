@@ -1801,3 +1801,13 @@ Memo to self, in SCSS "& :hover" is NOT the same as "&:hover". #techtip #tip .
 
 ----
 
+Most domestic cats [ https://en.wikipedia.org/wiki/Cat ] hate landing on surfaces w water.
+
+But4all we know, they may be intlgnt, and conspired2fool humans. Moreover, they will stop sometime in the futture.
+
+FTR, see https://en.wikipedia.org/wiki/Van_cat .
+
+(  )
+
+----
+
