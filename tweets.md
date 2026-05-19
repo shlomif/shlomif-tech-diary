@@ -1805,9 +1805,9 @@ Most domestic cats [ https://en.wikipedia.org/wiki/Cat ] hate landing on surface
 
 But4all we know, they may be intlgnt, and conspired2fool humans. Moreover, they will stop sometime in the futture.
 
-FTR, see https://en.wikipedia.org/wiki/Van_cat .
+FTR, https://en.wikipedia.org/wiki/Van_cat like water
 
-(  )
+( https://twitter.com/shlomif/status/2056589580552253867 )
 
 ----
 
