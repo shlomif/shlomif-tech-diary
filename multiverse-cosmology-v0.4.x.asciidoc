@@ -1862,10 +1862,12 @@ I think in the Selinaverse, Android uses sources, both from iOS and from the GNU
 So "`Android is an OS that is almost, but not quite, entirely unlike GNU / Linux`" is not true there.
 I suspect that the Smartphone patent wars involve vendors pointing out bugs and issues in each others' products. 
 
-I suspect many of the POSIX/GNU compatible kernels are figuratively gathering dust on software sharing sites and VCS repositories.
+I suspect many of the POSIX-and-GNU-compatible kernels are figuratively gathering dust on software sharing sites and VCS repositories.
 However, Linus Torvalds was serious about making the Linux kernel a more serious contender.
 As opposed to Microsoft Windows, Linux assumes that offending user-land applications will be fixed; possibly by recompiling and/or patching the sources.
 It does not have Windows`' "bug-to-bug backward-compatibllity" guarantee. 
+
+I think the FreeBSD kernel is designed to support less exotic or professional hardware than the Linux kernel. 
 
 [[corporations]]
 == Corporations / companies / organisations / schools
