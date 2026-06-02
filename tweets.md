@@ -1811,3 +1811,15 @@ FTR, https://en.wikipedia.org/wiki/Van_cat like water
 
 ----
 
+I dislike systemd's inflated major version and its non-portability.
+
+But these are annoyances, not showstoppers.
+
+https://www.shlomifish.org/meta/FAQ/why_not_mswindows.xhtml are showstoppers .
+
+Not every annoyance is a showstopper .
+
+( https://twitter.com/shlomif/status/2061841432529215978 )
+
+----
+
