@@ -51,7 +51,7 @@ etc.
 
 </QUOTE>
 
-2. Secondly, regarding building upon my "hard" work and creative a derivative
+2. Secondly, regarding building upon my "hard" work and creating a derivative
 version, not only do I not mind, but I encourage it:
 
 * My work is under CC-by, CC-by-sa, CC-by-nc and CC-by-nc-sa which allow for
@@ -66,7 +66,7 @@ For all that see:
 
 (I require attribution, but otherwise you should be OK.)
 
-Also see xkcd's "Steal This Comic" - https://xkcd.com/488/ .
+Also see xkcd's "Steal This Comic" - https://www.explainxkcd.com/wiki/index.php/488:_Steal_This_Comic .
 
 I should note that historically copyright did not apply to characters, concepts
 and worlds, it's just that it became maximalistic like that more recently.
