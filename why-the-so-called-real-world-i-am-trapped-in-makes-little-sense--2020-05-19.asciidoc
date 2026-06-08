@@ -1,8 +1,6 @@
 = Reasons why my perceived world is hard to believe is real
 
-Shlomi
-Fish
- <shlomif@shlomifish.org>
+Shlomi Fish <shlomif@shlomifish.org>
 2022-05-04
 
 Date: 2021-08-12
@@ -92,10 +90,9 @@ Stolen water will taste sweeter.
 "`I will stop the motor of the world`" -- John Galt in https://en.wikipedia.org/wiki/Atlas_Shrugged[Atlas Shrugged]
 
 
-[[evidence-that-this-hell-isnt-real]]
+[[_evidence_that_this_hell_isnt_real]]
 == Evidence that this hell is not real
 
-[[more-thoughts]]
 === More thoughts:
 
 In this meditation, I am starting from accepting the assumptions that 1) the world, as I perceive it, is real, and - 2) there is no entity capable of employing super-natural "magic" effects that will either make me perceive it in a different way, or actually change it to make it less scientifically acceptable.
@@ -188,8 +185,8 @@ Moreover, "Stutz" ["סטוץ"], an Israeli dating gameshow used to match teenage
 There doesn't seem to be shortages in the supply despite the fact that only a few civilians work there. 
 . Many classics are needlessly long and repetitive, e.g: https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex]
 +
-The canonical https://en.wikipedia.org/wiki/Hebrew_Bible[Tanakh
-(+++=+++ Hebrew Bible)], Plato`'s https://en.wikipedia.org/wiki/Republic_(Plato)[Republic], Tolkien`'s https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[Lord of the
+The canonical https://en.wikipedia.org/wiki/Hebrew_Bible["Tanakh
+(= Hebrew Bible)"], Plato`'s https://en.wikipedia.org/wiki/Republic_(Plato)[Republic], Tolkien`'s https://en.wikipedia.org/wiki/The_Lord_of_the_Rings[Lord of the
 Rings], Ayn Rand`'s https://en.wikipedia.org/wiki/Atlas_Shrugged[Atlas Shrugged], Dostoevsky`'s https://en.wikipedia.org/wiki/Crime_and_Punishment[Crime and
 Punishment] , Shakespeare`'s https://en.wikipedia.org/wiki/Shakespeare%27s_plays[Plays], etc.
 have likely undergone lengthening and mutation by the Orcs.
@@ -230,7 +227,7 @@ without magic.
 . Some technologies are too complicated for a human to understand, much less to implement: e.g: C++, CSS 3.x, ghc, Common Lisp https://twitter.com/shlomif/status/1428991948803776512[Reference]. 
 . https://www.shlomifish.org/Files/files/images/hostgator-no-python3.png[HostGator removing python v3 and requiring v2.7.5 (!)]
 . The local synagogue and the https://en.wikipedia.org/wiki/Ramat_Aviv_Mall[Ramat Aviv Mall] look bigger on the inside. 
-. https://en.wikipedia.org/wiki/Emma_Watson[Emma Charlotte Duerre Watson] (also see https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[my fanfics of her] ) was born a day after https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)]'s 13th birthday. "Emma" means "complete" in proto-Germanic, not unlike https://www.shlomifish.org/meta/FAQ/your_name.xhtml["Shlomi" [+++=+++ "shalom-ful"]]. "Eymah" means 'terror' in Hebrew, while "Em" means "mother". "Sarah" means "a [female] minister" or "a ruler". "Charlotte" is cognate with both "Sarah" and "Shlomi" and also means "a ruler". 
+. https://en.wikipedia.org/wiki/Emma_Watson[Emma Charlotte Duerre Watson] (also see https://www.shlomifish.org/meta/nav-blocks/blocks/#harry_potter_nav_block[my fanfics of her] ) was born a day after https://www.shlomifish.org/meta/FAQ/biggest_celeb_crush.xhtml[Sarah Michelle Gellar (SMG)]'s 13th birthday. "Emma" means "complete" in proto-Germanic, not unlike https://www.shlomifish.org/meta/FAQ/your_name.xhtml["\"Shlomi\" [= \"shalom-ful\"]"]. "Eymah" means 'terror' in Hebrew, while "Em" means "mother". "Sarah" means "a [female] minister" or "a ruler". "Charlotte" is cognate with both "Sarah" and "Shlomi" and also means "a ruler". 
 +
 So it is likely that she was conceived as a bridge between SMG and me. footnote:[There may have been hopes to get SMG to terminate me before me hitting
 puberty on 5 May 1990 [= my 13th birthday].]
@@ -450,7 +447,7 @@ This an obstacle for me.
 . The people I refer to these issues online could not until now give sufficient rationalisations or explanations to refute any substantial number of these "What-The-Fucks?". https://en.wikisource.org/wiki/Amos_(Bible)[Quoting Amos], I can accept 3, but I have many more. 
 
 
-[[obstacles-and-delays]]
+[[_obstacles_and_delays]]
 ==== Obstacles and Delays:
 
 . Pro/anti-Israel; Pro/anti-"Zionism" - https://www.shlomifish.org/philosophy/politics/define-zionism/["`Define Zionism`"] / https://www.shlomifish.org/meta/FAQ/zionist.xhtml["`Are you a Zionist?`"]
@@ -494,7 +491,6 @@ My parents also said philosophising was bad and that I shouldn't have it, when I
 ** Nevertheless, there are often people who *do* agree with me. 
 
 
-[[I-give-up-on-this-hell]]
 === I Give up on this hell
 
 Regarding the current bombing of Israel (by Gaza and Lebanon), no missile hit my building yet, and I sleep through the alarms.
@@ -568,7 +564,7 @@ Claiming that my hell "world" is real, does not explain all the phenomena, and s
 Moreover, given I accept that *there probably is a conspiracy* and that I am being deceived by an evil demon, I can dismiss the appeal to "rationality" as another of his deceptions.
 It seems reasonable on the surface, but is logically unsound. 
 
-[[selinaverse_vision]]
+[[_selinaverse_vision]]
 == The Selinaverse Vision
 
 https://buffyfanfiction.fandom.com/wiki/Selinaverse[The Selinaverse] is a starting point for the multiverse as I (= https://www.shlomifish.org/[Shlomi Fish] ) want it to be, not as what I was told it must be.
@@ -620,7 +616,7 @@ Jedi training can be https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-P
 Jedis/etc.
 do a commendable job handling people who are possessed or obsessed, making people happy, as a line of defence, etc.
 
-[[history]]
+[[_history]]
 == History of the Selinaverse (OUT-OF-DATE!)
 
 The terrans were given several gifts of a blessing and a curse.
@@ -681,7 +677,7 @@ I refused to permanently consider the opposite! Even if it meant the whole media
 
 "A vampire can only be slain by another vampire, except for the last standing vampire who will be slain by the child of his two favourite children." -- The-Codex(TM) of the Selineverse.
 
-[[history-more-about-selina]]
+[[_history_more_about_selina]]
 === More about Selina Mandrake:
 
 Selina now found herself a multiverse heroine, part of the NSA`'s payroll, and still wishing to lead a life as a human being, esp.
@@ -696,7 +692,7 @@ One note was that Selina blew some dandelions at a summer camp and was nicknamed
 
 She, Samantha Smith, and Joss Whedon became good friends, and colleagues.
 
-[[real_shlomif_success]]
+[[_real_shlomif_success]]
 == Success in the Selinaverse; Living in a hell
 
 I suspect I lived in a hell spawned by theGamers(TM), and that in the https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/[Selinaverse], I was highly successful, rich, revered, famous and admired.
@@ -732,7 +728,7 @@ circular logic, circular feedback, etc.] are common in Fantastecha(TM), and are 
 
 Note that Emma Watson took over the project management / "watching" role of Rindolfism from https://en.wikipedia.org/wiki/Melissa_Joan_Hart[MJH]
 
-[[the-open-value]]
+[[_the_open_value]]
 === "open":
 
 The "open" value implies "openness" / "openmindedness": https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#open_free_share_steal[Reference]
@@ -791,10 +787,9 @@ They too can get easily hurt, be conceit, take life too seriously, have prejudic
 I knew what I was getting into back then, and I owe Emma Watson / MJH / Rindolf the Dwarf and my other guardian angels, several dinners on my expense, hand shakes and hugs (and possibly some mutually-initiated kisses if they are female).
 ____
 
-[[neverending-RPG-game]]
+[[_neverending_rpg_game]]
 === The NeverEnding Role-Playing Games of Life, Love, and Free Choice:
 
-[[making_love]]
 ==== Making Love:
 
 According to https://buffy.fandom.com/wiki/Pergamum_Codex[The Codex], which defines the rules of The Game:
@@ -814,7 +809,7 @@ Despite its holiness, TheCodex(TM) of TheGame(TM) of Fantastecha(TM) is a badly 
 I think TheCodex(TM) of TheGame(TM) of Fantastecha(TM) allows gay/Lesbian "sex", but I wouldn`'t make it a habit if I were you.
 But... whatever floats your boat, buddy.
 
-[[king-solomon]]
+[[_king_solomon]]
 === The story of King Solomon-son-of-David (the Biblical one):
 
 After Syria (minus Damascus itself) in the levant ascended to being a true prophets zone (by Mosheh / Aharon / Jehovah slaying Nimrod ?), The-Curse splintered the modern day State of Israel into 1,000 parts, and .uk into many shires and Scottish clans and promised they won`'t do it again.
@@ -852,7 +847,6 @@ Fish", or "Rindolf": https://www.shlomifish.org/meta/FAQ/#refer_or_address .
 
 I also am generous with https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time[donating both money and time] .
 
-[[the-jewish-people]]
 === The Jewish People:
 
 Given the prestige of the Jews, many false prophet Europeans / mideasterns / North africans / etc.
@@ -862,7 +856,7 @@ As an anecdote, during the dark ages and middle ages, the entire https://memory-
 Note that Judaism was not the only peopleship, idea-system, franchise, or religion to have used that strategy.
 Also see https://www.shlomifish.org/meta/FAQ/religious_belief.xhtml[pluralism] and https://en.wikipedia.org/wiki/Universalism[Universalism] (thanks to https://en.wikipedia.org/w/index.php?title=Emma_Watson&oldid=1038904901#Personal_life[Emma Watson] for the referral.)
 
-[[recording_my_thoughts]]
+[[_recording_my_thoughts]]
 === Note about recording my thoughts
 
 I hope Rindolf / Emma Watson / MJH / NSA / Unit 8,200 / The Q Continuum / The Mossad / etc.
@@ -872,7 +866,7 @@ universes, ideasystems, and ideas.
 
 ( P.S.: the Selinaverse`'s Mossad can officially neither confirm nor deny having http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/[a cabal leadership headed by Fluttershy], the animated Pegasus pony from https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic[My Little Pony Friendship is Magic] .)
 
-[[improve_freenode]]
+[[_improve_freenode]]
 ==== How Freenode Should Improve?
 
 https://freenode.net/[freenode] has a relatively small number of users.
@@ -902,19 +896,18 @@ I could have killed myself a long time ago.
 I should consider myself a terminated man.
 And a free one.
 
-[[The-GrimmieVerse]]
+[[_the_grimmieverse]]
 === Welcome-to-the-Grimmieverse:
 
 The Terran Terminators have admitted inferiority to one another and the last one standing admitted defeat to their philosophical brainchildren: the YouTube cover/etc.
 scene and especially https://en.wikipedia.org/wiki/Kurt_Hugo_Schneider[Kurt Hugo Schneider] and https://en.wikipedia.org/wiki/Christina_Grimmie[Christina Grimmie] (Taytay is great too, but she is/was a terminator.), and my online web-presence ( https://www.shlomifish.org/me/contact-me/[*.shlomifish.org] / https://www.shlomifish.org/me/rindolf/#rindolfism[Rindolfism] / etc.
 )
 
-[[knoweldge-and-information-and-more]]
+[[_knoweldge_and_information_and_more]]
 == Data, information, knowledge, understanding, wisdom, intelligence
 
 Data (plural of "`datum`") are unstructured sequences [or sets?] of numbers. 
 
-[[post-ascension-plan]]
 == Post-ascension Plan
 
 . Shlomi Fish is given enough physical strength/etc. points for his health to be restored. 
@@ -955,10 +948,8 @@ Possibly Dani Cimorelli and Christina Cimorelli and MomCimorelli too - wrt https
 . Go to https://shlomif.fandom.com/wiki/Olamot_Con[Olamot Con ("worlds' con")]. 
 
 
-[[caution-and-courage]]
 == Caution and Courage
 
-[[license]]
 == License:
 
 https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 License (CC-by)], Shlomi Fish, 2021 
