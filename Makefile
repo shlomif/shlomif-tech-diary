@@ -50,6 +50,13 @@ multiverse-cosmology-v0.4.x.xhtml/all-in-one.xhtml.temp.xml.xhtml/all-in-one.xht
 render: multiverse-cosmology-v0.4.x.asciidoc
 render: multiverse-cosmology-v0.4.x.xhtml/all-in-one.xhtml.temp.xml.xhtml/all-in-one.xhtml.temp.xml.xhtml
 
+it-is-a-good-day--generated.md: it-is-a-good-day.xhtml
+	< $< pandoc -f html -t gfm -s -  > $@
+	git add $@
+	git add -u .
+
+render: it-is-a-good-day--generated.md
+
 static-site-generators--despair.md: $(SSG_DOCBOOK5_SRC)
 	< $< pandoc -f docbook -t gfm -s -  > $@
 
