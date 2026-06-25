@@ -32,6 +32,8 @@ dis-believe.
 
 It is a good day to perceive, give, and receive.  
 
-It is a good day to rest, reflect, relax, and recreate.  
+It is also a good day to rest, reflect, relax, and recreate.  
+
+Seize this good day.  
 
 </div>
