@@ -58,7 +58,7 @@ it-is-a-good-day--generated.md: it-is-a-good-day.xhtml
 render: it-is-a-good-day--generated.md
 
 static-site-generators--despair.md: $(SSG_DOCBOOK5_SRC)
-	< $< pandoc -f docbook -t gfm -s -  > $@
+	pandoc -f docbook -t gfm -o $@ -s $<
 
 render: static-site-generators--despair.md
 
