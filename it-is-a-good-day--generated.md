@@ -34,6 +34,6 @@ It is a good day to perceive, give, and receive.
 
 It is also a good day to rest, reflect, relax, and recreate.  
 
-Seize this good day.  
+Seize this good day. Make it a great day. Live.  
 
 </div>
