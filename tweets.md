@@ -1809,6 +1809,9 @@ FTR, https://en.wikipedia.org/wiki/Van_cat like water
 
 ( https://twitter.com/shlomif/status/2056589580552253867 )
 
+f(n) = ((2n + 3) is prime) is true for n=0,1,2 , but fails at n=3
+f(n) = ((2n + 3) is odd) is true for every n≥0.
+
 ----
 
 I dislike systemd's inflated major version and its non-portability.
