@@ -1833,3 +1833,13 @@ Not every annoyance is a showstopper .
 
 )נאמר במקור עלידי קרוב שלי(
 
+----
+
+Some of Tiffany Alvord’s brothers look like they can kick my ass.
+
+TBH, they likely *can* kick my ass.
+
+But they wont dare deprive Tiffany of this pleasure bringing activity. #humor
+
+( https://twitter.com/shlomif/status/2075245456108519466 )
+
