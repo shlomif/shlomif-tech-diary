@@ -1812,6 +1812,9 @@ FTR, https://en.wikipedia.org/wiki/Van_cat like water
 f(n) = ((2n + 3) is prime) is true for n=0,1,2 , but fails at n=3
 f(n) = ((2n + 3) is odd) is true for every n≥0.
 
+If 1 liked the 1st 4 eps of TheMuppetShow, he may disliike the 5th,6th and like 7
+Likewise for DiscWorld novels.
+
 ----
 
 I dislike systemd's inflated major version and its non-portability.
@@ -1825,4 +1828,8 @@ Not every annoyance is a showstopper .
 ( https://twitter.com/shlomif/status/2061841432529215978 )
 
 ----
+
+מה תהיה השעה מחר באותה השעה?
+
+)נאמר במקור עלידי קרוב שלי(
 
