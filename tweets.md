@@ -1843,3 +1843,9 @@ But they wont dare deprive Tiffany of this pleasure bringing activity. #humor
 
 ( https://twitter.com/shlomif/status/2075245456108519466 )
 
+----
+
+“They don't pump iron like madwomen. They pump iron like the madwomen they are.” #humor
+
+( https://twitter.com/shlomif/status/2075502150730317896 )
+
