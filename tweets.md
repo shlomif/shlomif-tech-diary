@@ -1849,3 +1849,13 @@ But they wont dare deprive Tiffany of this pleasure bringing activity. #humor
 
 ( https://twitter.com/shlomif/status/2075502150730317896 )
 
+----
+
+A: stay here until the messiah arrives.
+
+Me: at the very least.
+
+- #humor
+
+( https://twitter.com/shlomif/status/2087172102759551034 )
+
