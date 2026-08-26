@@ -2,6 +2,7 @@
 author: Shlomi Fish
 lang: en-US
 title: It is a good day
+viewport: width=device-width,initial-scale=1
 ---
 
 <div>
