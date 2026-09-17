@@ -1859,3 +1859,15 @@ Me: at the very least.
 
 ( https://twitter.com/shlomif/status/2087172102759551034 )
 
+----
+
+Given a git / other VCS repo, the maints can read a changeset's human-readble description, and write their own diff bef/aft reading the changeset's diff.
+
+Then compare.
+
+Proj owners may vary in adopting this.
+
+( https://twitter.com/shlomif/status/2100603023609262173 )
+
+----
+
