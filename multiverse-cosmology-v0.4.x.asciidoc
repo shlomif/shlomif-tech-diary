@@ -40,7 +40,7 @@ In certain contexts, they are known as:
 * "memes" 
 * "fairies" 
 
-For the sake of "TheTrackersGame(TM) of Fantastecha(TM)", there are two major kinds of fairies: link:#hackers["Hackers" and "Fuckers"]. 
+For the sake of "TheTrackersGame(TM) of Fantastecha(TM)", there are two major kinds of fairies: link:#hackers["Hackers" and "Seraphs"]. 
 
 [[_love_and_knowledge]]
 == Love / Knowledge / Creativity:
@@ -120,7 +120,7 @@ in https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-
 [[_the_devils]]
 == The devils / the Satans:
 
-TheCodex(TM) calls an arbiter or gamemaster in an instance of link:#fantasia-vs-fantastecha[the role-playing game of Greater Fantasia] a "devil". "The Satans" are such link:#hackers[Meta-Fantastecha(TM)ns] acting as devils in TheGame(TM) of Fantastecha(TM). They claim they are not really malevolent, just playfully cruel on occasion. 
+TheCodex(TM) calls an arbiter or gamemaster in an instance of link:#fantasia-vs-fantastecha[the role-playing game of Greater Fantasia] a "devil". "The Satans" are such link:#hackers[Meta-Fantastecha(TM)ns] acting as devils in TheGameOfTrackers(TM) of Fantastecha(TM). They claim they are not really malevolent, just playfully cruel on occasion. 
 
 Even underage children have been imagining and creating realities. footnote:[The Hebrew verb "לשטן" ("lesaten", "to satanify")
 in the Biblical story
@@ -174,7 +174,7 @@ The terresterial core "Star Trek" universe (of my hell) mixed-and-matched them, 
 
 Earlier in Earth's history, the Jewish scribes had a policy of mutating the Hebrew/Jewish Bible text as little as possible.
 The https://en.wikipedia.org/wiki/Aleppo_Codex[Aleppo Codex], which Rabbi Mosheh Ben-Maimon (= "Maimonides", "Harambam") approved of as canonical, was still often both too tedious, and large parts of it had been filtered out by the para-Fantastechans or vampires or wizards acting on their behalf.
-Moreover, while most of its narrative and content, seemed to be reasonable, coherent and believable to me (even as a vampire who started as a "rationality"-ist/"science"-ist person, who thought that supernatural magic did not exist), in the Selinaverse, many of the Tanakh's characters lived (including as pre-slain vampires) in different times, and did different things (including those attributed to other characters). And none of them ever perished (= "physically died") or literally massacred other hackers (including humans, vampires, or even non-primate mammals / birds / etc.). 
+Moreover, while most of its narrative and content, seemed to be reasonable, coherent and believable to me (even as a vampire who started as a "rationality"-ist/"science"-ist person, who thought that supernatural magic did not exist), in the Selinaverse, many of the Tanakh's characters lived (including as pre-slain vampires) in different times, and did different things (including those attributed to other characters). And none of them ever perished (= "physically died") or literally massacred other hackers (including humans, vampires, or even non-primate mammals and birds). 
 
 As a vampire writer, I also mixed and matched characters, concepts, events, from many sources, times, universes, including from my hell's "real-world", and my online-and-offline present-and-past life. 
 
@@ -185,7 +185,7 @@ There are likely Judaist jedis too, just like there are https://www.shlomifish.o
 
 --------------------------------------------------------- 
 
-Anyway, TheCodex(TM) of TheGameOfSeekers(TM) of Fantastecha(TM) was kept secret from the link:#hackers["hackers (= player characters)"] of the Selinaverse and was to be revealed to the Terminal Terran Terminator (me?). 
+Anyway, TheCodex(TM) of TheGameOfTrackers(TM) of Fantastecha(TM) was kept secret from the link:#hackers["hackers (= player characters)"] of the Selinaverse and was to be revealed to the Terminal Terran Terminator (me?). 
 
 The meta-Fantastechans who play TheGame(TM) of Fantastecha(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
 
@@ -193,7 +193,7 @@ The meta-Fantastechans who play TheGame(TM) of Fantastecha(TM) have some more es
 == Self-reference / circularity:
 
 https://www.shlomifish.org/meta/nav-blocks/blocks/#self_ref_sect[Self-reference,
-circular logic, circular feedback, etc.] are common in Fantastecha(TM), and part of what makes sentience and humour work: 
+circular logic, circular feedback, etc.] are common in Fantastecha(TM), and part of what makes sentience and soome kinds of humour work: 
 
 * https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach[Gödel, Escher, Bach]
 * https://www.youtube.com/watch?v=GibiNy4d4gc["The Circle of Life"]
