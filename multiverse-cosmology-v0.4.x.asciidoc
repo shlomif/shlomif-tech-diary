@@ -2145,22 +2145,22 @@ I suspect the prerequisite for that is escaping my hell "world" which, assuming 
 *** https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/[ Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as 2021 geek/hacker imperatives for revitalising the film industry - Shlomi Fish`'s Homesite ]
 ** https://github.com/shlomif/shlomif-tech-diary/blob/master/hydrogen-bombs-are-likely-an-old-intelligence-hoax.asciidoc["Hydrogen Bombs are likely an old intelligence hoax"]
 * Relevant 3rd-party resources: 
-** https://www.youtube.com/watch?v=wPOviqxFllA[Little Buddha: "Awakening"] - why I'm remaining calm in face of hostile and pessimistic media. 
-** https://www.youtube.com/watch?v=ZIp_GmwLbnM[Kid Rock - Cold and Empty [Official Video] - YouTube] - real world vs. link:#terrestrial[terrestrial hell]. 
-** https://www.youtube.com/watch?v=5pBjopDymts["It's Gonna Be OKAY - The Piano Guys"]
-** https://www.youtube.com/watch?v=k84QxVJd0tI[Skylar Grey - Coming Home, Pt. II (Official Video)]
-** https://www.poetryfoundation.org/poems/46473/if---[Rudyard Kipling's "If--"]
-** https://www.youtube.com/watch?v=mjYGB4uYgWw["The Lion King Rafiki Learns Simba is Alive HD - YouTube"] - Christina Grimmie/etc. are alive. 
-** https://www.youtube.com/watch?v=gb8AGuD2uOI["The Bonnie Banks of Loch Lomond - Ella Roberts - YouTube"]
-** https://www.youtube.com/watch?v=lk0Ec8lle4o[Nepal ['the stone bird']]
-** https://www.youtube.com/watch?v=_8C1-igfniM[Subliminal - "60 years old"]
-** https://www.youtube.com/watch?v=49tZw72C2yU[Subliminal - "flowers in the barrel"]
-** https://www.youtube.com/watch?v=_WamkRSDeD8["Will Smith - Just The Two Of Us (Official Video) - YouTube"] - about parenthood. 
-** https://www.youtube.com/watch?v=cdhHOFv5suY[Hiromi - Pachelbel`'s Canon] - combining classical music and Jazz, two musical genres that I was under the impression have stagnated recently ( https://web.archive.org/web/20190427050055/http://esr.ibiblio.org/?p=4229[Reference] ). And it sounds great. 
-** https://en.wikipedia.org/wiki/If_Wishes_Were_Horses_(Star_Trek:_Deep_Space_Nine)[If Wishes Were Horses (Star Trek: Deep Space Nine)] - fantasies come true, and can be disbelieved. 
-** https://www.youtube.com/watch?v=yWbMz_aBlMU[Kelly Clarkson - "People Like Us"]
-** https://www.youtube.com/watch?v=awhyiBv-oQc[Kermit the Frog: Rainbow Connection]
-** https://en.wikisource.org/wiki/Bible_(Jewish_Publication_Society_1917)/Amos[Amos: "`For the 3 transgressions of $X, but for the 4th I will not reverse it`"] - I can take a few "WTF?"s of this hell as reasonable but I have dozens of https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#more-thoughts[pieces of Evidence that it cannot be real] - logically and reasonably. 
+.. https://www.youtube.com/watch?v=wPOviqxFllA[Little Buddha: "Awakening"] - why I'm remaining calm in face of hostile and pessimistic media. 
+.. https://www.youtube.com/watch?v=ZIp_GmwLbnM[Kid Rock - Cold and Empty [Official Video] - YouTube] - real world vs. link:#terrestrial[terrestrial hell]. 
+.. https://www.youtube.com/watch?v=5pBjopDymts["It's Gonna Be OKAY - The Piano Guys"]
+.. https://www.youtube.com/watch?v=k84QxVJd0tI[Skylar Grey - Coming Home, Pt. II (Official Video)]
+.. https://www.poetryfoundation.org/poems/46473/if---[Rudyard Kipling's "If--"]
+.. https://www.youtube.com/watch?v=mjYGB4uYgWw["The Lion King Rafiki Learns Simba is Alive HD - YouTube"] - Christina Grimmie/etc. are alive. 
+.. https://www.youtube.com/watch?v=gb8AGuD2uOI["The Bonnie Banks of Loch Lomond - Ella Roberts - YouTube"]
+.. https://www.youtube.com/watch?v=lk0Ec8lle4o[Nepal ['the stone bird']]
+.. https://www.youtube.com/watch?v=_8C1-igfniM[Subliminal - "60 years old"]
+.. https://www.youtube.com/watch?v=49tZw72C2yU[Subliminal - "flowers in the barrel"]
+.. https://www.youtube.com/watch?v=_WamkRSDeD8["Will Smith - Just The Two Of Us (Official Video) - YouTube"] - about parenthood. 
+.. https://www.youtube.com/watch?v=cdhHOFv5suY[Hiromi - Pachelbel`'s Canon] - combining classical music and Jazz, two musical genres that I was under the impression have stagnated recently ( https://web.archive.org/web/20190427050055/http://esr.ibiblio.org/?p=4229[Reference] ). And it sounds great. 
+.. https://en.wikipedia.org/wiki/If_Wishes_Were_Horses_(Star_Trek:_Deep_Space_Nine)[If Wishes Were Horses (Star Trek: Deep Space Nine)] - fantasies come true, and can be disbelieved. 
+.. https://www.youtube.com/watch?v=yWbMz_aBlMU[Kelly Clarkson - "People Like Us"]
+.. https://www.youtube.com/watch?v=awhyiBv-oQc[Kermit the Frog: Rainbow Connection]
+.. https://en.wikisource.org/wiki/Bible_(Jewish_Publication_Society_1917)/Amos[Amos: "`For the 3 transgressions of $X, but for the 4th I will not reverse it`"] - I can take a few "WTF?"s of this hell as reasonable but I have dozens of https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/why-the-so-called-real-world-makes-little-sense/#more-thoughts[pieces of Evidence that it cannot be real] - logically and reasonably. 
 *** https://en.wikiquote.org/wiki/Atlas_Shrugged[Contradictions do not exist]
 *** https://en.wikipedia.org/wiki/Pascal's_wager[Pascal`'s Wager] - if I stay in the "real-world" hell, then Christina Grimmie, Jim Henson, Avicii, John Lennon, Walt Disney, Saladin, Maimonides, my grandparents, even Moses and Nimrod, will have perished, and so will I. 
 
