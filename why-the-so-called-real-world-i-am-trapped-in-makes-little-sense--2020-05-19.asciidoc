@@ -405,6 +405,11 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 . In https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-programming-bad-C-code[this IRC chat] "Felishia" was smart enough to find her way to freenode, but stupid enough not to know that commas ("`,`") are used for separating thousands in English (and Hebrew) while full stops / dots ("`.`") are used for decimal/fractional parts. 
 ** She also told me I should not be a "grammar nazi" because I'm Jewish (and because fellow Jews were allegdly killed by the Third Reich nazis). That's a stupid https://en.wikipedia.org/wiki/Equivocation[Equivocation] if I ever saw one. 
 . Foods of the same type, e.g: hamburgers from restaurants in Gush Dan, taste much the same eventually, despite supposedly being made by different cooks, from different source animals and plants, made on the spot, even at different restaurants chains. 
+. Around 2020, someone on IRC noted that: 
++
+
+[quote]
+Redditors are obsessed with https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau], and https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/[Chuck Norris] whereas Slashdotters are infatuated with https://en.wikipedia.org/wiki/Natalie_Portman[Natalie Portman]. 
 . The Hebrew texts of https://www.shlomifish.org/humour/by-others/oded-c/[Oded C.'s stories'] incorporated grammar/syntax errors when I reread them, that I should have noticed when I originally read them a few years back. 
 . The implementations of the https://en.wikipedia.org/wiki/Raku_(programming_language)[Raku programming language] were/are unreasonably slow. 
 . Most major cities in the USA have slums full of Black Americans: NYC, Chicago, Detroit, Los Angeles, even San-Francisco ("a very geeky town") and https://en.wikipedia.org/wiki/Washington,_D.C.[Washington D.C.] whose USA Admin centre is clean and beautiful, and full of white/Oriental tourists, and Caucasian police officers riding brown horses. 
@@ -424,7 +429,7 @@ The British mandate, and the Jordanian and Israeli admin ( https://en.wikipedia.
 . My "father" disapproves of me featuring celebrities in my screenplays, but watches https://en.wikipedia.org/wiki/Eretz_Nehederet[Eretz Nehederet], which features actors playing as politicians and parodying them usually negatively. Real person fiction/art if I ever saw them. 
 +
 I have no problem with this premise, given the Muppets and I have criticised or made fun of celebrities, their actions, or their public image (including to large extent myself). However, often the celebreties there are projected positively (eg https://www.youtube.com/watch?v=KNYI3iINXrQ[Sam the Eagle versus Alice Cooper] or Summer Glau in my https://www.shlomifish.org/humour/Summerschool-at-the-NSA/[Summerschool at the NSA]). Why is this an issue? There are bits of RPF in many series.
-This an obstacle for me. 
+This is an obstacle for me. 
 . "`Fish`" is reportedly a fairly common last name in England and among Americans of English descent. In Israel, it is rare, but associated with Jews of Polish descent. When I studied in the Technion, there were three "Fish"-es studying there: I, my sister, and Marina Fish, who was non-coincidentally my next door neighbour, and also studied Electrical Engineering. 
 . The following entities are too obscure or too antagonised than they should be: 
 ** XML ( https://www.shlomifish.org/meta/FAQ/why_xml.xhtml[Reference] ) 
