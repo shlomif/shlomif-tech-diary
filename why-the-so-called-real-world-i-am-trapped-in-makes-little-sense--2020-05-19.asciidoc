@@ -411,7 +411,8 @@ Anyway, when I confronted him about that (in the "real", physical, world; eye to
 [quote]
 Redditors are obsessed with https://www.shlomifish.org/meta/nav-blocks/blocks/#xkcd_sect[Summer Glau], and https://www.shlomifish.org/humour/bits/facts/Chuck-Norris/[Chuck Norris] whereas Slashdotters are infatuated with https://en.wikipedia.org/wiki/Natalie_Portman[Natalie Portman]. 
 +
-This seemed like a credible observation. 
+This seemed like a credible observation.
+However, /r/SummerGlau , /r/chucknorris posts, receive very few up votes. 
 . The Hebrew texts of https://www.shlomifish.org/humour/by-others/oded-c/[Oded C.'s stories'] incorporated grammar/syntax errors when I reread them, that I should have noticed when I originally read them a few years back. 
 . The implementations of the https://en.wikipedia.org/wiki/Raku_(programming_language)[Raku programming language] were/are unreasonably slow. 
 . Most major cities in the USA have slums full of Black Americans: NYC, Chicago, Detroit, Los Angeles, even San-Francisco ("a very geeky town") and https://en.wikipedia.org/wiki/Washington,_D.C.[Washington D.C.] whose USA Admin centre is clean and beautiful, and full of white/Oriental tourists, and Caucasian police officers riding brown horses. 
