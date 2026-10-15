@@ -1871,3 +1871,11 @@ Proj owners may vary in adopting this.
 
 ----
 
+Part of the premise of The Muppet Show ( https://en.wikipedia.org/wiki/The_Muppet_Show ) was that thw muppets each pulled+pushed in their own direction, which is incompat w getting inner show made. But we as meta-spectators enjoy seeing them make/overcome prblms.
+
+https://futurama.fandom.com/wiki/Good_news,_everyone%21 is good news for the viewers
+
+( https://twitter.com/shlomif/status/2110620879793299508 )
+
+----
+
