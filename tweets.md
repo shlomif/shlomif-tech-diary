@@ -1867,6 +1867,10 @@ Then compare.
 
 Proj owners may vary in adopting this.
 
+Rework:
+
+Idea [take 2]: Given a github repo, and a single commit pull request, the maintainer can read the pull-request's human-readble description, and write their own diff before and/or after reading the pull-request's actual diff. Then compare. Point is that the maintainer stays familiar with the project's code, and that the project's code style stays consistent. Project owners may vary in adopting this.
+
 ( https://twitter.com/shlomif/status/2100603023609262173 )
 
 ----
