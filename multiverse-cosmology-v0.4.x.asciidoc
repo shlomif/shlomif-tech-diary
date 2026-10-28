@@ -187,7 +187,7 @@ There are likely Judaist jedis too, just like there are https://www.shlomifish.o
 
 Anyway, TheCodex(TM) of TheGameOfTrackers(TM) of Fantastecha(TM) was kept secret from the link:#hackers["hackers (= player characters)"] of the Selinaverse and was to be revealed to the Terminal Terran Terminator (me?). 
 
-The meta-Fantastechans who play TheGame(TM) of Fantastecha(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
+The meta-Fantastechans who play TheGameOfTrackers(TM) of Fantastecha(TM) have some more esoteric qualities such as fondness of the number 10 (= "ten", 0b1010) and its powers. 
 
 [[_self_ref]]
 == Self-reference / circularity:
@@ -217,7 +217,7 @@ When we visit the fictional universes of and child-universes, we can see they ha
 
 == The Angels:
 
-An "angel" is TheCodex(TM) terminology for an "elohim" who plays one-or-more-characters in an instance of link:#fantasia-vs-fantastecha[the role playing game of Greater Fantasia]. link:#hackers[Fuckers] who play link:#hackers[hackers] (= player characters) in TheGame(TM) of Fantastecha(TM) are called "`Seraph`"s.
+An "angel" is TheCodex(TM) terminology for an "elohim" who plays one-or-more-characters in an instance of link:#fantasia-vs-fantastecha[the role playing game of Greater Fantasia]. link:#hackers[Fuckers] who play link:#hackers[hackers] (= player characters) in TheGameOfTrackers(TM) of Fantastecha(TM) are called "`Seraph`"s.
 "Hackers" are organisms / entities in Fantastecha(TM) who have link:#free-will[souls] and minds.
 "`Trackers`" are the Hackers who are being played in TheGameOfTrackers(TM) of Fantastecha(TM), and by the nature of love-and-knowledge, perpetuate other Trackers and hackers, and universes thereof. 
 
@@ -316,7 +316,7 @@ ____
 [[_thecodex_definition_of_god]]
 === TheCodex(TM)`'s Definition of "God"
 
-TheCodex(TM) of TheGame(TM) of Fantastecha(TM) defines "God" (with no "a/an/some" grammatical articulation, preferably with an uppercase "G", and commonly called "Elohim" in idiomatic modern Hebrew) as each and every entity (whether inside Fantastecha(TM) or outside), which can influence or did influence a hacker`'s present or future.
+TheCodex(TM) of TheGameOfTrackers(TM) of Fantastecha(TM) defines "God" (with no "a/an/some" grammatical articulation, preferably with an uppercase "G", and commonly called "Elohim" in idiomatic modern Hebrew) as each and every entity (whether inside Fantastecha(TM) or outside), which can influence or did influence a hacker`'s present or future.
 They may (or may not) include: 
 
 . Fellow hackers living in the same universe. 
@@ -380,7 +380,7 @@ Some of these "irrational" doubts were something that often passed through my mi
 
 So they were "unthinkable" to me. 
 
-Moreover, many parts of TheCodex(TM) of TheGame(TM) of Fantastecha(TM) seem incredibly insightful and amazing to me, even though I admit, that I (yes, narcissistically!) thought of myself as clever of even very clever. footnote:[I've been called "stupid", "senile" (both including by the hell echoes of my (genetic ?) parents, whom I live in their apartment and whom I ostensibly am physically and financially supported by). Some "people" told me they thought I was an IRC bot.]
+Moreover, many parts of TheCodex(TM) of TheGameOfTrackerse(TM) of Fantastecha(TM) seem incredibly insightful and amazing to me, even though I admit, that I (yes, narcissistically!) thought of myself as clever of even very clever. footnote:[I've been called "stupid", "senile" (both including by the hell echoes of my (genetic ?) parents, whom I live in their apartment and whom I ostensibly am physically and financially supported by). Some "people" told me they thought I was an IRC bot.]
 
 == Prevalence of souls
 
@@ -399,12 +399,12 @@ Physically dying was against the rules, but for true Shalom-of-mind, they must b
 Hackers starting like that are hereby referred to as "`false prophets`" (where https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#hacking_and_amateur__vs__conformism_and_professional["prophet"
 or "`navi`" likely meant "`madman`" in some stages of Ancient Hebrew]) or as "`vampires`". That was until they reached enough "`enlightenment`" and became "`true prophets`" (or "`wizards`"). 
 
-Outcomes of actions in TheGame(TM) of Fantastecha(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
+Outcomes of actions in TheGameOfTrackers(TM) of Fantastecha(TM) were often determined by rolls of https://rpg.fandom.com/wiki/Dice[Role Playing Game Dice] not unlike in https://www.shlomifish.org/philosophy/psychology/changing-the-seldon-plan/[Asimov's "Second Foundation"]. 
 
 Note that every false prophet perceived a somewhat different hell, but all of them, and the real world of the wizards, were synchronised.
 (References: https://en.wikipedia.org/wiki/Rashomon_effect[the Rashomon effect].) 
 
-*Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of TheGame(TM). 
+*Note:* many humans were born as wizards, and still had their share of flaws, and were/are part of TheGameOfTrackers(TM). 
 
 False prophets were given special treatment by the workforce, so they did not cause a lot of damage, despite their paranoia/etc. footnote:[The terminology for "vampires" in my stories
 is different.]
@@ -447,7 +447,7 @@ The game can often be phrased like:
 Instances of "the game" may be layered, nested, or even link:#self-ref[circular / self-referential].
 They also may contain mini-games, sub-quests, and side-quests.. 
 
-TheGame(TM) of Fantastecha(TM) adds 3 sets of two concepts each: 
+TheGameOfTrackers(TM) of Fantastecha(TM) adds 3 sets of two concepts each: 
 
 . {empty}
 ** Time 
@@ -461,7 +461,7 @@ TheGame(TM) of Fantastecha(TM) adds 3 sets of two concepts each:
 
 
 [[_sample_game_session]]
-==== Sample session of "the game of Greater Fantasia"
+==== Sample session of "the role-playing game of Greater Fantasia"
 
 ____
 One day, https://en.wikipedia.org/wiki/La_Linea_%28TV_series%29[Mr. Linea] takes a break from walking along his line, and posts a comedic story that takes place in an absurd 3D1T universe he conceived called "The Selinaverse", on his blog.
@@ -485,7 +485,7 @@ However, after checking into their hotel, they meet https://www.shlomifish.org/h
 ass]). After being a little star-struck and 'geeking out', they decide to play some games together. 
 
 They play ball games, board/card games, and https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki[League of Legends].
-Then they decide to play "The game of Greater Fantasia" with the classic, possibly cliché, campaign setting of link:#history-lesson-about-the-muppeteers[the Muppeteers in 1969] with Fluttershy and Monroe as gamemasters/arbiters, thus starting the cycle again. 
+Then they decide to play "The role-playing game of Greater Fantasia" with the classic, possibly cliché, campaign setting of link:#history-lesson-about-the-muppeteers[the Muppeteers in 1969] with Fluttershy and Monroe as gamemasters/arbiters, thus starting the cycle again. 
 ____
 
 Yes, it is fanfiction, crossover, parody, Real Person Fan Fiction (RPFs), link:#self-ref[circularly referential]; hopefully good stuff. 
@@ -499,7 +499,7 @@ ____
 
 ____
 
-In TheGame(TM) of Fantastecha(TM), The Three Muppeteers all started as law-abiding men of great integrity, who were playful mostly only when joking or doing make-believe.
+In TheGameOfTrackers(TM) of Fantastecha(TM), The Three Muppeteers all started as law-abiding men of great integrity, who were playful mostly only when joking or doing make-believe.
 Furthermore, not only were the gamemasters jerks, but they were - to use the technical term - link:#hackers[fuckers]! 
 
 Moreover, a naïve assumption that "the network" (= reality) was perceived by the player-characters in an absolute and objective manner is/was wrong. 
@@ -512,9 +512,9 @@ The verbs "to hack" and "to fuck" were present in non- link:#terrestrial[terrest
 * https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/hacking_and_amateur__vs__conformism_and_professional.xhtml[Reference: "What is hacking?"] (= "rule bending", "being resourceful", "to happily work on a product", "thinking outside the box"). 
 * https://en.wiktionary.org/wiki/fuck#Verb[Reference: "to fuck"] - "to have sex with", "to cause trouble". 
 
-TheCodex(TM) defines "hacker" as a player character in TheGame(TM) of Fantastecha(TM), or possibly any Fantastechan link:#the-demons[fairy] that is given a soul and a mind.
+TheCodex(TM) defines "hacker" as a player character in TheGameOfTrackers(TM) of Fantastecha(TM), or possibly any Fantastechan link:#the-demons[fairy] that is given a soul and a mind.
 This is whereas a "zombie" is a robot entity, that had existed in principle, but has no soul.
-It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGame(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
+It also defines "fuckers" as the race of organisms who are the players and gamemasters who play "TheGameOfTrackers(TM) of Fantastecha(TM)" in Meta-Fantastecha(TM). 
 
 [cols="1,1,1", frame="all"]
 |===
@@ -1722,7 +1722,9 @@ ____
 A Violinist in the Subway: Proof that We Look without Really Seeing 
 
 So Joshua Bell, a prominent classical violinist, performed in a subway and sparked little attention.
-The reason is not that "`we look without really seing`", but rather that classical music, played traditionally, is neither beautiful, nor something that most people will voluntarilly listen to, or enjoy. 
+The reason is not that "`we look without really seeing`", but rather that classical music, played traditionally, is neither beautiful, nor something that most people will voluntarilly listen to, or enjoy. 
+
+The reason people in the audiences do not leave 
 ____
 
 Just because you are a Python contractor, does not mean you should completely abhor https://www.shlomifish.org/meta/FAQ/why_xml.xhtml[XML technologies] or C, or even Perl/CPAN. 
