@@ -1724,7 +1724,7 @@ A Violinist in the Subway: Proof that We Look without Really Seeing
 So Joshua Bell, a prominent classical violinist, performed in a subway and sparked little attention.
 The reason is not that "`we look without really seeing`", but rather that classical music, played traditionally, is neither beautiful, nor something that most people will voluntarilly listen to, or enjoy. 
 
-The reason people in the audiences do not leave 
+The reason people in the audiences do not leave is that it is not easy given geometry, topology, and common mannerism. 
 ____
 
 Just because you are a Python contractor, does not mean you should completely abhor https://www.shlomifish.org/meta/FAQ/why_xml.xhtml[XML technologies] or C, or even Perl/CPAN. 
